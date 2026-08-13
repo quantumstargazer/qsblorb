@@ -9,6 +9,7 @@
 	
 .callout[data-callout="coffeetime"] { 
 	--callout-color: linear-gradient(135deg, rgba(129, 33, 182, 1.0), rgba(14, 232, 225, 1.0));
+	--callout-background: linear-gradient(135deg, rgba(129, 33, 182, 1.0), rgba(14, 232, 225, 1.0));
 	--callout-icon: lucide-coffee; 
 	}
 
