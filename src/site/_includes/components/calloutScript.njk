@@ -1,8 +1,268 @@
+```html
 <script>
-    // Create callout icons
+    /*
+     * ============================================================
+     * Digital Garden Callout Enhancements
+     * ============================================================
+     */
+
+    /*
+     * Convert an Infoboxes paragraph containing:
+     *
+     *   Name -> Value
+     *   Alias -> Value
+     *
+     * into the HTML structure expected by the Infoboxes CSS:
+     *
+     *   <div class="label-line">
+     *       <span class="label">Name</span>
+     *       <span>Value</span>
+     *   </div>
+     *
+     * The original Obsidian Infoboxes plugin performs this
+     * transformation inside Obsidian. Digital Garden doesn't
+     * run the plugin, so we reproduce that small part here.
+     */
+    function enhanceInfoboxRows(container) {
+        const paragraphs = Array.from(container.querySelectorAll(":scope > p"));
+
+        paragraphs.forEach((paragraph) => {
+            const text = paragraph.textContent.trim();
+
+            /*
+             * Section syntax:
+             *
+             *   // Basic Info
+             */
+            if (/^\/\/\s+.+$/.test(text) && !text.includes("->")) {
+                const sectionName = text.replace(/^\/\/\s+/, "").trim();
+
+                paragraph.innerHTML = "";
+
+                const section = document.createElement("span");
+                section.className = "section";
+                section.textContent = sectionName;
+
+                paragraph.appendChild(section);
+                paragraph.classList.add("infobox-section-paragraph");
+
+                return;
+            }
+
+            /*
+             * Label/value syntax:
+             *
+             *   Name -> Info
+             *   Nickname -> Info
+             *
+             * Digital Garden renders multiple lines inside one
+             * <p> separated by <br>.
+             */
+            if (!text.includes("->")) {
+                return;
+            }
+
+            const html = paragraph.innerHTML;
+
+            /*
+             * Split on <br>, while preserving all inline HTML
+             * such as links.
+             */
+            const lines = html
+                .split(/<br\s*\/?>/gi)
+                .map((line) => line.trim())
+                .filter(Boolean);
+
+            if (!lines.length) {
+                return;
+            }
+
+            const rows = [];
+
+            lines.forEach((line) => {
+                /*
+                 * The HTML contains -> as &gt; encoded markup.
+                 * Handle both encoded and literal versions.
+                 */
+                const arrowMatch = line.match(/\s*(?:-&gt;|->)\s*/);
+
+                if (!arrowMatch) {
+                    return;
+                }
+
+                const arrowIndex = arrowMatch.index;
+
+                /*
+                 * The label side of your Infobox syntax is plain
+                 * text, while the value side may contain Markdown
+                 * links. Therefore we preserve the HTML on the
+                 * value side.
+                 */
+                const label = line
+                    .slice(0, arrowIndex)
+                    .replace(/<[^>]*>/g, "")
+                    .trim();
+
+                const value = line
+                    .slice(arrowIndex + arrowMatch[0].length)
+                    .trim();
+
+                if (!label) {
+                    return;
+                }
+
+                const row = document.createElement("div");
+                row.className = "label-line";
+
+                const labelElement = document.createElement("span");
+                labelElement.className = "label";
+                labelElement.textContent = label;
+
+                const valueElement = document.createElement("span");
+                valueElement.innerHTML = value;
+
+                row.appendChild(labelElement);
+                row.appendChild(valueElement);
+
+                rows.push(row);
+            });
+
+            /*
+             * Only replace the paragraph if we successfully
+             * recognized its Infobox rows.
+             */
+            if (rows.length) {
+                const fragment = document.createDocumentFragment();
+
+                rows.forEach((row) => {
+                    fragment.appendChild(row);
+                });
+
+                paragraph.replaceWith(fragment);
+            }
+        });
+    }
+
+
+    /*
+     * Handle the special historical/apparent-age block:
+     *
+     *   > YEAR -> XX +/- years
+     *
+     * Digital Garden renders this as:
+     *
+     *   <blockquote>
+     *       <p>YEAR -> XX +/- years<br>...</p>
+     *   </blockquote>
+     */
+    function enhanceInfoboxBlockquotes(infobox) {
+        infobox.querySelectorAll(".callout-content blockquote").forEach((blockquote) => {
+            const paragraph = blockquote.querySelector(":scope > p");
+
+            if (!paragraph || !paragraph.textContent.includes("->")) {
+                return;
+            }
+
+            const html = paragraph.innerHTML;
+
+            const lines = html
+                .split(/<br\s*\/?>/gi)
+                .map((line) => line.trim())
+                .filter(Boolean);
+
+            const rows = [];
+
+            lines.forEach((line) => {
+                const arrowMatch = line.match(/\s*(?:-&gt;|->)\s*/);
+
+                if (!arrowMatch) {
+                    return;
+                }
+
+                const arrowIndex = arrowMatch.index;
+
+                const label = line
+                    .slice(0, arrowIndex)
+                    .replace(/<[^>]*>/g, "")
+                    .trim();
+
+                const value = line
+                    .slice(arrowIndex + arrowMatch[0].length)
+                    .trim();
+
+                if (!label) {
+                    return;
+                }
+
+                const row = document.createElement("div");
+                row.className = "label-line";
+
+                const labelElement = document.createElement("span");
+                labelElement.className = "label";
+                labelElement.textContent = label;
+
+                const valueElement = document.createElement("span");
+                valueElement.innerHTML = value;
+
+                row.appendChild(labelElement);
+                row.appendChild(valueElement);
+
+                rows.push(row);
+            });
+
+            if (rows.length) {
+                paragraph.replaceChildren(...rows);
+            }
+        });
+    }
+
+
+    /*
+     * Enhance all Infoboxes callouts on the page.
+     */
+    function enhanceInfoboxes() {
+        document
+            .querySelectorAll(
+                '.callout[data-callout="infobox"], ' +
+                '.callout[data-callout="infoboxright"], ' +
+                '.callout[data-callout="infoboxleft"]'
+            )
+            .forEach((infobox) => {
+
+                /*
+                 * Prevent the enhancement from running twice.
+                 */
+                if (infobox.dataset.infoboxEnhanced === "true") {
+                    return;
+                }
+
+                infobox.dataset.infoboxEnhanced = "true";
+
+                const content = infobox.querySelector(":scope > .callout-content");
+
+                if (!content) {
+                    return;
+                }
+
+                enhanceInfoboxRows(content);
+                enhanceInfoboxBlockquotes(infobox);
+            });
+    }
+
+
+    /*
+     * ============================================================
+     * Existing Digital Garden Callout Functionality
+     * ============================================================
+     */
+
     window.addEventListener("load", () => {
+
+        /*
+         * Create callout icons
+         */
         document.querySelectorAll(".callout").forEach((elem) => {
-            const icon = getComputedStyle(elem).getPropertyValue('--callout-icon');
+            const icon = getComputedStyle(elem).getPropertyValue("--callout-icon");
             const iconName = icon && icon.trim().replace(/^lucide-/, "");
 
             if (iconName) {
@@ -13,24 +273,55 @@
                     const calloutIcon = document.createElement("i");
 
                     calloutIconContainer.appendChild(calloutIcon);
+
                     calloutIcon.setAttribute("data-lucide", iconName);
                     calloutIconContainer.setAttribute("class", "callout-icon");
-                    calloutTitle.insertBefore(calloutIconContainer, calloutTitle.firstChild);
+
+                    calloutTitle.insertBefore(
+                        calloutIconContainer,
+                        calloutTitle.firstChild
+                    );
                 }
             }
         });
 
+
+        /*
+         * Transform Infoboxes syntax before the icons are created.
+         */
+        enhanceInfoboxes();
+
+
+        /*
+         * Create Lucide icons.
+         */
         lucide.createIcons();
 
-        // Collapse callouts
-        Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((elem) => {
-            elem.querySelector('.callout-title').addEventListener("click", (event) => {
+
+        /*
+         * Collapse callouts.
+         */
+        Array.from(
+            document.querySelectorAll(".callout.is-collapsible")
+        ).forEach((elem) => {
+
+            const title = elem.querySelector(".callout-title");
+
+            if (!title) {
+                return;
+            }
+
+            title.addEventListener("click", () => {
+
                 if (elem.classList.contains("is-collapsed")) {
                     elem.classList.remove("is-collapsed");
                 } else {
                     elem.classList.add("is-collapsed");
                 }
+
             });
         });
+
     });
 </script>
+```
