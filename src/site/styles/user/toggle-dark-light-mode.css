@@ -20,28 +20,28 @@ height: 24px;
 width: auto;
 }
 #theme-switch {
-.theme-light {
+.light {
 display: none;
 }
-.theme-dark {
+.dark {
 display: none;
 }
-.theme-auto {
+.auto {
 display: none;
 }
 }
 #theme-switch.light {
-.theme-light {
+.light {
 display: inline;
 }
 }
 #theme-switch.dark {
-.theme-dark {
+.dark {
 display: inline;
 }
 }
 #theme-switch.auto {
-.theme-auto {
+.auto {
 display: inline;
 }
 }
