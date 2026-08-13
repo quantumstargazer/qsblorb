@@ -21,9 +21,7 @@ body {
 }
 
 
-
-
-/* This is supposed to add light/dark toggle to site. */
+/*** This is supposed to add light/dark toggle to site. ***/
 
 #floating-control {
 position: fixed;
@@ -70,4 +68,15 @@ display: inline;
 display: inline;
 }
 }
+}
+
+/*** END TOGGLE ***/
+
+
+
+/*** TOC Font Size ***/
+
+nav.toc {
+  font-size: 13px
+  
 }
