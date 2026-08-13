@@ -6,6 +6,7 @@
 
    ============================================================ */
 
+/*
 .callout[data-callout="ziggy"] {
   --callout-color: #b536ff;
   --cs-accent: #b536ff;
@@ -246,6 +247,8 @@
   print-color-adjust: exact;
 }
 }
+
+*/
 
 .callout[data-callout="spoiler"] {
   --callout-color: #ff8f00;
