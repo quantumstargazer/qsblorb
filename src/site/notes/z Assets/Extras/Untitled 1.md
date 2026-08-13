@@ -4,5 +4,12 @@
 
 
 
-> [!coffeetime] CoffeeTime
-> This is a test
+> [!ziggy] Ziggy
+> This is a test.
+
+> [!bug] Bug
+> This is still just a test.
+
+> [!info] Info
+> This is testing modification.
+
