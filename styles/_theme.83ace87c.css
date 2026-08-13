@@ -1,0 +1,4020 @@
+/*
+=====================================================
+
+CELESTIAL ABYSS OBSIDIAN THEME
+
+COSMIC ARCHIVE EDITION
+
+PART 1
+
+- Design Tokens
+- Dark / Light Modes
+- Obsidian Variables
+- Celestial Star System
+- Workspace
+- Tabs
+- Ribbon
+- Status Bar
+- Scrollbar
+
+=====================================================
+*/
+
+
+
+
+
+
+:root {
+
+
+    --celestial-font-body:
+
+        "Inter",
+        "Noto Sans",
+        sans-serif;
+
+
+
+    --celestial-font-heading:
+
+        "Cormorant Garamond",
+        "Cinzel",
+        serif;
+
+
+
+    --celestial-font-code:
+
+        "JetBrains Mono",
+        monospace;
+
+
+
+    --celestial-radius-sm:
+
+        8px;
+
+
+
+    --celestial-radius-md:
+
+        14px;
+
+
+
+    --celestial-radius-lg:
+
+        20px;
+
+
+
+    --celestial-transition:
+
+        .25s ease;
+
+
+}
+
+
+
+
+
+
+
+
+.theme-dark {
+
+
+    
+
+
+    --celestial-background:
+
+        #05070D;
+
+
+
+    --celestial-background-secondary:
+
+        #0B1020;
+
+
+
+    --celestial-panel:
+
+        #12192B;
+
+
+
+    --celestial-panel-hover:
+
+        #1B2340;
+
+
+
+    
+
+
+    --celestial-border:
+
+        #35405C;
+
+
+
+    --celestial-border-light:
+
+        #66759A;
+
+
+
+
+    
+
+
+    --celestial-primary:
+
+        #4DA3FF;
+
+
+
+    --celestial-secondary:
+
+        #A78BFA;
+
+
+
+    --celestial-glow:
+
+        rgba(77,163,255,.25);
+
+
+
+
+    
+
+
+    --celestial-text:
+
+        #D7DCF0;
+
+
+
+    --celestial-text-bright:
+
+        #F4F7FF;
+
+
+
+    --celestial-text-muted:
+
+        #8892B0;
+
+
+
+
+    
+
+
+    --celestial-success:
+
+        #34D399;
+
+
+
+    --celestial-warning:
+
+        #F4C95D;
+
+
+
+    --celestial-danger:
+
+        #EF6675;
+
+
+}
+
+
+
+
+
+
+
+
+
+.theme-light {
+
+
+
+    --celestial-background:
+
+        #F3F6FA;
+
+
+
+    --celestial-background-secondary:
+
+        #E8EEF7;
+
+
+
+    --celestial-panel:
+
+        #FFFFFF;
+
+
+
+    --celestial-panel-hover:
+
+        #F8FAFC;
+
+
+
+
+    
+
+
+    --celestial-border:
+
+        #CBD5E1;
+
+
+
+    --celestial-border-light:
+
+        #94A3B8;
+
+
+
+
+    
+
+
+    --celestial-primary:
+
+        #2563EB;
+
+
+
+    --celestial-secondary:
+
+        #7C3AED;
+
+
+
+    --celestial-glow:
+
+        rgba(37,99,235,.18);
+
+
+
+
+    
+
+
+    --celestial-text:
+
+        #334155;
+
+
+
+    --celestial-text-bright:
+
+        #0F172A;
+
+
+
+    --celestial-text-muted:
+
+        #64748B;
+
+
+}
+
+
+
+
+
+
+
+
+
+.theme-dark,
+.theme-light {
+
+
+
+    --background-primary:
+
+        var(--celestial-background);
+
+
+
+    --background-secondary:
+
+        var(--celestial-background-secondary);
+
+
+
+
+    --background-primary-alt:
+
+        var(--celestial-panel);
+
+
+
+    --background-secondary-alt:
+
+        var(--celestial-panel-hover);
+
+
+
+
+    --background-modifier-border:
+
+        var(--celestial-border);
+
+
+
+
+    --text-normal:
+
+        var(--celestial-text);
+
+
+
+    --text-muted:
+
+        var(--celestial-text-muted);
+
+
+
+    --text-accent:
+
+        var(--celestial-primary);
+
+
+
+
+    --interactive-accent:
+
+        var(--celestial-primary);
+
+
+
+    --interactive-hover:
+
+        var(--celestial-secondary);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+body.celestial-sapphire {
+
+
+
+    --celestial-primary:
+
+        #4DA3FF;
+
+
+
+    --celestial-secondary:
+
+        #A78BFA;
+
+
+
+    --celestial-glow:
+
+        rgba(77,163,255,.25);
+
+
+}
+
+
+
+
+
+
+
+
+body.celestial-aurora {
+
+
+
+    --celestial-primary:
+
+        #67E8F9;
+
+
+
+    --celestial-secondary:
+
+        #A7F3D0;
+
+
+
+    --celestial-glow:
+
+        rgba(103,232,249,.22);
+
+
+}
+
+
+
+
+
+
+
+
+body.celestial-gold {
+
+
+
+    --celestial-primary:
+
+        #F4C95D;
+
+
+
+    --celestial-secondary:
+
+        #FFE8A3;
+
+
+
+    --celestial-glow:
+
+        rgba(244,201,93,.22);
+
+
+}
+
+
+
+
+
+
+
+
+body.celestial-violet {
+
+
+
+    --celestial-primary:
+
+        #C084FC;
+
+
+
+    --celestial-secondary:
+
+        #E9D5FF;
+
+
+
+    --celestial-glow:
+
+        rgba(192,132,252,.22);
+
+
+}
+
+
+
+
+
+
+
+
+body {
+
+
+    background:
+
+
+        radial-gradient(
+
+            circle at top,
+
+            var(--celestial-glow),
+
+            transparent 40%
+
+        ),
+
+
+
+        var(--celestial-background);
+
+
+
+
+    color:
+
+        var(--celestial-text);
+
+
+
+
+    font-family:
+
+        var(--celestial-font-body);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.workspace {
+
+
+    background:
+
+        var(--celestial-background);
+
+
+
+}
+
+
+
+
+
+.workspace-leaf {
+
+
+    background:
+
+        var(--celestial-panel);
+
+
+
+    border-color:
+
+        var(--celestial-border);
+
+
+
+}
+
+
+
+
+
+.workspace-leaf-content {
+
+
+    width:
+
+        100%;
+
+
+
+    overflow-x:
+
+        hidden;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.workspace-tab-header {
+
+
+    color:
+
+        var(--celestial-text-muted);
+
+
+
+}
+
+
+
+
+
+.workspace-tab-header:hover {
+
+
+    color:
+
+        var(--celestial-text-bright);
+
+
+
+}
+
+
+
+
+
+.workspace-tab-header.is-active {
+
+
+    color:
+
+        var(--celestial-text-bright);
+
+
+
+
+    border-bottom:
+
+        2px solid
+
+        var(--celestial-primary);
+
+
+
+
+    box-shadow:
+
+
+        0 0 15px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.workspace-ribbon {
+
+
+    background:
+
+        var(--celestial-panel);
+
+
+
+    border-right:
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+}
+
+
+
+
+
+.side-dock-ribbon-action {
+
+
+    color:
+
+        var(--celestial-text-muted);
+
+
+
+}
+
+
+
+
+
+.side-dock-ribbon-action:hover {
+
+
+    color:
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.status-bar {
+
+
+    background:
+
+        var(--celestial-panel);
+
+
+
+    border-top:
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+    color:
+
+        var(--celestial-text-muted);
+
+
+
+}
+
+
+
+
+
+.status-bar-item:hover {
+
+
+    color:
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+::-webkit-scrollbar {
+
+    width:
+
+        8px;
+
+
+    height:
+
+        8px;
+
+}
+
+
+
+::-webkit-scrollbar-track {
+
+    background:
+
+        var(--celestial-background);
+
+}
+
+
+
+::-webkit-scrollbar-thumb {
+
+    background:
+
+        var(--celestial-border);
+
+
+    border-radius:
+
+        20px;
+
+
+}
+
+
+
+::-webkit-scrollbar-thumb:hover {
+
+    background:
+
+        var(--celestial-primary);
+
+
+    box-shadow:
+
+        0 0 10px
+
+        var(--celestial-glow);
+
+}
+
+
+
+
+
+
+
+
+
+
+.markdown-preview-view,
+.markdown-source-view {
+
+
+    font-family:
+
+        var(--celestial-font-body);
+
+
+
+    font-size:
+
+        17px;
+
+
+
+    line-height:
+
+        1.75;
+
+
+
+    letter-spacing:
+
+        .01em;
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view .markdown-preview-sizer {
+
+
+    max-width:
+
+        850px;
+
+
+
+    width:
+
+        100%;
+
+
+
+    margin:
+
+        0 auto;
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-source-view .cm-scroller {
+
+
+    padding-left:
+
+        35px;
+
+
+
+    padding-right:
+
+        35px;
+
+
+
+    overflow-x:
+
+        hidden;
+
+
+}
+
+
+
+
+
+
+
+
+
+.cm-editor {
+
+
+    font-family:
+
+        var(--celestial-font-body);
+
+
+
+    font-size:
+
+        17px;
+
+
+
+    line-height:
+
+        1.7;
+
+
+}
+
+
+
+
+
+.cm-scroller {
+
+
+    overflow-x:
+
+        hidden;
+
+
+}
+
+
+
+
+
+
+
+
+
+.cm-activeLine {
+
+
+    background:
+
+        rgba(77,163,255,.045);
+
+
+}
+
+
+
+
+
+
+
+
+.cm-cursor {
+
+
+    border-left-color:
+
+        var(--celestial-primary);
+
+
+}
+
+
+
+
+
+
+
+
+
+.cm-selectionBackground {
+
+
+    background:
+
+        rgba(77,163,255,.22);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.markdown-preview-view h1,
+.markdown-preview-view h2,
+.markdown-preview-view h3,
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+
+
+    font-family:
+
+        var(--celestial-font-heading);
+
+
+
+    font-weight:
+
+        700;
+
+
+
+    color:
+
+        var(--celestial-text-bright);
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view h1 {
+
+
+    font-size:
+
+        2.5em;
+
+
+
+    padding-bottom:
+
+        15px;
+
+
+
+    border-bottom:
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    text-shadow:
+
+
+        0 0 15px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+.markdown-preview-view h2 {
+
+
+    font-size:
+
+        2em;
+
+
+
+    color:
+
+        var(--celestial-primary);
+
+
+}
+
+
+
+
+
+
+.markdown-preview-view h3 {
+
+
+    font-size:
+
+        1.5em;
+
+
+
+    color:
+
+        var(--celestial-secondary);
+
+
+}
+
+
+
+
+
+
+.markdown-preview-view h4,
+.markdown-preview-view h5,
+.markdown-preview-view h6 {
+
+
+    color:
+
+        var(--celestial-text-bright);
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view p {
+
+
+    margin-bottom:
+
+        1.2em;
+
+
+
+    color:
+
+        var(--celestial-text);
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view a,
+.internal-link {
+
+
+    color:
+
+        var(--celestial-primary);
+
+
+
+    text-decoration:
+
+        none;
+
+
+
+    transition:
+
+        var(--celestial-transition);
+
+
+}
+
+
+
+
+
+.markdown-preview-view a:hover,
+.internal-link:hover {
+
+
+    color:
+
+        var(--celestial-secondary);
+
+
+
+
+    text-shadow:
+
+
+        0 0 10px
+
+        var(--celestial-glow);
+
+
+}
+
+
+
+
+
+
+
+
+
+.is-unresolved {
+
+
+    color:
+
+        var(--celestial-warning);
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view ul,
+.markdown-preview-view ol {
+
+
+    padding-left:
+
+        30px;
+
+
+}
+
+
+
+
+
+
+.markdown-preview-view li {
+
+
+    margin-bottom:
+
+        8px;
+
+
+}
+
+
+
+
+
+
+.markdown-preview-view li::marker {
+
+
+    color:
+
+        var(--celestial-primary);
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.markdown-preview-view mark {
+
+
+    background:
+
+
+        rgba(244,201,93,.20);
+
+
+
+    color:
+
+        var(--celestial-text-bright);
+
+
+
+    padding:
+
+        2px 6px;
+
+
+
+    border-radius:
+
+        6px;
+
+
+}
+
+
+
+
+
+
+
+
+
+blockquote {
+
+
+    background:
+
+
+        rgba(77,163,255,.08);
+
+
+
+    border-left:
+
+
+        4px solid
+
+        var(--celestial-primary);
+
+
+
+
+    padding:
+
+
+        15px 20px;
+
+
+
+
+    border-radius:
+
+
+        var(--celestial-radius-md);
+
+
+
+
+    color:
+
+
+        var(--celestial-text-muted);
+
+
+
+
+    font-style:
+
+
+        italic;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+code {
+
+
+    font-family:
+
+        var(--celestial-font-code);
+
+
+
+    background:
+
+
+        rgba(77,163,255,.10);
+
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    padding:
+
+
+        2px 6px;
+
+
+
+    border-radius:
+
+
+        6px;
+
+
+
+    color:
+
+
+        var(--celestial-secondary);
+
+
+}
+
+
+
+
+
+
+
+
+
+pre {
+
+
+    font-family:
+
+        var(--celestial-font-code);
+
+
+
+
+    background:
+
+
+        #03050B;
+
+
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        14px;
+
+
+
+
+    padding:
+
+
+        20px;
+
+
+
+
+    overflow:
+
+
+        auto;
+
+
+
+
+    box-shadow:
+
+
+        inset 0 0 30px
+
+        rgba(77,163,255,.08);
+
+
+}
+
+
+
+
+
+
+pre code {
+
+
+    background:
+
+        transparent;
+
+
+
+    border:
+
+        none;
+
+
+
+    padding:
+
+        0;
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view table,
+.table-view-table {
+
+
+    background:
+
+        var(--celestial-panel);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+    border-radius:
+
+
+        12px;
+
+
+
+    overflow:
+
+
+        hidden;
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view thead th,
+.table-view-table thead th {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+    font-weight:
+
+
+        700;
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view tbody td,
+.table-view-table tbody td {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view th,
+.markdown-preview-view td,
+.table-view-table th,
+.table-view-table td {
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+    padding:
+
+
+        12px 14px;
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view tbody tr:hover,
+.table-view-table tbody tr:hover {
+
+
+    background:
+
+
+        rgba(77,163,255,.05);
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view hr {
+
+
+    border:
+
+        none;
+
+
+
+    height:
+
+        1px;
+
+
+
+    background:
+
+
+        linear-gradient(
+
+            90deg,
+
+            transparent,
+
+            var(--celestial-primary),
+
+            transparent
+
+        );
+
+
+}
+
+
+
+
+
+
+
+
+
+.markdown-preview-view img {
+
+
+    border-radius:
+
+
+        14px;
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+    box-shadow:
+
+
+        0 10px 35px
+
+        rgba(0,0,0,.35);
+
+
+}
+
+
+
+
+
+
+
+
+
+@media(max-width:700px){
+
+
+
+    .markdown-preview-view {
+
+
+        font-size:
+
+            16px;
+
+
+
+        padding:
+
+
+            0 15px;
+
+
+    }
+
+
+
+
+    .markdown-preview-view .markdown-preview-sizer {
+
+
+        max-width:
+
+
+            100%;
+
+
+    }
+
+
+
+
+    .cm-editor {
+
+
+        font-size:
+
+
+            16px;
+
+
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.callout {
+
+
+    border-radius:
+
+        var(--celestial-radius-md);
+
+
+
+    backdrop-filter:
+
+        blur(10px);
+
+
+
+    border:
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.callout[data-callout="star"] {
+
+
+    --callout-color:
+
+        77,163,255;
+
+
+
+    background:
+
+
+        rgba(77,163,255,.10);
+
+
+
+
+    border-color:
+
+
+        rgba(77,163,255,.45);
+
+
+
+
+    box-shadow:
+
+
+        0 0 20px
+
+        rgba(77,163,255,.15);
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout[data-callout="constellation"] {
+
+
+    --callout-color:
+
+
+        167,139,250;
+
+
+
+
+    background:
+
+
+        rgba(167,139,250,.10);
+
+
+
+    border-color:
+
+
+        rgba(167,139,250,.40);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout[data-callout="artifact"] {
+
+
+    --callout-color:
+
+
+        244,201,93;
+
+
+
+
+    background:
+
+
+        rgba(244,201,93,.10);
+
+
+
+    border-color:
+
+
+        rgba(244,201,93,.40);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout[data-callout="observation"] {
+
+
+    --callout-color:
+
+
+        103,232,249;
+
+
+
+
+    background:
+
+
+        rgba(103,232,249,.10);
+
+
+
+    border-color:
+
+
+        rgba(103,232,249,.40);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout[data-callout="secret"] {
+
+
+    --callout-color:
+
+
+        239,102,117;
+
+
+
+
+    background:
+
+
+        rgba(239,102,117,.10);
+
+
+
+    border-color:
+
+
+        rgba(239,102,117,.40);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout[data-callout="idea"] {
+
+
+    --callout-color:
+
+
+        52,211,153;
+
+
+
+
+    background:
+
+
+        rgba(52,211,153,.10);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout-title {
+
+
+    font-weight:
+
+
+        700;
+
+
+
+    color:
+
+
+        var(--celestial-text-bright);
+
+
+}
+
+
+
+
+
+
+
+
+
+.callout-content {
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.tag {
+
+
+    background:
+
+
+        rgba(77,163,255,.10);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-primary);
+
+
+
+    border-radius:
+
+
+        20px;
+
+
+
+    padding:
+
+
+        3px 10px;
+
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+
+    transition:
+
+
+        var(--celestial-transition);
+
+
+
+}
+
+
+
+
+
+
+.tag:hover {
+
+
+    background:
+
+
+        var(--celestial-primary);
+
+
+
+
+    color:
+
+
+        #05070D;
+
+
+
+
+    box-shadow:
+
+
+        0 0 15px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.nav-folder-title {
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+
+}
+
+
+
+
+
+
+.nav-folder-title-content {
+
+
+    font-weight:
+
+
+        600;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.nav-folder-title-content::before {
+
+
+    content:
+
+
+        "✦ ";
+
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+
+.nav-folder-title:hover {
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.nav-file-title.is-active {
+
+
+    background:
+
+
+        rgba(77,163,255,.12);
+
+
+
+    border-left:
+
+
+        3px solid
+
+        var(--celestial-primary);
+
+
+
+
+    box-shadow:
+
+
+        inset 0 0 20px
+
+        rgba(77,163,255,.08);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.nav-file-title:hover {
+
+
+    background:
+
+
+        rgba(77,163,255,.06);
+
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.metadata-container {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        var(--celestial-radius-md);
+
+
+
+    padding:
+
+
+        15px;
+
+
+
+
+    box-shadow:
+
+
+        0 15px 40px
+
+        rgba(0,0,0,.30);
+
+
+
+}
+
+
+
+
+
+
+.metadata-property {
+
+
+    border-bottom:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+}
+
+
+
+
+
+
+.metadata-property:last-child {
+
+
+    border-bottom:
+
+
+        none;
+
+
+}
+
+
+
+
+
+
+
+
+
+.metadata-property-key {
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+    font-weight:
+
+
+        700;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.metadata-property-value {
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.celestial-glass {
+
+
+    background:
+
+
+        rgba(255,255,255,.035);
+
+
+
+    backdrop-filter:
+
+
+        blur(14px);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+    border-radius:
+
+
+        var(--celestial-radius-md);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.celestial-glow {
+
+
+    box-shadow:
+
+
+        0 0 30px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.celestial-border {
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.workspace {
+
+
+    position:
+
+
+        relative;
+
+
+
+}
+
+
+
+
+
+
+.workspace::before {
+
+
+    content:
+
+
+        "";
+
+
+
+    position:
+
+
+        absolute;
+
+
+
+    inset:
+
+
+        0;
+
+
+
+    pointer-events:
+
+
+        none;
+
+
+
+
+    background:
+
+
+        radial-gradient(
+
+            circle at top left,
+
+            var(--celestial-glow),
+
+            transparent 35%
+
+        );
+
+
+
+
+    opacity:
+
+
+        .10;
+
+
+
+}
+
+
+
+
+
+
+.theme-light .workspace::before {
+
+
+    opacity:
+
+
+        .04;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.modal,
+.prompt {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        var(--celestial-radius-md);
+
+
+
+
+    box-shadow:
+
+
+        0 25px 70px
+
+        rgba(0,0,0,.45);
+
+
+
+}
+
+
+
+
+
+
+.prompt-input {
+
+
+    background:
+
+
+        var(--celestial-background);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+button {
+
+
+    border-radius:
+
+
+        10px;
+
+
+
+    transition:
+
+
+        var(--celestial-transition);
+
+
+
+}
+
+
+
+
+
+
+button:hover {
+
+
+    box-shadow:
+
+
+        0 0 15px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+.dataview {
+
+
+    color:
+
+        var(--celestial-text);
+
+
+
+}
+
+
+
+
+
+.dataview.table-view-table {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        var(--celestial-radius-md);
+
+
+
+    overflow:
+
+
+        hidden;
+
+
+
+}
+
+
+
+
+
+
+
+
+.dataview th {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+
+    font-weight:
+
+
+        700;
+
+
+
+}
+
+
+
+
+
+
+
+
+.dataview td {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    color:
+
+
+        var(--celestial-text);
+
+
+
+
+    border-color:
+
+
+        var(--celestial-border);
+
+
+
+}
+
+
+
+
+
+
+
+
+.dataview tbody tr:hover {
+
+
+    background:
+
+
+        rgba(77,163,255,.05);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.dataview .card {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        16px;
+
+
+
+
+    padding:
+
+
+        16px;
+
+
+
+}
+
+
+
+
+
+.dataview .card:hover {
+
+
+    border-color:
+
+
+        var(--celestial-primary);
+
+
+
+
+    box-shadow:
+
+
+        0 0 20px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.task-list-item-checkbox {
+
+
+    appearance:
+
+
+        none;
+
+
+
+
+    width:
+
+
+        18px;
+
+
+
+
+    height:
+
+
+        18px;
+
+
+
+
+    border:
+
+
+        2px solid
+
+        var(--celestial-primary);
+
+
+
+
+    border-radius:
+
+
+        50%;
+
+
+
+}
+
+
+
+
+
+.task-list-item-checkbox:hover {
+
+
+    box-shadow:
+
+
+        0 0 12px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+.task-list-item-checkbox:checked {
+
+
+    background:
+
+
+        var(--celestial-primary);
+
+
+
+    box-shadow:
+
+
+        0 0 18px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+.task-list-item-checkbox:checked::after {
+
+
+    content:
+
+
+        "✓";
+
+
+
+
+    color:
+
+
+        #05070D;
+
+
+
+
+    display:
+
+
+        flex;
+
+
+
+
+    justify-content:
+
+
+        center;
+
+
+
+}
+
+
+
+
+
+
+
+
+.task-list-item-checkbox:checked + span {
+
+
+    opacity:
+
+
+        .55;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.calendar {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        16px;
+
+
+
+}
+
+
+
+
+
+.calendar .today {
+
+
+    background:
+
+
+        var(--celestial-primary);
+
+
+
+    color:
+
+
+        #05070D;
+
+
+
+
+    border-radius:
+
+
+        50%;
+
+
+
+
+    box-shadow:
+
+
+        0 0 20px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.kanban-plugin__lane {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        16px;
+
+
+
+}
+
+
+
+
+
+.kanban-plugin__lane-header {
+
+
+    color:
+
+
+        var(--celestial-primary);
+
+
+
+    font-weight:
+
+
+        700;
+
+
+
+}
+
+
+
+
+
+.kanban-plugin__item {
+
+
+    background:
+
+
+        var(--celestial-panel-hover);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        12px;
+
+
+
+}
+
+
+
+
+
+.kanban-plugin__item:hover {
+
+
+    border-color:
+
+
+        var(--celestial-primary);
+
+
+
+
+    box-shadow:
+
+
+        0 0 18px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.canvas-wrapper {
+
+
+    background:
+
+
+        radial-gradient(
+
+            circle at center,
+
+            #10182B,
+
+            #03050B
+
+        );
+
+
+
+}
+
+
+
+
+
+
+
+.canvas-node {
+
+
+    background:
+
+
+        rgba(10,15,30,.92);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        16px;
+
+
+
+
+    box-shadow:
+
+
+        0 15px 35px
+
+        rgba(0,0,0,.45);
+
+
+
+}
+
+
+
+
+
+.canvas-node:hover {
+
+
+    border-color:
+
+
+        var(--celestial-primary);
+
+
+
+
+    box-shadow:
+
+
+        0 0 30px
+
+        var(--celestial-glow);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.excalidraw {
+
+
+    --color-primary:
+
+
+        var(--celestial-primary);
+
+
+
+}
+
+
+
+
+
+.excalidraw .App-menu {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    border-radius:
+
+
+        14px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.graph-view {
+
+
+    background:
+
+
+        radial-gradient(
+
+            circle at center,
+
+            #0B1020,
+
+            #020308
+
+        );
+
+
+
+}
+
+
+
+
+
+
+
+
+.graph-view .node {
+
+
+    fill:
+
+
+        var(--celestial-primary);
+
+
+
+    stroke:
+
+
+        var(--celestial-secondary);
+
+
+
+    stroke-width:
+
+
+        2;
+
+
+
+
+    filter:
+
+
+        drop-shadow(
+
+            0 0 8px
+
+            var(--celestial-glow)
+
+        );
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.graph-view .node.is-selected {
+
+
+    fill:
+
+
+        #FFFFFF;
+
+
+
+    stroke:
+
+
+        var(--celestial-primary);
+
+
+
+
+    stroke-width:
+
+
+        4;
+
+
+
+    filter:
+
+
+        drop-shadow(
+
+            0 0 20px
+
+            var(--celestial-primary)
+
+        );
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.graph-view .link {
+
+
+    stroke:
+
+
+        rgba(167,139,250,.35);
+
+
+
+
+    stroke-width:
+
+
+        1.5;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.graph-view .link.is-focused {
+
+
+    stroke:
+
+
+        var(--celestial-primary);
+
+
+
+    stroke-width:
+
+
+        3;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.graph-view text {
+
+
+    fill:
+
+
+        var(--celestial-text);
+
+
+
+    font-family:
+
+
+        var(--celestial-font-body);
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.mermaid {
+
+
+    background:
+
+
+        rgba(77,163,255,.04);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        16px;
+
+
+
+
+    padding:
+
+
+        20px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.markdown-embed,
+.internal-embed {
+
+
+    background:
+
+
+        var(--celestial-panel);
+
+
+
+    border:
+
+
+        1px solid
+
+        var(--celestial-border);
+
+
+
+
+    border-radius:
+
+
+        14px;
+
+
+
+
+    padding:
+
+
+        12px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+.markdown-preview-view {
+
+
+    text-rendering:
+
+
+        optimizeLegibility;
+
+
+
+}
+
+
+
+
+
+button:focus-visible,
+input:focus-visible {
+
+
+    outline:
+
+
+        2px solid
+
+        var(--celestial-primary);
+
+
+
+
+    outline-offset:
+
+
+        3px;
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media(prefers-contrast:high){
+
+
+    .callout,
+    .tag,
+    .workspace-leaf {
+
+
+        border-width:
+
+
+            2px;
+
+
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
+
+
+@media(max-width:700px){
+
+
+
+    .callout {
+
+
+        border-radius:
+
+
+            10px;
+
+
+
+    }
+
+
+
+
+    .metadata-container {
+
+
+        border-radius:
+
+
+            12px;
+
+
+
+    }
+
+
+
+
+    .workspace-ribbon {
+
+
+        background:
+
+
+            var(--celestial-panel);
+
+
+
+    }
+
+
+}
+
+
+
+
+
+
+
+
