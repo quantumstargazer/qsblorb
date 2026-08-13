@@ -6,6 +6,12 @@
 	--callout-color: 168, 130, 255; 
 	--callout-icon: lucide-moon-star; 
 	}
+	
+.callout[data-callout="coffee time"] { 
+	--callout-color: 168, 130, 255; 
+	--callout-icon: lucide-coffee; 
+	}
+
 
 .callout[data-callout="headcanon"] { 
 	--callout-color: 227, 107, 167; 
