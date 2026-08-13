@@ -67,16 +67,93 @@
 > 
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
 > 
-> > *More Info:* DossierVerse
+> > *More Info:* [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/0.1 - Dragon Age - Ashina\|0.1 - Dragon Age - Ashina]]
 
 ---
 # Canon Divergent AUs
-## VerseTitle
+## Rook
 
-> [!verse]+ VerseTitle ( Dragon Age )
-> - *Tag:*  **Ashina ☾⭒ QuickID ( Dragon Age )**
+> [!verse]+ Rook ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Rook ( Dragon Age )**
 > - *Setting:* **Dragon Age**
-> - *Default Timeline:* **Timeline**
+> - *Default Timeline:* **9:50 - 9:54 Dragon** (*Veilguard*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Inquisitor
+
+> [!verse]+ Inquisitor ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Inquisitor ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:40 - 9:44 Dragon** (*Inquisition*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Inquisitor Crow
+
+> [!verse]+ Inquisitor Crow ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Inquisitor Crow ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:40 - 9:44 Dragon** (*Inquisition*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Antivan Crows
+
+> [!verse]+ Antivan Crows ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Antivan Crows ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:30 - 9:34 Dragon** (*Origins*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Crows' Due
+
+> [!verse]+ Crows' Due ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Crows' Due ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:25 - 9:29 Dragon** (*Pre-Canon*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Crows' Design
+
+> [!verse]+ Crows' Design ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Crows' Design ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:25 - 9:29 Dragon** (*Pre-Canon*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Arainai Deflector
+
+> [!verse]+ Arainai Deflector ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Arainai Deflector ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:30 - 9:34 Dragon** (*Origins*)
+> 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
+
+## Lyrium Ghost
+
+> [!verse]+ Lyrium Ghost ( Dragon Age )
+> - *Tag:*  **Ashina ☾⭒ Lyrium Ghost ( Dragon Age )**
+> - *Setting:* **Dragon Age**
+> - *Default Timeline:* **9:60 - 9:64 Dragon** (*Post-Canon*)
 > 
 > Summary goes here.
 > 
@@ -102,8 +179,16 @@
 
 ## Mass Effect AUs
 
-> [!attention] Not Currently Available
+### Mercenary Assassin
+
+> [!verse]+ Mercenary Assassin — Crossover ( Mass Effect )
+> - *Tag:*  **Ashina ☾⭒ Mercenary Assassin — Crossover ( Mass Effect )**
+> - *Setting:* **Mass Effect**
+> - *Default Timeline:* **2184 - 21XX CE**
 > 
+> Summary goes here.
+> 
+> > *More Info:* DossierVerse
 
 
 
@@ -143,7 +228,7 @@
 > [!verse]+ Absolute Crisis — Another World ( Baldur's Gate )
 > - *Tag:*  **Ashina ☾⭒ Absolute Crisis — Another World ( Baldur's Gate )**
 > - *Setting:* **Baldur's Gate/Forgotten Realms**
-> - *Default Timeline:* **Timeline**
+> - *Default Timeline:* **Timeline** (*BG3*)
 > 
 > Summary goes here.
 > 
@@ -157,7 +242,7 @@
 > [!verse]+ This Shit Is Weird — Another World ( Dragon Age )
 > - *Tag:*  **Ashina ☾⭒ This Shit Is Weird — Another World ( Dragon Age )**
 > - *Setting:* **Dragon Age**
-> - *Default Timeline:* **Timeline**
+> - *Default Timeline:* **9:30 - 9:54 Dragon** (*Series*)
 > 
 > Summary goes here.
 > 
@@ -169,7 +254,7 @@
 > [!verse]+ Anomaly Detected — Another World ( Mass Effect )
 > - *Tag:*  **Ashina ☾⭒ Anomaly Detected — Another World ( Mass Effect )**
 > - *Setting:* **Mass Effect**
-> - *Default Timeline:* **Timeline**
+> - *Default Timeline:* **2183 - 21XX** (*Trilogy*)
 > 
 > Summary goes here.
 > 
