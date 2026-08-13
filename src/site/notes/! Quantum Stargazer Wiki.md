@@ -124,7 +124,7 @@
 ---
 # Report Site Issues
 
-> [!coffee time] Coffee Time
+> [!coffeetime] Coffee Time
 > If you stumble across any issues (broken links, missing images, incorrect info about your character's portrayal, etc.), feel free to let me know by [filing an issue report](https://github.com/quantumstargazer/quantumstargazer.github.io/issues), that way I have a 'to do' list for what needs to be fixed and it will be taken care of as soon as I'm able to get to it.
 
 
