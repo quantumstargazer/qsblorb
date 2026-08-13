@@ -1,0 +1,2560 @@
+/* ============================================================
+
+   Callout Studio — Custom Callouts
+
+   Generated automatically. Do not edit manually.
+
+   ============================================================ */
+
+.callout[data-callout="ziggy"] {
+  --callout-color: #b536ff;
+  --cs-accent: #b536ff;
+  --cs-color-rgb: 181, 54, 255;
+  --callout-icon: lucide-moon-star;
+  background-color: color-mix(in oklch, #b841ff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="ziggy"] {
+  --callout-color: #b536ff;
+  --cs-accent: #b536ff;
+  --cs-color-rgb: 181, 54, 255;
+  background-color: color-mix(in oklch, #ad3cf2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="ziggy"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="ziggy"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="ziggy"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #b536ff, #009999), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="ziggy"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #b536ff, #00ffff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="ziggy"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="ziggy"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="ziggy"], .cs-heading-callout[data-callout="ziggy"], .cs-ref-token[data-callout="ziggy"] {
+  --cs-accent: #b536ff;
+  --cs-color-rgb: 181, 54, 255;
+}
+
+.cs-inline-callout[data-callout="ziggy"], .cs-heading-callout[data-callout="ziggy"] {
+  background-color: color-mix(in oklch, #b841ff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="ziggy"], .theme-dark .cs-heading-callout[data-callout="ziggy"] {
+  background-color: color-mix(in oklch, #ad3cf2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="ziggy"],
+.theme-dark .cs-inline-callout[data-callout="ziggy"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="ziggy"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="ziggy"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="ziggy"],
+.theme-dark .cs-heading-callout[data-callout="ziggy"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="ziggy"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="ziggy"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="ziggy"] {
+  background-image: linear-gradient(135deg, #b536ff, #009999), linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="ziggy"] {
+  background-image: linear-gradient(135deg, #b536ff, #00ffff), linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="ziggy"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="ziggy"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="ziggy"] .cs-heading-title,
+.cs-heading-token[data-callout="ziggy"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #b536ff, #009999), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="ziggy"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="ziggy"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #b536ff, #00ffff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="ziggy"] .cs-heading-title,
+.cs-heading-token[data-callout="ziggy"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="ziggy"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="ziggy"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="ziggy"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="ziggy"] .cs-fold-arrow, .cs-heading-callout[data-callout="ziggy"] .heading-collapse-indicator {
+  color: #009999;
+}
+
+.theme-dark .callout[data-callout="ziggy"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="ziggy"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="ziggy"] .heading-collapse-indicator {
+  color: #00ffff;
+}
+
+@media print {
+.callout[data-callout="ziggy"],
+.theme-dark .callout[data-callout="ziggy"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="ziggy"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="ziggy"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="spoiler"] {
+  --callout-color: #ff8f00;
+  --cs-accent: #ff8f00;
+  --cs-color-rgb: 255, 143, 0;
+  --callout-icon: lucide-alert-octagon;
+}
+
+.theme-dark .callout[data-callout="spoiler"] {
+  --callout-color: #ffd54f;
+  --cs-accent: #ffd54f;
+  --cs-color-rgb: 255, 213, 79;
+}
+
+.callout[data-callout="spoiler"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="spoiler"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="spoiler"], .cs-heading-callout[data-callout="spoiler"], .cs-ref-token[data-callout="spoiler"] {
+  --cs-accent: #ff8f00;
+  --cs-color-rgb: 255, 143, 0;
+}
+
+.theme-dark .cs-inline-callout[data-callout="spoiler"], .theme-dark .cs-heading-callout[data-callout="spoiler"], .theme-dark .cs-ref-token[data-callout="spoiler"] {
+  --cs-accent: #ffd54f;
+  --cs-color-rgb: 255, 213, 79;
+}
+
+.callout[data-callout="tracker"] {
+  --callout-color: #d900d9;
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+  --callout-icon: lucide-activity-square;
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="tracker"] {
+  --callout-color: #ff00ff;
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="tracker"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="tracker"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="tracker"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="tracker"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="tracker"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="tracker"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="tracker"], .cs-heading-callout[data-callout="tracker"], .cs-ref-token[data-callout="tracker"] {
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+}
+
+.theme-dark .cs-inline-callout[data-callout="tracker"], .theme-dark .cs-heading-callout[data-callout="tracker"], .theme-dark .cs-ref-token[data-callout="tracker"] {
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+}
+
+.cs-inline-callout[data-callout="tracker"], .cs-heading-callout[data-callout="tracker"] {
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="tracker"], .theme-dark .cs-heading-callout[data-callout="tracker"] {
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="tracker"],
+.theme-dark .cs-inline-callout[data-callout="tracker"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="tracker"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="tracker"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="tracker"],
+.theme-dark .cs-heading-callout[data-callout="tracker"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="tracker"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="tracker"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="tracker"] {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="tracker"] {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="tracker"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="tracker"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="tracker"] .cs-heading-title,
+.cs-heading-token[data-callout="tracker"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="tracker"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="tracker"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="tracker"] .cs-heading-title,
+.cs-heading-token[data-callout="tracker"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="tracker"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="tracker"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="tracker"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="tracker"] .cs-fold-arrow, .cs-heading-callout[data-callout="tracker"] .heading-collapse-indicator {
+  color: #8c8c00;
+}
+
+.theme-dark .callout[data-callout="tracker"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="tracker"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="tracker"] .heading-collapse-indicator {
+  color: #ffff00;
+}
+
+@media print {
+.callout[data-callout="tracker"],
+.theme-dark .callout[data-callout="tracker"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="tracker"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="tracker"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="guideline"] {
+  --callout-color: #ff9100;
+  --cs-accent: #ff9100;
+  --cs-color-rgb: 255, 145, 0;
+  --callout-icon: lucide-book-check;
+}
+
+.callout[data-callout="guideline"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="guideline"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="guideline"], .cs-heading-callout[data-callout="guideline"], .cs-ref-token[data-callout="guideline"] {
+  --cs-accent: #ff9100;
+  --cs-color-rgb: 255, 145, 0;
+}
+
+.callout[data-callout="rule"] {
+  --callout-color: #ff5252;
+  --cs-accent: #ff5252;
+  --cs-color-rgb: 255, 82, 82;
+  --callout-icon: lucide-book-alert;
+}
+
+.callout[data-callout="rule"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="rule"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="rule"], .cs-heading-callout[data-callout="rule"], .cs-ref-token[data-callout="rule"] {
+  --cs-accent: #ff5252;
+  --cs-color-rgb: 255, 82, 82;
+}
+
+.callout[data-callout="main"] {
+  --callout-color: #d900d9;
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+  --callout-icon: lucide-user-star;
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="main"] {
+  --callout-color: #ff00ff;
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="main"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="main"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="main"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="main"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="main"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="main"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="main"], .cs-heading-callout[data-callout="main"], .cs-ref-token[data-callout="main"] {
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+}
+
+.theme-dark .cs-inline-callout[data-callout="main"], .theme-dark .cs-heading-callout[data-callout="main"], .theme-dark .cs-ref-token[data-callout="main"] {
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+}
+
+.cs-inline-callout[data-callout="main"], .cs-heading-callout[data-callout="main"] {
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="main"], .theme-dark .cs-heading-callout[data-callout="main"] {
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="main"],
+.theme-dark .cs-inline-callout[data-callout="main"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="main"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="main"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="main"],
+.theme-dark .cs-heading-callout[data-callout="main"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="main"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="main"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="main"] {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="main"] {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="main"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="main"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="main"] .cs-heading-title,
+.cs-heading-token[data-callout="main"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="main"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="main"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="main"] .cs-heading-title,
+.cs-heading-token[data-callout="main"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="main"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="main"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="main"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="main"] .cs-fold-arrow, .cs-heading-callout[data-callout="main"] .heading-collapse-indicator {
+  color: #8c8c00;
+}
+
+.theme-dark .callout[data-callout="main"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="main"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="main"] .heading-collapse-indicator {
+  color: #ffff00;
+}
+
+@media print {
+.callout[data-callout="main"],
+.theme-dark .callout[data-callout="main"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="main"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="main"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="bfc"] {
+  --callout-color: #d900d9;
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+  --callout-icon: lucide-user-check;
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="bfc"] {
+  --callout-color: #ff00ff;
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="bfc"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="bfc"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="bfc"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="bfc"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="bfc"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="bfc"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="bfc"], .cs-heading-callout[data-callout="bfc"], .cs-ref-token[data-callout="bfc"] {
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+}
+
+.theme-dark .cs-inline-callout[data-callout="bfc"], .theme-dark .cs-heading-callout[data-callout="bfc"], .theme-dark .cs-ref-token[data-callout="bfc"] {
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+}
+
+.cs-inline-callout[data-callout="bfc"], .cs-heading-callout[data-callout="bfc"] {
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="bfc"], .theme-dark .cs-heading-callout[data-callout="bfc"] {
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="bfc"],
+.theme-dark .cs-inline-callout[data-callout="bfc"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="bfc"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="bfc"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="bfc"],
+.theme-dark .cs-heading-callout[data-callout="bfc"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="bfc"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="bfc"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="bfc"] {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="bfc"] {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="bfc"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="bfc"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="bfc"] .cs-heading-title,
+.cs-heading-token[data-callout="bfc"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="bfc"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="bfc"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="bfc"] .cs-heading-title,
+.cs-heading-token[data-callout="bfc"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="bfc"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="bfc"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="bfc"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="bfc"] .cs-fold-arrow, .cs-heading-callout[data-callout="bfc"] .heading-collapse-indicator {
+  color: #8c8c00;
+}
+
+.theme-dark .callout[data-callout="bfc"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="bfc"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="bfc"] .heading-collapse-indicator {
+  color: #ffff00;
+}
+
+@media print {
+.callout[data-callout="bfc"],
+.theme-dark .callout[data-callout="bfc"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="bfc"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="bfc"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="shipdyn"] {
+  --callout-color: #d900d9;
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+  --callout-icon: lucide-users;
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="shipdyn"] {
+  --callout-color: #ff00ff;
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="shipdyn"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="shipdyn"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="shipdyn"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="shipdyn"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="shipdyn"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="shipdyn"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="shipdyn"], .cs-heading-callout[data-callout="shipdyn"], .cs-ref-token[data-callout="shipdyn"] {
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+}
+
+.theme-dark .cs-inline-callout[data-callout="shipdyn"], .theme-dark .cs-heading-callout[data-callout="shipdyn"], .theme-dark .cs-ref-token[data-callout="shipdyn"] {
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+}
+
+.cs-inline-callout[data-callout="shipdyn"], .cs-heading-callout[data-callout="shipdyn"] {
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="shipdyn"], .theme-dark .cs-heading-callout[data-callout="shipdyn"] {
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="shipdyn"],
+.theme-dark .cs-inline-callout[data-callout="shipdyn"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="shipdyn"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="shipdyn"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="shipdyn"],
+.theme-dark .cs-heading-callout[data-callout="shipdyn"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="shipdyn"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="shipdyn"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="shipdyn"] {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="shipdyn"] {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="shipdyn"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="shipdyn"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="shipdyn"] .cs-heading-title,
+.cs-heading-token[data-callout="shipdyn"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="shipdyn"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="shipdyn"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="shipdyn"] .cs-heading-title,
+.cs-heading-token[data-callout="shipdyn"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="shipdyn"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="shipdyn"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="shipdyn"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="shipdyn"] .cs-fold-arrow, .cs-heading-callout[data-callout="shipdyn"] .heading-collapse-indicator {
+  color: #8c8c00;
+}
+
+.theme-dark .callout[data-callout="shipdyn"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="shipdyn"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="shipdyn"] .heading-collapse-indicator {
+  color: #ffff00;
+}
+
+@media print {
+.callout[data-callout="shipdyn"],
+.theme-dark .callout[data-callout="shipdyn"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="shipdyn"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="shipdyn"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="tags"] {
+  --callout-color: #448aff;
+  --cs-accent: #448aff;
+  --cs-color-rgb: 68, 138, 255;
+  --callout-icon: lucide-bookmark-check;
+}
+
+.callout[data-callout="tags"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="tags"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="tags"], .cs-heading-callout[data-callout="tags"], .cs-ref-token[data-callout="tags"] {
+  --cs-accent: #448aff;
+  --cs-color-rgb: 68, 138, 255;
+}
+
+.callout[data-callout="headcanon"] {
+  --callout-color: #d900d9;
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+  --callout-icon: lucide-message-square-heart;
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="headcanon"] {
+  --callout-color: #ff00ff;
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="headcanon"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="headcanon"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="headcanon"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="headcanon"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="headcanon"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="headcanon"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="headcanon"], .cs-heading-callout[data-callout="headcanon"], .cs-ref-token[data-callout="headcanon"] {
+  --cs-accent: #d900d9;
+  --cs-color-rgb: 217, 0, 217;
+}
+
+.theme-dark .cs-inline-callout[data-callout="headcanon"], .theme-dark .cs-heading-callout[data-callout="headcanon"], .theme-dark .cs-ref-token[data-callout="headcanon"] {
+  --cs-accent: #ff00ff;
+  --cs-color-rgb: 255, 0, 255;
+}
+
+.cs-inline-callout[data-callout="headcanon"], .cs-heading-callout[data-callout="headcanon"] {
+  background-color: color-mix(in oklch, #ff0cff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="headcanon"], .theme-dark .cs-heading-callout[data-callout="headcanon"] {
+  background-color: color-mix(in oklch, #f20af2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="headcanon"],
+.theme-dark .cs-inline-callout[data-callout="headcanon"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="headcanon"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="headcanon"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="headcanon"],
+.theme-dark .cs-heading-callout[data-callout="headcanon"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="headcanon"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="headcanon"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="headcanon"] {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="headcanon"] {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="headcanon"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="headcanon"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="headcanon"] .cs-heading-title,
+.cs-heading-token[data-callout="headcanon"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #d900d9, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="headcanon"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="headcanon"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #ff00ff, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="headcanon"] .cs-heading-title,
+.cs-heading-token[data-callout="headcanon"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="headcanon"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="headcanon"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="headcanon"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="headcanon"] .cs-fold-arrow, .cs-heading-callout[data-callout="headcanon"] .heading-collapse-indicator {
+  color: #8c8c00;
+}
+
+.theme-dark .callout[data-callout="headcanon"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="headcanon"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="headcanon"] .heading-collapse-indicator {
+  color: #ffff00;
+}
+
+@media print {
+.callout[data-callout="headcanon"],
+.theme-dark .callout[data-callout="headcanon"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="headcanon"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ff0cff 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="headcanon"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #f20af2 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="sticky"] {
+  --callout-color: #ff8f00;
+  --cs-accent: #ff8f00;
+  --cs-color-rgb: 255, 143, 0;
+  --callout-icon: lucide-sticky-note;
+}
+
+.theme-dark .callout[data-callout="sticky"] {
+  --callout-color: #ffd54f;
+  --cs-accent: #ffd54f;
+  --cs-color-rgb: 255, 213, 79;
+}
+
+.callout[data-callout="sticky"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="sticky"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="sticky"], .cs-heading-callout[data-callout="sticky"], .cs-ref-token[data-callout="sticky"] {
+  --cs-accent: #ff8f00;
+  --cs-color-rgb: 255, 143, 0;
+}
+
+.theme-dark .cs-inline-callout[data-callout="sticky"], .theme-dark .cs-heading-callout[data-callout="sticky"], .theme-dark .cs-ref-token[data-callout="sticky"] {
+  --cs-accent: #ffd54f;
+  --cs-color-rgb: 255, 213, 79;
+}
+
+.callout[data-callout="profile"] {
+  --callout-color: #7852ee;
+  --cs-accent: #7852ee;
+  --cs-color-rgb: 120, 82, 238;
+  --callout-icon: lucide-user-circle;
+}
+
+.theme-dark .callout[data-callout="profile"] {
+  --callout-color: #a882ff;
+  --cs-accent: #a882ff;
+  --cs-color-rgb: 168, 130, 255;
+}
+
+.callout[data-callout="profile"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="profile"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="profile"], .cs-heading-callout[data-callout="profile"], .cs-ref-token[data-callout="profile"] {
+  --cs-accent: #7852ee;
+  --cs-color-rgb: 120, 82, 238;
+}
+
+.theme-dark .cs-inline-callout[data-callout="profile"], .theme-dark .cs-heading-callout[data-callout="profile"], .theme-dark .cs-ref-token[data-callout="profile"] {
+  --cs-accent: #a882ff;
+  --cs-color-rgb: 168, 130, 255;
+}
+
+.callout[data-callout="stats"] {
+  --callout-color: #9e9e9e;
+  --cs-accent: #9e9e9e;
+  --cs-color-rgb: 158, 158, 158;
+  --callout-icon: lucide-list;
+}
+
+.callout[data-callout="stats"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="stats"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.cs-inline-callout[data-callout="stats"], .cs-heading-callout[data-callout="stats"], .cs-ref-token[data-callout="stats"] {
+  --cs-accent: #9e9e9e;
+  --cs-color-rgb: 158, 158, 158;
+}
+
+.callout[data-callout="verse"] {
+  --callout-color: #009999;
+  --cs-accent: #009999;
+  --cs-color-rgb: 0, 153, 153;
+  --callout-icon: lucide-clipboard-list;
+  background-color: color-mix(in oklch, #0cffff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffff 21%, transparent), color-mix(in oklch, #bc4fff 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="verse"] {
+  --callout-color: #00ffff;
+  --cs-accent: #00ffff;
+  --cs-color-rgb: 0, 255, 255;
+  background-color: color-mix(in oklch, #0af2f2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af2f2 22%, transparent), color-mix(in oklch, #b249f2 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="verse"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="verse"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="verse"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #009999, #b845ff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="verse"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #00ffff, #b845ff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="verse"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="verse"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="verse"], .cs-heading-callout[data-callout="verse"], .cs-ref-token[data-callout="verse"] {
+  --cs-accent: #009999;
+  --cs-color-rgb: 0, 153, 153;
+}
+
+.theme-dark .cs-inline-callout[data-callout="verse"], .theme-dark .cs-heading-callout[data-callout="verse"], .theme-dark .cs-ref-token[data-callout="verse"] {
+  --cs-accent: #00ffff;
+  --cs-color-rgb: 0, 255, 255;
+}
+
+.cs-inline-callout[data-callout="verse"], .cs-heading-callout[data-callout="verse"] {
+  background-color: color-mix(in oklch, #0cffff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffff 21%, transparent), color-mix(in oklch, #bc4fff 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="verse"], .theme-dark .cs-heading-callout[data-callout="verse"] {
+  background-color: color-mix(in oklch, #0af2f2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af2f2 22%, transparent), color-mix(in oklch, #b249f2 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="verse"],
+.theme-dark .cs-inline-callout[data-callout="verse"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="verse"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffff 21%, transparent), color-mix(in oklch, #bc4fff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="verse"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af2f2 22%, transparent), color-mix(in oklch, #b249f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="verse"],
+.theme-dark .cs-heading-callout[data-callout="verse"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="verse"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffff 21%, transparent), color-mix(in oklch, #bc4fff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="verse"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af2f2 22%, transparent), color-mix(in oklch, #b249f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="verse"] {
+  background-image: linear-gradient(135deg, #009999, #b845ff), linear-gradient(135deg, color-mix(in oklch, #0cffff 21%, transparent), color-mix(in oklch, #bc4fff 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="verse"] {
+  background-image: linear-gradient(135deg, #00ffff, #b845ff), linear-gradient(135deg, color-mix(in oklch, #0af2f2 22%, transparent), color-mix(in oklch, #b249f2 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="verse"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="verse"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="verse"] .cs-heading-title,
+.cs-heading-token[data-callout="verse"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #009999, #b845ff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="verse"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="verse"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #00ffff, #b845ff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="verse"] .cs-heading-title,
+.cs-heading-token[data-callout="verse"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="verse"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="verse"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="verse"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="verse"] .cs-fold-arrow, .cs-heading-callout[data-callout="verse"] .heading-collapse-indicator {
+  color: #b845ff;
+}
+
+@media print {
+.callout[data-callout="verse"],
+.theme-dark .callout[data-callout="verse"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="verse"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffff 21%, transparent), color-mix(in oklch, #bc4fff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="verse"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af2f2 22%, transparent), color-mix(in oklch, #b249f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="wishlist"] {
+  --callout-color: #00995c;
+  --cs-accent: #00995c;
+  --cs-color-rgb: 0, 153, 92;
+  --callout-icon: lucide-book-heart;
+  background-color: color-mix(in oklch, #0cffa0 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffa0 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="wishlist"] {
+  --callout-color: #00ff99;
+  --cs-accent: #00ff99;
+  --cs-color-rgb: 0, 255, 153;
+  background-color: color-mix(in oklch, #0af297 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af297 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="wishlist"] > .callout-content {
+  color: #1a1a1a;
+}
+
+.theme-dark .callout[data-callout="wishlist"] > .callout-content {
+  color: #e0e0e0;
+}
+
+.callout[data-callout="wishlist"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #00995c, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="wishlist"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #00ff99, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="wishlist"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="wishlist"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="wishlist"], .cs-heading-callout[data-callout="wishlist"], .cs-ref-token[data-callout="wishlist"] {
+  --cs-accent: #00995c;
+  --cs-color-rgb: 0, 153, 92;
+}
+
+.theme-dark .cs-inline-callout[data-callout="wishlist"], .theme-dark .cs-heading-callout[data-callout="wishlist"], .theme-dark .cs-ref-token[data-callout="wishlist"] {
+  --cs-accent: #00ff99;
+  --cs-color-rgb: 0, 255, 153;
+}
+
+.cs-inline-callout[data-callout="wishlist"], .cs-heading-callout[data-callout="wishlist"] {
+  background-color: color-mix(in oklch, #0cffa0 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffa0 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="wishlist"], .theme-dark .cs-heading-callout[data-callout="wishlist"] {
+  background-color: color-mix(in oklch, #0af297 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af297 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="wishlist"],
+.theme-dark .cs-inline-callout[data-callout="wishlist"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="wishlist"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffa0 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="wishlist"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af297 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="wishlist"],
+.theme-dark .cs-heading-callout[data-callout="wishlist"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="wishlist"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffa0 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="wishlist"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af297 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="wishlist"] {
+  background-image: linear-gradient(135deg, #00995c, #8c8c00), linear-gradient(135deg, color-mix(in oklch, #0cffa0 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="wishlist"] {
+  background-image: linear-gradient(135deg, #00ff99, #ffff00), linear-gradient(135deg, color-mix(in oklch, #0af297 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="wishlist"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="wishlist"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="wishlist"] .cs-heading-title,
+.cs-heading-token[data-callout="wishlist"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #00995c, #8c8c00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="wishlist"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="wishlist"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #00ff99, #ffff00), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="wishlist"] .cs-heading-title,
+.cs-heading-token[data-callout="wishlist"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="wishlist"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="wishlist"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="wishlist"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="wishlist"] .cs-fold-arrow, .cs-heading-callout[data-callout="wishlist"] .heading-collapse-indicator {
+  color: #8c8c00;
+}
+
+.theme-dark .callout[data-callout="wishlist"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="wishlist"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="wishlist"] .heading-collapse-indicator {
+  color: #ffff00;
+}
+
+@media print {
+.callout[data-callout="wishlist"],
+.theme-dark .callout[data-callout="wishlist"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="wishlist"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0cffa0 21%, transparent), color-mix(in oklch, #ffff0c 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="wishlist"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #0af297 22%, transparent), color-mix(in oklch, #f2f20a 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="timeline"] {
+  --callout-color: #ec7500;
+  --cs-accent: #ec7500;
+  --cs-color-rgb: 236, 117, 0;
+  --callout-icon: lucide-timeline;
+}
+
+.theme-dark .callout[data-callout="timeline"] {
+  --callout-color: #e9973f;
+  --cs-accent: #e9973f;
+  --cs-color-rgb: 233, 151, 63;
+}
+
+.cs-inline-callout[data-callout="timeline"], .cs-heading-callout[data-callout="timeline"], .cs-ref-token[data-callout="timeline"] {
+  --cs-accent: #ec7500;
+  --cs-color-rgb: 236, 117, 0;
+}
+
+.theme-dark .cs-inline-callout[data-callout="timeline"], .theme-dark .cs-heading-callout[data-callout="timeline"], .theme-dark .cs-ref-token[data-callout="timeline"] {
+  --cs-accent: #e9973f;
+  --cs-color-rgb: 233, 151, 63;
+}
+
+.callout[data-callout="muse"] {
+  --callout-color: #00bfbc;
+  --cs-accent: #00bfbc;
+  --cs-color-rgb: 0, 191, 188;
+  --callout-icon: lucide-book-user;
+}
+
+.theme-dark .callout[data-callout="muse"] {
+  --callout-color: #53dfdd;
+  --cs-accent: #53dfdd;
+  --cs-color-rgb: 83, 223, 221;
+}
+
+.cs-inline-callout[data-callout="muse"], .cs-heading-callout[data-callout="muse"], .cs-ref-token[data-callout="muse"] {
+  --cs-accent: #00bfbc;
+  --cs-color-rgb: 0, 191, 188;
+}
+
+.theme-dark .cs-inline-callout[data-callout="muse"], .theme-dark .cs-heading-callout[data-callout="muse"], .theme-dark .cs-ref-token[data-callout="muse"] {
+  --cs-accent: #53dfdd;
+  --cs-color-rgb: 83, 223, 221;
+}
+
+.callout[data-callout="coffeetime"] {
+  --callout-color: #b536ff;
+  --cs-accent: #b536ff;
+  --cs-color-rgb: 181, 54, 255;
+  --callout-icon: lucide-coffee;
+  background-color: color-mix(in oklch, #b841ff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="coffeetime"] {
+  --callout-color: #b536ff;
+  --cs-accent: #b536ff;
+  --cs-color-rgb: 181, 54, 255;
+  background-color: color-mix(in oklch, #ad3cf2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.callout[data-callout="coffeetime"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #b536ff, #009999), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="coffeetime"] > .callout-title > .callout-title-inner {
+  background-image: linear-gradient(135deg, #b536ff, #00ffff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.callout[data-callout="coffeetime"] > .callout-title > .callout-title-inner,
+.theme-dark .callout[data-callout="coffeetime"] > .callout-title > .callout-title-inner {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-inline-callout[data-callout="coffeetime"], .cs-heading-callout[data-callout="coffeetime"], .cs-ref-token[data-callout="coffeetime"] {
+  --cs-accent: #b536ff;
+  --cs-color-rgb: 181, 54, 255;
+}
+
+.cs-inline-callout[data-callout="coffeetime"], .cs-heading-callout[data-callout="coffeetime"] {
+  background-color: color-mix(in oklch, #b841ff 21%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="coffeetime"], .theme-dark .cs-heading-callout[data-callout="coffeetime"] {
+  background-color: color-mix(in oklch, #ad3cf2 22%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="coffeetime"],
+.theme-dark .cs-inline-callout[data-callout="coffeetime"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="coffeetime"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="coffeetime"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="coffeetime"],
+.theme-dark .cs-heading-callout[data-callout="coffeetime"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="coffeetime"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="coffeetime"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.cs-inline-callout.cs-inline-callout[data-callout="coffeetime"] {
+  background-image: linear-gradient(135deg, #b536ff, #009999), linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="coffeetime"] {
+  background-image: linear-gradient(135deg, #b536ff, #00ffff), linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout.cs-inline-callout[data-callout="coffeetime"],
+.theme-dark .cs-inline-callout.cs-inline-callout[data-callout="coffeetime"] {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.cs-heading-callout[data-callout="coffeetime"] .cs-heading-title,
+.cs-heading-token[data-callout="coffeetime"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #b536ff, #009999), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="coffeetime"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="coffeetime"] > .cs-callout-name {
+  background-image: linear-gradient(135deg, #b536ff, #00ffff), none;
+  -webkit-background-clip: text, border-box;
+  background-clip: text, border-box;
+  -webkit-text-fill-color: transparent;
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-heading-callout[data-callout="coffeetime"] .cs-heading-title,
+.cs-heading-token[data-callout="coffeetime"] > .cs-callout-name,
+.theme-dark .cs-heading-callout[data-callout="coffeetime"] .cs-heading-title,
+.theme-dark .cs-heading-token[data-callout="coffeetime"] > .cs-callout-name {
+  background-image: none;
+  -webkit-background-clip: border-box;
+  background-clip: border-box;
+  -webkit-text-fill-color: currentColor;
+}
+}
+
+.callout[data-callout="coffeetime"] > .callout-title > .callout-fold, .cs-heading-callout[data-callout="coffeetime"] .cs-fold-arrow, .cs-heading-callout[data-callout="coffeetime"] .heading-collapse-indicator {
+  color: #009999;
+}
+
+.theme-dark .callout[data-callout="coffeetime"] > .callout-title > .callout-fold, .theme-dark .cs-heading-callout[data-callout="coffeetime"] .cs-fold-arrow, .theme-dark .cs-heading-callout[data-callout="coffeetime"] .heading-collapse-indicator {
+  color: #00ffff;
+}
+
+@media print {
+.callout[data-callout="coffeetime"],
+.theme-dark .callout[data-callout="coffeetime"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="coffeetime"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #b841ff 21%, transparent), color-mix(in oklch, #0cffff 21%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="coffeetime"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #ad3cf2 22%, transparent), color-mix(in oklch, #0af2f2 22%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+.callout[data-callout="info"] {
+  --callout-color: #527fcc;
+  --cs-accent: #527fcc;
+  --cs-color-rgb: 82, 127, 204;
+  --callout-icon: info;
+  background-color: color-mix(in oklch, #095de8 13%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #095de8 13%, transparent), color-mix(in oklch, #09d9e8 13%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="info"] {
+  --callout-color: #6095f0;
+  --cs-accent: #6095f0;
+  --cs-color-rgb: 96, 149, 240;
+  background-color: color-mix(in oklch, #669af9 19%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #669af9 19%, transparent), color-mix(in oklch, #66f4f9 19%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.cs-inline-callout[data-callout="info"], .cs-heading-callout[data-callout="info"], .cs-ref-token[data-callout="info"] {
+  --cs-accent: #527fcc;
+  --cs-color-rgb: 82, 127, 204;
+}
+
+.theme-dark .cs-inline-callout[data-callout="info"], .theme-dark .cs-heading-callout[data-callout="info"], .theme-dark .cs-ref-token[data-callout="info"] {
+  --cs-accent: #6095f0;
+  --cs-color-rgb: 96, 149, 240;
+}
+
+.cs-inline-callout[data-callout="info"], .cs-heading-callout[data-callout="info"] {
+  background-color: color-mix(in oklch, #095de8 13%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #095de8 13%, transparent), color-mix(in oklch, #09d9e8 13%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="info"], .theme-dark .cs-heading-callout[data-callout="info"] {
+  background-color: color-mix(in oklch, #669af9 19%, transparent);
+  background-image: linear-gradient(135deg, color-mix(in oklch, #669af9 19%, transparent), color-mix(in oklch, #66f4f9 19%, transparent));
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+@media print {
+.cs-inline-callout[data-callout="info"],
+.theme-dark .cs-inline-callout[data-callout="info"] {
+  background-image: none;
+  position: relative;
+  z-index: 0;
+}
+
+.cs-inline-callout[data-callout="info"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #095de8 13%, transparent), color-mix(in oklch, #09d9e8 13%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-inline-callout[data-callout="info"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #669af9 19%, transparent), color-mix(in oklch, #66f4f9 19%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.cs-heading-callout[data-callout="info"],
+.theme-dark .cs-heading-callout[data-callout="info"] {
+  position: relative;
+  z-index: 0;
+}
+
+.cs-heading-callout[data-callout="info"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #095de8 13%, transparent), color-mix(in oklch, #09d9e8 13%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .cs-heading-callout[data-callout="info"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #669af9 19%, transparent), color-mix(in oklch, #66f4f9 19%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
+
+@media print {
+.callout[data-callout="info"],
+.theme-dark .callout[data-callout="info"] {
+  position: relative;
+  z-index: 0;
+}
+
+.callout[data-callout="info"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #095de8 13%, transparent), color-mix(in oklch, #09d9e8 13%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+
+.theme-dark .callout[data-callout="info"]::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  border-radius: inherit;
+  background-image: linear-gradient(135deg, color-mix(in oklch, #669af9 19%, transparent), color-mix(in oklch, #66f4f9 19%, transparent));
+  filter: opacity(0.999);
+  -webkit-print-color-adjust: exact;
+  print-color-adjust: exact;
+}
+}
