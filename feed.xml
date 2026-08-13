@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://quantumstargazer.github.io/qsblorb">
-  <title>Quantum Stargazer</title>
-  <link href="https://quantumstargazer.github.io/qsblorb/feed.xml" rel="self"/>
-  <link href="https://quantumstargazer.github.io/qsblorb"/>
-  <updated>2026-08-13T05:29:55Z</updated>
-  <id>https://quantumstargazer.github.io/qsblorb</id></feed>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:base="https://quantumstargazer.github.io/">
+  <title>QS Wiki</title>
+  <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
+  <link href="https://quantumstargazer.github.io/"/>
+  <updated>2026-08-13T05:56:08Z</updated>
+  <id>https://quantumstargazer.github.io/</id></feed>
 
