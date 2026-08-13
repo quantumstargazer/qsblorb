@@ -1,0 +1,17 @@
+body {
+    background: radial-gradient(
+
+            circle at top,
+
+            var(--celestial-glow),
+
+            transparent 25%
+
+        ),
+
+
+
+        var(--celestial-background);
+    color: var(--celestial-text);
+    font-family: var(--celestial-font-body);
+}
