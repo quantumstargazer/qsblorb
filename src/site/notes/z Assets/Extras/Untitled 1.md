@@ -13,3 +13,9 @@
 > [!info] Info
 > This is testing modification.
 
+---
+
+> [!coffeetime] CoffeeTime
+> This is yet another test.
+
+
