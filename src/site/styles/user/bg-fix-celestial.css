@@ -14,4 +14,8 @@ body {
         var(--celestial-background);
     color: var(--celestial-text);
     font-family: var(--celestial-font-body);
+		
+	background-repeat: no-repeat;
+	background-attachment: initial;
+	
 }
