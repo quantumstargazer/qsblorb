@@ -8,7 +8,7 @@
 	}
 	
 .callout[data-callout="coffee time"] { 
-	--callout-color: 168, 130, 255; 
+	--callout-color: linear-gradient(135deg, #020617, #4c1d95, #22d3ee);
 	--callout-icon: lucide-coffee; 
 	}
 
