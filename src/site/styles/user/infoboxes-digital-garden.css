@@ -16,12 +16,12 @@
 
 .callout[data-callout="infobox"] {
   font-size: 0.75rem;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 .callout[data-callout="infobox"] .callout-content {
   font-size: 0.75rem;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 .callout[data-callout="infobox"] .callout-content p {
@@ -56,7 +56,7 @@
 .callout[data-callout="infobox"] .callout-content ul,
 .callout[data-callout="infobox"] .callout-content ol {
   font-size: inherit;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
@@ -66,7 +66,7 @@
 
 .callout[data-callout="infobox"] .callout-content blockquote {
   font-size: inherit;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
@@ -85,7 +85,7 @@
 
 .callout[data-callout="infobox"] .callout-content table {
   font-size: inherit;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
@@ -95,7 +95,7 @@
 
 .callout[data-callout="infobox"] .callout-content .infobox-section {
   font-size: 0.72rem;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
@@ -126,7 +126,7 @@
 .callout[data-callout="infobox"] .callout-content code,
 .callout[data-callout="infobox"] .callout-content pre {
   font-size: 0.7rem;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
@@ -191,68 +191,18 @@
 
 
 /* =========================================================
-   STATBOX
-   Normal-width callout styled to match the infobox
+   Digital Garden — Statsbox
+   Full-width character statistics callout
    ========================================================= */
 
 
 /* ---------------------------------------------------------
-   Base callout appearance
+   Base callout
    --------------------------------------------------------- */
 
 .callout[data-callout="statsbox"] {
-  --statsbox-accent: var(--interactive-accent);
-
-  background-color: var(--background-primary-alt);
-
-  border: 1px solid var(--background-modifier-border);
-  border-radius: 10px;
-
   font-size: 0.75rem;
-  line-height: 1.1;
-
-  margin: 1rem 0;
-}
-
-
-/* ---------------------------------------------------------
-   Statsbox title
-   --------------------------------------------------------- */
-
-.callout[data-callout="statsbox"] > .callout-title {
-  min-height: 0;
-
-  padding: 0.55rem 0.75rem;
-
-  background: transparent;
-
-  color: var(--statsbox-accent);
-
-  font-size: 0.9rem;
-  line-height: 1.2;
-}
-
-
-/* Hide the normal callout icon.
-   The infobox itself does not use a visible callout icon,
-   so this keeps the two designs visually related. */
-
-.callout[data-callout="statsbox"] > .callout-title > .callout-icon {
-  display: none;
-}
-
-
-/* Center the title like the infobox name */
-
-.callout[data-callout="statsbox"] .callout-title-inner {
-  width: 100%;
-
-  text-align: center;
-
-  font-size: 0.9rem;
-  line-height: 1.2;
-
-  font-weight: 700;
+  line-height: 1;
 }
 
 
@@ -260,122 +210,129 @@
    Statsbox content
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] > .callout-content {
+.callout[data-callout="statsbox"] .callout-content {
   font-size: 0.75rem;
-  line-height: 1.1;
-
-  padding: 0.25rem 0.75rem 0.75rem;
+  line-height: 1;
 }
 
 
-/* Keep paragraphs compact */
+/* Remove the generous paragraph spacing normally used
+   by regular callouts. */
 
 .callout[data-callout="statsbox"] .callout-content p {
   margin-top: 0;
   margin-bottom: 0;
-
   font-size: inherit;
-  line-height: 1.1;
+  line-height: 1;
+}
+
+
+/* ---------------------------------------------------------
+   Title
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-title-inner {
+  font-size: 0.9rem;
+  line-height: 1.2;
 }
 
 
 /* ---------------------------------------------------------
    Section headings
-   Markdown:
-   ### Apparent Age
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content h3 {
+.callout[data-callout="statsbox"] .stats-section {
   display: block;
 
-  margin: 0.7rem 0 0.35rem;
-  padding: 0.25rem 0.5rem;
+  margin-top: 0.65rem;
+  margin-bottom: 0.35rem;
 
-  background: var(--statsbox-accent);
-
-  border-radius: 7px;
-
-  color: white;
+  padding: 0.22rem 0.4rem;
 
   font-size: 0.72rem;
-  line-height: 1.2;
-
-  font-weight: 700;
+  line-height: 1;
+  font-weight: 600;
 
   text-align: center;
+
+  border-radius: 6px;
 }
 
 
-/* First section should not have unnecessary top spacing */
+/* First section should not have unnecessary top spacing. */
 
-.callout[data-callout="statsbox"] .callout-content > h3:first-child {
+.callout[data-callout="statsbox"] .callout-content > .stats-section:first-child {
   margin-top: 0;
 }
 
 
 /* ---------------------------------------------------------
-   Label / value rows
-   Markdown:
-   **Name** → Info
+   Rows
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content p:has(> strong) {
-  display: grid;
+.callout[data-callout="statsbox"] .stats-row {
+  display: flex;
+  align-items: baseline;
 
-  grid-template-columns: 42% 1fr;
+  margin: 0;
+  padding: 0;
 
-  column-gap: 0.5rem;
-
-  margin: 0 !important;
-  padding: 0 !important;
+  min-height: 0;
 
   font-size: 0.75rem;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
 /* Label */
 
-.callout[data-callout="statsbox"] .callout-content p > strong {
+.callout[data-callout="statsbox"] .stats-label {
+  flex: 0 0 42%;
+
   margin: 0;
   padding: 0;
 
   font-size: inherit;
-  line-height: inherit;
+  line-height: 1;
+  font-weight: 600;
+}
 
-  font-weight: 700;
+
+/* Value */
+
+.callout[data-callout="statsbox"] .stats-value {
+  flex: 1 1 auto;
+
+  margin: 0;
+  padding: 0;
+
+  font-size: inherit;
+  line-height: 1;
 }
 
 
 /* ---------------------------------------------------------
-   Blockquotes
-   Used for the additional Apparent Age years
+   Apparent Age — historical / alternate years
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content blockquote {
-  margin: 0.15rem 0 0.4rem 0;
 
-  padding: 0 0 0 0.65rem;
+/* The first year remains a normal row. */
+
+.callout[data-callout="statsbox"] .stats-age-history {
+  margin: 0.05rem 0 0.15rem 0;
+  padding-left: 0.75rem;
+
+  border-left: 2px solid var(--interactive-accent);
 
   font-size: 0.75rem;
-  line-height: 1.1;
+  line-height: 1;
 }
 
 
-/* Keep blockquote rows compact */
+/* Rows inside the history block */
 
-.callout[data-callout="statsbox"] .callout-content blockquote p {
-  display: grid;
-
-  grid-template-columns: 42% 1fr;
-
-  column-gap: 0.5rem;
-
-  margin: 0 !important;
-  padding: 0 !important;
-
-  font-size: 0.75rem;
-  line-height: 1.1;
+.callout[data-callout="statsbox"] .stats-age-history .stats-row {
+  line-height: 1;
 }
 
 
@@ -383,7 +340,7 @@
    Links
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content a {
+.callout[data-callout="statsbox"] a {
   font-size: inherit;
 }
 
@@ -392,10 +349,26 @@
    Lists
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content ul,
-.callout[data-callout="statsbox"] .callout-content ol {
+.callout[data-callout="statsbox"] ul,
+.callout[data-callout="statsbox"] ol {
+  margin-top: 0;
+  margin-bottom: 0;
+
   font-size: inherit;
-  line-height: 1.1;
+  line-height: 1;
+}
+
+
+/* ---------------------------------------------------------
+   Blockquotes
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] blockquote {
+  margin-top: 0;
+  margin-bottom: 0;
+
+  font-size: inherit;
+  line-height: 1;
 }
 
 
@@ -403,8 +376,28 @@
    Images
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content img {
+.callout[data-callout="statsbox"] img {
   max-width: 100%;
+}
+
+
+/* ---------------------------------------------------------
+   Tables
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] table {
+  font-size: inherit;
+  line-height: 1;
+}
+
+
+/* ---------------------------------------------------------
+   Strong / bold text
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] strong,
+.callout[data-callout="statsbox"] b {
+  font-size: inherit;
 }
 
 
@@ -412,20 +405,9 @@
    Horizontal rules
    --------------------------------------------------------- */
 
-.callout[data-callout="statsbox"] .callout-content hr {
-  margin-top: 0.8rem;
-  margin-bottom: 0.8rem;
-}
-
-
-/* ---------------------------------------------------------
-   Code
-   --------------------------------------------------------- */
-
-.callout[data-callout="statsbox"] .callout-content code,
-.callout[data-callout="statsbox"] .callout-content pre {
-  font-size: 0.7rem;
-  line-height: 1.1;
+.callout[data-callout="statsbox"] hr {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 
@@ -437,13 +419,21 @@
 
   .callout[data-callout="statsbox"] {
     font-size: 0.75rem;
+    line-height: 1;
   }
 
-  .callout[data-callout="statsbox"] > .callout-content {
+  .callout[data-callout="statsbox"] .callout-content {
     font-size: 0.75rem;
+    line-height: 1;
   }
 
   .callout[data-callout="statsbox"] .callout-title-inner {
     font-size: 0.9rem;
+  }
+
+  .callout[data-callout="statsbox"] .stats-row,
+  .callout[data-callout="statsbox"] .stats-age-history {
+    font-size: 0.75rem;
+    line-height: 1;
   }
 }
