@@ -18,7 +18,7 @@
 
 .callout[data-callout="statsbox"] {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -26,7 +26,7 @@
 
 .callout[data-callout="statsbox"] .callout-content {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -34,7 +34,7 @@
 
 .callout[data-callout="statsbox"] .callout-content p {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 
   margin-top: 0;
   margin-bottom: 0.35rem;
@@ -61,7 +61,7 @@
 
 .callout[data-callout="statsbox"] .callout-title-inner {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -98,9 +98,9 @@
 
   color: white;
 
-  font-size: 0.95rem;
+  font-size: 1rem;
   font-weight: 600;
-  line-height: 1.5;
+  line-height: 1.75;
 
   text-align: center;
 }
@@ -129,7 +129,7 @@
   background: transparent;
 
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -167,7 +167,7 @@
   background: transparent;
 
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 
   vertical-align: baseline;
 }
@@ -203,7 +203,7 @@
 
 .callout[data-callout="statsbox"] .callout-content a {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -214,7 +214,7 @@
 .callout[data-callout="statsbox"] .callout-content strong,
 .callout[data-callout="statsbox"] .callout-content b {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -236,7 +236,7 @@
   margin-bottom: 0.15rem;
 
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -257,7 +257,7 @@
 .callout[data-callout="statsbox"] .callout-content code,
 .callout[data-callout="statsbox"] .callout-content pre {
   font-size: 0.95rem;
-  line-height: 1.5;
+  line-height: 1.75;
 }
 
 
@@ -269,31 +269,31 @@
 
   .callout[data-callout="statsbox"] {
     font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .callout[data-callout="statsbox"] .callout-content {
     font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .callout[data-callout="statsbox"] .callout-title-inner {
     font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .callout[data-callout="statsbox"] .callout-content h3 {
     font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .callout[data-callout="statsbox"] .callout-content table {
     font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.75;
   }
 
   .callout[data-callout="statsbox"] .callout-content table td {
     font-size: 0.95rem;
-    line-height: 1.5;
+    line-height: 1.75;
   }
 }
