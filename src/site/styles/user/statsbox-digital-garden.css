@@ -1,67 +1,45 @@
 /* =========================================================
    Digital Garden — Statsbox
    Full-width character statistics callout
-   Styled to visually match the Infobox
-
-   IMPORTANT:
-   This stylesheet is independent from
-   infobox-digital-garden.css.
+   Visually matched to the Infobox
    ========================================================= */
 
 
 /* =========================================================
-   STATSBOX — BASE CALLOUT
+   BASE
    ========================================================= */
 
 .callout[data-callout="statsbox"] {
-  /*
-     Match the dark background of the Infobox.
-
-     The Statsbox remains a normal-width callout; only
-     its visual styling is being matched to the Infobox.
-  */
-  background-color: #0b1020;
-
-  /*
-     Subtle Infobox-like border.
-  */
-  border: 1px solid #1b2740;
-
-  border-radius: 0.6rem;
-
-  /*
-     Infobox-like body typography.
-  */
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   line-height: 1.15;
 }
 
 
-/* =========================================================
-   STATSBOX — BODY
-   ========================================================= */
+/* ---------------------------------------------------------
+   Statsbox body
+   --------------------------------------------------------- */
 
 .callout[data-callout="statsbox"] .callout-content {
-  font-size: 0.82rem;
+  font-size: 0.8rem;
   line-height: 1.15;
 }
 
 
-/* =========================================================
-   PARAGRAPHS
-   ========================================================= */
+/* ---------------------------------------------------------
+   Paragraphs
+   --------------------------------------------------------- */
 
 .callout[data-callout="statsbox"] .callout-content p {
-  margin-top: 0;
-  margin-bottom: 0.35rem;
-
   font-size: inherit;
   line-height: inherit;
+
+  margin-top: 0;
+  margin-bottom: 0.35rem;
 }
 
 
 /* =========================================================
-   STATSBOX — TITLE
+   TITLE
    ========================================================= */
 
 .callout[data-callout="statsbox"] .callout-title-inner {
@@ -70,32 +48,9 @@
 }
 
 
-/*
-   Keep the title area visually similar to the Infobox.
-*/
-
-.callout[data-callout="statsbox"] .callout-title {
-  min-height: 0;
-}
-
-
 /* =========================================================
-   STATSBOX — SECTION HEADINGS
+   SECTION HEADINGS
    ========================================================= */
-
-/*
-   Markdown:
-
-   ### Apparent Age
-
-   ### Date of Birth
-
-   ### Personal Identity
-
-   etc.
-
-   These become the purple section bars.
-*/
 
 .callout[data-callout="statsbox"] .callout-content h3 {
   display: flex;
@@ -104,21 +59,17 @@
 
   width: 100%;
 
-  margin-top: 0.75rem;
+  margin-top: 0.7rem;
   margin-bottom: 0.4rem;
 
-  padding: 0.22rem 0.5rem;
+  padding: 0.18rem 0.5rem;
 
   border-radius: 999px;
 
-  /*
-     Purple matching the Infobox section bars.
-  */
-  background-color: #6f49c6;
-
+  background: var(--interactive-accent);
   color: white;
 
-  font-size: 0.75rem;
+  font-size: 0.72rem;
   font-weight: 600;
   line-height: 1.2;
 
@@ -126,17 +77,15 @@
 }
 
 
-/*
-   The first heading sits closer to the callout title.
-*/
+/* First section heading */
 
 .callout[data-callout="statsbox"] .callout-content > h3:first-child {
-  margin-top: 0.3rem;
+  margin-top: 0.25rem;
 }
 
 
 /* =========================================================
-   STATSBOX — TABLES
+   TABLES
    ========================================================= */
 
 .callout[data-callout="statsbox"] .callout-content table {
@@ -150,23 +99,14 @@
 
   background: transparent;
 
-  font-size: inherit;
+  font-size: 0.8rem;
   line-height: 1.15;
 }
 
 
-/* =========================================================
-   TABLE HEADER
-   ========================================================= */
-
-/*
-   Markdown requires a header separator:
-
-   | | |
-   |---|---|
-
-   The generated header is not displayed.
-*/
+/* ---------------------------------------------------------
+   Remove Markdown header
+   --------------------------------------------------------- */
 
 .callout[data-callout="statsbox"] .callout-content table thead {
   display: none;
@@ -177,19 +117,10 @@
    TABLE ROWS
    ========================================================= */
 
-.callout[data-callout="statsbox"] .callout-content table tbody tr {
+.callout[data-callout="statsbox"] .callout-content table tbody tr,
+.callout[data-callout="statsbox"] .callout-content table tbody tr:nth-child(odd),
+.callout[data-callout="statsbox"] .callout-content table tbody tr:nth-child(even) {
   border: none;
-
-  background: transparent;
-}
-
-
-/*
-   Prevent the theme from adding alternating row colors.
-*/
-
-.callout[data-callout="statsbox"] .callout-content table tbody tr:nth-child(even),
-.callout[data-callout="statsbox"] .callout-content table tbody tr:nth-child(odd) {
   background: transparent;
 }
 
@@ -202,17 +133,11 @@
   border: none;
 
   margin: 0;
-
-  /*
-     Slightly more breathing room than the previous version.
-     This is intended to bring the Statsbox closer to the
-     visual spacing of the Infobox.
-  */
-  padding: 0.08rem 0;
+  padding: 0;
 
   background: transparent;
 
-  font-size: inherit;
+  font-size: 0.8rem;
   line-height: 1.15;
 
   vertical-align: baseline;
@@ -247,7 +172,7 @@
    LINKS
    ========================================================= */
 
-.callout[data-callout="statsbox"] .callout-content table a {
+.callout[data-callout="statsbox"] .callout-content a {
   font-size: inherit;
 }
 
@@ -312,12 +237,12 @@
 @media (max-width: 768px) {
 
   .callout[data-callout="statsbox"] {
-    font-size: 0.82rem;
+    font-size: 0.8rem;
     line-height: 1.15;
   }
 
   .callout[data-callout="statsbox"] .callout-content {
-    font-size: 0.82rem;
+    font-size: 0.8rem;
     line-height: 1.15;
   }
 
@@ -326,10 +251,16 @@
   }
 
   .callout[data-callout="statsbox"] .callout-content h3 {
-    font-size: 0.75rem;
+    font-size: 0.72rem;
+  }
+
+  .callout[data-callout="statsbox"] .callout-content table {
+    font-size: 0.8rem;
+    line-height: 1.15;
   }
 
   .callout[data-callout="statsbox"] .callout-content table td {
+    font-size: 0.8rem;
     line-height: 1.15;
   }
 }
