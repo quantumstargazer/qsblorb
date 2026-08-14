@@ -6,35 +6,52 @@
 
 
 /* =========================================================
-   BASE
+   BASE TYPOGRAPHY
    ========================================================= */
 
+/*
+   Baseline for all Statsbox text.
+
+   Deliberately set to 1rem / 1 so we can establish
+   the correct scale before making any finer adjustments.
+*/
+
 .callout[data-callout="statsbox"] {
-  font-size: 0.8rem;
-  line-height: 1.15;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
-/* ---------------------------------------------------------
-   Statsbox body
-   --------------------------------------------------------- */
+/* Statsbox body */
 
 .callout[data-callout="statsbox"] .callout-content {
-  font-size: 0.8rem;
-  line-height: 1.15;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
-/* ---------------------------------------------------------
-   Paragraphs
-   --------------------------------------------------------- */
+/* Paragraphs */
 
 .callout[data-callout="statsbox"] .callout-content p {
-  font-size: inherit;
-  line-height: inherit;
+  font-size: 1rem;
+  line-height: 1;
 
   margin-top: 0;
   margin-bottom: 0.35rem;
+}
+
+
+/* =========================================================
+   CALLOUT BACKGROUND
+   ========================================================= */
+
+/*
+   Match the dark Infobox appearance rather than allowing
+   the Statsbox to take on a different blue-toned background.
+*/
+
+.callout[data-callout="statsbox"] {
+  background: var(--background-secondary);
 }
 
 
@@ -43,14 +60,22 @@
    ========================================================= */
 
 .callout[data-callout="statsbox"] .callout-title-inner {
-  font-size: 0.9rem;
-  line-height: 1.2;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
 /* =========================================================
    SECTION HEADINGS
    ========================================================= */
+
+/*
+   Markdown source:
+
+   ### Apparent Age
+
+   These become the purple Infobox-style section bars.
+*/
 
 .callout[data-callout="statsbox"] .callout-content h3 {
   display: flex;
@@ -60,24 +85,28 @@
   width: 100%;
 
   margin-top: 0.7rem;
-  margin-bottom: 0.4rem;
+  margin-bottom: 0.35rem;
 
   padding: 0.18rem 0.5rem;
 
   border-radius: 999px;
 
-  background: var(--interactive-accent);
+  /*
+     Purple used by the Infobox section bars.
+  */
+  background: #6f45c2;
+
   color: white;
 
-  font-size: 0.72rem;
+  font-size: 1rem;
   font-weight: 600;
-  line-height: 1.2;
+  line-height: 1;
 
   text-align: center;
 }
 
 
-/* First section heading */
+/* First section heading sits closer to the title */
 
 .callout[data-callout="statsbox"] .callout-content > h3:first-child {
   margin-top: 0.25rem;
@@ -91,7 +120,7 @@
 .callout[data-callout="statsbox"] .callout-content table {
   width: 100%;
 
-  margin: 0 0 0.45rem 0;
+  margin: 0 0 0.35rem 0;
 
   border: none;
   border-collapse: collapse;
@@ -99,13 +128,13 @@
 
   background: transparent;
 
-  font-size: 0.8rem;
-  line-height: 1.15;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
 /* ---------------------------------------------------------
-   Remove Markdown header
+   Remove Markdown table header
    --------------------------------------------------------- */
 
 .callout[data-callout="statsbox"] .callout-content table thead {
@@ -137,8 +166,8 @@
 
   background: transparent;
 
-  font-size: 0.8rem;
-  line-height: 1.15;
+  font-size: 1rem;
+  line-height: 1;
 
   vertical-align: baseline;
 }
@@ -173,7 +202,8 @@
    ========================================================= */
 
 .callout[data-callout="statsbox"] .callout-content a {
-  font-size: inherit;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
@@ -183,7 +213,8 @@
 
 .callout[data-callout="statsbox"] .callout-content strong,
 .callout[data-callout="statsbox"] .callout-content b {
-  font-size: inherit;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
@@ -204,8 +235,8 @@
   margin-top: 0.15rem;
   margin-bottom: 0.15rem;
 
-  font-size: inherit;
-  line-height: 1.15;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
@@ -225,8 +256,8 @@
 
 .callout[data-callout="statsbox"] .callout-content code,
 .callout[data-callout="statsbox"] .callout-content pre {
-  font-size: 0.7rem;
-  line-height: 1.1;
+  font-size: 1rem;
+  line-height: 1;
 }
 
 
@@ -237,30 +268,32 @@
 @media (max-width: 768px) {
 
   .callout[data-callout="statsbox"] {
-    font-size: 0.8rem;
-    line-height: 1.15;
+    font-size: 1rem;
+    line-height: 1;
   }
 
   .callout[data-callout="statsbox"] .callout-content {
-    font-size: 0.8rem;
-    line-height: 1.15;
+    font-size: 1rem;
+    line-height: 1;
   }
 
   .callout[data-callout="statsbox"] .callout-title-inner {
-    font-size: 0.9rem;
+    font-size: 1rem;
+    line-height: 1;
   }
 
   .callout[data-callout="statsbox"] .callout-content h3 {
-    font-size: 0.72rem;
+    font-size: 1rem;
+    line-height: 1;
   }
 
   .callout[data-callout="statsbox"] .callout-content table {
-    font-size: 0.8rem;
-    line-height: 1.15;
+    font-size: 1rem;
+    line-height: 1;
   }
 
   .callout[data-callout="statsbox"] .callout-content table td {
-    font-size: 0.8rem;
-    line-height: 1.15;
+    font-size: 1rem;
+    line-height: 1;
   }
 }
