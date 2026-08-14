@@ -4,7 +4,7 @@
 
 
 
-> [!statsbox] statsbox
+> [!statsbox]+ statsbox
 > 
 > // Apparent Age 
 > 
