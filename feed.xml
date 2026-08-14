@@ -3,10 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-14T02:26:22Z</updated>
+  <updated>2026-08-14T02:39:06Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
     <title>Untitled 1</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/untitled-1/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!ziggy] Ziggy&lt;br /&gt;
@@ -29,11 +29,11 @@ This is yet another test.&lt;/p&gt;
     <link href="https://quantumstargazer.github.io//z-assets/extras/untitled-1/"/>
   </entry><entry>
     <title>Infobox - Basic Stats</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!infobox]+ MuseName&lt;br /&gt;
-&lt;img src=&quot;https://obsidian.md/images/2023-06-logo.png&quot; alt=&quot;|272x154&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;https://obsidian.md/images/2023-06-logo.png&quot; alt=&quot;|273x155&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;section&quot;&gt;Basic Info&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Name&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nickname&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
@@ -55,64 +55,86 @@ This is yet another test.&lt;/p&gt;
 &lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Wishlist&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 &lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Codex&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Apparent Age&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Date of Birth&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Day&lt;/span&gt;&lt;span&gt;DAY of MONTH&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Year&lt;/span&gt;&lt;span&gt;YEAR&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Personal Identity&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Orientation&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;MBTI&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Enneagram&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Physical Description&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Species&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Race&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Ethnicity&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Height&lt;/span&gt;&lt;span&gt;XXX cm / x ft xx in&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Body Type&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Hair&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Eyes&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Complexion&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Demographics&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Planet of Origin&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Place of Birth&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Homeworld&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nationality&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Home Town&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Languages&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Native&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Known&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Social Standings &amp;amp; Affiliations&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Faction&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Organization&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Employer&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Occupation(s)&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Title(s)&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Spiritual Beliefs&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Beliefs&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron Deity&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pantheon&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Combat Classes&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Secondary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Tertiary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Additional Support&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Fighting Style&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Moral Alignment&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Current Status&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!infobox]- Muse Stats&lt;/p&gt;
+&lt;p&gt;// Apparent Age&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Date of Birth&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Day&lt;/span&gt;&lt;span&gt;DAY of MONTH&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Year&lt;/span&gt;&lt;span&gt;YEAR&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Personal Identity&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Orientation&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;MBTI&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Enneagram&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Physical Description&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Species&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Race&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Ethnicity&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Height&lt;/span&gt;&lt;span&gt;XXX cm / x ft xx in&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Body Type&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Hair&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Eyes&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Complexion&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Demographics&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Planet of Origin&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Place of Birth&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Homeworld&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nationality&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Home Town&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Languages&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Native&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Known&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Social Standings &amp;amp; Affiliations&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Faction&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Organization&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Employer&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Occupation(s)&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Title(s)&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Spiritual Beliefs&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Beliefs&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron Deity&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pantheon&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Combat Classes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Secondary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Tertiary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Additional Support&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Fighting Style&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;// Moral Alignment&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;span class=&quot;label-line nested-label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Current Status&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;blockquote&gt;&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 </content>
     <link href="https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/"/>
   </entry><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -186,7 +208,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -408,7 +430,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>0.1 - Dragon Age - Ashina</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossier-dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -939,7 +961,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -1237,7 +1259,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -1314,7 +1336,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-14T02:26:12Z</updated>
+    <updated>2026-08-14T02:38:54Z</updated>
     <id>https://quantumstargazer.github.io//tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
