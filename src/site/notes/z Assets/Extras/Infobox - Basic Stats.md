@@ -4,79 +4,80 @@
 
 
 
-> [!statsbox]+ statsbox
-> 
-> // Apparent Age 
-> 
->  YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> 
+> [!statsbox]+ Muse Stats
+>
+> // Apparent Age
+>
+> YEAR XX +/- years
+> > YEAR XX +/- years
+> > YEAR XX +/- years
+> > YEAR XX +/- years
+> > YEAR XX +/- years
+> > YEAR XX +/- years
+>
 > // Date of Birth
-> 
-> Day -> DAY of MONTH
-> Year -> YEAR
-> 
+>
+> Day DAY of MONTH
+> Year YEAR
+>
 > // Personal Identity
-> 
-> Orientation -> Info
-> MBTI -> — 
-> Enneagram -> — 
-> 
+>
+> Orientation Info
+> MBTI —
+> Enneagram —
+>
 > // Physical Description
-> 
-> Species -> Info
-> Race -> Info
-> Ethnicity -> Info
-> Height -> XXX cm / x ft xx in
-> Body Type -> — 
-> Hair -> Info
-> Eyes -> Info
-> Complexion -> Info
-> 
+>
+> Species Info
+> Race Info
+> Ethnicity Info
+> Height XXX cm / x ft xx in
+> Body Type —
+> Hair Info
+> Eyes Info
+> Complexion Info
+>
 > // Demographics
-> 
-> Planet of Origin -> Info
-> Place of Birth -> Info
-> Homeworld -> Info
-> Nationality -> Info
-> Home Town -> Info
-> 
+>
+> Planet of Origin Info
+> Place of Birth Info
+> Homeworld Info
+> Nationality Info
+> Home Town Info
+>
 > // Languages
-> 
-> Primary -> Info
-> Native -> Info
-> Known -> Info
-> 
+>
+> Primary Info
+> Native Info
+> Known Info
+>
 > // Social Standings & Affiliations
-> 
-> Faction -> Info
-> Patron -> Info
-> Organization -> Info
-> Employer -> Info
-> Occupation(s) -> Info
-> Title(s) -> Info
-> 
+>
+> Faction Info
+> Patron Info
+> Organization Info
+> Employer Info
+> Occupation(s) Info
+> Title(s) Info
+>
 > // Spiritual Beliefs
-> 
-> Beliefs -> Info
-> Patron Deity -> Info
-> Pantheon -> Info
-> 
+>
+> Beliefs Info
+> Patron Deity Info
+> Pantheon Info
+>
 > // Combat Classes
-> 
-> Primary Class -> Info
-> Secondary Class -> Info
-> Tertiary Class -> Info
-> Additional Support -> Info
-> Fighting Style -> Info
-> 
+>
+> Primary Class Info
+> Secondary Class Info
+> Tertiary Class Info
+> Additional Support Info
+> Fighting Style Info
+>
 > // Moral Alignment
-> 
-> Current Status -> Info
+>
+> Current Status Info
+
 
 ---
 
