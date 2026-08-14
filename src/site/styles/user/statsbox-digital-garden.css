@@ -1,0 +1,294 @@
+/* =========================================================
+   Digital Garden — Statsbox
+   Full-width character statistics callout
+   Styled to visually match the Infobox
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   Statsbox — Base typography
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] {
+  font-size: 0.75rem;
+  line-height: 1.1;
+}
+
+
+/* Statsbox body */
+
+.callout[data-callout="statsbox"] .callout-content {
+  font-size: 0.75rem;
+  line-height: 1.1;
+}
+
+
+/* Paragraphs */
+
+.callout[data-callout="statsbox"] .callout-content p {
+  font-size: inherit;
+  line-height: inherit;
+  margin-top: 0;
+  margin-bottom: 0.35rem;
+}
+
+
+/* ---------------------------------------------------------
+   Statsbox title
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-title-inner {
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+
+/* ---------------------------------------------------------
+   Section headings
+   --------------------------------------------------------- */
+
+/*
+   Markdown source:
+
+   ### Apparent Age
+
+   These become the purple section bars used by
+   the Infobox.
+*/
+
+.callout[data-callout="statsbox"] .callout-content h3 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 100%;
+
+  margin-top: 0.7rem;
+  margin-bottom: 0.35rem;
+
+  padding: 0.18rem 0.5rem;
+
+  border-radius: 999px;
+
+  background: var(--interactive-accent);
+  color: white;
+
+  font-size: 0.72rem;
+  font-weight: 600;
+  line-height: 1.2;
+
+  text-align: center;
+}
+
+
+/* First section heading sits closer to the title */
+
+.callout[data-callout="statsbox"] .callout-content > h3:first-child {
+  margin-top: 0.25rem;
+}
+
+
+/* ---------------------------------------------------------
+   Tables
+   --------------------------------------------------------- */
+
+/*
+   The Markdown tables are being used structurally,
+   not visually.
+
+   CSS removes the normal table appearance so that
+   they behave like the label/value rows in the Infobox.
+*/
+
+.callout[data-callout="statsbox"] .callout-content table {
+  width: 100%;
+
+  margin: 0 0 0.35rem 0;
+
+  border: none;
+  border-collapse: collapse;
+  border-spacing: 0;
+
+  background: transparent;
+
+  font-size: inherit;
+  line-height: 1.1;
+}
+
+
+/* ---------------------------------------------------------
+   Remove the Markdown table header
+   --------------------------------------------------------- */
+
+/*
+   Markdown requires:
+
+   | | |
+   |---|---|
+
+   which creates a <thead> even though we don't actually
+   want a visible header.
+*/
+
+.callout[data-callout="statsbox"] .callout-content table thead {
+  display: none;
+}
+
+
+/* ---------------------------------------------------------
+   Table rows
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content table tbody tr {
+  border: none;
+  background: transparent;
+}
+
+
+/* Prevent alternating-row styling from the theme */
+
+.callout[data-callout="statsbox"] .callout-content table tbody tr:nth-child(even),
+.callout[data-callout="statsbox"] .callout-content table tbody tr:nth-child(odd) {
+  background: transparent;
+}
+
+
+/* ---------------------------------------------------------
+   Table cells
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content table td {
+  border: none;
+
+  margin: 0;
+  padding: 0.08rem 0;
+
+  background: transparent;
+
+  font-size: inherit;
+  line-height: 1.1;
+  vertical-align: baseline;
+}
+
+
+/* ---------------------------------------------------------
+   Label column
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content table td:first-child {
+  width: 42%;
+
+  padding-right: 0.5rem;
+
+  font-weight: 600;
+}
+
+
+/* ---------------------------------------------------------
+   Value column
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content table td:last-child {
+  width: 58%;
+
+  font-weight: 400;
+}
+
+
+/* ---------------------------------------------------------
+   Links
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content table a {
+  font-size: inherit;
+}
+
+
+/* ---------------------------------------------------------
+   Strong / bold text
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content strong,
+.callout[data-callout="statsbox"] .callout-content b {
+  font-size: inherit;
+}
+
+
+/* ---------------------------------------------------------
+   Images
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content img {
+  max-width: 100%;
+}
+
+
+/* ---------------------------------------------------------
+   Blockquotes
+   --------------------------------------------------------- */
+
+/*
+   Kept here in case blockquotes are used elsewhere inside
+   the statsbox. They should inherit the same compact
+   typography rather than becoming oversized.
+*/
+
+.callout[data-callout="statsbox"] .callout-content blockquote {
+  margin-top: 0.15rem;
+  margin-bottom: 0.15rem;
+
+  font-size: inherit;
+  line-height: 1.1;
+}
+
+
+/* ---------------------------------------------------------
+   Horizontal rules
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content hr {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+
+/* ---------------------------------------------------------
+   Code
+   --------------------------------------------------------- */
+
+.callout[data-callout="statsbox"] .callout-content code,
+.callout[data-callout="statsbox"] .callout-content pre {
+  font-size: 0.7rem;
+  line-height: 1.1;
+}
+
+
+/* ---------------------------------------------------------
+   Mobile
+   --------------------------------------------------------- */
+
+@media (max-width: 768px) {
+
+  .callout[data-callout="statsbox"] {
+    font-size: 0.75rem;
+    line-height: 1.1;
+  }
+
+  .callout[data-callout="statsbox"] .callout-content {
+    font-size: 0.75rem;
+    line-height: 1.1;
+  }
+
+  .callout[data-callout="statsbox"] .callout-title-inner {
+    font-size: 0.9rem;
+  }
+
+  .callout[data-callout="statsbox"] .callout-content h3 {
+    font-size: 0.72rem;
+  }
+
+  .callout[data-callout="statsbox"] .callout-content table td {
+    line-height: 1.1;
+  }
+}
+
