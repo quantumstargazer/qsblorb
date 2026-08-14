@@ -36,9 +36,11 @@
 > ---
 >
 > > [!infobox]- Muse Stats
+> > 
 > > // Apparent Age
 > >
 > > YEAR -> XX +/- years
+> > 
 > > > YEAR -> XX +/- years
 > > > YEAR -> XX +/- years
 > > > YEAR -> XX +/- years
