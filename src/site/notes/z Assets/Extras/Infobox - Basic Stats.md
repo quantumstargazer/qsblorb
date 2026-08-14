@@ -6,7 +6,7 @@
 
 > [!statsbox]+ Muse Stats
 >
-> ### Apparent Age
+> **Apparent Age**
 >
 > | | |
 > |---|---|
@@ -17,14 +17,14 @@
 > | YEAR | XX +/- years |
 > | YEAR | XX +/- years |
 >
-> ### Date of Birth
+> **Date of Birth**
 >
 > | | |
 > |---|---|
 > | Day | DAY of MONTH |
 > | Year | YEAR |
 >
-> ### Personal Identity
+> **Personal Identity**
 >
 > | | |
 > |---|---|
@@ -32,7 +32,7 @@
 > | MBTI | — |
 > | Enneagram | — |
 >
-> ### Physical Description
+> **Physical Description**
 >
 > | | |
 > |---|---|
@@ -45,7 +45,7 @@
 > | Eyes | Info |
 > | Complexion | Info |
 >
-> ### Demographics
+> **Demographics**
 >
 > | | |
 > |---|---|
@@ -55,7 +55,7 @@
 > | Nationality | Info |
 > | Home Town | Info |
 >
-> ### Languages
+> **Languages**
 >
 > | | |
 > |---|---|
@@ -63,7 +63,7 @@
 > | Native | Info |
 > | Known | Info |
 >
-> ### Social Standings & Affiliations
+> **Social Standings & Affiliations**
 >
 > | | |
 > |---|---|
@@ -74,7 +74,7 @@
 > | Occupation(s) | Info |
 > | Title(s) | Info |
 >
-> ### Spiritual Beliefs
+> **Spiritual Beliefs**
 >
 > | | |
 > |---|---|
@@ -82,7 +82,7 @@
 > | Patron Deity | Info |
 > | Pantheon | Info |
 >
-> ### Combat Classes
+> **Combat Classes**
 >
 > | | |
 > |---|---|
@@ -92,7 +92,7 @@
 > | Additional Support | Info |
 > | Fighting Style | Info |
 >
-> ### Moral Alignment
+> **Moral Alignment**
 >
 > | | |
 > |---|---|
