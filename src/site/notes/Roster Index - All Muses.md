@@ -8,7 +8,7 @@
 > - So when Dragon Age is my highest actively, all Dragon Age muses *and* the Dragon Age AUs for my other muses are more likely to have quicker turn arounds than any other muse in any other fandom, whether it is their canon-based verse and/or AU for other fandoms.
 > - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
 
-- [[! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to all mutuals*
+- [[Muses/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to all mutuals*
 - [[By Request Only - Roster\|By Request Only]] - *available only on request*
 - [[Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
 - [[Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
@@ -20,8 +20,8 @@
 # Baldur's Gate
 ## Open Muses
 ### Original Characters
-- [[! Open Muses - Roster#Tavares Umbrafae\|Tavares Umbrafae]]
-- [[! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
+- [[Muses/! Open Muses - Roster#Tavares Umbrafae\|Tavares Umbrafae]]
+- [[Muses/! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
 ## By Request Only 
 ### Original Characters
 - [[By Request Only - Roster#Faertorithrue\|Faertorithrue]]
@@ -48,14 +48,14 @@
 # Dragon Age
 ## Open Muses
 ### Original Characters
-- [[! Open Muses - Roster#Ashina de Riva née Tabris\|Ashina de Riva née Tabris]]
-- [[! Open Muses - Roster#Ward Ingellvar\|Ward Ingellvar]]
-- [[! Open Muses - Roster#Leonardo de Riva\|Leonardo de Riva]]
-- [[! Open Muses - Roster#Haleir Lavellan\|Haleir Lavellan]]
-- [[! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
-- [[! Open Muses - Roster#Isenril Mahariel\|Isenril Mahariel]]
+- [[Muses/! Open Muses - Roster#Ashina de Riva née Tabris\|Ashina de Riva née Tabris]]
+- [[Muses/! Open Muses - Roster#Ward Ingellvar\|Ward Ingellvar]]
+- [[Muses/! Open Muses - Roster#Leonardo de Riva\|Leonardo de Riva]]
+- [[Muses/! Open Muses - Roster#Haleir Lavellan\|Haleir Lavellan]]
+- [[Muses/! Open Muses - Roster#Marian Hawke\|Marian Hawke]]
+- [[Muses/! Open Muses - Roster#Isenril Mahariel\|Isenril Mahariel]]
 ### Canon Characters
-- [[! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
+- [[Muses/! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
 ## By Request Only 
 ### Original Characters
 - [[By Request Only - Roster#Zaehire de Riva\|Zaehire de Riva]]
@@ -123,7 +123,7 @@
 # Mass Effect
 ## Open Muses
 ### Original Characters
-- [[! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
+- [[Muses/! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
 ## By Request Only 
 ### Original Characters
 - [[By Request Only - Roster#Sara Ryder\|Sara Ryder]]
