@@ -67,6 +67,34 @@ function userMarkdownSetup(md) {
         continue;
       }
 
+
+	/*
+	 * Nested infobox rows
+	 *
+	 * Handles the nested blockquote syntax used by the
+	 * apparent-age/year section.
+	 *
+	 *     > > YEAR -> XX +/- years
+	 *
+	 * The nested ">" is removed so it doesn't appear
+	 * as literal text in the rendered infobox.
+	 */
+	const nestedLabelMatch = line.match(
+	  /^(\s*>\s*)>\s*(.*?)\s+->\s+(.*)$/
+	);
+
+	if (nestedLabelMatch) {
+	  const prefix = nestedLabelMatch[1];
+	  const label = nestedLabelMatch[2].trim();
+	  const value = nestedLabelMatch[3].trim();
+
+	  output.push(
+		`${prefix}<span class="label-line nested-label-line"><span class="label">${label}</span><span>${value}</span></span>`
+	  );
+	  continue;
+	}
+
+
       /*
        * Label/value lines
        *

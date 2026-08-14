@@ -155,6 +155,13 @@
    Digital Garden infobox row normalization
    ========================================================= */
 
+/* Remove paragraph spacing around generated infobox rows */
+.callout[data-callout="infobox"] p:has(.label-line) {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* The actual label/value row */
 .callout[data-callout="infobox"] .label-line {
   display: flex;
   align-items: baseline;
@@ -167,18 +174,23 @@
   min-height: 0 !important;
 }
 
+/* Prevent inherited spacing between consecutive rows */
 .callout[data-callout="infobox"] .label-line + .label-line {
   margin-top: 0 !important;
 }
 
+/* Label column */
 .callout[data-callout="infobox"] .label-line .label {
   flex: 0 0 42%;
+
   margin: 0 !important;
   padding: 0 !important;
 }
 
+/* Value column */
 .callout[data-callout="infobox"] .label-line > span:last-child {
   flex: 1 1 auto;
+
   margin: 0 !important;
   padding: 0 !important;
 }
