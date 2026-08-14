@@ -42,7 +42,7 @@
 
 
 /* =========================================================
-   CALLOUT BACKGROUND
+   CALLOUT BACKGROUND & ICON
    ========================================================= */
 
 /*
@@ -52,6 +52,11 @@
 
 .callout[data-callout="statsbox"] {
   background: var(--background-secondary);
+
+  /*
+     Use the list icon for Statsbox callouts.
+  */
+  --callout-icon: lucide-list;
 }
 
 
