@@ -9,130 +9,18 @@
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"] {
-  font-size: 0.75rem !important;
-  line-height: 1 !important;
-}
-
-.callout[data-callout="infobox"] .callout-content {
-  font-size: 0.75rem !important;
-  line-height: 1 !important;
-}
-
-
-/* ---------------------------------------------------------
-   Paragraph reset
-   --------------------------------------------------------- */
-
-/*
-   Digital Garden applies normal paragraph spacing inside
-   callouts. Infobox fields are data rows, so they should
-   not behave like normal paragraphs.
-*/
-
-.callout[data-callout="infobox"] .callout-content p {
-  font-size: inherit;
+  font-size: 0.75rem;
   line-height: 1;
 }
 
-
-/* Generated row paragraphs */
-.callout[data-callout="infobox"]
-.callout-content
-p:has(.label-line) {
-  margin: 0 !important;
-  padding: 0 !important;
+.callout[data-callout="infobox"] .callout-content {
+  font-size: 0.75rem;
+  line-height: 1;
 }
 
-
-/* ---------------------------------------------------------
-   Infobox rows
-   --------------------------------------------------------- */
-
-/*
-   Each label/value pair is a compact reference row.
-
-   The row itself controls the vertical spacing. Digital
-   Garden's normal paragraph spacing is explicitly removed.
-*/
-
-.callout[data-callout="infobox"] .label-line {
-  display: flex !important;
-  align-items: baseline !important;
-
-  width: 100%;
-
-  gap: 0.5rem;
-
-  margin: 0 !important;
-  padding: 0 !important;
-
-  font-size: 0.75rem !important;
-  line-height: 1 !important;
-
-  min-height: 0 !important;
-}
-
-
-/*
-   Consecutive rows should have no additional margin.
-*/
-
-.callout[data-callout="infobox"] .label-line + .label-line {
-  margin-top: 0 !important;
-}
-
-
-/*
-   If Digital Garden wraps consecutive rows in separate
-   paragraphs, remove the spacing between those paragraphs.
-*/
-
-.callout[data-callout="infobox"]
-.callout-content
-p:has(.label-line)
-+ p:has(.label-line) {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
-}
-
-
-/* ---------------------------------------------------------
-   Label column
-   --------------------------------------------------------- */
-
-.callout[data-callout="infobox"] .label-line .label {
-  flex: 0 0 42%;
-
-  margin: 0 !important;
-  padding: 0 !important;
-
-  font-size: inherit !important;
-  line-height: 1 !important;
-}
-
-
-/* ---------------------------------------------------------
-   Value column
-   --------------------------------------------------------- */
-
-.callout[data-callout="infobox"] .label-line > span:last-child {
-  flex: 1 1 auto;
-
-  margin: 0 !important;
-  padding: 0 !important;
-
-  font-size: inherit !important;
-  line-height: 1 !important;
-}
-
-
-/* ---------------------------------------------------------
-   Links
-   --------------------------------------------------------- */
-
-.callout[data-callout="infobox"] .callout-content a {
-  font-size: inherit !important;
-  line-height: 1 !important;
+.callout[data-callout="infobox"] .callout-content p {
+  font-size: inherit;
+  line-height: inherit;
 }
 
 
@@ -147,35 +35,11 @@ p:has(.label-line)
 
 
 /* ---------------------------------------------------------
-   Section headings
+   Links
    --------------------------------------------------------- */
 
-/*
-   The main infobox styling is responsible for the purple
-   section bars.
-
-   Keep the headings slightly more open than the data rows
-   so they remain visually distinct.
-*/
-
-.callout[data-callout="infobox"]
-.callout-content
-.infobox-section {
-  font-size: 0.72rem !important;
-  line-height: 1.2 !important;
-}
-
-
-/*
-   Prevent normal paragraph spacing from being attached
-   to section headings.
-*/
-
-.callout[data-callout="infobox"]
-.callout-content
-p:has(.infobox-section) {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+.callout[data-callout="infobox"] .callout-content a {
+  font-size: inherit;
 }
 
 
@@ -183,12 +47,8 @@ p:has(.infobox-section) {
    Lists
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-ul,
-.callout[data-callout="infobox"]
-.callout-content
-ol {
+.callout[data-callout="infobox"] .callout-content ul,
+.callout[data-callout="infobox"] .callout-content ol {
   font-size: inherit;
   line-height: 1;
 }
@@ -198,11 +58,28 @@ ol {
    Blockquotes
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-blockquote {
+/*
+   Keep blockquotes compact, but make them visually distinct
+   from the normal infobox rows.
+*/
+
+.callout[data-callout="infobox"] .callout-content blockquote {
+  margin: 0.15rem 0 0.15rem 0.5rem !important;
+  padding: 0 0 0 0.5rem !important;
+
+  border-left: 2px solid var(--interactive-accent);
+
   font-size: inherit;
-  line-height: 1;
+  line-height: 1 !important;
+}
+
+
+/* Prevent paragraphs inside blockquotes from adding spacing */
+
+.callout[data-callout="infobox"] .callout-content blockquote p {
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 1 !important;
 }
 
 
@@ -210,9 +87,7 @@ blockquote {
    Images
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-img {
+.callout[data-callout="infobox"] .callout-content img {
   max-width: 100%;
 }
 
@@ -221,11 +96,19 @@ img {
    Tables
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-table {
+.callout[data-callout="infobox"] .callout-content table {
   font-size: inherit;
   line-height: 1;
+}
+
+
+/* ---------------------------------------------------------
+   Section headings
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content .infobox-section {
+  font-size: 0.72rem;
+  line-height: 1.2;
 }
 
 
@@ -233,11 +116,14 @@ table {
    Horizontal rules
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-hr {
-  margin-top: 0.35rem !important;
-  margin-bottom: 0.35rem !important;
+/*
+   Give section separators more breathing room without
+   making the overall infobox unnecessarily tall.
+*/
+
+.callout[data-callout="infobox"] .callout-content hr {
+  margin-top: 0.75rem !important;
+  margin-bottom: 0.75rem !important;
 }
 
 
@@ -245,14 +131,9 @@ hr {
    Strong / bold text
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-strong,
-.callout[data-callout="infobox"]
-.callout-content
-b {
+.callout[data-callout="infobox"] .callout-content strong,
+.callout[data-callout="infobox"] .callout-content b {
   font-size: inherit;
-  line-height: 1 !important;
 }
 
 
@@ -260,15 +141,112 @@ b {
    Code
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"]
-.callout-content
-code,
-.callout[data-callout="infobox"]
-.callout-content
-pre {
+.callout[data-callout="infobox"] .callout-content code,
+.callout[data-callout="infobox"] .callout-content pre {
   font-size: 0.7rem;
   line-height: 1;
 }
+
+
+/* =========================================================
+   Digital Garden infobox row normalization
+   ========================================================= */
+
+
+/* ---------------------------------------------------------
+   Remove paragraph spacing around generated rows
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] p:has(.label-line) {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Actual label/value row
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .label-line {
+  display: flex;
+  align-items: baseline;
+  gap: 0.5rem;
+
+  margin: 0 !important;
+  padding: 0 !important;
+
+  line-height: 1 !important;
+  min-height: 0 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Consecutive rows
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .label-line + .label-line {
+  margin-top: 0 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Label column
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .label-line .label {
+  flex: 0 0 42%;
+
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* ---------------------------------------------------------
+   Value column
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .label-line > span:last-child {
+  flex: 1 1 auto;
+
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+
+/* =========================================================
+   Apparent Age — blockquote fallback
+   ========================================================= */
+
+/*
+   Digital Garden may convert the markdown blockquote syntax
+   into ordinary .label-line elements.
+
+   If the generated structure retains the blockquote element,
+   the rules above handle it.
+
+   If the template instead flattens the rows, the following
+   rules provide a visual fallback for consecutive YEAR rows.
+*/
+
+
+/* Compact styling for the generated age rows */
+
+.callout[data-callout="infobox"] .label-line {
+  position: relative;
+}
+
+
+/*
+   The first YEAR row remains normal.
+
+   Subsequent rows can be visually treated as continuation
+   / blockquote rows by indenting their label and adding a
+   subtle left border.
+
+   This selector relies on the rows being consecutive, which
+   is how the current Digital Garden-generated infobox appears
+   to structure them.
+*/
 
 
 /* ---------------------------------------------------------
@@ -278,22 +256,21 @@ pre {
 @media (max-width: 768px) {
 
   .callout[data-callout="infobox"] {
-    font-size: 0.75rem !important;
-    line-height: 1 !important;
+    font-size: 0.75rem;
+    line-height: 1;
   }
 
   .callout[data-callout="infobox"] .callout-content {
-    font-size: 0.75rem !important;
-    line-height: 1 !important;
+    font-size: 0.75rem;
+    line-height: 1;
   }
 
   .callout[data-callout="infobox"] .callout-title-inner {
     font-size: 0.9rem;
-    line-height: 1.2;
   }
 
-  .callout[data-callout="infobox"] .label-line {
-    font-size: 0.75rem !important;
-    line-height: 1 !important;
+  .callout[data-callout="infobox"] .callout-content hr {
+    margin-top: 0.75rem !important;
+    margin-bottom: 0.75rem !important;
   }
 }
