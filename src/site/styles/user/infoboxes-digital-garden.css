@@ -10,12 +10,12 @@
 
 .callout[data-callout="infobox"] {
   font-size: 0.75rem !important;
-  line-height: 1.25 !important;
+  line-height: 1 !important;
 }
 
 .callout[data-callout="infobox"] .callout-content {
   font-size: 0.75rem !important;
-  line-height: 1.25 !important;
+  line-height: 1 !important;
 }
 
 
@@ -24,19 +24,21 @@
    --------------------------------------------------------- */
 
 /*
-   Digital Garden's newer template applies paragraph spacing
-   inside callouts. Our generated infobox rows should behave
-   like compact data rows rather than normal paragraphs.
+   Digital Garden applies normal paragraph spacing inside
+   callouts. Infobox fields are data rows, so they should
+   not behave like normal paragraphs.
 */
 
 .callout[data-callout="infobox"] .callout-content p {
   font-size: inherit;
-  line-height: inherit;
+  line-height: 1;
 }
 
 
 /* Generated row paragraphs */
-.callout[data-callout="infobox"] .callout-content p:has(.label-line) {
+.callout[data-callout="infobox"]
+.callout-content
+p:has(.label-line) {
   margin: 0 !important;
   padding: 0 !important;
 }
@@ -49,9 +51,8 @@
 /*
    Each label/value pair is a compact reference row.
 
-   Keep the row itself responsible for spacing rather than
-   allowing Digital Garden's normal paragraph margins to
-   create large gaps between fields.
+   The row itself controls the vertical spacing. Digital
+   Garden's normal paragraph spacing is explicitly removed.
 */
 
 .callout[data-callout="infobox"] .label-line {
@@ -66,15 +67,14 @@
   padding: 0 !important;
 
   font-size: 0.75rem !important;
-  line-height: 1.2 !important;
+  line-height: 1 !important;
 
   min-height: 0 !important;
 }
 
 
 /*
-   Consecutive generated rows should sit directly against
-   one another with only their line-height providing spacing.
+   Consecutive rows should have no additional margin.
 */
 
 .callout[data-callout="infobox"] .label-line + .label-line {
@@ -83,14 +83,14 @@
 
 
 /*
-   If the rows are wrapped in separate paragraphs, remove
-   the spacing between those paragraphs as well.
+   If Digital Garden wraps consecutive rows in separate
+   paragraphs, remove the spacing between those paragraphs.
 */
 
 .callout[data-callout="infobox"]
-  .callout-content
-  p:has(.label-line)
-  + p:has(.label-line) {
+.callout-content
+p:has(.label-line)
++ p:has(.label-line) {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
@@ -107,7 +107,7 @@
   padding: 0 !important;
 
   font-size: inherit !important;
-  line-height: inherit !important;
+  line-height: 1 !important;
 }
 
 
@@ -122,7 +122,7 @@
   padding: 0 !important;
 
   font-size: inherit !important;
-  line-height: inherit !important;
+  line-height: 1 !important;
 }
 
 
@@ -132,6 +132,7 @@
 
 .callout[data-callout="infobox"] .callout-content a {
   font-size: inherit !important;
+  line-height: 1 !important;
 }
 
 
@@ -150,24 +151,29 @@
    --------------------------------------------------------- */
 
 /*
-   The main infobox stylesheet handles the purple section
-   bars. This file only keeps their typography compact.
+   The main infobox styling is responsible for the purple
+   section bars.
+
+   Keep the headings slightly more open than the data rows
+   so they remain visually distinct.
 */
 
-.callout[data-callout="infobox"] .callout-content .infobox-section {
+.callout[data-callout="infobox"]
+.callout-content
+.infobox-section {
   font-size: 0.72rem !important;
   line-height: 1.2 !important;
 }
 
 
 /*
-   Do not allow normal paragraph spacing to become attached
+   Prevent normal paragraph spacing from being attached
    to section headings.
 */
 
 .callout[data-callout="infobox"]
-  .callout-content
-  p:has(.infobox-section) {
+.callout-content
+p:has(.infobox-section) {
   margin-top: 0 !important;
   margin-bottom: 0 !important;
 }
@@ -177,10 +183,14 @@
    Lists
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content ul,
-.callout[data-callout="infobox"] .callout-content ol {
+.callout[data-callout="infobox"]
+.callout-content
+ul,
+.callout[data-callout="infobox"]
+.callout-content
+ol {
   font-size: inherit;
-  line-height: 1.25;
+  line-height: 1;
 }
 
 
@@ -188,9 +198,11 @@
    Blockquotes
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content blockquote {
+.callout[data-callout="infobox"]
+.callout-content
+blockquote {
   font-size: inherit;
-  line-height: 1.25;
+  line-height: 1;
 }
 
 
@@ -198,7 +210,9 @@
    Images
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content img {
+.callout[data-callout="infobox"]
+.callout-content
+img {
   max-width: 100%;
 }
 
@@ -207,9 +221,11 @@
    Tables
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content table {
+.callout[data-callout="infobox"]
+.callout-content
+table {
   font-size: inherit;
-  line-height: 1.25;
+  line-height: 1;
 }
 
 
@@ -217,7 +233,9 @@
    Horizontal rules
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content hr {
+.callout[data-callout="infobox"]
+.callout-content
+hr {
   margin-top: 0.35rem !important;
   margin-bottom: 0.35rem !important;
 }
@@ -227,9 +245,14 @@
    Strong / bold text
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content strong,
-.callout[data-callout="infobox"] .callout-content b {
+.callout[data-callout="infobox"]
+.callout-content
+strong,
+.callout[data-callout="infobox"]
+.callout-content
+b {
   font-size: inherit;
+  line-height: 1 !important;
 }
 
 
@@ -237,10 +260,14 @@
    Code
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"] .callout-content code,
-.callout[data-callout="infobox"] .callout-content pre {
+.callout[data-callout="infobox"]
+.callout-content
+code,
+.callout[data-callout="infobox"]
+.callout-content
+pre {
   font-size: 0.7rem;
-  line-height: 1.2;
+  line-height: 1;
 }
 
 
@@ -252,18 +279,21 @@
 
   .callout[data-callout="infobox"] {
     font-size: 0.75rem !important;
+    line-height: 1 !important;
   }
 
   .callout[data-callout="infobox"] .callout-content {
     font-size: 0.75rem !important;
+    line-height: 1 !important;
   }
 
   .callout[data-callout="infobox"] .callout-title-inner {
     font-size: 0.9rem;
+    line-height: 1.2;
   }
 
   .callout[data-callout="infobox"] .label-line {
     font-size: 0.75rem !important;
-    line-height: 1.2 !important;
+    line-height: 1 !important;
   }
 }
