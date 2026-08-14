@@ -1,89 +1,135 @@
 /* =========================================================
-   Infoboxes — Digital Garden Overrides
+   Digital Garden — Infobox
+   Compact reference-panel styling
    ========================================================= */
 
-
 /* ---------------------------------------------------------
-   Infobox container
+   Base typography
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"][data-infobox-enhanced="true"] {
-  width: 340px !important;
+.callout[data-callout="infobox"] {
+  font-size: 0.75rem;
+  line-height: 1.35;
+}
+
+/* Infobox body */
+.callout[data-callout="infobox"] .callout-content {
+  font-size: 0.75rem;
+  line-height: 1.35;
+}
+
+/* Paragraphs inherit the compact infobox typography */
+.callout[data-callout="infobox"] .callout-content p {
+  font-size: inherit;
+  line-height: inherit;
+}
+
+
+/* ---------------------------------------------------------
+   Muse name / callout title
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-title-inner {
+  font-size: 0.9rem;
+  line-height: 1.2;
+}
+
+
+/* ---------------------------------------------------------
+   Links
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content a {
+  font-size: inherit;
+}
+
+
+/* ---------------------------------------------------------
+   Lists
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content ul,
+.callout[data-callout="infobox"] .callout-content ol {
+  font-size: inherit;
+  line-height: 1.35;
+}
+
+
+/* ---------------------------------------------------------
+   Blockquotes
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content blockquote {
+  font-size: inherit;
+  line-height: 1.35;
+}
+
+
+/* ---------------------------------------------------------
+   Images
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"] .callout-content img {
   max-width: 100%;
-
-  box-sizing: border-box;
-
-  float: right;
-
-  margin-left: 1.5rem;
-  margin-bottom: 1.5rem;
 }
 
 
 /* ---------------------------------------------------------
-   Infobox content
+   Tables
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"][data-infobox-enhanced="true"]
-.callout-content {
-  box-sizing: border-box;
-
-  font-size: 1rem;
-  line-height: 1.4;
+.callout[data-callout="infobox"] .callout-content table {
+  font-size: inherit;
+  line-height: 1.35;
 }
 
 
 /* ---------------------------------------------------------
-   Infobox title
+   Section headings
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"][data-infobox-enhanced="true"]
-.callout-title {
-  box-sizing: border-box;
+/*
+   The existing infobox styling is responsible for turning
+   the section labels into the purple heading bars.
+
+   Keep their existing visual treatment, but make their
+   typography compact enough to match the smaller body text.
+*/
+
+.callout[data-callout="infobox"] .callout-content .infobox-section {
+  font-size: 0.72rem;
+  line-height: 1.2;
 }
 
 
 /* ---------------------------------------------------------
-   Infobox image
+   Horizontal rules
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"][data-infobox-enhanced="true"]
-.callout-content img {
-  max-width: 100%;
-  height: auto;
-
-  box-sizing: border-box;
+.callout[data-callout="infobox"] .callout-content hr {
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
 }
 
 
 /* ---------------------------------------------------------
-   Infobox links
+   Strong / bold text
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"][data-infobox-enhanced="true"]
-.callout-content a {
-  color: var(--link-color);
+.callout[data-callout="infobox"] .callout-content strong,
+.callout[data-callout="infobox"] .callout-content b {
+  font-size: inherit;
 }
 
 
 /* ---------------------------------------------------------
-   Horizontal divider
+   Code
    --------------------------------------------------------- */
 
-.callout[data-callout="infobox"][data-infobox-enhanced="true"]
-.callout-content hr {
-  margin-left: 0;
-  margin-right: 0;
-}
-
-
-/* ---------------------------------------------------------
-   Apparent Age blockquote
-   --------------------------------------------------------- */
-
-.callout[data-callout="infobox"][data-infobox-enhanced="true"]
-.callout-content blockquote {
-  box-sizing: border-box;
+.callout[data-callout="infobox"] .callout-content code,
+.callout[data-callout="infobox"] .callout-content pre {
+  font-size: 0.7rem;
+  line-height: 1.3;
 }
 
 
@@ -91,16 +137,16 @@
    Mobile
    --------------------------------------------------------- */
 
-@media (max-width: 700px) {
-
-  .callout[data-callout="infobox"][data-infobox-enhanced="true"] {
-    width: 100% !important;
-    max-width: 100%;
-
-    float: none;
-
-    margin-left: 0;
-    margin-right: 0;
+@media (max-width: 768px) {
+  .callout[data-callout="infobox"] {
+    font-size: 0.75rem;
   }
 
+  .callout[data-callout="infobox"] .callout-content {
+    font-size: 0.75rem;
+  }
+
+  .callout[data-callout="infobox"] .callout-title-inner {
+    font-size: 0.9rem;
+  }
 }
