@@ -72,12 +72,12 @@
 /*
    Markdown source:
 
-   ### Apparent Age
+   **Apparent Age**
 
    These become the purple Infobox-style section bars.
 */
 
-.callout[data-callout="statsbox"] .callout-content h3 {
+.callout[data-callout="statsbox"] .callout-content > p:has(> strong:only-child) {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -95,7 +95,6 @@
      Purple used by the Infobox section bars.
   */
   background: #6f45c2;
-
   color: white;
 
   font-size: 1rem;
@@ -104,7 +103,6 @@
 
   text-align: center;
 }
-
 
 /* First section heading sits closer to the title */
 
