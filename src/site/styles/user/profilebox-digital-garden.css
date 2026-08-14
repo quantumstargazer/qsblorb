@@ -74,15 +74,6 @@
    PROFILE IMAGE
    ========================================================= */
 
-/*
-   The image is floated to the left so that the content
-   following it can occupy the space to its right.
-
-   Markdown source:
-
-   ![[image.png|150x150]]
-*/
-
 .callout[data-callout="profilebox"] .callout-content img {
   float: left;
 
@@ -92,16 +83,61 @@
   object-fit: cover;
 
   margin: 0 1rem 0.5rem 0;
+
+  max-width: 150px;
 }
 
 
 /*
-   Prevent the image from becoming larger than the
-   available space on narrow screens.
+   The paragraph containing the floated image should not
+   create a full-width block that pushes the next content
+   underneath the image.
 */
 
-.callout[data-callout="profilebox"] .callout-content img {
-  max-width: 150px;
+.callout[data-callout="profilebox"] .callout-content p:has(> img) {
+  margin: 0;
+}
+
+
+/* =========================================================
+   BASIC INFO — IMAGE WRAPPING
+   ========================================================= */
+
+/*
+   Allow the first section bar to occupy the available
+   horizontal space beside the floated image.
+*/
+
+.callout[data-callout="profilebox"] .callout-content
+> p:has(> strong:only-child):first-of-type {
+  width: auto;
+}
+
+
+/*
+   Allow the first table to wrap beside the image rather
+   than being forced to 100% width.
+*/
+
+.callout[data-callout="profilebox"] .callout-content
+> table:first-of-type {
+  width: auto;
+}
+
+
+/* =========================================================
+   SUBSEQUENT SECTION HEADINGS
+   ========================================================= */
+
+/*
+   Clear the image float once the Basic Info section is
+   finished, returning later sections to full width.
+*/
+
+.callout[data-callout="profilebox"] .callout-content
+> table:first-of-type
++ p:has(> strong:only-child) {
+  clear: both;
 }
 
 
@@ -154,33 +190,6 @@
 
 .callout[data-callout="profilebox"] .callout-content > p:has(> strong:only-child):first-child {
   margin-top: 0.25rem;
-}
-
-
-/* =========================================================
-   BASIC INFO / IMAGE WRAPPING
-   ========================================================= */
-
-/*
-   The first section is allowed to occupy the space beside
-   the floated profile image.
-
-   The image remains floated until the content naturally
-   clears it.
-*/
-
-.callout[data-callout="profilebox"] .callout-content {
-  overflow: auto;
-}
-
-
-/*
-   Ensure the first table can sit beside the image rather
-   than being forced underneath it.
-*/
-
-.callout[data-callout="profilebox"] .callout-content table {
-  position: relative;
 }
 
 
@@ -320,33 +329,6 @@
 .callout[data-callout="profilebox"] .callout-content pre {
   font-size: 0.95rem;
   line-height: 2;
-}
-
-
-/* =========================================================
-   CLEAR IMAGE FLOAT
-   ========================================================= */
-
-/*
-   Once the first section is finished, later full-width
-   sections should not continue wrapping around the image.
-
-   The first section's table therefore clears the float
-   after its content.
-*/
-
-.callout[data-callout="profilebox"] .callout-content table {
-  clear: none;
-}
-
-
-/*
-   A section bar following the first table clears the
-   profile image and returns to the normal full-width layout.
-*/
-
-.callout[data-callout="profilebox"] .callout-content table + p:has(> strong:only-child) {
-  clear: both;
 }
 
 
