@@ -4,7 +4,7 @@
 
 
 
-> [!statsbox]+ Profilebox
+> [!profilebox] profilebox
 > ![android-chrome-192x192.png\|150x150](/img/user/z%20Assets/Attachments/android-chrome-192x192.png)
 > 
 > **Basic Info**
