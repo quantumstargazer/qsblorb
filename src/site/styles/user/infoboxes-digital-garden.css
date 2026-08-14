@@ -1,5 +1,5 @@
 /* =========================================================
-   Infoboxes — Digital Garden Compatibility
+   Infoboxes — Digital Garden Overrides
    ========================================================= */
 
 
@@ -8,7 +8,28 @@
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"][data-infobox-enhanced="true"] {
+  width: 320px;
+  max-width: 100%;
+
   box-sizing: border-box;
+
+  float: right;
+
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
+
+/* ---------------------------------------------------------
+   Infobox content
+   --------------------------------------------------------- */
+
+.callout[data-callout="infobox"][data-infobox-enhanced="true"]
+.callout-content {
+  box-sizing: border-box;
+
+  font-size: 0.95rem;
+  line-height: 1.4;
 }
 
 
@@ -30,6 +51,7 @@
 .callout-content img {
   max-width: 100%;
   height: auto;
+
   box-sizing: border-box;
 }
 
@@ -45,7 +67,7 @@
 
 
 /* ---------------------------------------------------------
-   Infobox horizontal rule
+   Horizontal divider
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"][data-infobox-enhanced="true"]
@@ -56,7 +78,7 @@
 
 
 /* ---------------------------------------------------------
-   Infobox blockquote
+   Apparent Age blockquote
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"][data-infobox-enhanced="true"]
@@ -72,9 +94,11 @@
 @media (max-width: 700px) {
 
   .callout[data-callout="infobox"][data-infobox-enhanced="true"] {
-    float: none;
     width: 100%;
     max-width: 100%;
+
+    float: none;
+
     margin-left: 0;
     margin-right: 0;
   }
