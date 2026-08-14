@@ -54,7 +54,7 @@
   background: var(--background-secondary);
 
   /*
-     Use the user-cicle icon for Profilebox callouts.
+     Use the user-circle icon for Profilebox callouts.
   */
   --callout-icon: lucide-user-circle;
 }
@@ -104,25 +104,37 @@
    ========================================================= */
 
 /*
-   Allow the first section bar to occupy the available
-   horizontal space beside the floated image.
+   The image is floated left, allowing the Basic Info section
+   to occupy the remaining horizontal space beside it.
 */
 
+
+/* Basic Info section bar */
+
 .callout[data-callout="profilebox"] .callout-content
-> p:has(> strong:only-child):first-of-type {
-  width: auto;
+> p:has(> img)
++ p:has(> strong:only-child) {
+  width: calc(100% - 166px);
+}
+
+
+/* Basic Info table */
+
+.callout[data-callout="profilebox"] .callout-content
+> p:has(> img)
++ p:has(> strong:only-child)
++ table {
+  width: calc(100% - 166px);
 }
 
 
 /*
-   Allow the first table to wrap beside the image rather
-   than being forced to 100% width.
-*/
+   The 166px allowance consists of:
 
-.callout[data-callout="profilebox"] .callout-content
-> table:first-of-type {
-  width: auto;
-}
+   150px image width
+   + 1rem right margin
+   + a small amount of additional breathing room.
+*/
 
 
 /* =========================================================
@@ -130,12 +142,14 @@
    ========================================================= */
 
 /*
-   Clear the image float once the Basic Info section is
+   Clear the image float once the Basic Info table is
    finished, returning later sections to full width.
 */
 
 .callout[data-callout="profilebox"] .callout-content
-> table:first-of-type
+> p:has(> img)
++ p:has(> strong:only-child)
++ table
 + p:has(> strong:only-child) {
   clear: both;
 }
