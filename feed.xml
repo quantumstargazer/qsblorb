@@ -3,10 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-14T23:06:28Z</updated>
+  <updated>2026-08-14T23:18:28Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
     <title>Blank Statsbox - Template 1</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/templates/elements/custom-callouts/blank-statsbox-template-1/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!profilebox] profilebox&lt;br /&gt;
@@ -88,7 +88,7 @@
     <link href="https://quantumstargazer.github.io//z-assets/templates/elements/custom-callouts/blank-statsbox-template-1/"/>
   </entry><entry>
     <title>TEST - Callout Check</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/test-callout-check/</id>
     <content type="html">&lt;h1 id=&quot;custom-callouts&quot; tabindex=&quot;-1&quot;&gt;Custom Callouts&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -228,7 +228,7 @@ This is a test.&lt;/p&gt;
     <link href="https://quantumstargazer.github.io//z-assets/extras/test-callout-check/"/>
   </entry><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -302,7 +302,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -524,7 +524,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>! Open Muses - Roster</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//muses/open-muses-roster/</id>
     <content type="html">&lt;h1 id=&quot;open-muses&quot; tabindex=&quot;-1&quot;&gt;Open Muses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -569,7 +569,11 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Half-Fey Aevendrow — Wintertouched Long Night Scion — Misfortune Bringer&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Tavares Umbrafae is an archfey warlock in service of the Prince of Frost, tasked with bringing misfortune to Faerûn in exchange for being allowed to return to the material plane after &amp;quot;&lt;em&gt;seven years and a day&lt;/em&gt;&amp;quot; that proved to have lasted &lt;em&gt;decades&lt;/em&gt; longer than were claimed.&lt;/p&gt;
+&lt;p&gt;Exiled from her home in Callidae when she returned decades after her disappearance, her pact to the Pale Prince clear with the binding marks she soon learns to hide with a glamour, she ventures out of the frozen north in search of her &lt;s&gt;master&#39;s&lt;/s&gt; Prince&#39;s consort and to fulfill her assigned duties.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -646,7 +650,11 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Moon Elf — Private Investigator &amp;amp; Spirit Medium — College of Glamour Bard&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Faeynore Moonstar is a private investigator out of Baldur&#39;s Gate, where she has often aided defendants in proving their innocence before the magistrates - &lt;em&gt;including&lt;/em&gt; Magistrate Astarion Ancunín before his death some two centuries prior.&lt;/p&gt;
+&lt;p&gt;They have a specialized interest in Faerie and Infernal contracts, for how often their investigations have turned out to have such contracts involved.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -725,7 +733,13 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;City Elf — &lt;s&gt;Grey Wardens (defected)&lt;/s&gt; Antivan Crows — Master Assassin&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt; &lt;em&gt;after the events in Origins - Awakening&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the &lt;em&gt;de facto&lt;/em&gt; Commander herself during the course of the Fifth Blight.&lt;/p&gt;
+&lt;p&gt;Ashina is conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of &amp;quot;&lt;strong&gt;Tathas Arainai&lt;/strong&gt;&amp;quot;. By 9:31 Dragon, she is notorious among the Wardens for having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and letting it live. The First Warden issued orders for her to be brought in — &lt;em&gt;alive&lt;/em&gt; — to Weisshaupt for questioning. No warden has survived the attempt until she is said to have been killed by the Antivan Crows in 9:33 Dragon.&lt;/p&gt;
+&lt;p&gt;In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon&#39;s Second.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -802,7 +816,12 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;s&gt;Spirit of Learning&lt;/s&gt; Elf — Mourn Watch — Mortalitasi Death Caller&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt; &lt;em&gt;during the events in Veilguard&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead. As Vorgoth&#39;s ward, the elven child is raised within the Necropolis and the Mourn Watch. Their magic is awakened by the instability rippling through the Fade when the Breach opens in the south in 9:41 Dragon.&lt;/p&gt;
+&lt;p&gt;Ward is quiet and often reserved, tending to prefer the company of spirits and the benevolent undead. They are largely inexperienced when it comes to interacting with the living, especially anyone outside of the Mourn Watch and the Grand Necropolis, though they are always willing to learn, even if others aren&#39;t always as receptive to them in return.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -879,7 +898,11 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Human &lt;s&gt;Noble Orphan&lt;/s&gt; Mage — Antivan Crows — Spellblade Assassin&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Leonardo was the third son of a minor noble family in Salle, Antiva — a noble family that was desperately hiding its destitution from the rest of society. In 9:36, his parents and two older brothers are killed by Antivan Crows, and he is instead taken into House de Riva.&lt;/p&gt;
+&lt;p&gt;When he is first brought into the House, he begins training as a rogue, only for his magic to make itself known many weeks later. He doesn&#39;t give up on his rogue training, insisting that he can manage both it &lt;em&gt;and&lt;/em&gt; his magical training, and while many expected him to fail, his sheer determination to prove himself worthy of being a de Riva leads to his eventually studying to be a Spellblade Assassin.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -956,7 +979,13 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;s&gt;Dalish Exile&lt;/s&gt; Elf — &lt;s&gt;Inquisition&lt;/s&gt; Followers of Fen&#39;Harel — &lt;s&gt;Inquisitor&lt;/s&gt; Agent of Fen&#39;Harel&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt; &lt;em&gt;after the events in Inquisition&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen&#39;Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.&lt;/p&gt;
+&lt;p&gt;In 9:41 Dragon, she ends up in the center of the chaos in southern Thedas with the Inquisition, going from being suspected of murder of the Divine to being named the Herald of Andraste in rapid succession. Soon after, she is named the Inquisitor, and leads the Inquisition to victory against Corypheus.&lt;/p&gt;
+&lt;p&gt;In 9:44 Dragon, Haleir abandons the Inquisition after learning who Solas &lt;em&gt;truly&lt;/em&gt; is, instead joining him and his cause, following him through the eluvian.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -969,6 +998,89 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;tr&gt;
 &lt;td&gt;Summary&lt;/td&gt;
 &lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Haleir Lavellan&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Mainverses&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Canon Typical&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Altverses&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Canon Divergent AUs&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Alt Universes&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Fandom Specific AUs&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Crossovers&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Another World AUs&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Multiverse&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Other Verses &amp;amp; AUs&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Private&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Private Verses &amp;amp; AUs&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;marian-hawke&quot; tabindex=&quot;-1&quot;&gt;Marian Hawke&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!profilebox] Marian Hawke (she/her/herself)&lt;br /&gt;
+&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/android-chrome-192x192.png&quot; alt=&quot;android-chrome-192x192.png150x150&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Basic Info&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Name&lt;/td&gt;
+&lt;td&gt;Marian Hawke&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fandom&lt;/td&gt;
+&lt;td&gt;Dragon Age&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Roster&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muses/open-muses-roster/#marian-hawke&quot;&gt;Open Muses&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Status&lt;/td&gt;
+&lt;td&gt;Canon Divergent&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Restrictions&lt;/td&gt;
+&lt;td&gt;n/a&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Human &lt;s&gt;Commoner&lt;/s&gt; Noble — City of Kirkwall — Champion of Kirkwall&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt; — &lt;em&gt;&amp;quot;Double Trouble&amp;quot; Twin of Garrett Hawke&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven.&lt;/p&gt;
+&lt;p&gt;At thirteen, Bethany&#39;s magic manifests at the age of nine, and the family is forced to move again, this time to Lothering in the Ferelden Hinterlands. When Malcolm dies in 9:27 Dragon, Marian takes over as the head of the family at the age of twenty, and is essentially left raising her younger siblings in their mother&#39;s negligence brought on by her grief from the loss of her husband.&lt;/p&gt;
+&lt;p&gt;In 9:30 Dragon, the Fifth Blight begins, and Marian&#39;s entire life changes when the Hawkes are once more forced to flee their home. Their destination: &lt;em&gt;Kirkwall&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Summary&lt;/td&gt;
+&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Marian Hawke&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mainverses&lt;/td&gt;
@@ -1033,7 +1145,12 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;s&gt;Dalish Exile&lt;/s&gt; Elf — &lt;s&gt;Grey Wardens&lt;/s&gt; — Ranger — &lt;s&gt;Hero of Ferelden&lt;/s&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen&#39;s vallaslin, and become the clan&#39;s hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.&lt;/p&gt;
+&lt;p&gt;In 9:30 Dragon, Mahariel and Tamlen investigate one such ruin, where they discover a lone ornate mirror standing in the middle of a chamber deep within the ruins. While Mahariel warns to be cautious, Tamlen approaches it and subsequently releases a strand of blight into the chamber, sickening both of the young hunters, and changing their lives forever.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1046,83 +1163,6 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;tr&gt;
 &lt;td&gt;Summary&lt;/td&gt;
 &lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Isenril Mahariel&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Mainverses&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Canon Typical&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Altverses&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Canon Divergent AUs&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Alt Universes&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Fandom Specific AUs&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Crossovers&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Another World AUs&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Multiverse&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Other Verses &amp;amp; AUs&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Private&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Private Verses &amp;amp; AUs&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;marian-hawke&quot; tabindex=&quot;-1&quot;&gt;Marian Hawke&lt;/h2&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!profilebox] Marian Hawke (she/her/herself)&lt;br /&gt;
-&lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/android-chrome-192x192.png&quot; alt=&quot;android-chrome-192x192.png150x150&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Basic Info&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Name&lt;/td&gt;
-&lt;td&gt;Marian Hawke&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Fandom&lt;/td&gt;
-&lt;td&gt;Dragon Age&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Roster&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muses/open-muses-roster/#marian-hawke&quot;&gt;Open Muses&lt;/a&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Status&lt;/td&gt;
-&lt;td&gt;Canon Compliant&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Restrictions&lt;/td&gt;
-&lt;td&gt;n/a&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Summary&lt;/td&gt;
-&lt;td&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Marian Hawke&lt;/a&gt;&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;Mainverses&lt;/td&gt;
@@ -1187,7 +1227,11 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;City Elf — Antivan Crows — Master Assassin — Eighth Talon&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt; — &lt;em&gt;Eighth Talon of the Crows as of 9:45 Dragon&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1266,7 +1310,12 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
 &lt;/tbody&gt;
 &lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Summary&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;TBA&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Human &lt;s&gt;Biotic&lt;/s&gt; — Paragade — Council Spectre — Infiltration Saboteur Engineer&lt;/em&gt;&lt;br /&gt;
+&lt;strong&gt;Heavy Canon Divergence&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.&lt;/p&gt;
+&lt;p&gt;She often defies expectations, as she refuses to kowtow to the Alliance&#39;s demands of putting humanity&#39;s interests first. Once she is given Spectre status, she stops answering to the Alliance Brass, pushing the fact that she now answers to no one but the Council, and refusing to become the Alliance&#39;s puppet Spectre.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Navigation&lt;/strong&gt;&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
@@ -1316,7 +1365,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//muses/open-muses-roster/"/>
   </entry><entry>
     <title>0.1 - Dragon Age - Ashina</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossier-dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -1847,7 +1896,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -2145,7 +2194,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -2222,7 +2271,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-14T23:06:16Z</updated>
+    <updated>2026-08-14T23:18:14Z</updated>
     <id>https://quantumstargazer.github.io//tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
