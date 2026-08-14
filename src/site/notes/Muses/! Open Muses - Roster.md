@@ -39,7 +39,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Tavares\|Tavares Umbrafae]] |
+> | Muse Info | [[! Summary - Tavares\|Tavares Umbrafae]] |
 > | Mainverses | [[! Summary - Tavares#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -74,7 +74,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Faeynore\|Faeynore Moonstar]] |
+> | Muse Info | [[! Summary - Faeynore\|Faeynore Moonstar]] |
 > | Mainverses | [[! Summary - Faeynore#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -115,7 +115,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
+> | Muse Info | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
 > | Mainverses | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]] |
 > | Altverses | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -151,7 +151,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Ward\|Ward Ingellvar]] |
+> | Muse Info | [[! Summary - Ward\|Ward Ingellvar]] |
 > | Mainverses | [[! Summary - Ward#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -186,7 +186,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Leonardo\|Leonardo de Riva]] |
+> | Muse Info | [[! Summary - Leonardo\|Leonardo de Riva]] |
 > | Mainverses | [[! Summary - Leonardo#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -224,7 +224,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Haleir\|Haleir Lavellan]] |
+> | Muse Info | [[! Summary - Haleir\|Haleir Lavellan]] |
 > | Mainverses | [[! Summary - Haleir#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -262,7 +262,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Marian\|Marian Hawke]] |
+> | Muse Info | [[! Summary - Marian\|Marian Hawke]] |
 > | Mainverses | [[! Summary - Marian#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -299,7 +299,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Mahariel\|Isenril Mahariel]] |
+> | Muse Info | [[! Summary - Mahariel\|Isenril Mahariel]] |
 > | Mainverses | [[! Summary - Mahariel#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -333,7 +333,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Zevran\|Zevran Arainai]] |
+> | Muse Info | [[! Summary - Zevran\|Zevran Arainai]] |
 > | Mainverses | [[! Summary - Zevran#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
@@ -372,7 +372,7 @@
 > 
 > | | |
 > |---|---|
-> | Summary | [[! Summary - Isabela\|Isabela Shepard]] |
+> | Muse Info | [[! Summary - Isabela\|Isabela Shepard]] |
 > | Mainverses | [[! Summary - Isabela#Canon Typical\|Canon Typical]] |
 > | Altverses | [[! Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
 > | Alt Universes | [[! Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
