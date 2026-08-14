@@ -3,33 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-14T17:25:07Z</updated>
+  <updated>2026-08-14T17:25:31Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
-    <title>Untitled 1</title>
-    <updated>2026-08-14T17:24:52Z</updated>
-    <id>https://quantumstargazer.github.io//z-assets/extras/untitled-1/</id>
-    <content type="html">&lt;blockquote&gt;
-&lt;p&gt;[!ziggy] Ziggy&lt;br /&gt;
-This is a test.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!bug] Bug&lt;br /&gt;
-This is still just a test.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!info] Info&lt;br /&gt;
-This is testing modification.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!coffeetime] CoffeeTime&lt;br /&gt;
-This is yet another test.&lt;/p&gt;
-&lt;/blockquote&gt;
-</content>
-    <link href="https://quantumstargazer.github.io//z-assets/extras/untitled-1/"/>
-  </entry><entry>
     <title>TEST - Callout Check</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/test-callout-check/</id>
     <content type="html">&lt;h1 id=&quot;custom-callouts&quot; tabindex=&quot;-1&quot;&gt;Custom Callouts&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -168,321 +145,8 @@ This is a test.&lt;/p&gt;
 </content>
     <link href="https://quantumstargazer.github.io//z-assets/extras/test-callout-check/"/>
   </entry><entry>
-    <title>Infobox - Basic Stats</title>
-    <updated>2026-08-14T17:24:52Z</updated>
-    <id>https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/</id>
-    <content type="html">&lt;blockquote&gt;
-&lt;p&gt;[!statsbox]+ Muse Stats&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Apparent Age&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;XX +/- years&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;XX +/- years&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;XX +/- years&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;XX +/- years&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;XX +/- years&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;XX +/- years&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Date of Birth&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Day&lt;/td&gt;
-&lt;td&gt;DAY of MONTH&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Year&lt;/td&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Personal Identity&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Orientation&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;MBTI&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Enneagram&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Physical Description&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Species&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Race&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Ethnicity&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Height&lt;/td&gt;
-&lt;td&gt;XXX cm / x ft xx in&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Body Type&lt;/td&gt;
-&lt;td&gt;—&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Hair&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Eyes&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Complexion&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Demographics&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Planet of Origin&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Place of Birth&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Homeworld&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Nationality&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Home Town&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Primary&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Native&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Known&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Social Standings &amp;amp; Affiliations&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Faction&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Patron&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Organization&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Employer&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Occupation(s)&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Title(s)&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Spiritual Beliefs&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Beliefs&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Patron Deity&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Pantheon&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Combat Classes&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Primary Class&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Secondary Class&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Tertiary Class&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Additional Support&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Fighting Style&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;&lt;strong&gt;Moral Alignment&lt;/strong&gt;&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;Current Status&lt;/td&gt;
-&lt;td&gt;Info&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!infobox]+ MuseName&lt;br /&gt;
-&lt;img src=&quot;https://obsidian.md/images/2023-06-logo.png&quot; alt=&quot;|272x154&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Basic Info&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Name&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nickname&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alias&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Gender&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pronouns&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Dossiers &amp;amp; Verses&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Roster&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Mainverses&lt;/span&gt;&lt;span&gt;Canon Typical&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Altverses&lt;/span&gt;&lt;span&gt;Canon Divergent AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alt Universes&lt;/span&gt;&lt;span&gt;Fandom Specific AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Crossovers&lt;/span&gt;&lt;span&gt;Another World AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Multiverse&lt;/span&gt;&lt;span&gt;Other Verses &amp;amp; AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Private&lt;/span&gt;&lt;span&gt;Private Verses &amp;amp; AUs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Tumblr Tags&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;In Character&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Open Starters&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Headcanons&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Wishlist&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
-&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Codex&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;hr /&gt;
-</content>
-    <link href="https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/"/>
-  </entry><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -556,7 +220,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -778,7 +442,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>0.1 - Dragon Age - Ashina</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossier-dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -1309,7 +973,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -1607,7 +1271,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -1684,7 +1348,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-14T17:24:52Z</updated>
+    <updated>2026-08-14T17:25:20Z</updated>
     <id>https://quantumstargazer.github.io//tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
