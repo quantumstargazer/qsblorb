@@ -3,10 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-14T01:38:14Z</updated>
+  <updated>2026-08-14T01:48:57Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
     <title>Untitled 1</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/untitled-1/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!ziggy] Ziggy&lt;br /&gt;
@@ -29,92 +29,90 @@ This is yet another test.&lt;/p&gt;
     <link href="https://quantumstargazer.github.io//z-assets/extras/untitled-1/"/>
   </entry><entry>
     <title>Infobox - Basic Stats</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!infobox]+ MuseName&lt;br /&gt;
 &lt;img src=&quot;https://obsidian.md/images/2023-06-logo.png&quot; alt=&quot;|272x154&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;// Basic Info&lt;/p&gt;
-&lt;p&gt;Name -&amp;gt; Info&lt;br /&gt;
-Nickname -&amp;gt; Info&lt;br /&gt;
-Alias -&amp;gt; Info&lt;br /&gt;
-Gender -&amp;gt; Info&lt;br /&gt;
-Pronouns -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Dossiers &amp;amp; Verses&lt;/p&gt;
-&lt;p&gt;Roster -&amp;gt; &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;br /&gt;
-Mainverses -&amp;gt; Canon Typical&lt;br /&gt;
-Altverses -&amp;gt; Canon Divergent AUs&lt;br /&gt;
-Alt Universes -&amp;gt; Fandom Specific AUs&lt;br /&gt;
-Crossovers -&amp;gt; Another World AUs&lt;br /&gt;
-Multiverse -&amp;gt; Other Verses &amp;amp; AUs&lt;br /&gt;
-Private -&amp;gt; Private Verses &amp;amp; AUs&lt;/p&gt;
-&lt;p&gt;// Tumblr Tags&lt;/p&gt;
-&lt;p&gt;In Character -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Open Starters -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Headcanons -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Wishlist -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Codex -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Basic Info&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Name&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nickname&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alias&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Gender&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pronouns&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Dossiers &amp;amp; Verses&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Roster&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Mainverses&lt;/span&gt;&lt;span&gt;Canon Typical&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Altverses&lt;/span&gt;&lt;span&gt;Canon Divergent AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alt Universes&lt;/span&gt;&lt;span&gt;Fandom Specific AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Crossovers&lt;/span&gt;&lt;span&gt;Another World AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Multiverse&lt;/span&gt;&lt;span&gt;Other Verses &amp;amp; AUs&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Private&lt;/span&gt;&lt;span&gt;Private Verses &amp;amp; AUs&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Tumblr Tags&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;In Character&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Open Starters&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Headcanons&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Wishlist&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Codex&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Muse+Name&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;// Apparent Age&lt;/p&gt;
-&lt;p&gt;YEAR -&amp;gt; XX +/- years&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;YEAR -&amp;gt; XX +/- years&lt;br /&gt;
-YEAR -&amp;gt; XX +/- years&lt;br /&gt;
-YEAR -&amp;gt; XX +/- years&lt;br /&gt;
-YEAR -&amp;gt; XX +/- years&lt;br /&gt;
-YEAR -&amp;gt; XX +/- years&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;// Date of Birth&lt;/p&gt;
-&lt;p&gt;Day -&amp;gt; DAY of MONTH&lt;br /&gt;
-Year -&amp;gt; YEAR&lt;/p&gt;
-&lt;p&gt;// Personal Identity&lt;/p&gt;
-&lt;p&gt;Orientation -&amp;gt; Info&lt;br /&gt;
-MBTI -&amp;gt; —&lt;br /&gt;
-Enneagram -&amp;gt; —&lt;/p&gt;
-&lt;p&gt;// Physical Description&lt;/p&gt;
-&lt;p&gt;Species -&amp;gt; Info&lt;br /&gt;
-Race -&amp;gt; Info&lt;br /&gt;
-Ethnicity -&amp;gt; Info&lt;br /&gt;
-Height -&amp;gt; XXX cm / x ft xx in&lt;br /&gt;
-Body Type -&amp;gt; —&lt;br /&gt;
-Hair -&amp;gt; Info&lt;br /&gt;
-Eyes -&amp;gt; Info&lt;br /&gt;
-Complexion -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Demographics&lt;/p&gt;
-&lt;p&gt;Planet of Origin -&amp;gt; Info&lt;br /&gt;
-Place of Birth -&amp;gt; Info&lt;br /&gt;
-Homeworld -&amp;gt; Info&lt;br /&gt;
-Nationality -&amp;gt; Info&lt;br /&gt;
-Home Town -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Languages&lt;/p&gt;
-&lt;p&gt;Primary -&amp;gt; Info&lt;br /&gt;
-Native -&amp;gt; Info&lt;br /&gt;
-Known -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Social Standings &amp;amp; Affiliations&lt;/p&gt;
-&lt;p&gt;Faction -&amp;gt; Info&lt;br /&gt;
-Patron -&amp;gt; Info&lt;br /&gt;
-Organization -&amp;gt; Info&lt;br /&gt;
-Employer -&amp;gt; Info&lt;br /&gt;
-Occupation(s) -&amp;gt; Info&lt;br /&gt;
-Title(s) -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Spiritual Beliefs&lt;/p&gt;
-&lt;p&gt;Beliefs -&amp;gt; Info&lt;br /&gt;
-Patron Deity -&amp;gt; Info&lt;br /&gt;
-Pantheon -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Combat Classes&lt;/p&gt;
-&lt;p&gt;Primary Class -&amp;gt; Info&lt;br /&gt;
-Secondary Class -&amp;gt; Info&lt;br /&gt;
-Tertiary Class -&amp;gt; Info&lt;br /&gt;
-Additional Support -&amp;gt; Info&lt;br /&gt;
-Fighting Style -&amp;gt; Info&lt;/p&gt;
-&lt;p&gt;// Moral Alignment&lt;/p&gt;
-&lt;p&gt;Current Status -&amp;gt; Info&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Apparent Age&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; YEAR&lt;/span&gt;&lt;span&gt;XX +/- years&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Date of Birth&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Day&lt;/span&gt;&lt;span&gt;DAY of MONTH&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Year&lt;/span&gt;&lt;span&gt;YEAR&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Personal Identity&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Orientation&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;MBTI&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Enneagram&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Physical Description&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Species&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Race&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Ethnicity&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Height&lt;/span&gt;&lt;span&gt;XXX cm / x ft xx in&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Body Type&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Hair&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Eyes&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Complexion&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Demographics&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Planet of Origin&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Place of Birth&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Homeworld&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nationality&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Home Town&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Languages&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Native&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Known&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Social Standings &amp;amp; Affiliations&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Faction&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Organization&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Employer&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Occupation(s)&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Title(s)&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Spiritual Beliefs&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Beliefs&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron Deity&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pantheon&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Combat Classes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Secondary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Tertiary Class&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Additional Support&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Fighting Style&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Moral Alignment&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Current Status&lt;/span&gt;&lt;span&gt;Info&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 </content>
     <link href="https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/"/>
   </entry><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -188,7 +186,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -410,87 +408,85 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>0.1 - Dragon Age - Ashina</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossier-dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!infobox]+ Ashina de Riva née Tabris&lt;br /&gt;
 &lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Ash001.png&quot; alt=&quot;|272x272&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;// Basic Info&lt;/p&gt;
-&lt;p&gt;Name -&amp;gt; Ashina de Riva née Tabris&lt;br /&gt;
-Nickname -&amp;gt; Ash&lt;br /&gt;
-Alias -&amp;gt; Tabris Arainai&lt;br /&gt;
-Gender -&amp;gt; Female&lt;br /&gt;
-Pronouns -&amp;gt; She/Her&lt;/p&gt;
-&lt;p&gt;// Dossiers &amp;amp; Verses&lt;/p&gt;
-&lt;p&gt;Roster -&amp;gt; &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;br /&gt;
-Mainverses -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-typical&quot;&gt;Canon Typical&lt;/a&gt;&lt;br /&gt;
-Altverses -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-divergent-a-us&quot;&gt;Canon Divergent AUs&lt;/a&gt;&lt;br /&gt;
-Alt Universes -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#fandom-specific-a-us&quot;&gt;Fandom Specific AUs&lt;/a&gt;&lt;br /&gt;
-Crossovers -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#trapped-in-another-world-a-us&quot;&gt;Another World AUs&lt;/a&gt;&lt;br /&gt;
-Multiverse -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#other-verses-and-a-us&quot;&gt;Other Verses &amp;amp; AUs&lt;/a&gt;&lt;br /&gt;
-Private -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#private-verses-and-a-us&quot;&gt;Private Verses &amp;amp; AUs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;// Tumblr Tags&lt;/p&gt;
-&lt;p&gt;In Character -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Open Starters -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Headcanons -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Wishlist -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Codex -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Basic Info&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Name&lt;/span&gt;&lt;span&gt;Ashina de Riva née Tabris&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nickname&lt;/span&gt;&lt;span&gt;Ash&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alias&lt;/span&gt;&lt;span&gt;Tabris Arainai&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Gender&lt;/span&gt;&lt;span&gt;Female&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pronouns&lt;/span&gt;&lt;span&gt;She/Her&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Dossiers &amp;amp; Verses&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Roster&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Mainverses&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-typical&quot;&gt;Canon Typical&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Altverses&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-divergent-a-us&quot;&gt;Canon Divergent AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alt Universes&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#fandom-specific-a-us&quot;&gt;Fandom Specific AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Crossovers&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#trapped-in-another-world-a-us&quot;&gt;Another World AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Multiverse&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#other-verses-and-a-us&quot;&gt;Other Verses &amp;amp; AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Private&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#private-verses-and-a-us&quot;&gt;Private Verses &amp;amp; AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Tumblr Tags&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;In Character&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Open Starters&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Headcanons&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Wishlist&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Codex&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;hr /&gt;
-&lt;p&gt;// Apparent Age&lt;/p&gt;
-&lt;p&gt;9:51 Dragon -&amp;gt; 45 +/- years&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;9:50 Dragon -&amp;gt; 44 +/- years&lt;br /&gt;
-9:45 Dragon -&amp;gt; 39 +/- years&lt;br /&gt;
-9:40 Dragon -&amp;gt; 34 +/- years&lt;br /&gt;
-9:35 Dragon -&amp;gt; 29 +/- years&lt;br /&gt;
-9:30 Dragon -&amp;gt; 24 +/- years&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;// Date of Birth&lt;/p&gt;
-&lt;p&gt;Day -&amp;gt; 30th of Harvestmere&lt;br /&gt;
-Year -&amp;gt; 9:06 Dragon&lt;/p&gt;
-&lt;p&gt;// Personal Identity&lt;/p&gt;
-&lt;p&gt;Orientation -&amp;gt; Biromantic Bisexual&lt;br /&gt;
-MBTI -&amp;gt; ISTJ-T&lt;br /&gt;
-Enneagram -&amp;gt; —&lt;/p&gt;
-&lt;p&gt;// Physical Description&lt;/p&gt;
-&lt;p&gt;Species -&amp;gt; Elf&lt;br /&gt;
-Race -&amp;gt; City Elf&lt;br /&gt;
-Ethnicity -&amp;gt; Antivan / Ferelden&lt;br /&gt;
-Height -&amp;gt; 157 cm / 5 ft 1.81 in&lt;br /&gt;
-Body Type -&amp;gt; —&lt;br /&gt;
-Hair -&amp;gt; Black / Dark Brown&lt;br /&gt;
-Eyes -&amp;gt; Amber Brown&lt;br /&gt;
-Complexion -&amp;gt; Brown Skin&lt;/p&gt;
-&lt;p&gt;// Demographics&lt;/p&gt;
-&lt;p&gt;Planet of Origin -&amp;gt; Thedas (&lt;em&gt;planet unknown&lt;/em&gt;)&lt;br /&gt;
-Place of Birth -&amp;gt; Denerim, Ferelden&lt;br /&gt;
-Homeworld -&amp;gt; Thedas (&lt;em&gt;planet unknown&lt;/em&gt;)&lt;br /&gt;
-Nationality -&amp;gt; Antivan&lt;br /&gt;
-Home Town -&amp;gt; Salle, Antiva&lt;/p&gt;
-&lt;p&gt;// Languages&lt;/p&gt;
-&lt;p&gt;Primary -&amp;gt; Common Trade Tongue&lt;br /&gt;
-Native -&amp;gt; Antivan&lt;br /&gt;
-Known -&amp;gt; Qunlat, Elvhen&lt;/p&gt;
-&lt;p&gt;// Social Standings &amp;amp; Affiliations&lt;/p&gt;
-&lt;p&gt;Faction -&amp;gt; Antivan Crows&lt;br /&gt;
-Patron -&amp;gt; Fifth Talon&lt;br /&gt;
-Organization -&amp;gt; House de Riva&lt;br /&gt;
-Employer -&amp;gt; Viago de Riva&lt;br /&gt;
-Occupation(s) -&amp;gt; Master Assassin&lt;br /&gt;
-Title(s) -&amp;gt; Talon&#39;s Second&lt;/p&gt;
-&lt;p&gt;// Spiritual Beliefs&lt;/p&gt;
-&lt;p&gt;Beliefs -&amp;gt; Faithless&lt;br /&gt;
-Patron Deity -&amp;gt; —&lt;br /&gt;
-Pantheon -&amp;gt; —&lt;/p&gt;
-&lt;p&gt;// Combat Classes&lt;/p&gt;
-&lt;p&gt;Primary Class -&amp;gt; Master Assassin (&lt;em&gt;Rogue&lt;/em&gt;)&lt;br /&gt;
-Secondary Class -&amp;gt; Duelist (&lt;em&gt;Rogue&lt;/em&gt;)&lt;br /&gt;
-Tertiary Class -&amp;gt; Shadow (&lt;em&gt;Rogue&lt;/em&gt;)&lt;br /&gt;
-Additional Support -&amp;gt; Bard (&lt;em&gt;Rogue&lt;/em&gt;)&lt;br /&gt;
-Fighting Style -&amp;gt; Dual Wield Blades, Archery, &amp;amp; Poisons&lt;/p&gt;
-&lt;p&gt;// Moral Alignment&lt;/p&gt;
-&lt;p&gt;Current Status -&amp;gt; Chaotic Neutral&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Apparent Age&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;9:51 Dragon&lt;/span&gt;&lt;span&gt;45 +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; 9:50 Dragon&lt;/span&gt;&lt;span&gt;44 +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; 9:45 Dragon&lt;/span&gt;&lt;span&gt;39 +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; 9:40 Dragon&lt;/span&gt;&lt;span&gt;34 +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; 9:35 Dragon&lt;/span&gt;&lt;span&gt;29 +/- years&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;&amp;gt; 9:30 Dragon&lt;/span&gt;&lt;span&gt;24 +/- years&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Date of Birth&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Day&lt;/span&gt;&lt;span&gt;30th of Harvestmere&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Year&lt;/span&gt;&lt;span&gt;9:06 Dragon&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Personal Identity&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Orientation&lt;/span&gt;&lt;span&gt;Biromantic Bisexual&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;MBTI&lt;/span&gt;&lt;span&gt;ISTJ-T&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Enneagram&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Physical Description&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Species&lt;/span&gt;&lt;span&gt;Elf&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Race&lt;/span&gt;&lt;span&gt;City Elf&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Ethnicity&lt;/span&gt;&lt;span&gt;Antivan / Ferelden&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Height&lt;/span&gt;&lt;span&gt;157 cm / 5 ft 1.81 in&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Body Type&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Hair&lt;/span&gt;&lt;span&gt;Black / Dark Brown&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Eyes&lt;/span&gt;&lt;span&gt;Amber Brown&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Complexion&lt;/span&gt;&lt;span&gt;Brown Skin&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Demographics&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Planet of Origin&lt;/span&gt;&lt;span&gt;Thedas (&lt;em&gt;planet unknown&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Place of Birth&lt;/span&gt;&lt;span&gt;Denerim, Ferelden&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Homeworld&lt;/span&gt;&lt;span&gt;Thedas (&lt;em&gt;planet unknown&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nationality&lt;/span&gt;&lt;span&gt;Antivan&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Home Town&lt;/span&gt;&lt;span&gt;Salle, Antiva&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Languages&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary&lt;/span&gt;&lt;span&gt;Common Trade Tongue&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Native&lt;/span&gt;&lt;span&gt;Antivan&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Known&lt;/span&gt;&lt;span&gt;Qunlat, Elvhen&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Social Standings &amp;amp; Affiliations&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Faction&lt;/span&gt;&lt;span&gt;Antivan Crows&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron&lt;/span&gt;&lt;span&gt;Fifth Talon&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Organization&lt;/span&gt;&lt;span&gt;House de Riva&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Employer&lt;/span&gt;&lt;span&gt;Viago de Riva&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Occupation(s)&lt;/span&gt;&lt;span&gt;Master Assassin&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Title(s)&lt;/span&gt;&lt;span&gt;Talon&#39;s Second&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Spiritual Beliefs&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Beliefs&lt;/span&gt;&lt;span&gt;Faithless&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Patron Deity&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pantheon&lt;/span&gt;&lt;span&gt;—&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Combat Classes&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Primary Class&lt;/span&gt;&lt;span&gt;Master Assassin (&lt;em&gt;Rogue&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Secondary Class&lt;/span&gt;&lt;span&gt;Duelist (&lt;em&gt;Rogue&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Tertiary Class&lt;/span&gt;&lt;span&gt;Shadow (&lt;em&gt;Rogue&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Additional Support&lt;/span&gt;&lt;span&gt;Bard (&lt;em&gt;Rogue&lt;/em&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Fighting Style&lt;/span&gt;&lt;span&gt;Dual Wield Blades, Archery, &amp;amp; Poisons&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Moral Alignment&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Current Status&lt;/span&gt;&lt;span&gt;Chaotic Neutral&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Muse:&lt;/em&gt; Ashina Tabris&lt;/li&gt;
@@ -943,32 +939,32 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
 &lt;p&gt;[!infobox]+ Ashina de Riva née Tabris&lt;br /&gt;
 &lt;img src=&quot;https://quantumstargazer.github.io/img/user/z%20Assets/Attachments/Ash001.png&quot; alt=&quot;|272x272&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;// Basic Info&lt;/p&gt;
-&lt;p&gt;Name -&amp;gt; Ashina de Riva&lt;br /&gt;
-Nickname -&amp;gt; Ash&lt;br /&gt;
-Alias -&amp;gt; Tabris Arainai&lt;br /&gt;
-Gender -&amp;gt; Female&lt;br /&gt;
-Pronouns -&amp;gt; She/Her&lt;/p&gt;
-&lt;p&gt;// Dossiers &amp;amp; Verses&lt;/p&gt;
-&lt;p&gt;Roster -&amp;gt; &lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;br /&gt;
-Mainverses -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-typical&quot;&gt;Canon Typical&lt;/a&gt;&lt;br /&gt;
-Altverses -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-divergent-a-us&quot;&gt;Canon Divergent AUs&lt;/a&gt;&lt;br /&gt;
-Alt Universes -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#fandom-specific-a-us&quot;&gt;Fandom Specific AUs&lt;/a&gt;&lt;br /&gt;
-Crossovers -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#trapped-in-another-world-a-us&quot;&gt;Another World AUs&lt;/a&gt;&lt;br /&gt;
-Multiverse -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#other-verses-and-a-us&quot;&gt;Other Verses &amp;amp; AUs&lt;/a&gt;&lt;br /&gt;
-Private -&amp;gt; &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#private-verses-and-a-us&quot;&gt;Private Verses &amp;amp; AUs&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;// Tumblr Tags&lt;/p&gt;
-&lt;p&gt;In Character -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Open Starters -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Headcanons -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Wishlist -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;br /&gt;
-Codex -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Basic Info&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Name&lt;/span&gt;&lt;span&gt;Ashina de Riva&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Nickname&lt;/span&gt;&lt;span&gt;Ash&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alias&lt;/span&gt;&lt;span&gt;Tabris Arainai&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Gender&lt;/span&gt;&lt;span&gt;Female&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Pronouns&lt;/span&gt;&lt;span&gt;She/Her&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Dossiers &amp;amp; Verses&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Roster&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link is-unresolved&quot; href=&quot;https://quantumstargazer.github.io/404&quot; target=&quot;&quot;&gt;Open Muses&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Mainverses&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-typical&quot;&gt;Canon Typical&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Altverses&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#canon-divergent-a-us&quot;&gt;Canon Divergent AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Alt Universes&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#fandom-specific-a-us&quot;&gt;Fandom Specific AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Crossovers&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#trapped-in-another-world-a-us&quot;&gt;Another World AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Multiverse&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#other-verses-and-a-us&quot;&gt;Other Verses &amp;amp; AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Private&lt;/span&gt;&lt;span&gt;&lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/#private-verses-and-a-us&quot;&gt;Private Verses &amp;amp; AUs&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;section&quot;&gt;Tumblr Tags&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;In Character&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/IC+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Open Starters&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Open+Starter+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Headcanons&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Headcanon+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Wishlist&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Wishlist+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;span class=&quot;label-line&quot;&gt;&lt;span class=&quot;label&quot;&gt;Codex&lt;/span&gt;&lt;span&gt;&lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Codex+%E2%98%BE%E2%AD%92+Ashina+Tabris&quot; target=&quot;_blank&quot; class=&quot;external-link&quot;&gt;tag&lt;/a&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;em&gt;Muse:&lt;/em&gt; Ashina Tabris&lt;/li&gt;
@@ -1241,7 +1237,7 @@ Codex -&amp;gt; &lt;a href=&quot;https://quantumstargazer.tumblr.com/tagged/Code
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -1318,7 +1314,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-14T01:37:55Z</updated>
+    <updated>2026-08-14T01:48:48Z</updated>
     <id>https://quantumstargazer.github.io//tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
