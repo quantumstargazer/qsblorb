@@ -58,28 +58,9 @@
    Blockquotes
    --------------------------------------------------------- */
 
-/*
-   Keep blockquotes compact, but make them visually distinct
-   from the normal infobox rows.
-*/
-
 .callout[data-callout="infobox"] .callout-content blockquote {
-  margin: 0.15rem 0 0.15rem 0.5rem !important;
-  padding: 0 0 0 0.5rem !important;
-
-  border-left: 2px solid var(--interactive-accent);
-
   font-size: inherit;
-  line-height: 1 !important;
-}
-
-
-/* Prevent paragraphs inside blockquotes from adding spacing */
-
-.callout[data-callout="infobox"] .callout-content blockquote p {
-  margin: 0 !important;
-  padding: 0 !important;
-  line-height: 1 !important;
+  line-height: 1;
 }
 
 
@@ -117,8 +98,9 @@
    --------------------------------------------------------- */
 
 /*
-   Give section separators more breathing room without
-   making the overall infobox unnecessarily tall.
+   Increased spacing around section separators.
+   This does NOT change the surrounding text size or
+   line-height.
 */
 
 .callout[data-callout="infobox"] .callout-content hr {
@@ -154,7 +136,7 @@
 
 
 /* ---------------------------------------------------------
-   Remove paragraph spacing around generated rows
+   Remove paragraph spacing around generated infobox rows
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"] p:has(.label-line) {
@@ -175,13 +157,15 @@
   margin: 0 !important;
   padding: 0 !important;
 
+  font-size: 0.75rem !important;
   line-height: 1 !important;
+
   min-height: 0 !important;
 }
 
 
 /* ---------------------------------------------------------
-   Consecutive rows
+   Prevent inherited spacing between consecutive rows
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"] .label-line + .label-line {
@@ -198,6 +182,9 @@
 
   margin: 0 !important;
   padding: 0 !important;
+
+  font-size: inherit !important;
+  line-height: 1 !important;
 }
 
 
@@ -210,43 +197,21 @@
 
   margin: 0 !important;
   padding: 0 !important;
+
+  font-size: inherit !important;
+  line-height: 1 !important;
 }
 
 
-/* =========================================================
-   Apparent Age — blockquote fallback
-   ========================================================= */
+/* ---------------------------------------------------------
+   Force generated row contents to remain compact
+   --------------------------------------------------------- */
 
-/*
-   Digital Garden may convert the markdown blockquote syntax
-   into ordinary .label-line elements.
-
-   If the generated structure retains the blockquote element,
-   the rules above handle it.
-
-   If the template instead flattens the rows, the following
-   rules provide a visual fallback for consecutive YEAR rows.
-*/
-
-
-/* Compact styling for the generated age rows */
-
-.callout[data-callout="infobox"] .label-line {
-  position: relative;
+.callout[data-callout="infobox"] .label-line *,
+.callout[data-callout="infobox"] .label-line a {
+  font-size: inherit !important;
+  line-height: 1 !important;
 }
-
-
-/*
-   The first YEAR row remains normal.
-
-   Subsequent rows can be visually treated as continuation
-   / blockquote rows by indenting their label and adding a
-   subtle left border.
-
-   This selector relies on the rows being consecutive, which
-   is how the current Digital Garden-generated infobox appears
-   to structure them.
-*/
 
 
 /* ---------------------------------------------------------
