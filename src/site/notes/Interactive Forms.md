@@ -9,7 +9,6 @@
 
 ---
 # Interaction Call Forms
-> *For more information about these forms, see:* [[Forms — Interaction - Guidelines\|Interaction Forms]]
 
 > [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
@@ -37,7 +36,6 @@
 
 ---
 # Interest Tracking Forms
-> *For more information about these forms, see:* [[Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 ## Disinterest Tracker
 
 > [!rule]- Interest Assumed For All Open Muses Unless Filled Out
