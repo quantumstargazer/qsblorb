@@ -4,7 +4,10 @@
 
 # Open Muses
 
-
+> [!tracker] Disinterest Tracker
+> 
+> **Fill out the [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]] form** if there are any muses you are *not* interested in interacting with, otherwise it is assumed that you *are* interested in writing with any of my muses on this roster, so long as we're mutuals.
+> 
 
 ---
 # Baldur's Gate
