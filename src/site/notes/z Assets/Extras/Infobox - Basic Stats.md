@@ -3,9 +3,8 @@
 ---
 
 
-
 > [!infobox]+ MuseName
-> ![|272x154](https://obsidian.md/images/2023-06-logo.png)
+> ![|273x155](https://obsidian.md/images/2023-06-logo.png)
 > 
 > // Basic Info
 > 
@@ -35,75 +34,82 @@
 > 
 > ---
 > 
-> // Apparent Age 
-> 
->  YEAR -> XX +/- years
+> > [!infobox]- Muse Stats
+> > 
+> > // Apparent Age 
+> > 
 > > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> > YEAR -> XX +/- years
-> 
-> // Date of Birth
-> 
-> Day -> DAY of MONTH
-> Year -> YEAR
-> 
-> // Personal Identity
-> 
-> Orientation -> Info
-> MBTI -> — 
-> Enneagram -> — 
-> 
-> // Physical Description
-> 
-> Species -> Info
-> Race -> Info
-> Ethnicity -> Info
-> Height -> XXX cm / x ft xx in
-> Body Type -> — 
-> Hair -> Info
-> Eyes -> Info
-> Complexion -> Info
-> 
-> // Demographics
-> 
-> Planet of Origin -> Info
-> Place of Birth -> Info
-> Homeworld -> Info
-> Nationality -> Info
-> Home Town -> Info
-> 
-> // Languages
-> 
-> Primary -> Info
-> Native -> Info
-> Known -> Info
-> 
-> // Social Standings & Affiliations
-> 
-> Faction -> Info
-> Patron -> Info
-> Organization -> Info
-> Employer -> Info
-> Occupation(s) -> Info
-> Title(s) -> Info
-> 
-> // Spiritual Beliefs
-> 
-> Beliefs -> Info
-> Patron Deity -> Info
-> Pantheon -> Info
-> 
-> // Combat Classes
-> 
-> Primary Class -> Info
-> Secondary Class -> Info
-> Tertiary Class -> Info
-> Additional Support -> Info
-> Fighting Style -> Info
-> 
-> // Moral Alignment
-> 
-> Current Status -> Info
-> 
+> > >YEAR -> XX +/- years
+> > >YEAR -> XX +/- years
+> > >YEAR -> XX +/- years
+> > >YEAR -> XX +/- years
+> > >YEAR -> XX +/- years
+> > 
+> > // Date of Birth
+> > 
+> > Day -> DAY of MONTH
+> > Year -> YEAR
+> > 
+> > // Personal Identity
+> > 
+> > Orientation -> Info
+> > MBTI -> — 
+> > Enneagram -> — 
+> > 
+> > // Physical Description
+> > 
+> > Species -> Info
+> > Race -> Info
+> > Ethnicity -> Info
+> > Height -> XXX cm / x ft xx in
+> > Body Type -> — 
+> > Hair -> Info
+> > Eyes -> Info
+> > Complexion -> Info
+> > 
+> > // Demographics
+> > 
+> > Planet of Origin -> Info
+> > Place of Birth -> Info
+> > Homeworld -> Info
+> > Nationality -> Info
+> > Home Town -> Info
+> > 
+> > // Languages
+> > 
+> > Primary -> Info
+> > Native -> Info
+> > Known -> Info
+> > 
+> > // Social Standings & Affiliations
+> > 
+> > Faction -> Info
+> > Patron -> Info
+> > Organization -> Info
+> > Employer -> Info
+> > Occupation(s) -> Info
+> > Title(s) -> Info
+> > 
+> > // Spiritual Beliefs
+> > 
+> > Beliefs -> Info
+> > Patron Deity -> Info
+> > Pantheon -> Info
+> > 
+> > // Combat Classes
+> > 
+> > Primary Class -> Info
+> > Secondary Class -> Info
+> > Tertiary Class -> Info
+> > Additional Support -> Info
+> > Fighting Style -> Info
+> > 
+> > // Moral Alignment
+> > 
+> > Current Status -> Info
+> > 
+
+
+
+
+
