@@ -3,10 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-14T23:02:03Z</updated>
+  <updated>2026-08-14T23:06:28Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
     <title>Blank Statsbox - Template 1</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/templates/elements/custom-callouts/blank-statsbox-template-1/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!profilebox] profilebox&lt;br /&gt;
@@ -88,7 +88,7 @@
     <link href="https://quantumstargazer.github.io//z-assets/templates/elements/custom-callouts/blank-statsbox-template-1/"/>
   </entry><entry>
     <title>TEST - Callout Check</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/test-callout-check/</id>
     <content type="html">&lt;h1 id=&quot;custom-callouts&quot; tabindex=&quot;-1&quot;&gt;Custom Callouts&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -228,7 +228,7 @@ This is a test.&lt;/p&gt;
     <link href="https://quantumstargazer.github.io//z-assets/extras/test-callout-check/"/>
   </entry><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -302,7 +302,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -524,9 +524,13 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>! Open Muses - Roster</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//muses/open-muses-roster/</id>
     <content type="html">&lt;h1 id=&quot;open-muses&quot; tabindex=&quot;-1&quot;&gt;Open Muses&lt;/h1&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[!tracker] Disinterest Tracker&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Fill out the &lt;a class=&quot;internal-link&quot; target=&quot;&quot; data-note-icon=&quot;&quot; href=&quot;https://quantumstargazer.github.io/interactive-forms/#disinterest-tracker&quot;&gt;Disinterest Tracker&lt;/a&gt; form&lt;/strong&gt; if there are any muses you are &lt;em&gt;not&lt;/em&gt; interested in interacting with, otherwise it is assumed that you &lt;em&gt;are&lt;/em&gt; interested in writing with any of my muses on this roster, so long as we&#39;re mutuals.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;h1 id=&quot;baldur-s-gate&quot; tabindex=&quot;-1&quot;&gt;Baldur&#39;s Gate&lt;/h1&gt;
 &lt;h2 id=&quot;tavares-umbrafae&quot; tabindex=&quot;-1&quot;&gt;Tavares Umbrafae&lt;/h2&gt;
@@ -1312,7 +1316,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//muses/open-muses-roster/"/>
   </entry><entry>
     <title>0.1 - Dragon Age - Ashina</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossier-dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -1843,7 +1847,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -2141,7 +2145,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -2218,7 +2222,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-14T23:01:51Z</updated>
+    <updated>2026-08-14T23:06:16Z</updated>
     <id>https://quantumstargazer.github.io//tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
