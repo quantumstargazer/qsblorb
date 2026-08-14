@@ -54,9 +54,9 @@
   background: var(--background-secondary);
 
   /*
-     Use the list icon for Profilebox callouts.
+     Use the user-cicle icon for Profilebox callouts.
   */
-  --callout-icon: lucide-list;
+  --callout-icon: lucide-user-circle;
 }
 
 
