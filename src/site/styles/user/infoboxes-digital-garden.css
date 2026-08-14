@@ -8,7 +8,7 @@
    --------------------------------------------------------- */
 
 .callout[data-callout="infobox"][data-infobox-enhanced="true"] {
-  width: 320px;
+  width: 340px !important;
   max-width: 100%;
 
   box-sizing: border-box;
@@ -28,7 +28,7 @@
 .callout-content {
   box-sizing: border-box;
 
-  font-size: 0.95rem;
+  font-size: 1rem;
   line-height: 1.4;
 }
 
@@ -94,7 +94,7 @@
 @media (max-width: 700px) {
 
   .callout[data-callout="infobox"][data-infobox-enhanced="true"] {
-    width: 100%;
+    width: 100% !important;
     max-width: 100%;
 
     float: none;
