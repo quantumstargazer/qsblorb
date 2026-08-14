@@ -3,10 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-14T14:08:36Z</updated>
+  <updated>2026-08-14T14:16:28Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
     <title>Untitled 1</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/untitled-1/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!ziggy] Ziggy&lt;br /&gt;
@@ -29,64 +29,288 @@ This is yet another test.&lt;/p&gt;
     <link href="https://quantumstargazer.github.io//z-assets/extras/untitled-1/"/>
   </entry><entry>
     <title>Infobox - Basic Stats</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/</id>
     <content type="html">&lt;blockquote&gt;
 &lt;p&gt;[!statsbox]+ Muse Stats&lt;/p&gt;
-&lt;p&gt;// Apparent Age&lt;/p&gt;
-&lt;p&gt;YEAR XX +/- years&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;YEAR XX +/- years&lt;br /&gt;
-YEAR XX +/- years&lt;br /&gt;
-YEAR XX +/- years&lt;br /&gt;
-YEAR XX +/- years&lt;br /&gt;
-YEAR XX +/- years&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;// Date of Birth&lt;/p&gt;
-&lt;p&gt;Day DAY of MONTH&lt;br /&gt;
-Year YEAR&lt;/p&gt;
-&lt;p&gt;// Personal Identity&lt;/p&gt;
-&lt;p&gt;Orientation Info&lt;br /&gt;
-MBTI —&lt;br /&gt;
-Enneagram —&lt;/p&gt;
-&lt;p&gt;// Physical Description&lt;/p&gt;
-&lt;p&gt;Species Info&lt;br /&gt;
-Race Info&lt;br /&gt;
-Ethnicity Info&lt;br /&gt;
-Height XXX cm / x ft xx in&lt;br /&gt;
-Body Type —&lt;br /&gt;
-Hair Info&lt;br /&gt;
-Eyes Info&lt;br /&gt;
-Complexion Info&lt;/p&gt;
-&lt;p&gt;// Demographics&lt;/p&gt;
-&lt;p&gt;Planet of Origin Info&lt;br /&gt;
-Place of Birth Info&lt;br /&gt;
-Homeworld Info&lt;br /&gt;
-Nationality Info&lt;br /&gt;
-Home Town Info&lt;/p&gt;
-&lt;p&gt;// Languages&lt;/p&gt;
-&lt;p&gt;Primary Info&lt;br /&gt;
-Native Info&lt;br /&gt;
-Known Info&lt;/p&gt;
-&lt;p&gt;// Social Standings &amp;amp; Affiliations&lt;/p&gt;
-&lt;p&gt;Faction Info&lt;br /&gt;
-Patron Info&lt;br /&gt;
-Organization Info&lt;br /&gt;
-Employer Info&lt;br /&gt;
-Occupation(s) Info&lt;br /&gt;
-Title(s) Info&lt;/p&gt;
-&lt;p&gt;// Spiritual Beliefs&lt;/p&gt;
-&lt;p&gt;Beliefs Info&lt;br /&gt;
-Patron Deity Info&lt;br /&gt;
-Pantheon Info&lt;/p&gt;
-&lt;p&gt;// Combat Classes&lt;/p&gt;
-&lt;p&gt;Primary Class Info&lt;br /&gt;
-Secondary Class Info&lt;br /&gt;
-Tertiary Class Info&lt;br /&gt;
-Additional Support Info&lt;br /&gt;
-Fighting Style Info&lt;/p&gt;
-&lt;p&gt;// Moral Alignment&lt;/p&gt;
-&lt;p&gt;Current Status Info&lt;/p&gt;
+&lt;h3 id=&quot;apparent-age&quot; tabindex=&quot;-1&quot;&gt;Apparent Age&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;td&gt;XX +/- years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;td&gt;XX +/- years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;td&gt;XX +/- years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;td&gt;XX +/- years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;td&gt;XX +/- years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;td&gt;XX +/- years&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;date-of-birth&quot; tabindex=&quot;-1&quot;&gt;Date of Birth&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Day&lt;/td&gt;
+&lt;td&gt;DAY of MONTH&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Year&lt;/td&gt;
+&lt;td&gt;YEAR&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;personal-identity&quot; tabindex=&quot;-1&quot;&gt;Personal Identity&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Orientation&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;MBTI&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Enneagram&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;physical-description&quot; tabindex=&quot;-1&quot;&gt;Physical Description&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Species&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Race&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Ethnicity&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Height&lt;/td&gt;
+&lt;td&gt;XXX cm / x ft xx in&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Body Type&lt;/td&gt;
+&lt;td&gt;—&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Hair&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Eyes&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Complexion&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;demographics&quot; tabindex=&quot;-1&quot;&gt;Demographics&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Planet of Origin&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Place of Birth&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Homeworld&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Nationality&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Home Town&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;languages&quot; tabindex=&quot;-1&quot;&gt;Languages&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Primary&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Native&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Known&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;social-standings-and-amp-affiliations&quot; tabindex=&quot;-1&quot;&gt;Social Standings &amp;amp; Affiliations&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Faction&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Patron&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Organization&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Employer&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Occupation(s)&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Title(s)&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;spiritual-beliefs&quot; tabindex=&quot;-1&quot;&gt;Spiritual Beliefs&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Beliefs&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Patron Deity&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Pantheon&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;combat-classes&quot; tabindex=&quot;-1&quot;&gt;Combat Classes&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Primary Class&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Secondary Class&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Tertiary Class&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Additional Support&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;Fighting Style&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&quot;moral-alignment&quot; tabindex=&quot;-1&quot;&gt;Moral Alignment&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;th&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Current Status&lt;/td&gt;
+&lt;td&gt;Info&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;blockquote&gt;
@@ -118,7 +342,7 @@ Fighting Style Info&lt;/p&gt;
     <link href="https://quantumstargazer.github.io//z-assets/extras/infobox-basic-stats/"/>
   </entry><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -192,7 +416,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -414,7 +638,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>0.1 - Dragon Age - Ashina</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossier-dragon-age&quot; tabindex=&quot;-1&quot;&gt;Dossier: Dragon Age&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -945,7 +1169,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/0-1-dragon-age-ashina/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -1243,7 +1467,7 @@ While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a c
     <link href="https://quantumstargazer.github.io//muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -1320,7 +1544,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-14T14:08:27Z</updated>
+    <updated>2026-08-14T14:16:06Z</updated>
     <id>https://quantumstargazer.github.io//tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
