@@ -115,13 +115,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Muses/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
-> | Mainverses | [[Muses/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Muses/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Muses/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Muses/Ashina Tabris/! Summary - Ashina#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Muses/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Muses/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
+> | Mainverses | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]] |
+> | Altverses | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Ward Ingellvar
 
