@@ -115,13 +115,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
-> | Mainverses | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
+> | Mainverses | [[Muses/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Ashina Tabris/! Summary - Ashina#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Ward Ingellvar
 
