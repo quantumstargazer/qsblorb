@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms"]}}
+{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms","Disinterest Tracker","RP Preference Tracker","Multi-Muses Interest Tracker","Permanent Interactions Call","Starter Call","Inbox Call"]}}
 ---
 
 # Interactive Forms
@@ -9,7 +9,6 @@
 
 ---
 # Interaction Call Forms
-> *For more information about these forms, see:* [[Forms — Interaction - Guidelines\|Interaction Forms]]
 
 > [!guideline]- Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
@@ -37,11 +36,10 @@
 
 ---
 # Interest Tracking Forms
-> *For more information about these forms, see:* [[Forms — Interest Tracking - Guidelines\|Interest Tracking Forms]]
 ## Disinterest Tracker
 
 > [!rule]- Interest Assumed For All Open Muses Unless Filled Out
-> Unless you fill out the **Disinterest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my [[! Open Muses - Roster\|Open Muses]] in any of their canon-based verses and/or their fandom matched verses & AUs.
+> Unless you fill out the **Disinterest Tracker** to tell me otherwise, if we're mutuals, it's assumed you're interested in interacting with any and *all* of my [[Muses/! Open Muses - Roster\|Open Muses]] in any of their canon-based verses and/or their fandom matched verses & AUs.
 
 > [!abstract]- Form - Disinterest Tracker
 > <iframe data-tally-src="https://tally.so/embed/1Ax8RM?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="1274" frameborder="0" marginheight="0" marginwidth="0" title="Disinterest Tracker - QS"></iframe>

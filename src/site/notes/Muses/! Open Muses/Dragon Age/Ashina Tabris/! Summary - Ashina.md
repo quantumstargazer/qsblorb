@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muse-info/open-muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary"],"dg-note-properties":{"tags":["directory","summary"],"aliases":["Dossiers & Verses"]}}
+{"dg-publish":true,"permalink":"/muses/open-muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary"],"dg-note-properties":{"tags":["directory","summary"],"aliases":["Dossiers & Verses"]}}
 ---
 
 # Dossiers & Verses
@@ -16,13 +16,13 @@
 > 
 > // Dossiers & Verses
 > 
-> Roster -> [[! Open Muses - Roster\|Open Muses]]
-> Mainverses -> [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]]
-> Altverses -> [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]]
-> Alt Universes -> [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]]
-> Crossovers -> [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Trapped In Another World AUs\|Another World AUs]]
-> Multiverse -> [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]]
-> Private -> [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]]
+> Roster -> [[Muses/! Open Muses - Roster\|Open Muses]]
+> Mainverses -> [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]]
+> Altverses -> [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]]
+> Alt Universes -> [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]]
+> Crossovers -> [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Trapped In Another World AUs\|Another World AUs]]
+> Multiverse -> [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]]
+> Private -> [[Muses/! Open Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]]
 > 
 > // Tumblr Tags
 > 
@@ -39,7 +39,7 @@
 ---
 # Availablity
 
-- *Roster:* [[! Open Muses - Roster\|Open Muses]]
+- *Roster:* [[Muses/! Open Muses - Roster\|Open Muses]]
 - *Restrictions:* **Mutuals Only**
 - *Open Starters:* [tumblr tag](https://quantumstargazer.tumblr.com/tagged/Open+Starter+☾⭒+Ashina+Tabris)
 
@@ -67,7 +67,7 @@
 > 
 > While it is known among the Crows that she is also a Grey Warden, few outside of a handful of Talons and other high ranking Crows know that she is, in fact, the notorious Hero of Ferelden, widely known as "*Warden Tathas*", who joined the Antivan Crows in 9:33 Dragon to escape from Weisshaupt and the First Warden's orders that she be brought in for questioning regarding her surviving killing an archdemon.
 > 
-> > *More Info:* [[Muse Info/! Open Muses/Dragon Age/Ashina Tabris/0.1 - Dragon Age - Ashina\|0.1 - Dragon Age - Ashina]]
+> > *More Info:* [[Muses/! Open Muses/Dragon Age/Ashina Tabris/0.1 - Dragon Age - Ashina\|0.1 - Dragon Age - Ashina]]
 
 ---
 # Canon Divergent AUs
