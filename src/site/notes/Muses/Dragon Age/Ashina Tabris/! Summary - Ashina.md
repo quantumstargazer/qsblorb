@@ -51,12 +51,7 @@
 > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
 > Heavy Canon Divergence** *after the events in Origins - Awakening*
 
-Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the *de facto* Commander herself during the course of the Fifth Blight.
-
-Ashina is conscripted against her will into the Grey Wardens at the start of the Fifth Blight in 9:30 Dragon, going by the name of "**Tathas Arainai**". By 9:31 Dragon, she is notorious among the Wardens for having survived killing the archdemon and ending the Blight, only then to encounter the darkspawn magister known only as the Architect several months later, and letting it live. The First Warden issued orders for her to be brought in — *alive* — to Weisshaupt for questioning. No warden has survived the attempt until she is said to have been killed by the Antivan Crows in 9:33 Dragon.
-
-In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon's Second.
-
+TBA
 ## Quote
 
 ```chatterbox
