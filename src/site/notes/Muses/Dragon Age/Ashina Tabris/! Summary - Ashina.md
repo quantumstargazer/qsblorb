@@ -102,7 +102,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon (*Default*) | Ashina ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ 9:35 - 9:39 Dragon ( Dragon Age ) |
@@ -146,7 +146,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Rook — 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon (*Default*) | Ashina ☾⭒ Rook — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Rook — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Rook — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Rook — 9:35 - 9:39 Dragon ( Dragon Age ) |
@@ -190,7 +190,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > |---|---|
 > > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Inquisitor — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Inquisitor — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon (*Default*) | Ashina ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Inquisitor — 9:35 - 9:39 Dragon ( Dragon Age ) |
 > > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Inquisitor — 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
@@ -232,7 +232,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > |---|---|
 > > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Inquisitor Crow — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Inquisitor Crow — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Inquisitor Crow — 9:40 - 9:44 Dragon ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon (*Default*) | Ashina ☾⭒ Inquisitor Crow — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Inquisitor Crow — 9:35 - 9:39 Dragon ( Dragon Age ) |
 > > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Inquisitor Crow — 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
@@ -276,7 +276,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Antivan Crows — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Antivan Crows — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Antivan Crows — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Antivan Crows — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon (*Default*) | Ashina ☾⭒ Antivan Crows — 9:30 - 9:34 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -318,7 +318,9 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Crows' Due — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Crows' Due — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Crows' Due — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Crows' Due — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon (*Default*) | Ashina ☾⭒ Crows' Due — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:25 - 9:29 Dragon | Ashina ☾⭒ Crows' Due — 9:25 - 9:29 Dragon ( Dragon Age ) |
+> > | 9:20 - 9:24 Dragon | Ashina ☾⭒ Crows' Due — 9:20 - 9:24 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -361,7 +363,9 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Crows' Design — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Crows' Design — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Crows' Design — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Crows' Design — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon (*Default*) | Ashina ☾⭒ Crows' Design — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:25 - 9:29 Dragon | Ashina ☾⭒ Crows' Design — 9:25 - 9:29 Dragon ( Dragon Age ) |
+> > | 9:20 - 9:24 Dragon | Ashina ☾⭒ Crows' Design — 9:20 - 9:24 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -404,7 +408,9 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ Arainai Deflector — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ Arainai Deflector — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ Arainai Deflector — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ Arainai Deflector — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon (*Default*) | Ashina ☾⭒ Arainai Deflector — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:25 - 9:29 Dragon | Ashina ☾⭒ Arainai Deflector — 9:25 - 9:29 Dragon ( Dragon Age ) |
+> > | 9:20 - 9:24 Dragon | Ashina ☾⭒ Arainai Deflector — 9:20 - 9:24 Dragon ( Dragon Age ) |
 > > 
 > 
 > 
@@ -444,7 +450,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > |---|---|
 > > | 9:50 - 9:54 Dragon | Ashina ☾⭒ Lyrium Ghost — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:55 - 9:59 Dragon | Ashina ☾⭒ Lyrium Ghost — 9:55 - 9:59 Dragon ( Dragon Age ) |
-> > | 9:60 - 9:64 Dragon | Ashina ☾⭒ Lyrium Ghost — 9:60 - 9:64 Dragon ( Dragon Age ) |
+> > | 9:60 - 9:64 Dragon (*Default*) | Ashina ☾⭒ Lyrium Ghost — 9:60 - 9:64 Dragon ( Dragon Age ) |
 > > | 9:65 - 9:69 Dragon | Ashina ☾⭒ Lyrium Ghost — 9:65 - 9:69 Dragon ( Dragon Age ) |
 > > | 9:70 - 9:74 Dragon | Ashina ☾⭒ Lyrium Ghost — 9:70 - 9:74 Dragon ( Dragon Age ) |
 > > | 9:75 - 9:79 Dragon | Ashina ☾⭒ Lyrium Ghost — 9:75 - 9:79 Dragon ( Dragon Age ) |
@@ -502,15 +508,15 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > 
 > | | |
 > |---|---|
-> | Verse | Ashina ☾⭒ VerseDetail ( Mass Effect ) |
+> | Verse | Ashina ☾⭒ Mercenary Assassin ( Mass Effect ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | 2186 - 2188 CE | Ashina ☾⭒ Reaper Invasion — 2186 CE ( Mass Effect ) |
-> > | 2185 - 2186 CE | Ashina ☾⭒ Suicide Mission — 2185 CE ( Mass Effect ) |
-> > | 2183 - 2184 CE | Ashina ☾⭒ Eden Prime War — 2183 CE ( Mass Effect ) |
+> > | 2186 - 2188 CE | Ashina ☾⭒ Mercenary Assassin — 2186 CE ( Mass Effect ) |
+> > | 2185 - 2186 CE (*Default*) | Ashina ☾⭒ Mercenary Assassin — 2185 CE ( Mass Effect ) |
+> > | 2183 - 2184 CE | Ashina ☾⭒ Mercenary Assassin — 2183 CE ( Mass Effect ) |
 > > 
 > 
 > 
@@ -634,7 +640,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon (*Default*) | Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon ( Dragon Age ) |
 > > | 9:45 - 9:49 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:45 - 9:49 Dragon ( Dragon Age ) |
 > > | 9:40 - 9:44 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:40 - 9:44 Dragon ( Dragon Age ) |
 > > | 9:35 - 9:39 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:35 - 9:39 Dragon ( Dragon Age ) |
@@ -677,9 +683,9 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > >
 > > | | |
 > > |---|---|
-> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR ( Mass Effect ) |
-> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR ( Mass Effect ) |
-> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR ( Mass Effect ) |
+> > | 2186 - 2188 CE | Ashina ☾⭒ Anomaly Detected — 2186 CE ( Mass Effect ) |
+> > | 2184 - 2186 CE | Ashina ☾⭒ Anomaly Detected — 2185 CE ( Mass Effect ) |
+> > | 2183 - 2184 CE | Ashina ☾⭒ Anomaly Detected — 2183 CE ( Mass Effect ) |
 > > 
 > 
 > 
@@ -765,17 +771,6 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > | | |
 > |---|---|
 > | Verse | Ashina ☾⭒ Eluvian Explorer — Another World ( Multiverse ) |
-> 
-> > [!statsbox]- Timeline Tags
-> >
-> > | | |
-> > |---|---|
-> > | YEAR | Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom ) |
-> > | YEAR | Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom ) |
-> > | YEAR | Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom ) |
-> > | YEAR | Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom ) |
-> > | YEAR | Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom ) |
-> > 
 > 
 > 
 
