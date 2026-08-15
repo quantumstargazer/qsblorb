@@ -314,7 +314,7 @@
 
 ## Orabela Aeducan
 
-> [!profilebox] Orabela Aeducan (PRONOUNS)
+> [!profilebox] Orabela Aeducan (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**

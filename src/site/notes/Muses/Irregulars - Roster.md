@@ -13,7 +13,7 @@
 # Baldur's Gate
 ## Gale Dekarios
 
-> [!profilebox] Gale Dekarios (PRONOUNS)
+> [!profilebox] Gale Dekarios (he/him/himself)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -46,7 +46,7 @@
 
 ## Minsc
 
-> [!profilebox] Minsc (PRONOUNS)
+> [!profilebox] Minsc (he/him/himself)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -79,7 +79,7 @@
 
 ## Hope
 
-> [!profilebox] Hope (PRONOUNS)
+> [!profilebox] Hope (she/her/herself)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -112,7 +112,7 @@
 
 ---
 # Dragon Age
-> [!profilebox] Sten (PRONOUNS)
+> [!profilebox] Sten (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -145,7 +145,7 @@
 
 ## Bethany Hawke
 
-> [!profilebox] Bethany Hawke (PRONOUNS)
+> [!profilebox] Bethany Hawke (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -178,7 +178,7 @@
 
 ## Carver Hawke
 
-> [!profilebox] Carver Hawke (PRONOUNS)
+> [!profilebox] Carver Hawke (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -211,7 +211,7 @@
 
 ## Fenris
 
-> [!profilebox] Fenris (PRONOUNS)
+> [!profilebox] Fenris (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -244,7 +244,7 @@
 
 ## Tamlen
 
-> [!profilebox] Tamlen (PRONOUNS)
+> [!profilebox] Tamlen (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -277,7 +277,7 @@
 
 ## Evka Ivo
 
-> [!profilebox] Evka Ivo (PRONOUNS)
+> [!profilebox] Evka Ivo (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -310,7 +310,7 @@
 
 ## Antoine
 
-> [!profilebox] Antoine (PRONOUNS)
+> [!profilebox] Antoine (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -343,7 +343,7 @@
 
 ## Shale
 
-> [!profilebox] Shale (PRONOUNS)
+> [!profilebox] Shale (they/them/themself & she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -353,7 +353,7 @@
 > | Name | Shale |
 > | Fandom | Dragon Age |
 > | Roster | [[Muses/Irregulars - Roster#Shale\|Irregulars]] |
-> | Status | Canon Compliant |
+> | Status | Canon Divergent |
 > | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
 >
 > **Summary**
@@ -376,7 +376,7 @@
 
 ## Sigrun
 
-> [!profilebox] Sigrun (PRONOUNS)
+> [!profilebox] Sigrun (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -409,7 +409,7 @@
 
 ## Aileas Cousland
 
-> [!profilebox] Aileas Cousland (PRONOUNS)
+> [!profilebox] Aileas Cousland (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -442,7 +442,7 @@
 
 ## Bran Cousland
 
-> [!profilebox] Bran Cousland (PRONOUNS)
+> [!profilebox] Bran Cousland (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -475,7 +475,7 @@
 
 ## Lailani Sabrae
 
-> [!profilebox] Lailani Sabrae (PRONOUNS)
+> [!profilebox] Lailani Sabrae (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -508,7 +508,7 @@
 
 ## Satu Surana
 
-> [!profilebox] Satu Surana (PRONOUNS)
+> [!profilebox] Satu Surana (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -541,7 +541,7 @@
 
 ## Selena Amell
 
-> [!profilebox] Selena Amell (PRONOUNS)
+> [!profilebox] Selena Amell (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -574,7 +574,7 @@
 
 ## Kiran Brosca
 
-> [!profilebox] Kiran Brosca (PRONOUNS)
+> [!profilebox] Kiran Brosca (she/her/herself & they/them/themself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -1005,7 +1005,7 @@
 # Mass Effect
 ## Urdnot Wrex
 
-> [!profilebox] Urdnot Wrex (PRONOUNS)
+> [!profilebox] Urdnot Wrex (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1038,7 +1038,7 @@
 
 ## Garrus Vakarian
 
-> [!profilebox] Garrus Vakarian (PRONOUNS)
+> [!profilebox] Garrus Vakarian (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1071,7 +1071,7 @@
 
 ## Tali'Zorah
 
-> [!profilebox] Tali'Zorah (PRONOUNS)
+> [!profilebox] Tali'Zorah (she/her/herself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1104,7 +1104,7 @@
 
 ## Jeff ''Joker'' Moreau
 
-> [!profilebox] Jeff ''Joker'' Moreau (PRONOUNS)
+> [!profilebox] Jeff ''Joker'' Moreau (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1137,7 +1137,7 @@
 
 ## Karin Chakwas
 
-> [!profilebox] Karin Chakwas (PRONOUNS)
+> [!profilebox] Karin Chakwas (she/her/herself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1170,7 +1170,7 @@
 
 ## Aria T'Loak
 
-> [!profilebox] Aria T'Loak (PRONOUNS)
+> [!profilebox] Aria T'Loak (she/her/herself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -1203,7 +1203,7 @@
 
 ## Aethyta
 
-> [!profilebox] Aethyta (PRONOUNS)
+> [!profilebox] Aethyta (she/her/herself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**

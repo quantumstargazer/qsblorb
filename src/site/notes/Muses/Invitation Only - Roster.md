@@ -113,7 +113,7 @@
 
 ## Karlach Cliffgate
 
-> [!profilebox] Karlach Cliffgate (PRONOUNS)
+> [!profilebox] Karlach Cliffgate (she/her/herself)
 > ![bg3 cover art.png\|150x150](/img/user/z%20Assets/Attachments/bg3%20cover%20art.png)
 > 
 > **Basic Info**
@@ -148,7 +148,7 @@
 # Dragon Age
 ## Felassan
 
-> [!profilebox] Felassan (PRONOUNS)
+> [!profilebox] Felassan (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -181,7 +181,7 @@
 
 ## Abelas
 
-> [!profilebox] Abelas (PRONOUNS)
+> [!profilebox] Abelas (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -214,7 +214,7 @@
 
 ## Banal'ras
 
-> [!profilebox] Banal'ras (PRONOUNS)
+> [!profilebox] Banal'ras (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -247,7 +247,7 @@
 
 ## Bellara Lutare
 
-> [!profilebox] Bellara Lutare (PRONOUNS)
+> [!profilebox] Bellara Lutare (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -280,7 +280,7 @@
 
 ## Heir
 
-> [!profilebox] Heir (PRONOUNS)
+> [!profilebox] Heir (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -313,7 +313,7 @@
 
 ## Merrill
 
-> [!profilebox] Merrill (PRONOUNS)
+> [!profilebox] Merrill (she/her/herself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -346,7 +346,7 @@
 
 ## Anders
 
-> [!profilebox] Anders (PRONOUNS)
+> [!profilebox] Anders (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -379,7 +379,7 @@
 
 ## Clark Kent
 
-> [!profilebox] Clark Kent (PRONOUNS)
+> [!profilebox] Clark Kent (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -412,7 +412,7 @@
 
 ## Bruce Wayne
 
-> [!profilebox] Bruce Wayne (PRONOUNS)
+> [!profilebox] Bruce Wayne (he/him/himself)
 > ![Dragon-Age-Dreadwolf-4128522568.jpg\|150x150](/img/user/z%20Assets/Attachments/Dragon-Age-Dreadwolf-4128522568.jpg)
 > 
 > **Basic Info**
@@ -447,7 +447,7 @@
 # Mass Effect
 ## Nihlus Kryik
 
-> [!profilebox] Nihlus Kryik (PRONOUNS)
+> [!profilebox] Nihlus Kryik (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -481,7 +481,7 @@
 
 ## Avitus Rix
 
-> [!profilebox] Avitus Rix (PRONOUNS)
+> [!profilebox] Avitus Rix (he/him/himself)
 > ![mea.jpg\|150x150](/img/user/z%20Assets/Attachments/mea.jpg)
 > 
 > **Basic Info**
@@ -514,7 +514,7 @@
 
 ## Mordin Solus
 
-> [!profilebox] Mordin Solus (PRONOUNS)
+> [!profilebox] Mordin Solus (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -547,7 +547,7 @@
 
 ## Thane Krios
 
-> [!profilebox] Thane Krios (PRONOUNS)
+> [!profilebox] Thane Krios (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -580,7 +580,7 @@
 
 ## Javik
 
-> [!profilebox] Javik (PRONOUNS)
+> [!profilebox] Javik (he/him/himself)
 > ![mele.jpg\|150x150](/img/user/z%20Assets/Attachments/mele.jpg)
 > 
 > **Basic Info**
@@ -616,7 +616,7 @@
 ## Elder Scrolls
 ### Razum-dar
 
-> [!profilebox] Razum-dar (PRONOUNS)
+> [!profilebox] Razum-dar (he/him/himself)
 > ![razum_dar_eso-99977599.jpg\|150x150](/img/user/z%20Assets/Attachments/razum_dar_eso-99977599.jpg)
 > 
 > **Basic Info**
@@ -649,7 +649,7 @@
 
 ### Inigo
 
-> [!profilebox] Inigo (PRONOUNS)
+> [!profilebox] Inigo (he/him/himself)
 > ![communityIcon_n8dxjxfgeng31-3818848783.jpg\|150x150](/img/user/z%20Assets/Attachments/communityIcon_n8dxjxfgeng31-3818848783.jpg)
 > 
 > **Basic Info**
@@ -682,7 +682,7 @@
 
 ### Courier
 
-> [!profilebox] Courier (PRONOUNS)
+> [!profilebox] Courier (he/him/himself)
 > ![bab60233d5b0f10ebfb1c206249df29efc7fad5c-3522406978.jpg\|150x150](/img/user/z%20Assets/Attachments/bab60233d5b0f10ebfb1c206249df29efc7fad5c-3522406978.jpg)
 > 
 > **Basic Info**
@@ -716,7 +716,7 @@
 ## Stardew Valley
 ### Magnus Rasmodius
 
-> [!profilebox] Magnus Rasmodius (PRONOUNS)
+> [!profilebox] Magnus Rasmodius (he/him/himself)
 > ![stardew-valley-575533301.jpg\|150x150](/img/user/z%20Assets/Attachments/stardew-valley-575533301.jpg)
 > 
 > **Basic Info**
@@ -749,7 +749,7 @@
 
 ### Elliot
 
-> [!profilebox] Elliot (PRONOUNS)
+> [!profilebox] Elliot (he/him/himself)
 > ![stardew-valley-575533301.jpg\|150x150](/img/user/z%20Assets/Attachments/stardew-valley-575533301.jpg)
 > 
 > **Basic Info**
@@ -782,7 +782,7 @@
 
 ### Gunter
 
-> [!profilebox] Gunter (PRONOUNS)
+> [!profilebox] Gunter (he/him/himself)
 > ![stardew-valley-575533301.jpg\|150x150](/img/user/z%20Assets/Attachments/stardew-valley-575533301.jpg)
 > 
 > **Basic Info**
