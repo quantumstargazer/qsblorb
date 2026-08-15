@@ -36,11 +36,10 @@ body {
   }
 }
 
-main .markdown-rendered ul,
-main .markdown-rendered ol {
-    padding-inline-start: 0;
-}
 
+body main .markdown-rendered ul {
+    padding-inline-start: 0 !important;
+}
 
 
 
