@@ -18,14 +18,6 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: initial;
 
-ul {
-		padding-left: 0;
-	}
-
-	li {
-		padding-left: 10px;
-	}
-	
 }
 
 
@@ -44,7 +36,10 @@ body {
   }
 }
 
-
+body main ul {
+  
+		padding-left: 0px;
+}
 
 
 
