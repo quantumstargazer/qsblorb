@@ -3,10 +3,10 @@
   <title>QS Wiki</title>
   <link href="https://quantumstargazer.github.io//feed.xml" rel="self"/>
   <link href="https://quantumstargazer.github.io/"/>
-  <updated>2026-08-15T13:23:22Z</updated>
+  <updated>2026-08-15T20:33:20Z</updated>
   <id>https://quantumstargazer.github.io/</id><entry>
     <title>Shining Stars + Stargazers</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//shining-stars-stargazers/</id>
     <content type="html">&lt;h1 id=&quot;shining-stars&quot; tabindex=&quot;-1&quot;&gt;Shining Stars&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;These are the people who I interact with the most,&lt;/strong&gt; and whose interactions likely have a large impact on the development of my muses&#39; portrayals overall and not just limited to within the verses and/or AUs they interact with them in.&lt;/p&gt;
@@ -80,7 +80,7 @@ Please be patient if and/or when you fill out the &lt;a class=&quot;internal-lin
     <link href="https://quantumstargazer.github.io//shining-stars-stargazers/"/>
   </entry><entry>
     <title>Roster Index - All Muses</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//roster-index-all-muses/</id>
     <content type="html">&lt;h1 id=&quot;full-roster&quot; tabindex=&quot;-1&quot;&gt;Full Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -302,7 +302,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//roster-index-all-muses/"/>
   </entry><entry>
     <title>Irregulars - Roster</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//muses/irregulars-roster/</id>
     <content type="html">&lt;h1 id=&quot;irregulars-roster&quot; tabindex=&quot;-1&quot;&gt;Irregulars Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -3283,7 +3283,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//muses/irregulars-roster/"/>
   </entry><entry>
     <title>Invitation Only - Roster</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//muses/invitation-only-roster/</id>
     <content type="html">&lt;h1 id=&quot;invitation-only-roster&quot; tabindex=&quot;-1&quot;&gt;Invitation Only Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -5226,7 +5226,7 @@ All muses have verses to support interactions within the expanded Baldur&#39;s G
     <link href="https://quantumstargazer.github.io//muses/invitation-only-roster/"/>
   </entry><entry>
     <title>! Summary - Ashina</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//muses/dragon-age/ashina-tabris/summary-ashina/</id>
     <content type="html">&lt;h1 id=&quot;dossiers-and-amp-verses&quot; tabindex=&quot;-1&quot;&gt;Dossiers &amp;amp; Verses&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -5358,7 +5358,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;9:50 - 9:54 Dragon&lt;/td&gt;
+&lt;td&gt;9:50 - 9:54 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ 9:50 - 9:54 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5460,7 +5460,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;9:50 - 9:54 Dragon&lt;/td&gt;
+&lt;td&gt;9:50 - 9:54 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Rook — 9:50 - 9:54 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5568,7 +5568,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Inquisitor — 9:45 - 9:49 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:40 - 9:44 Dragon&lt;/td&gt;
+&lt;td&gt;9:40 - 9:44 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Inquisitor — 9:40 - 9:44 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5668,7 +5668,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Inquisitor Crow — 9:45 - 9:49 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:40 - 9:44 Dragon&lt;/td&gt;
+&lt;td&gt;9:40 - 9:44 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Inquisitor Crow — 9:40 - 9:44 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -5776,7 +5776,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Antivan Crows — 9:35 - 9:39 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:30 - 9:34 Dragon&lt;/td&gt;
+&lt;td&gt;9:30 - 9:34 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Antivan Crows — 9:30 - 9:34 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
@@ -5876,8 +5876,16 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Crows&#39; Due — 9:35 - 9:39 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:30 - 9:34 Dragon&lt;/td&gt;
+&lt;td&gt;9:30 - 9:34 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Crows&#39; Due — 9:30 - 9:34 Dragon ( Dragon Age )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:25 - 9:29 Dragon&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Crows&#39; Due — 9:25 - 9:29 Dragon ( Dragon Age )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:20 - 9:24 Dragon&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Crows&#39; Due — 9:20 - 9:24 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -5977,8 +5985,16 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Crows&#39; Design — 9:35 - 9:39 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:30 - 9:34 Dragon&lt;/td&gt;
+&lt;td&gt;9:30 - 9:34 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Crows&#39; Design — 9:30 - 9:34 Dragon ( Dragon Age )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:25 - 9:29 Dragon&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Crows&#39; Design — 9:25 - 9:29 Dragon ( Dragon Age )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:20 - 9:24 Dragon&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Crows&#39; Design — 9:20 - 9:24 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6078,8 +6094,16 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Arainai Deflector — 9:35 - 9:39 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:30 - 9:34 Dragon&lt;/td&gt;
+&lt;td&gt;9:30 - 9:34 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Arainai Deflector — 9:30 - 9:34 Dragon ( Dragon Age )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:25 - 9:29 Dragon&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Arainai Deflector — 9:25 - 9:29 Dragon ( Dragon Age )&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;9:20 - 9:24 Dragon&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Arainai Deflector — 9:20 - 9:24 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6170,7 +6194,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;td&gt;Ashina ☾⭒ Lyrium Ghost — 9:55 - 9:59 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;9:60 - 9:64 Dragon&lt;/td&gt;
+&lt;td&gt;9:60 - 9:64 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ Lyrium Ghost — 9:60 - 9:64 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6278,7 +6302,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;Verse&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ VerseDetail ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Mercenary Assassin ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6294,15 +6318,15 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;tbody&gt;
 &lt;tr&gt;
 &lt;td&gt;2186 - 2188 CE&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ Reaper Invasion — 2186 CE ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Mercenary Assassin — 2186 CE ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;2185 - 2186 CE&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ Suicide Mission — 2185 CE ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;2185 - 2186 CE (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Mercenary Assassin — 2185 CE ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;2183 - 2184 CE&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ Eden Prime War — 2183 CE ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Mercenary Assassin — 2183 CE ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6533,7 +6557,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;9:50 - 9:54 Dragon&lt;/td&gt;
+&lt;td&gt;9:50 - 9:54 Dragon (&lt;em&gt;Default&lt;/em&gt;)&lt;/td&gt;
 &lt;td&gt;Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon ( Dragon Age )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
@@ -6634,16 +6658,16 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ Anomaly Detected — YEAR ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;2186 - 2188 CE&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Anomaly Detected — 2186 CE ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ Anomaly Detected — YEAR ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;2184 - 2186 CE&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Anomaly Detected — 2185 CE ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ Anomaly Detected — YEAR ( Mass Effect )&lt;/td&gt;
+&lt;td&gt;2183 - 2184 CE&lt;/td&gt;
+&lt;td&gt;Ashina ☾⭒ Anomaly Detected — 2183 CE ( Mass Effect )&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
@@ -6797,39 +6821,6 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;blockquote&gt;
-&lt;p&gt;[!statsbox]- Timeline Tags&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;th&gt;&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom )&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom )&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom )&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom )&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;YEAR&lt;/td&gt;
-&lt;td&gt;Ashina ☾⭒ VerseDetail — YEAR ( VerseFandom )&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-&lt;/blockquote&gt;
 &lt;/blockquote&gt;
 &lt;hr /&gt;
 &lt;h1 id=&quot;private-verses-and-amp-a-us&quot; tabindex=&quot;-1&quot;&gt;Private Verses &amp;amp; AUs&lt;/h1&gt;
@@ -11332,7 +11323,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
     <link href="https://quantumstargazer.github.io//muses/dragon-age/ashina-tabris/summary-ashina/"/>
   </entry><entry>
     <title>By Request Only - Roster</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//muses/by-request-only-roster/</id>
     <content type="html">&lt;h1 id=&quot;by-request-only-roster&quot; tabindex=&quot;-1&quot;&gt;By Request Only Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -13276,7 +13267,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
     <link href="https://quantumstargazer.github.io//muses/by-request-only-roster/"/>
   </entry><entry>
     <title>! Open Muses - Roster</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//muses/open-muses-roster/</id>
     <content type="html">&lt;h1 id=&quot;open-muses-roster&quot; tabindex=&quot;-1&quot;&gt;Open Muses Roster&lt;/h1&gt;
 &lt;blockquote&gt;
@@ -14117,7 +14108,7 @@ Ashina &amp;gt; I killed them like dogs, Shianni. Not just them. All the humans 
     <link href="https://quantumstargazer.github.io//muses/open-muses-roster/"/>
   </entry><entry>
     <title>Interactive Forms</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//interactive-forms/</id>
     <content type="html">&lt;h1 id=&quot;interactive-forms&quot; tabindex=&quot;-1&quot;&gt;Interactive Forms&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Forms are responsive and built with conditional logic&lt;/strong&gt; — &lt;em&gt;meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.&lt;/em&gt;&lt;/p&gt;
@@ -14188,7 +14179,7 @@ Unless you fill out the &lt;strong&gt;Disinterest Tracker&lt;/strong&gt; to tell
     <link href="https://quantumstargazer.github.io//interactive-forms/"/>
   </entry><entry>
     <title>Tags - Ashina</title>
-    <updated>2026-08-15T13:23:03Z</updated>
+    <updated>2026-08-15T20:33:07Z</updated>
     <id>https://quantumstargazer.github.io//tags/muse-tags/dragon-age/ashina-tabris/tags-ashina/</id>
     <content type="html">&lt;h1 id=&quot;in-character&quot; tabindex=&quot;-1&quot;&gt;In Character&lt;/h1&gt;
 &lt;pre&gt;&lt;code&gt;IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ashina Tabris, 
