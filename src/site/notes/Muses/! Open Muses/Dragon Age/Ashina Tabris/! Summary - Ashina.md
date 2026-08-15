@@ -34,7 +34,7 @@
 
 - *Muse:* Ashina Tabris
 - *Fandom:* Dragon Age
-- *Tags:* [[! Tags/Dragon Age/Ashina Tabris/Tags - Ashina\|Ashina Tabris]]
+- *Tags:* [[! Tags/Muse Tags/Dragon Age/Ashina Tabris/Tags - Ashina\|Ashina Tabris]]
 
 ---
 # Availablity

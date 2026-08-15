@@ -9,7 +9,7 @@
 > - I do it this way because individual muse actively varies drastically and frequently, whereas fandom actively tends to be centered more on my current hyperfixation, and is slower to change activity levels.
 
 - [[Muses/! Open Muses - Roster\|Open Muses]] - ***priority muses** — available to all mutuals*
-- [[By Request Only - Roster\|By Request Only]] - *available only on request*
+- [[Muses/By Request Only - Roster\|By Request Only]] - *available only on request*
 - [[Invitation Only - Roster\|Invitation Only]] - *available by invitation only*
 - [[Irregulars - Roster\|Irregulars]] - *available for Mains & Permanent Interactions Call only*
 
@@ -24,13 +24,13 @@
 - [[Muses/! Open Muses - Roster#Faeynore Moonstar\|Faeynore Moonstar]]
 ## By Request Only 
 ### Original Characters
-- [[By Request Only - Roster#Faertorithrue\|Faertorithrue]]
-- [[By Request Only - Roster#Fenmaer Dawngazer\|Fenmaer Dawngazer]]
+- [[Muses/By Request Only - Roster#Faertorithrue\|Faertorithrue]]
+- [[Muses/By Request Only - Roster#Fenmaer Dawngazer\|Fenmaer Dawngazer]]
 ### Canon Characters
-- [[By Request Only - Roster#Astarion Ancunín\|Astarion Ancunín]]
-- [[By Request Only - Roster#Jaheira\|Jaheira]]
-- [[By Request Only - Roster#Minthara Baenre\|Minthara Baenre]]
-- [[By Request Only - Roster#Prince of Frost\|Prince of Frost]]
+- [[Muses/By Request Only - Roster#Astarion Ancunín\|Astarion Ancunín]]
+- [[Muses/By Request Only - Roster#Jaheira\|Jaheira]]
+- [[Muses/By Request Only - Roster#Minthara Baenre\|Minthara Baenre]]
+- [[Muses/By Request Only - Roster#Prince of Frost\|Prince of Frost]]
 ## Invitation Only 
 ### Original Characters
 - [[Invitation Only - Roster#Dirge\|Dirge (The Dark Urge)]]
@@ -58,20 +58,20 @@
 - [[Muses/! Open Muses - Roster#Zevran Arainai\|Zevran Arainai]]
 ## By Request Only 
 ### Original Characters
-- [[By Request Only - Roster#Zaehire de Riva\|Zaehire de Riva]]
-- [[By Request Only - Roster#Bertrand Ingellvar\|Bertrand Ingellvar]]
-- [[By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]
-- [[By Request Only - Roster#Orabela Aeducan\|Orabela Aeducan]]
+- [[Muses/By Request Only - Roster#Zaehire de Riva\|Zaehire de Riva]]
+- [[Muses/By Request Only - Roster#Bertrand Ingellvar\|Bertrand Ingellvar]]
+- [[Muses/By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]
+- [[Muses/By Request Only - Roster#Orabela Aeducan\|Orabela Aeducan]]
 ### Canon Characters
-- [[By Request Only - Roster#Varric Tethras\|Varric Tethras]]
-- [[By Request Only - Roster#Dorian Pavus\|Dorian Pavus]]
-- [[By Request Only - Roster#Viago de Riva\|Viago de Riva]]
-- [[By Request Only - Roster#Andarateia Cantori\|Andarateia Cantori]]
-- [[By Request Only - Roster#Lucanis Dellamorte\|Lucanis Dellamorte]]
-- [[By Request Only - Roster#Spite\|Spite]]
-- [[By Request Only - Roster#Emmrich Volkarin\|Emmrich Volkarin]]
-- [[By Request Only - Roster#Manfred\|Manfred]]
-- [[By Request Only - Roster#Vorgoth\|Vorgoth]]
+- [[Muses/By Request Only - Roster#Varric Tethras\|Varric Tethras]]
+- [[Muses/By Request Only - Roster#Dorian Pavus\|Dorian Pavus]]
+- [[Muses/By Request Only - Roster#Viago de Riva\|Viago de Riva]]
+- [[Muses/By Request Only - Roster#Andarateia Cantori\|Andarateia Cantori]]
+- [[Muses/By Request Only - Roster#Lucanis Dellamorte\|Lucanis Dellamorte]]
+- [[Muses/By Request Only - Roster#Spite\|Spite]]
+- [[Muses/By Request Only - Roster#Emmrich Volkarin\|Emmrich Volkarin]]
+- [[Muses/By Request Only - Roster#Manfred\|Manfred]]
+- [[Muses/By Request Only - Roster#Vorgoth\|Vorgoth]]
 ## Invitation Only
 ### Original Characters
 - [[Invitation Only - Roster#Banal’ras\|Banal’ras]]
@@ -126,11 +126,11 @@
 - [[Muses/! Open Muses - Roster#Isabela Shepard\|Isabela Shepard]]
 ## By Request Only 
 ### Original Characters
-- [[By Request Only - Roster#Sara Ryder\|Sara Ryder]]
-- [[By Request Only - Roster#Scott Ryder\|Scott Ryder]]
+- [[Muses/By Request Only - Roster#Sara Ryder\|Sara Ryder]]
+- [[Muses/By Request Only - Roster#Scott Ryder\|Scott Ryder]]
 ### Canon Characters
-- [[By Request Only - Roster#Evfra de Tershaav\|Evfra de Tershaav]]
-- [[By Request Only - Roster#Jaal Ama Darav\|Jaal Ama Darav]]
+- [[Muses/By Request Only - Roster#Evfra de Tershaav\|Evfra de Tershaav]]
+- [[Muses/By Request Only - Roster#Jaal Ama Darav\|Jaal Ama Darav]]
 - *Reyes Vidal*
 ## Invitation Only 
 ### Canon Characters

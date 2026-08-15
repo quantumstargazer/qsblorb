@@ -35,7 +35,7 @@
 ## Muse Rosters
 - [[Roster Index - All Muses\|Roster Index]]
 	- [[Muses/! Open Muses - Roster\|Open Muses]]
-	- [[By Request Only - Roster\|By Request Only Muses]]
+	- [[Muses/By Request Only - Roster\|By Request Only Muses]]
 	- [[Invitation Only - Roster\|Invitation Only Muses]]
 	- [[Irregulars - Roster\|Irregular Muses]]
 ## Rules & Guidelines

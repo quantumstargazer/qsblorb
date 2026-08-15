@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/muses/open-muses-roster/","tags":["roster","directory","open-muses"],"dg-note-properties":{"tags":["roster","directory","open-muses"],"aliases":["Open Muses"]}}
 ---
 
-# Open Muses
+# Open Muses Roster
 
 > [!tracker] Disinterest Tracker
 > 
