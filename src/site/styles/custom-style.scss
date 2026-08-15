@@ -36,9 +36,9 @@ body {
   }
 }
 
-body main ul {
-  
-		padding-left: 0px;
+main .markdown-rendered ul,
+main .markdown-rendered ol {
+    padding-inline-start: 0;
 }
 
 
