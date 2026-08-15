@@ -37,11 +37,16 @@ body {
 }
 
 
-body main .markdown-rendered ul {
-    padding-inline-start: 0 !important;
+
+.markdown-preview-view ul, .markdown-preview-view ol {
+    padding-left: 0px;
 }
 
-
+.markdown-rendered ul, .markdown-rendered ol {
+    padding-inline-start: 0;
+    margin-block-start: var(--p-spacing);
+    margin-block-end: var(--p-spacing);
+}
 
 
 
