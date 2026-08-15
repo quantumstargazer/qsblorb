@@ -36,8 +36,8 @@
 - [[Roster Index - All Muses\|Roster Index]]
 	- [[Muses/! Open Muses - Roster\|Open Muses]]
 	- [[Muses/By Request Only - Roster\|By Request Only Muses]]
-	- [[Invitation Only - Roster\|Invitation Only Muses]]
-	- [[Irregulars - Roster\|Irregular Muses]]
+	- [[Muses/Invitation Only - Roster\|Invitation Only Muses]]
+	- [[Muses/Irregulars - Roster\|Irregular Muses]]
 ## Rules & Guidelines
 - [[Actual Rules\|Rules]]
 - [[Rulebook/Guidelines\|Guidelines]]
