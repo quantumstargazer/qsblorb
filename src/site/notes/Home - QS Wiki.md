@@ -34,10 +34,10 @@
 # Quick Navigation
 ## Muse Rosters
 - [[Muse Roster - Index\|Roster Index]]
-	- [[Muses/! Open Muses - Roster\|Open Muses]]
-	- [[Muses/By Request Only - Roster\|By Request Only Muses]]
-	- [[Muses/Invitation Only - Roster\|Invitation Only Muses]]
-	- [[Muses/Irregulars - Roster\|Irregular Muses]]
+	- [[! Open Muses - Roster\|Open Muses]]
+	- [[By Request Only - Roster\|By Request Only Muses]]
+	- [[Invitation Only - Roster\|Invitation Only Muses]]
+	- [[Irregulars - Roster\|Irregular Muses]]
 ## Rules & Guidelines
 - [[Actual Rules\|Rules]]
 - [[Rulebook/Guidelines\|Guidelines]]

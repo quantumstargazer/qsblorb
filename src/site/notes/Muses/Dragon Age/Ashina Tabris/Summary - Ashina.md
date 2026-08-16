@@ -35,7 +35,7 @@
 > 
 > // Availability
 > 
-> Roster -> [[Muses/! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]]
+> Roster -> [[! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]]
 > Status -> Active
 > Restrictions -> n/a
 > 
