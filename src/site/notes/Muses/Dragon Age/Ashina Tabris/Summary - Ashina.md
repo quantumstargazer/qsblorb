@@ -54,11 +54,8 @@
 TBA
 ## Quote
 
-```chatterbox
-Shianni < Are... Are they gone?
-
-Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
-```
+> [!quote] Ashina Tabris - *9:30 Dragon*
+> I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
 
 ---
 # Canon Typical

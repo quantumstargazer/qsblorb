@@ -67,11 +67,8 @@ Ashina is conscripted against her will into the Grey Wardens at the start of the
 In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon's Second.
 ## Quote
 
-```chatterbox
-Shianni < Are... Are they gone?
-
-Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
-```
+> [!quote] Ashina Tabris - *9:30 Dragon*
+> I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
 
 ---
 # Background
