@@ -456,7 +456,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Ancient Memories
 
-> [!statsbox]+ Ancient Memories ( Dragon Age )
+> [!statsbox]- Ancient Memories ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -514,7 +514,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Wishlists
 ## Secrets Revealed
 
-> [!statsbox]+ Secrets Revealed ( Dragon Age )
+> [!statsbox]- Secrets Revealed ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -568,7 +568,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Crow Negotiations
 
-> [!statsbox]+ Crow Negotiations ( Dragon Age )
+> [!statsbox]- Crow Negotiations ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -626,7 +626,341 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 # Quick Guides
 ## Things *You* Should Know
 
-> [!statsbox]+ Headcanon
+> [!statsbox]- Not "Self-Sacrificing Hero" Material ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | — |
+> | Condition | — |
+> | Open To Plotting | No |
+>
+> **Summary**
+> 
+> > *This is a core personality trait and is not open to plotting.*
+> 
+> Ashina cares very little about the fate of Ferelden *as a whole* — her only real concern is protecting her family back in the Denerim Alienage. She certainly doesn't care about protecting the lives of the nobles or pretty much any other human in the process. 
+> 
+> Ashina is selfish, has an extremely strong will to live, and unless you are one of *her people*, is not willing to die for anyone else. 
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- NPC
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Ashina Tabris Is "Dead" ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | Required Unless Approved Pre-Established Exception |
+> | Open To Plotting | Yes - *Pre-Established Exceptions & Some Companions* |
+>
+> **Summary**
+> 
+> > *Ashina **NEVER** goes by "***Tabris***" with anyone she's met after becoming a Grey Warden and/or an Antivan Crow (*so anyone met after the events of the Origins prologue*). *
+> 
+> No one who didn't know her prior to one or both of these events should even know her family name *at all* unless she explicitly tells them or it's revealed to them through the story itself (*example: those present during the Fifth Blight when she returns to the Alienage may learn her true identity as a result of her interacting with her family*).
+> 
+> **Connections**
+> 
+> > *The following connections are pre-approved for knowing who Ashina really is.*
+> 
+> > [!profilebox]- Cyrion Tabris
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Cyrion Tabris |
+> > | Dynamic | Father |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Shianni
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Shianni |
+> > | Dynamic | Cousin |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Soris
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Soris |
+> > | Dynamic | Cousin |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Valora
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Valora |
+> > | Dynamic | Cousin-In-Law (*Soris' Wife*) |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Neutral (25) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Nelaros
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Nelaros |
+> > | Dynamic | Intended Betrothed (*Deceased*) |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Neutral (50) |
+> > | Open To Plotting | Yes - "*Deceased*" |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Duncan
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Duncan |
+> > | Dynamic | Strangers |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Neutral (10) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+>
+> > The following companions who may possibly learn her real name, and the conditions required in order to achieve this, are:
+> 
+> > [!profilebox]- Zevran Arainai
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Zevran Arainai |
+> > | Dynamic | Best Friends - Possible Love Interest |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *Zev obviously can know "Arainai" is not her real name from the start.*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Morrigan
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Morrigan |
+> > | Dynamic | Best Friends |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Sten
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Sten |
+> > | Dynamic | Best Friends |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Shale
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Shale |
+> > | Dynamic | Best Friends |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | No |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Adaia was an Antivan Crow of House Arainai ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:05 - 9:24 Dragon |
+> | Condition | — |
+> | Open To Plotting | No |
+>
+> **Summary**
+> 
+> > *Adaia being a Crow is non-negotiable when interacting with Ash — it's too ingrained into her backstory for the source of where Adaia learned her rogue skills in the first place to pass them onto Ash, and continues to play a big part in later timelines.*
+> 
+> - Adaia is a rank & file Crow of House Arainai, one of many elven *compradi* within the House, having been purchased as a young child and raised as an assassin.
+> - She flees Antiva City and the Crows in 9:06 Dragon, where she makes her way south, into Ferelden.
+> - While in Denerim, she meets Cyrion Tabris — they become engaged and then wed soon after.
+> - Adaia gives birth to Ashina Tabris on the 30th of Harvestmere, 9:06 Dragon.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- Adaia Arainai
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Adaia Arainai |
+> > | Dynamic | Mother |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | Yes - *Personal Dynamics Only* |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Questions of Paternity ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -641,6 +975,115 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > **Summary**
 > 
 > > *TBA*
+> 
+> There were plenty of questions around the Denerim Alienage as to whether Cyrion was truly Ashina's father, given the timing so soon after he and Adaia even meet before she is noticeably pregnant, and with how little Ashina actually favors him, while being *very clearly* Antivan. 
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- Cyrion Tabris
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Cyrion Tabris |
+> > | Dynamic | Father |
+> > | Awareness | Maybe |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a child born of a Crow *becomes* a Crow, and so Adaia flees to Ferelden in hopes of giving her child a chance and a *choice* of their own future. She was vocally against the Alienage tradition of only being recognized as an adult by marrying, fought to keep the *hahren* from trying to force Ashina to marry until she *wanted to*, and preferably for love.
+>>
+>> Even though she might not be his by blood, Ashina *is* Cyrion's daughter. She doesn't know who her biological father is, but it is most likely another elven Crow in House Arainai.
+> > 
+> 
+> 
+
+> [!statsbox]- Warden Ability: Blight Obfuscation ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | Must Be Grey Warden |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> - Ashina is capable of obfuscating the blight in her veins, effectively hiding herself from both darkspawn and other wardens alike when she uses this ability.
+> - Much like slipping into shadows, it takes some degree of focus to initiate and maintain this obfuscation, and is likely to drop when she must commit more focus to another action that renders her unable to maintain focus on suppressing the blight.
+> - When not in combat, Ashina can maintain the obfuscation for long periods of time so long as her attention is not too divided by other tasks, allowing her to stay hidden even while in conversation with another Grey Warden.
+> - When in combat, she will remain hidden for up to 4 seconds after the obfuscation drops before darkspawn and/or wardens may become aware of her blighted presence.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- NPC
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Warden Ability: Power of Blood ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | Must Be Grey Warden |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *[Power of Blood (Rogue)](https://dragonage.miraheze.org/wiki/Power_of_Blood#Rogue)*
 > 
 > TBA
 > 
@@ -658,6 +1101,110 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > | Awareness | Info |
 > > | Involvement | Info |
 > > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Languages Spoken: Common & Antivan ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:05 - 9:54 Dragon |
+> | Condition | — |
+> | Open To Plotting | No |
+>
+> **Summary**
+> 
+> > *Ashina's Common accent evolves over the course of the timeline, depending on which country she is living in, as the notes of her Ferelden accent fade to be less noticeable the longer she lives in Antiva.*
+> 
+> Ashina is raised speaking both Common Trade Tongue and Antivan, taught the latter by her mother. 
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- NPC
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Language Learned: Qunlat ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | Must Have Traveled With Sten |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> Ashina learns to speak, read, and write Qunlat from Sten during the course of the Fifth Blight, gaining fluency through continued correspondence with him in the years following ending the Blight.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- Sten
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Sten |
+> > | Dynamic | Best Friend |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
 > > | Open To Plotting | Yes |
 > > 
 > > **Details**
@@ -680,7 +1227,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Things Your Muse *Could* Know
 
-> [!statsbox]+ Headcanon
+> [!statsbox]- Conscripted Against Her Will ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -688,13 +1235,13 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > |---|---|
 > | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
 > | Setting | Dragon Age |
-> | Timeline | Info |
-> | Condition | — |
+> | Timeline | 9:30 - 9:34 Dragon |
+> | Condition | Must Be A Grey Warden |
 > | Open To Plotting | Yes |
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Ashina is conscripted by Duncan against her will.*
 > 
 > TBA
 > 
@@ -702,7 +1249,59 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
 > 
-> > [!profilebox]- NPC
+> > [!profilebox]- Duncan
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Duncan |
+> > | Dynamic | Strangers |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Neutral (10) |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Warden Tathas Is Killed In 9:33 Dragon ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:34 Dragon |
+> | Condition | Must Be A Grey Warden &/or Hero of Ferelden |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> Ashina takes up [Master Ignacio's](https://dragonage.miraheze.org/wiki/Ignacio) [offer to join the Crows](https://dragonage.miraheze.org/wiki/The_Trial_of_Crows) when she tires of being a Warden, entering negotiations with the Fifth Talon of House de Riva in 9:33 Dragon to secure a promise of protection from the Order of the Grey Wardens in return for her service as an Antivan Crow within House de Riva.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- Zevran Arainai
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
 > > 
 > > | | |
@@ -712,6 +1311,134 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > > | Awareness | Info |
 > > | Involvement | Info |
 > > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Master Ignacio
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Fifth Talon of House de Riva
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Caterina Dellamorte
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- King of Antiva
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Warden Tathas Is Wanted By Weisshaupt ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:34 Dragon |
+> | Condition | Must be A Grey Warden &/or Hero of Ferelden |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *Post-Amaranthine Crisis — 9:31 or 9:32 Dragon onward*
+> 
+> The First Warden has ordered that "_Warden Tathas Arainai_", also known as the Hero of Ferelden, the Warden-Commander of Ferelden, and _de facto_ Arlessa of Amaranthine, be brought in to Weisshaupt for questioning pertaining to her survival after killing the Archdemon Urthemiel, as well as her encounter with the Architect, among many other things he seeks answer to about her activities during the Fifth Blight itself.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- First Warden
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | First Warden |
+> > | Dynamic | Strangers |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Hostile (-50) |
 > > | Open To Plotting | Yes |
 > > 
 > > **Details**
@@ -734,7 +1461,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 ## Things Your Muse Should *Not* Know
 
-> [!statsbox]+ Headcanon
+> [!statsbox]- Arranged Marriage Wedding Disaster ( Dragon Age )
 >
 > **Basic Info**
 > 
@@ -742,7 +1469,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > |---|---|
 > | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
 > | Setting | Dragon Age |
-> | Timeline | Info |
+> | Timeline | 9:30 - 9:34 Dragon |
 > | Condition | — |
 > | Open To Plotting | Yes |
 >
@@ -750,7 +1477,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > > *TBA*
 > 
-> TBA
+> Ashina did *not* want to get married, and had managed to avoid such ever since her mother was killed in 9:24 Dragon. But with her approaching the age of 25, her father was pressured into arranging something for her lest the Alienage's *hahren* do so himself, as he did for Soris.
 > 
 > **Connections**
 > 
@@ -786,17 +1513,275 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > 
 
+> [!statsbox]- First Kills ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:34 Dragon |
+> | Condition | — |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> Ashina has never killed anyone before she is kidnapped by Vaughan Kendall in 9:30 Dragon alongside a half dozen or so other women from the Denerim Alienage. 
+> 
+> The massacre that follows in the Arl of Denerim's palace as she leaves a trail of blood and death in her wake is the first time she has ever killed anyone at all, and she kills dozens of guards and nobles alike in order to free herself and the other women.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- NPC
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Warden Tathas, Hero of Ferelden ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | Info |
+> | Condition | Must Be A Grey Warden & Hero of Ferelden |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> - When Ashina is conscripted into the Grey Wardens, she *insists* that she not be enlisted under her real name, for her family's protection.
+> - The name in the recruit roster lists her as "*Tathas Adaia Arainai*" — named such after the story she tells the kids playing in the alley about the elven hero-thief, and her mother.
+> - Once she leaves Denerim, only Duncan knows her true identity, but only refers to her as Tathas, per her request — it is this name that she uses to introduce herself throughout the course of the Fifth Blight, and throughout the Amaranthine Crisis.
+> 
+> **Connections**
+> 
+> > *There are some who may know her true identity after 9:33 Dragon, when she joins the Antivan Crows. This includes a few of the Talons, primarily the Fifth Talon (Viago's predecessor) and First Talon (likely Caterina Dellamorte), as well as a handful of Master Assassins and other influential Crows, such as Viago de Riva, Andarateia Cantori, and Lucanis Dellamorte (if they do not know the truth sooner, they will likely learn it when they become Talons themselves).*
+> 
+> > [!profilebox]- NPC
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> > **When This Could Be Revealed** (*open to plotting*)
+> > - **Veilguard (9:50 - 9:54 Dragon)**
+> > 	- *ROOK:* de Riva or Thorne
+> > 	- *RECRUITMENT:* Lucanis Dellamorte &/or Davrin
+> > 	- *ENCOUNTER:* First Warden & Senior Wardens
+> > 	- *EVENT:* Blighted dragon attack on Treviso
+> > 	- *EVENT:* Siege at Weisshaupt
+> > - **Inquisition (9:40 - 9:44 Dragon)**
+> > 	- *COMPANION:* Varric Tethras &/or Hawke (*if met in Kirkwall*)
+> > 	- *ENCOUNTER:* Senior Wardens
+> > 	- *LOCATION:* City of Redcliffe
+> > 	- *ENCOUNTER:* King &/or Queen of Ferelden
+> > 	- *ENCOUNTER:* Hawke's Grey Warden Contact
+> > 	- *EVENT:* Siege at Adamant Fortress
+> > - **Kirkwall (9:35 - 9:39 Dragon)**
+> > 	- *COMPANION:* Anders &/or Justice
+> > 	- *EVENT:* Deep Roads Expedition
+> > 	- *EVENT:* Qunari Invasion of Kirkwall
+> > 	- *ENCOUNTER:* Nathanial Howe &/or Senior Wardens
+> > 	- *EVENT:* Fall of the Gallows
+> 
+
+> [!statsbox]- Searching For A Cure ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | Must Be A Grey Warden |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> - Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.
+> - As a master herbalist, Ashina is skilled enough to pull it off, *if* she can find the information and components she needs to do so. 
+> - Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.
+> - Ashina does not immediately involve many people in her search, in part because of the conditions of her contract with House de Riva and the Crows that ensures the contracts that were taken out against "*Tathas Arainai*" are considered complete now that "Warden Tathas" is dead and *she* is a de Riva.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- Morrigan
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Morrigan |
+> > | Dynamic | Best Friends |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> > [!profilebox]- Zevran Arainai
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | Zevran Arainai |
+> > | Dynamic | Best Friends |
+> > | Awareness | Yes |
+> > | Involvement | Yes |
+> > | Approval | Max (100) |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+> [!statsbox]- Language Learned: Ancient Elvhen ( Dragon Age )
+>
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Verse | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
+> | Setting | Dragon Age |
+> | Timeline | 9:30 - 9:54 Dragon |
+> | Condition | Must Have Travelled To Brecilian Forest |
+> | Open To Plotting | Yes |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, of which she can use little of herself, as well as the elvhen language from its memories that it shares with her.
+>  
+>  She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly *how* she learned it in the first place.
+> 
+> **Connections**
+> 
+> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> 
+> > [!profilebox]- NPC
+> > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> > 
+> > | | |
+> > |---|---|
+> > | Name | NPCName |
+> > | Dynamic | Info |
+> > | Awareness | Info |
+> > | Involvement | Info |
+> > | Approval | Info |
+> > | Open To Plotting | Yes |
+> > 
+> > **Details**
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> **Details**
+> 
+> > [!statsbox]- Spoilers
+> > 
+> > > *TBA*
+> > 
+> > TBA
+> > 
+> 
+> 
+
+
+
 ---
 # Additional Information
 ## Quotes & Catchphrases
 
-- *TBA*
+- "I killed them like dogs, Shianni. Not just them. All the humans who hurt you." — *said to her cousin, Shianni, after freeing her and the other women stolen from the Alienage - 9:30 Dragon.*
+- "Believe in whatever you like; absent creators or whimsical gods. Follow prophets or ashkaati, or omens in the earth and sky. You will find wisdom only if you seek it." — *quoting Sten's wisdom from their time traveling together during the Fifth Blight.*
 
 ---
 ## Trivia
 
-- *TBA*
-
+- Ashina's first kills were the ones she made freeing herself after being kidnapped, and she killed *each and every guard and human noble* that she came across, leaving a river of blood trailing behind her as she fought to try to reach Shianni in time.
+- If she ever meets Varric Tethras, he is likely to call her "**Snapdragon**", between her often fiery attitude and her penchant for carrying gear made from the very dragons she's slain in the past during the Fifth Blight.
 
 ---
 ## TV Tropes
