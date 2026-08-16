@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/roster-index-all-muses/","tags":["directory","navigation"],"dg-note-properties":{"tags":["directory","navigation"],"aliases":["Roster Index"]}}
+{"dg-publish":true,"permalink":"/muse-roster-index/","tags":["directory","navigation","muse-roster","all-muses"],"dg-note-properties":{"tags":["directory","navigation","muse-roster","all-muses"],"aliases":["Roster Index","All Muses"]}}
 ---
 
 # Full Roster
