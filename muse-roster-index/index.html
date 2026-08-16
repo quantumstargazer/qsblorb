@@ -26,7 +26,7 @@
 <link href="/styles/obsidian-base.css" rel="stylesheet">
 <link href="/styles/_theme.83ace87c.css" rel="stylesheet">
 <link href="/styles/digital-garden-base.css" rel="stylesheet">
-<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-16T23:28:37.295Z" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-16T23:29:40.743Z" rel="stylesheet">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -70,6 +70,26 @@
 <div x-show="isOpen" style="display:none" class="">
 <div @click.stop class="notelink">
 <a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home - QS Wiki </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/open-muses-roster/">! Open Muses - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/by-request-only-roster/">By Request Only - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/invitation-only-roster/">Invitation Only - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/irregulars-roster/">Irregulars - Roster </a>
 </div>
 </div>
 <div x-show="isOpen" style="display:none" class="">
@@ -229,7 +249,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-16T23:28:37.295Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-16T23:29:40.743Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <div class="header-meta">
@@ -238,10 +258,10 @@
 <h1 id="muse-roster-index" tabindex="-1">Muse Roster - Index</h1>
 <h2 id="rosters-by-availability" tabindex="-1">Rosters By Availability</h2>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/">Open Muses</a> - <em><strong>priority muses</strong> — available to all mutuals</em></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/">By Request Only</a> - <em>available only on request</em></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/">Invitation Only</a> - <em>available by invitation only</em></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/">Irregulars</a> - <em>available for Mains &amp; Permanent Interactions Call only</em></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/">Open Muses</a> - <em><strong>priority muses</strong> — available to all mutuals</em></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/">By Request Only</a> - <em>available only on request</em></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/">Invitation Only</a> - <em>available by invitation only</em></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/">Irregulars</a> - <em>available for Mains &amp; Permanent Interactions Call only</em></li>
 </ul>
 <div class="callout" data-callout="verse"><div class="callout-title"><div class="callout-title-inner"> Verses &amp; AUs<br></div></div>
 <div class="callout-content">
@@ -262,174 +282,174 @@ All muses have verses to support interactions within the expanded Baldur's Gate,
 <h2 id="open-muses" tabindex="-1">Open Muses</h2>
 <h3 id="original-characters" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#tavares-umbrafae">Tavares Umbrafae</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#faeynore-moonstar">Faeynore Moonstar</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#tavares-umbrafae">Tavares Umbrafae</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#faeynore-moonstar">Faeynore Moonstar</a></li>
 </ul>
 <h2 id="by-request-only" tabindex="-1">By Request Only</h2>
 <h3 id="original-characters-1" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#faertorithrue">Faertorithrue</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#fenmaer-dawngazer">Fenmaer Dawngazer</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#faertorithrue">Faertorithrue</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#fenmaer-dawngazer">Fenmaer Dawngazer</a></li>
 </ul>
 <h3 id="canon-characters" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#astarion-ancunin">Astarion Ancunín</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#jaheira">Jaheira</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#minthara-baenre">Minthara Baenre</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#prince-of-frost">Prince of Frost</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#astarion-ancunin">Astarion Ancunín</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#jaheira">Jaheira</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#minthara-baenre">Minthara Baenre</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#prince-of-frost">Prince of Frost</a></li>
 </ul>
 <h2 id="invitation-only" tabindex="-1">Invitation Only</h2>
 <h3 id="original-characters-2" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#dirge">Dirge (The Dark Urge)</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#fisk-em-the-enigma-em">Fisk (The Enigma)</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#halima">Halima</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#dirge">Dirge (The Dark Urge)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#fisk-em-the-enigma-em">Fisk (The Enigma)</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#halima">Halima</a></li>
 </ul>
 <h3 id="canon-characters-1" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#karlach-cliffgate-private">Karlach Cliffgate</a> (<em>Private Muse - lanternlit only</em>)</li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#karlach-cliffgate-private">Karlach Cliffgate</a> (<em>Private Muse - lanternlit only</em>)</li>
 </ul>
 <h2 id="irregulars" tabindex="-1">Irregulars</h2>
 <h3 id="canon-characters-2" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#gale-dekarios">Gale Dekarios</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#minsc">Minsc</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#hope">Hope</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#gale-dekarios">Gale Dekarios</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#minsc">Minsc</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#hope">Hope</a></li>
 </ul>
 <hr>
 <h1 id="dragon-age" tabindex="-1">Dragon Age</h1>
 <h2 id="open-muses-1" tabindex="-1">Open Muses</h2>
 <h3 id="original-characters-3" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#ashina-de-riva-nee-tabris">Ashina de Riva née Tabris</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#ward-ingellvar">Ward Ingellvar</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#leonardo-de-riva">Leonardo de Riva</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#haleir-lavellan">Haleir Lavellan</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#marian-hawke">Marian Hawke</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#isenril-mahariel">Isenril Mahariel</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#ashina-de-riva-nee-tabris">Ashina de Riva née Tabris</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#ward-ingellvar">Ward Ingellvar</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#leonardo-de-riva">Leonardo de Riva</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#haleir-lavellan">Haleir Lavellan</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#marian-hawke">Marian Hawke</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#isenril-mahariel">Isenril Mahariel</a></li>
 </ul>
 <h3 id="canon-characters-3" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#zevran-arainai">Zevran Arainai</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#zevran-arainai">Zevran Arainai</a></li>
 </ul>
 <h2 id="by-request-only-1" tabindex="-1">By Request Only</h2>
 <h3 id="original-characters-4" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#zaehire-de-riva">Zaehire de Riva</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#bertrand-ingellvar">Bertrand Ingellvar</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#garrett-hawke">Garrett Hawke</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#orabela-aeducan">Orabela Aeducan</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#zaehire-de-riva">Zaehire de Riva</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#bertrand-ingellvar">Bertrand Ingellvar</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#garrett-hawke">Garrett Hawke</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#orabela-aeducan">Orabela Aeducan</a></li>
 </ul>
 <h3 id="canon-characters-4" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#varric-tethras">Varric Tethras</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#dorian-pavus">Dorian Pavus</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#viago-de-riva">Viago de Riva</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#andarateia-cantori">Andarateia Cantori</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#lucanis-dellamorte">Lucanis Dellamorte</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#spite">Spite</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#emmrich-volkarin">Emmrich Volkarin</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#manfred">Manfred</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#vorgoth">Vorgoth</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#varric-tethras">Varric Tethras</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#dorian-pavus">Dorian Pavus</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#viago-de-riva">Viago de Riva</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#andarateia-cantori">Andarateia Cantori</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#lucanis-dellamorte">Lucanis Dellamorte</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#spite">Spite</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#emmrich-volkarin">Emmrich Volkarin</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#manfred">Manfred</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#vorgoth">Vorgoth</a></li>
 </ul>
 <h2 id="invitation-only-1" tabindex="-1">Invitation Only</h2>
 <h3 id="original-characters-5" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#banal-ras">Banal’ras</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#clark-kent">Clark Kent</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#bruce-wayne">Bruce Wayne</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#banal-ras">Banal’ras</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#clark-kent">Clark Kent</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#bruce-wayne">Bruce Wayne</a></li>
 </ul>
 <h3 id="canon-characters-5" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#felassan">Felassan</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#abelas">Abelas</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#bellara-lutare">Bellara Lutare</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#heir">Heir</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#merrill">Merrill</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#anders">Anders</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#felassan">Felassan</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#abelas">Abelas</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#bellara-lutare">Bellara Lutare</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#heir">Heir</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#merrill">Merrill</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#anders">Anders</a></li>
 </ul>
 <h2 id="irregulars-1" tabindex="-1">Irregulars</h2>
 <h3 id="original-characters-6" tabindex="-1">Original Characters</h3>
 <h4 id="veterans-of-the-fifth-blight" tabindex="-1">Veterans of the Fifth Blight</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#aileas-cousland">Aileas Cousland</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#bran-cousland">Bran Cousland</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#lailani-sabrae">Lailani Sabrae</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#satu-surana">Satu Surana</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#selena-amell">Selena Amell</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#kiran-brosca">Kiran Brosca</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#aileas-cousland">Aileas Cousland</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#bran-cousland">Bran Cousland</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#lailani-sabrae">Lailani Sabrae</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#satu-surana">Satu Surana</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#selena-amell">Selena Amell</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#kiran-brosca">Kiran Brosca</a></li>
 </ul>
 <h4 id="veterans-of-kirkwall-rebellions" tabindex="-1">Veterans of Kirkwall Rebellions</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#rowan-hawke">Rowan Hawke</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#quincy-hawke">Quincy Hawke</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#rowan-hawke">Rowan Hawke</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#quincy-hawke">Quincy Hawke</a></li>
 </ul>
 <h4 id="veterans-of-the-inquisition" tabindex="-1">Veterans of the Inquisition</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#garahel-ithalanas-lavellan">Garahel Ithalanas Lavellan</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#rubi-cadash">Rubi Cadash</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#tamik-adaar">Tamik Adaar</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#garahel-ithalanas-lavellan">Garahel Ithalanas Lavellan</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#rubi-cadash">Rubi Cadash</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#tamik-adaar">Tamik Adaar</a></li>
 </ul>
 <h4 id="veterans-of-the-veilguard" tabindex="-1">Veterans of the Veilguard</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#darcy-mercer">Darcy Mercer</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#esha-laidir">Esha Laidir</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#gertrude-ingellvar">Gertrude Ingellvar</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#hakiem-aldwir">Hakiem Aldwir</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#iven-thorne">Iven Thorne</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#nikolas-mercer">Nikolas Mercer</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#redmond-thorne">Redmond Thorne</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#darcy-mercer">Darcy Mercer</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#esha-laidir">Esha Laidir</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#gertrude-ingellvar">Gertrude Ingellvar</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#hakiem-aldwir">Hakiem Aldwir</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#iven-thorne">Iven Thorne</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#nikolas-mercer">Nikolas Mercer</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#redmond-thorne">Redmond Thorne</a></li>
 </ul>
 <h3 id="canon-characters-6" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#sten">Sten</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#carver-hawke">Carver Hawke</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#bethany-hawke">Bethany Hawke</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#fenris">Fenris</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#tamlen">Tamlen</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#evka-ivo">Evka Ivo</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#antoine">Antoine</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#shale">Shale</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#sigrun">Sigrun</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#sten">Sten</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#carver-hawke">Carver Hawke</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#bethany-hawke">Bethany Hawke</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#fenris">Fenris</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#tamlen">Tamlen</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#evka-ivo">Evka Ivo</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#antoine">Antoine</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#shale">Shale</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#sigrun">Sigrun</a></li>
 </ul>
 <hr>
 <h1 id="mass-effect" tabindex="-1">Mass Effect</h1>
 <h2 id="open-muses-2" tabindex="-1">Open Muses</h2>
 <h3 id="original-characters-7" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/open-muses-roster/#isabela-shepard">Isabela Shepard</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#isabela-shepard">Isabela Shepard</a></li>
 </ul>
 <h2 id="by-request-only-2" tabindex="-1">By Request Only</h2>
 <h3 id="original-characters-8" tabindex="-1">Original Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#sara-ryder">Sara Ryder</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#scott-ryder">Scott Ryder</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#sara-ryder">Sara Ryder</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#scott-ryder">Scott Ryder</a></li>
 </ul>
 <h3 id="canon-characters-7" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#evfra-de-tershaav">Evfra de Tershaav</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#jaal-ama-darav">Jaal Ama Darav</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/by-request-only-roster/#reyes-vidal">Reyes Vidal</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#evfra-de-tershaav">Evfra de Tershaav</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#jaal-ama-darav">Jaal Ama Darav</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#reyes-vidal">Reyes Vidal</a></li>
 </ul>
 <h2 id="invitation-only-2" tabindex="-1">Invitation Only</h2>
 <h3 id="canon-characters-8" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#nihlus-kryik">Nihlus Kryik</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#avitus-rix">Avitus Rix</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#thane-krios">Thane Krios</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#mordin-solus">Mordin Solus</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#javik">Javik</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#nihlus-kryik">Nihlus Kryik</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#avitus-rix">Avitus Rix</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#thane-krios">Thane Krios</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#mordin-solus">Mordin Solus</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#javik">Javik</a></li>
 </ul>
 <h2 id="irregulars-2" tabindex="-1">Irregulars</h2>
 <h3 id="canon-characters-9" tabindex="-1">Canon Characters</h3>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#urdnot-wrex">Urdnot Wrex</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#garrus-vakarian">Garrus Vakarian</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#tali-zorah">Tali'Zorah</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#jeff-and-quot-joker-and-quot-moreau">Jeff &quot;Joker&quot; Moreau</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#karin-chakwas">Karin Chakwas</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#aria-t-loak">Aria T'Loak</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/irregulars-roster/#aethyta">Aethyta</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#urdnot-wrex">Urdnot Wrex</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#garrus-vakarian">Garrus Vakarian</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#tali-zorah">Tali'Zorah</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#jeff-and-quot-joker-and-quot-moreau">Jeff &quot;Joker&quot; Moreau</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#karin-chakwas">Karin Chakwas</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#aria-t-loak">Aria T'Loak</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#aethyta">Aethyta</a></li>
 </ul>
 <hr>
 <h1 id="other-fandoms" tabindex="-1">Other Fandoms</h1>
@@ -437,12 +457,12 @@ All muses have verses to support interactions within the expanded Baldur's Gate,
 <h3 id="invitation-only-3" tabindex="-1">Invitation Only</h3>
 <h4 id="original-characters-9" tabindex="-1">Original Characters</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#inigo">Inigo</a> <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#inigo">Inigo</a> <sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></li>
 </ul>
 <h4 id="canon-characters-10" tabindex="-1">Canon Characters</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#razum-dar">Razum-dar</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#courier">Courier</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#razum-dar">Razum-dar</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#courier">Courier</a></li>
 </ul>
 <h2 id="stardew-valley" tabindex="-1">Stardew Valley</h2>
 <h3 id="invitation-only-4" tabindex="-1">Invitation Only</h3>
@@ -452,9 +472,9 @@ All muses have verses to support interactions within the expanded Baldur's Gate,
 </ul>
 <h4 id="canon-characters-11" tabindex="-1">Canon Characters</h4>
 <ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#magnus-rasmodius">Magnus Rasmodius</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#elliot">Elliot</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/muses/invitation-only-roster/#gunter">Gunter</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#magnus-rasmodius">Magnus Rasmodius</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#elliot">Elliot</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#gunter">Gunter</a></li>
 </ul>
 <hr>
 <hr class="footnotes-sep">
