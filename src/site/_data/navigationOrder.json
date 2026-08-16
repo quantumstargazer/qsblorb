@@ -1,6 +1,10 @@
 {
   "/": [
     "Home - QS Wiki",
+    "! Open Muses - Roster",
+    "By Request Only - Roster",
+    "Invitation Only - Roster",
+    "Irregulars - Roster",
     "Muse Roster - Index",
     "Muses",
     "! Tags",
@@ -8,10 +12,6 @@
     "Interactive Forms"
   ],
   "/Muses": [
-    "! Open Muses - Roster",
-    "By Request Only - Roster",
-    "Invitation Only - Roster",
-    "Irregulars - Roster",
     "Dragon Age"
   ],
   "/Muses/Dragon Age": [
