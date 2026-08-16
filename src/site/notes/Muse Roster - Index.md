@@ -43,7 +43,7 @@
 ### Canon Characters
 - [[Muses/Irregulars - Roster#Gale Dekarios\|Gale Dekarios]]
 - [[Muses/Irregulars - Roster#Minsc\|Minsc]]
-- *Hope*
+- [[Muses/Irregulars - Roster#Hope\|Hope]]
 
 ---
 # Dragon Age
@@ -132,7 +132,7 @@
 ### Canon Characters
 - [[Muses/By Request Only - Roster#Evfra de Tershaav\|Evfra de Tershaav]]
 - [[Muses/By Request Only - Roster#Jaal Ama Darav\|Jaal Ama Darav]]
-- *Reyes Vidal*
+- [[Muses/By Request Only - Roster#Reyes Vidal\|Reyes Vidal]]
 ## Invitation Only 
 ### Canon Characters
 - [[Muses/Invitation Only - Roster#Nihlus Kryik\|Nihlus Kryik]]
@@ -153,10 +153,11 @@
 ---
 # Other Fandoms
 ## Elder Scrolls
-### Invitation Only 
+### Invitation Only
+#### Original Characters
+- [[Muses/Invitation Only - Roster#Inigo\|Inigo]] [^1]
 #### Canon Characters
-- *Razum-dar*
-- [[Muses/Invitation Only - Roster#Inigo\|Inigo]]
+- [[Muses/Invitation Only - Roster#Razum-dar\|Razum-dar]]
 - [[Muses/Invitation Only - Roster#Courier\|Courier]]
 ## Stardew Valley
 ### Invitation Only 
@@ -197,3 +198,4 @@
 
 
 
+[^1]: [Companion Mod for Elder Scrolls V: Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/1461) — *not my own OC*, but neither is he "canon" (though he absolutely should be).
