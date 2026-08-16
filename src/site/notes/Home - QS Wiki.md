@@ -119,11 +119,35 @@
 > | Tumblr | [quantumstargazer](https://quantumstargazer.tumblr.com/) |
 > | Twitch | [quantumstargazer](https://www.twitch.tv/quantumstargazer) |
 >
-> **Summary**
+> **Roleplay Experience**
 > 
-> > *TBA*
+> | | |
+> |---|---|
+> | Tumblr RP | 8+ years |
+> | Other Platforms | 28+ years |
+> | TTRPGs & LARPs | 30+ years |
 > 
-> TBA
+> **Other Hobbies**
+> 
+> | | |
+> |---|---|
+> | Gaming | Extremely Eclectic Genres - Favorite: Choice-Based RPGs |
+> | Writing | Fan Fiction & Original Works of Fiction |
+> | Art | Digital Art & Photography |
+> | Music | Multi-Instrumentalist - Flute, French Horn, Violin, etc. |
+> | Coding | Web Designer & Developer; Some Minor Plugins & Mods |
+> 
+> > [!profilebox]- Other Interests
+> > 
+> > **Various Favorites**
+> > 
+> > | | |
+> > |---|---|
+> > | Video Games | Baldur's Gate 3, Dragon Age (series), Mass Effect (series), Stardew Valley, Slime Rancher, The Elder Scrolls V: Skyrim |
+> > | TV Shows | Doctor Who (1963), The *Real* Ghostbusters (1986), Meerkat Manor |
+> > | Movies | Doctor Who (1996), Ghostbusters (1984) |
+> > | Books | Discworld Series (Terry Pratchett), Hitchhiker's Guide Series (Douglas Adams) |
+> > | Music | David Bowie, Nightwish, lots of 80s & 90s music, lots of heavy metal |
 > 
 
 > [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
