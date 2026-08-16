@@ -105,11 +105,26 @@
 
 ---
 # About Mun
-![android-chrome-192x192.png](/img/user/z%20Assets/Attachments/android-chrome-192x192.png)
-- *name:* Ziggy
-- *pronouns:* they/them
-- *age:* 40+
 
+> [!profilebox] QuantumStargazer
+> ![android-chrome-192x192.png\|150x150](/img/user/z%20Assets/Attachments/android-chrome-192x192.png)
+> 
+> **Basic Info**
+> 
+> | | |
+> |---|---|
+> | Name | Ziggy |
+> | Pronouns | They/Them/Themself |
+> | Age | 40+ |
+> | Tumblr | [quantumstargazer](https://quantumstargazer.tumblr.com/) |
+> | Twitch | [quantumstargazer](https://www.twitch.tv/quantumstargazer) |
+>
+> **Summary**
+> 
+> > *TBA*
+> 
+> TBA
+> 
 
 > [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
 > **AuDHD** means ***infodumping*** is likely to occur, and this means my posts, as well as the notes here, are likely to get *wordy*. I tend to try to be mindful of individual paragraph lengths, but there will often be *a lot* of paragraphs and/or bullet points.
@@ -126,6 +141,16 @@
 
 > [!coffeetime] Coffee Time
 > If you stumble across any issues (broken links, missing images, incorrect info about your character's portrayal, etc.), feel free to let me know by [filing an issue report](https://github.com/quantumstargazer/quantumstargazer.github.io/issues), that way I have a 'to do' list for what needs to be fixed and it will be taken care of as soon as I'm able to get to it.
+
+
+
+
+
+
+
+
+
+
 
 
 [^1]: Includes Forgotten Realms and expanded Dungeons & Dragons lore.
