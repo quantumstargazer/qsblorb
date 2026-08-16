@@ -39,13 +39,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Tavares\|Tavares Umbrafae]] |
-> | Mainverses | [[! Summary - Tavares#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Tavares#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Tavares#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Tavares#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Tavares\|Tavares Umbrafae]] |
+> | Mainverses | [[Summary - Tavares#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Tavares#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Tavares#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Tavares#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Faeynore Moonstar
 
@@ -74,13 +74,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Faeynore\|Faeynore Moonstar]] |
-> | Mainverses | [[! Summary - Faeynore#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Faeynore#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Faeynore#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Faeynore#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Faeynore\|Faeynore Moonstar]] |
+> | Mainverses | [[Summary - Faeynore#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Faeynore#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Faeynore#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Faeynore#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Dragon Age
@@ -115,13 +115,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina\|Ashina de Riva née Tabris]] |
-> | Mainverses | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]] |
-> | Altverses | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[zzz Full Folder - Structure 1/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina\|Ashina de Riva née Tabris]] |
+> | Mainverses | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Ward Ingellvar
 
@@ -151,13 +151,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Ward\|Ward Ingellvar]] |
-> | Mainverses | [[! Summary - Ward#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Ward#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Ward#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Ward#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Ward\|Ward Ingellvar]] |
+> | Mainverses | [[Summary - Ward#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Ward#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Ward#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Ward#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Leonardo de Riva
 
@@ -186,13 +186,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Leonardo\|Leonardo de Riva]] |
-> | Mainverses | [[! Summary - Leonardo#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Leonardo#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Leonardo#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Leonardo#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Leonardo\|Leonardo de Riva]] |
+> | Mainverses | [[Summary - Leonardo#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Leonardo#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Leonardo#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Leonardo#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Haleir Lavellan
 
@@ -224,13 +224,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Haleir\|Haleir Lavellan]] |
-> | Mainverses | [[! Summary - Haleir#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Haleir#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Haleir#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Haleir#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Haleir\|Haleir Lavellan]] |
+> | Mainverses | [[Summary - Haleir#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Haleir#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Haleir#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Haleir#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Marian Hawke
 
@@ -262,13 +262,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Marian\|Marian Hawke]] |
-> | Mainverses | [[! Summary - Marian#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Marian#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Marian#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Marian#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Marian\|Marian Hawke]] |
+> | Mainverses | [[Summary - Marian#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Marian#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Marian#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Marian#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 ## Isenril Mahariel
@@ -299,13 +299,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Mahariel\|Isenril Mahariel]] |
-> | Mainverses | [[! Summary - Mahariel#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Mahariel#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Mahariel#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Mahariel#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Mahariel\|Isenril Mahariel]] |
+> | Mainverses | [[Summary - Mahariel#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Mahariel#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Mahariel#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Mahariel#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Zevran Arainai
 
@@ -333,13 +333,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Zevran\|Zevran Arainai]] |
-> | Mainverses | [[! Summary - Zevran#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Zevran#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Zevran#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Zevran#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Zevran\|Zevran Arainai]] |
+> | Mainverses | [[Summary - Zevran#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Zevran#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Zevran#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Zevran#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Mass Effect
@@ -372,13 +372,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Isabela\|Isabela Shepard]] |
-> | Mainverses | [[! Summary - Isabela#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Isabela#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Isabela#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Isabela#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Isabela\|Isabela Shepard]] |
+> | Mainverses | [[Summary - Isabela#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Isabela#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Isabela#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Isabela#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 ---

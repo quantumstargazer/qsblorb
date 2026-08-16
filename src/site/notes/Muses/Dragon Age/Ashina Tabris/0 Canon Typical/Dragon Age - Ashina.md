@@ -26,12 +26,12 @@
 > 
 > // Dossiers & Verses
 > 
-> Mainverses -> [[Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Typical\|Canon Typical]]
-> Altverses -> [[Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]]
-> Alt Universes -> [[Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]]
-> Crossovers -> [[Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Trapped In Another World AUs\|Another World AUs]]
-> Multiverse -> [[Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]]
-> Private -> [[Muses/Dragon Age/Ashina Tabris/! Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]]
+> Mainverses -> [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Canon Typical\|Canon Typical]]
+> Altverses -> [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Canon Divergent AUs\|Canon Divergent AUs]]
+> Alt Universes -> [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Fandom Specific AUs\|Fandom Specific AUs]]
+> Crossovers -> [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Trapped In Another World AUs\|Another World AUs]]
+> Multiverse -> [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Other Verses & AUs\|Other Verses & AUs]]
+> Private -> [[Muses/Dragon Age/Ashina Tabris/Summary - Ashina#Private Verses & AUs\|Private Verses & AUs]]
 > 
 > // Availability
 > 
