@@ -26,7 +26,7 @@
 <link href="/styles/obsidian-base.css" rel="stylesheet">
 <link href="/styles/_theme.83ace87c.css" rel="stylesheet">
 <link href="/styles/digital-garden-base.css" rel="stylesheet">
-<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-15T23:26:35.131Z" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-16T00:23:16.346Z" rel="stylesheet">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -229,7 +229,7 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-15T23:26:35.131Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-16T00:23:16.346Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <div class="header-meta">
@@ -1104,7 +1104,7 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 </div></div>
 </div></div>
 <h2 id="ancient-memories" tabindex="-1">Ancient Memories</h2>
-<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Ancient Memories ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Ancient Memories ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
 </p><p><strong>Basic Info</strong></p>
@@ -1205,7 +1205,7 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <hr>
 <h1 id="wishlists" tabindex="-1">Wishlists</h1>
 <h2 id="secrets-revealed" tabindex="-1">Secrets Revealed</h2>
-<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Secrets Revealed ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Secrets Revealed ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
 </p><p><strong>Basic Info</strong></p>
@@ -1303,7 +1303,7 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 </div></div>
 </div></div>
 <h2 id="crow-negotiations" tabindex="-1">Crow Negotiations</h2>
-<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Crow Negotiations ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Crow Negotiations ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
 </p><p><strong>Basic Info</strong></p>
@@ -1403,7 +1403,703 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <hr>
 <h1 id="quick-guides" tabindex="-1">Quick Guides</h1>
 <h2 id="things-em-you-em-should-know" tabindex="-1">Things <em>You</em> Should Know</h2>
-<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Headcanon</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Not &quot;Self-Sacrificing Hero&quot; Material ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>This is a core personality trait and is not open to plotting.</em></p>
+</blockquote>
+<p>Ashina cares very little about the fate of Ferelden <em>as a whole</em> — her only real concern is protecting her family back in the Denerim Alienage. She certainly doesn't care about protecting the lives of the nobles or pretty much any other human in the process.</p>
+<p>Ashina is selfish, has an extremely strong will to live, and unless you are one of <em>her people</em>, is not willing to die for anyone else.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> NPC<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Ashina Tabris Is &quot;Dead&quot; ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Required Unless Approved Pre-Established Exception</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes - <em>Pre-Established Exceptions &amp; Some Companions</em></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p>*Ashina <strong>NEVER</strong> goes by &quot;<em><strong>Tabris</strong></em>&quot; with anyone she's met after becoming a Grey Warden and/or an Antivan Crow (<em>so anyone met after the events of the Origins prologue</em>). *</p>
+</blockquote>
+<p>No one who didn't know her prior to one or both of these events should even know her family name <em>at all</em> unless she explicitly tells them or it's revealed to them through the story itself (<em>example: those present during the Fifth Blight when she returns to the Alienage may learn her true identity as a result of her interacting with her family</em>).</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connections are pre-approved for knowing who Ashina really is.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Cyrion Tabris<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Cyrion Tabris</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Father</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Shianni<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Shianni</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Cousin</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Soris<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Soris</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Cousin</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Valora<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Valora</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Cousin-In-Law (<em>Soris' Wife</em>)</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Neutral (25)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Nelaros<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Nelaros</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Intended Betrothed (<em>Deceased</em>)</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Neutral (50)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes - &quot;<em>Deceased</em>&quot;</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Duncan<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Duncan</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Strangers</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Neutral (10)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<blockquote>
+<p>The following companions who may possibly learn her real name, and the conditions required in order to achieve this, are:</p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Zevran Arainai<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Zevran Arainai</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friends - Possible Love Interest</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>Zev obviously can know &quot;Arainai&quot; is not her real name from the start.</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Morrigan<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Morrigan</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friends</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Sten<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Sten</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friends</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Shale<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Shale</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friends</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Adaia was an Antivan Crow of House Arainai ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:05 - 9:24 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>Adaia being a Crow is non-negotiable when interacting with Ash — it's too ingrained into her backstory for the source of where Adaia learned her rogue skills in the first place to pass them onto Ash, and continues to play a big part in later timelines.</em></p>
+</blockquote>
+<ul>
+<li>Adaia is a rank &amp; file Crow of House Arainai, one of many elven <em>compradi</em> within the House, having been purchased as a young child and raised as an assassin.</li>
+<li>She flees Antiva City and the Crows in 9:06 Dragon, where she makes her way south, into Ferelden.</li>
+<li>While in Denerim, she meets Cyrion Tabris — they become engaged and then wed soon after.</li>
+<li>Adaia gives birth to Ashina Tabris on the 30th of Harvestmere, 9:06 Dragon.</li>
+</ul>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Adaia Arainai<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Adaia Arainai</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Mother</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes - <em>Personal Dynamics Only</em></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Questions of Paternity ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
 </p><p><strong>Basic Info</strong></p>
@@ -1441,6 +2137,206 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <blockquote>
 <p><em>TBA</em></p>
 </blockquote>
+<p>There were plenty of questions around the Denerim Alienage as to whether Cyrion was truly Ashina's father, given the timing so soon after he and Adaia even meet before she is noticeably pregnant, and with how little Ashina actually favors him, while being <em>very clearly</em> Antivan.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Cyrion Tabris<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Cyrion Tabris</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Father</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Maybe</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>While still in Antiva, Adaia learned she was pregnant, and in House Arainai, a child born of a Crow <em>becomes</em> a Crow, and so Adaia flees to Ferelden in hopes of giving her child a chance and a <em>choice</em> of their own future. She was vocally against the Alienage tradition of only being recognized as an adult by marrying, fought to keep the <em>hahren</em> from trying to force Ashina to marry until she <em>wanted to</em>, and preferably for love.</p>
+<p>Even though she might not be his by blood, Ashina <em>is</em> Cyrion's daughter. She doesn't know who her biological father is, but it is most likely another elven Crow in House Arainai.</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Warden Ability: Blight Obfuscation ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Be Grey Warden</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<ul>
+<li>Ashina is capable of obfuscating the blight in her veins, effectively hiding herself from both darkspawn and other wardens alike when she uses this ability.</li>
+<li>Much like slipping into shadows, it takes some degree of focus to initiate and maintain this obfuscation, and is likely to drop when she must commit more focus to another action that renders her unable to maintain focus on suppressing the blight.</li>
+<li>When not in combat, Ashina can maintain the obfuscation for long periods of time so long as her attention is not too divided by other tasks, allowing her to stay hidden even while in conversation with another Grey Warden.</li>
+<li>When in combat, she will remain hidden for up to 4 seconds after the obfuscation drops before darkspawn and/or wardens may become aware of her blighted presence.</li>
+</ul>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> NPC<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Warden Ability: Power of Blood ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Be Grey Warden</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em><a href="https://dragonage.miraheze.org/wiki/Power_of_Blood#Rogue" target="_blank" class="external-link">Power of Blood (Rogue)</a></em></p>
+</blockquote>
 <p>TBA</p>
 <p><strong>Connections</strong></p>
 <blockquote>
@@ -1477,6 +2373,200 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <tr>
 <td>Approval</td>
 <td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Languages Spoken: Common &amp; Antivan ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:05 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>No</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>Ashina's Common accent evolves over the course of the timeline, depending on which country she is living in, as the notes of her Ferelden accent fade to be less noticeable the longer she lives in Antiva.</em></p>
+</blockquote>
+<p>Ashina is raised speaking both Common Trade Tongue and Antivan, taught the latter by her mother.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> NPC<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Language Learned: Qunlat ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Have Traveled With Sten</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>Ashina learns to speak, read, and write Qunlat from Sten during the course of the Fifth Blight, gaining fluency through continued correspondence with him in the years following ending the Blight.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Sten<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Sten</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friend</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
 </tr>
 <tr>
 <td>Open To Plotting</td>
@@ -1501,7 +2591,7 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 </div></div>
 </div></div>
 <h2 id="things-your-muse-em-could-em-know" tabindex="-1">Things Your Muse <em>Could</em> Know</h2>
-<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Headcanon</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Conscripted Against Her Will ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
 </p><p><strong>Basic Info</strong></p>
@@ -1523,7 +2613,475 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 </tr>
 <tr>
 <td>Timeline</td>
+<td>9:30 - 9:34 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Be A Grey Warden</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>Ashina is conscripted by Duncan against her will.</em></p>
+</blockquote>
+<p>TBA</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Duncan<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Duncan</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Strangers</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Neutral (10)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Warden Tathas Is Killed In 9:33 Dragon ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:34 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Be A Grey Warden &amp;/or Hero of Ferelden</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>Ashina takes up <a href="https://dragonage.miraheze.org/wiki/Ignacio" target="_blank" class="external-link">Master Ignacio's</a> <a href="https://dragonage.miraheze.org/wiki/The_Trial_of_Crows" target="_blank" class="external-link">offer to join the Crows</a> when she tires of being a Warden, entering negotiations with the Fifth Talon of House de Riva in 9:33 Dragon to secure a promise of protection from the Order of the Grey Wardens in return for her service as an Antivan Crow within House de Riva.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Zevran Arainai<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
 <td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Master Ignacio<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Fifth Talon of House de Riva<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Caterina Dellamorte<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> King of Antiva<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Warden Tathas Is Wanted By Weisshaupt ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:34 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must be A Grey Warden &amp;/or Hero of Ferelden</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>Post-Amaranthine Crisis — 9:31 or 9:32 Dragon onward</em></p>
+</blockquote>
+<p>The First Warden has ordered that &quot;<em>Warden Tathas Arainai</em>&quot;, also known as the Hero of Ferelden, the Warden-Commander of Ferelden, and <em>de facto</em> Arlessa of Amaranthine, be brought in to Weisshaupt for questioning pertaining to her survival after killing the Archdemon Urthemiel, as well as her encounter with the Architect, among many other things he seeks answer to about her activities during the Fifth Blight itself.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> First Warden<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>First Warden</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Strangers</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Hostile (-50)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<h2 id="things-your-muse-should-em-not-em-know" tabindex="-1">Things Your Muse Should <em>Not</em> Know</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Arranged Marriage Wedding Disaster ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:34 Dragon</td>
 </tr>
 <tr>
 <td>Condition</td>
@@ -1539,7 +3097,7 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <blockquote>
 <p><em>TBA</em></p>
 </blockquote>
-<p>TBA</p>
+<p>Ashina did <em>not</em> want to get married, and had managed to avoid such ever since her mother was killed in 9:24 Dragon. But with her approaching the age of 25, her father was pressured into arranging something for her lest the Alienage's <em>hahren</em> do so himself, as he did for Soris.</p>
 <p><strong>Connections</strong></p>
 <blockquote>
 <p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
@@ -1598,8 +3156,105 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <p></p><p>TBA</p>
 </div></div>
 </div></div>
-<h2 id="things-your-muse-should-em-not-em-know" tabindex="-1">Things Your Muse Should <em>Not</em> Know</h2>
-<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Headcanon</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> First Kills ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:34 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>—</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>Ashina has never killed anyone before she is kidnapped by Vaughan Kendall in 9:30 Dragon alongside a half dozen or so other women from the Denerim Alienage.</p>
+<p>The massacre that follows in the Arl of Denerim's palace as she leaves a trail of blood and death in her wake is the first time she has ever killed anyone at all, and she kills dozens of guards and nobles alike in order to free herself and the other women.</p>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> NPC<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Warden Tathas, Hero of Ferelden ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
 </p><p><strong>Basic Info</strong></p>
@@ -1625,7 +3280,7 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 </tr>
 <tr>
 <td>Condition</td>
-<td>—</td>
+<td>Must Be A Grey Warden &amp; Hero of Ferelden</td>
 </tr>
 <tr>
 <td>Open To Plotting</td>
@@ -1637,7 +3292,286 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <blockquote>
 <p><em>TBA</em></p>
 </blockquote>
+<ul>
+<li>When Ashina is conscripted into the Grey Wardens, she <em>insists</em> that she not be enlisted under her real name, for her family's protection.</li>
+<li>The name in the recruit roster lists her as &quot;<em>Tathas Adaia Arainai</em>&quot; — named such after the story she tells the kids playing in the alley about the elven hero-thief, and her mother.</li>
+<li>Once she leaves Denerim, only Duncan knows her true identity, but only refers to her as Tathas, per her request — it is this name that she uses to introduce herself throughout the course of the Fifth Blight, and throughout the Amaranthine Crisis.</li>
+</ul>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>There are some who may know her true identity after 9:33 Dragon, when she joins the Antivan Crows. This includes a few of the Talons, primarily the Fifth Talon (Viago's predecessor) and First Talon (likely Caterina Dellamorte), as well as a handful of Master Assassins and other influential Crows, such as Viago de Riva, Andarateia Cantori, and Lucanis Dellamorte (if they do not know the truth sooner, they will likely learn it when they become Talons themselves).</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> NPC<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>NPCName</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Info</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
 <p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+<p><strong>When This Could Be Revealed</strong> (<em>open to plotting</em>)</p>
+<ul>
+<li><strong>Veilguard (9:50 - 9:54 Dragon)</strong>
+<ul>
+<li><em>ROOK:</em> de Riva or Thorne</li>
+<li><em>RECRUITMENT:</em> Lucanis Dellamorte &amp;/or Davrin</li>
+<li><em>ENCOUNTER:</em> First Warden &amp; Senior Wardens</li>
+<li><em>EVENT:</em> Blighted dragon attack on Treviso</li>
+<li><em>EVENT:</em> Siege at Weisshaupt</li>
+</ul>
+</li>
+<li><strong>Inquisition (9:40 - 9:44 Dragon)</strong>
+<ul>
+<li><em>COMPANION:</em> Varric Tethras &amp;/or Hawke (<em>if met in Kirkwall</em>)</li>
+<li><em>ENCOUNTER:</em> Senior Wardens</li>
+<li><em>LOCATION:</em> City of Redcliffe</li>
+<li><em>ENCOUNTER:</em> King &amp;/or Queen of Ferelden</li>
+<li><em>ENCOUNTER:</em> Hawke's Grey Warden Contact</li>
+<li><em>EVENT:</em> Siege at Adamant Fortress</li>
+</ul>
+</li>
+<li><strong>Kirkwall (9:35 - 9:39 Dragon)</strong>
+<ul>
+<li><em>COMPANION:</em> Anders &amp;/or Justice</li>
+<li><em>EVENT:</em> Deep Roads Expedition</li>
+<li><em>EVENT:</em> Qunari Invasion of Kirkwall</li>
+<li><em>ENCOUNTER:</em> Nathanial Howe &amp;/or Senior Wardens</li>
+<li><em>EVENT:</em> Fall of the Gallows</li>
+</ul>
+</li>
+</ul>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Searching For A Cure ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Be A Grey Warden</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<ul>
+<li>Ashina learns of a potential cure in 9:33 Dragon from the gift left behind by Morrigan at the eluvian.</li>
+<li>As a master herbalist, Ashina is skilled enough to pull it off, <em>if</em> she can find the information and components she needs to do so.</li>
+<li>Her joining the Crows in that same year, however, sets her back, as she is unable to dedicate the necessary time and effort to her research — she may likely rely on Zevran to do much of the legwork for this, even while he is still dealing with House Arainai and some of the other, more brutal houses within the Crows.</li>
+<li>Ashina does not immediately involve many people in her search, in part because of the conditions of her contract with House de Riva and the Crows that ensures the contracts that were taken out against &quot;<em>Tathas Arainai</em>&quot; are considered complete now that &quot;Warden Tathas&quot; is dead and <em>she</em> is a de Riva.</li>
+</ul>
+<p><strong>Connections</strong></p>
+<blockquote>
+<p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
+</blockquote>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Morrigan<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Morrigan</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friends</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="profilebox"><div class="callout-title"><div class="callout-title-inner"> Zevran Arainai<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<img src="/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg" alt="Exploring-the-Multiverse-255006320.jpg150x150"></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Name</td>
+<td>Zevran Arainai</td>
+</tr>
+<tr>
+<td>Dynamic</td>
+<td>Best Friends</td>
+</tr>
+<tr>
+<td>Awareness</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Involvement</td>
+<td>Yes</td>
+</tr>
+<tr>
+<td>Approval</td>
+<td>Max (100)</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Details</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>TBA</p>
+</div></div>
+<p><strong>Details</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Spoilers</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p></p><p>TBA</p>
+</div></div>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Language Learned: Ancient Elvhen ( Dragon Age )</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Basic Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Verse</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina</a></td>
+</tr>
+<tr>
+<td>Setting</td>
+<td>Dragon Age</td>
+</tr>
+<tr>
+<td>Timeline</td>
+<td>9:30 - 9:54 Dragon</td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Must Have Travelled To Brecilian Forest</td>
+</tr>
+<tr>
+<td>Open To Plotting</td>
+<td>Yes</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Summary</strong></p>
+<blockquote>
+<p><em>TBA</em></p>
+</blockquote>
+<p>Ashina frees a trapped ancient spirit, and in return it teaches her the way of the Arcane Warriors, of which she can use little of herself, as well as the elvhen language from its memories that it shares with her.</p>
+<p>She does not make a point of letting others know she speaks this language, not wishing to have to explain just exactly <em>how</em> she learned it in the first place.</p>
 <p><strong>Connections</strong></p>
 <blockquote>
 <p><em>The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.</em></p>
@@ -1700,12 +3634,14 @@ Ashina &gt; I killed them like dogs, Shianni. Not just them. All the humans who 
 <h1 id="additional-information" tabindex="-1">Additional Information</h1>
 <h2 id="quotes-and-amp-catchphrases" tabindex="-1">Quotes &amp; Catchphrases</h2>
 <ul>
-<li><em>TBA</em></li>
+<li>&quot;I killed them like dogs, Shianni. Not just them. All the humans who hurt you.&quot; — <em>said to her cousin, Shianni, after freeing her and the other women stolen from the Alienage - 9:30 Dragon.</em></li>
+<li>&quot;Believe in whatever you like; absent creators or whimsical gods. Follow prophets or ashkaati, or omens in the earth and sky. You will find wisdom only if you seek it.&quot; — <em>quoting Sten's wisdom from their time traveling together during the Fifth Blight.</em></li>
 </ul>
 <hr>
 <h2 id="trivia" tabindex="-1">Trivia</h2>
 <ul>
-<li><em>TBA</em></li>
+<li>Ashina's first kills were the ones she made freeing herself after being kidnapped, and she killed <em>each and every guard and human noble</em> that she came across, leaving a river of blood trailing behind her as she fought to try to reach Shianni in time.</li>
+<li>If she ever meets Varric Tethras, he is likely to call her &quot;<strong>Snapdragon</strong>&quot;, between her often fiery attitude and her penchant for carrying gear made from the very dragons she's slain in the past during the Fifth Blight.</li>
 </ul>
 <hr>
 <h2 id="tv-tropes" tabindex="-1">TV Tropes</h2>
