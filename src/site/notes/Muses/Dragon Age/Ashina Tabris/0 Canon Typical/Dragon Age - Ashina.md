@@ -68,7 +68,7 @@ In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva
 ## Quote
 
 > [!quote] Ashina Tabris - *9:30 Dragon*
-> I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
+> "I killed them like dogs, Shianni. Not just them. All the humans who hurt you."
 
 ---
 # Background
