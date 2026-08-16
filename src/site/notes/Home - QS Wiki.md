@@ -33,7 +33,7 @@
 ---
 # Quick Navigation
 ## Muse Rosters
-- [[Roster Index - All Muses\|Roster Index]]
+- [[Muse Roster - Index\|Roster Index]]
 	- [[Muses/! Open Muses - Roster\|Open Muses]]
 	- [[Muses/By Request Only - Roster\|By Request Only Muses]]
 	- [[Muses/Invitation Only - Roster\|Invitation Only Muses]]
