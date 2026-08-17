@@ -172,13 +172,13 @@
 > > | | |
 > > |---|---|
 > > | RP Prompts - All Types | [**rp prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/rp%20prompts) |
-> > | In Character Prompts | [**ic prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/ic%20prompts) |
-> > | — IC Starter Prompts | **[starter prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/starter%20prompts)** |
-> > | — IC Sentence Starters | [**sentence starters**](https://www.tumblr.com/quantumstar-rpmemes/tagged/sentence%20starters) |
+> > | In Character Prompts - IC | [**ic prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/ic%20prompts) |
+> > | — Starter Prompts - IC | **[starter prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/starter%20prompts)** |
+> > | — Sentence Starters - IC | [**sentence starters**](https://www.tumblr.com/quantumstar-rpmemes/tagged/sentence%20starters) |
 > > | Headcanon Prompts - IC & OOC | [**headcanon prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/headcanon%20prompts) |
 > > | Spicy Prompts - NSFW IC & OOC | **[spicy prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/spicy%20prompts)** |
-> > | Out of Character Prompts | **[ooc prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/ooc%20prompts)** |
-> > | — OOC Mun Prompts | [**mun prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/mun%20prompts) |
+> > | Out of Character Prompts - OOC | **[ooc prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/ooc%20prompts)** |
+> > | — Mun Prompts - OOC | [**mun prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/mun%20prompts) |
 > > | Shipping | [**shipping**](https://www.tumblr.com/quantumstar-rpmemes/tagged/shipping) |
 > > | Dynamics | [**dynamics**](https://www.tumblr.com/quantumstar-rpmemes/tagged/dynamics) |
 > 
