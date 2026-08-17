@@ -4,9 +4,6 @@
 
 # Quantum Stargazer Wiki
 
-> [!sticky] Under Construction Overhaul
-> I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.
-
 > [!ziggy]- A Quick Note from Ziggy
 > 
 > Much to my own bafflement, some people feel intimidated by me, so please let me offer some reassurances in that I am a highly socially anxious individual who sleeps with a half dozen plushies on their bed, who personifies their executive dysfunctions as an incompetent and dysfunctional board of executives, who calls their ADHD moments of when their their thoughts are going all over the place "brain zoomies", who randomly posts the songs that they have stuck in their head as "Ziggy Brain Radio", and who is far more silly and sassy than these rules might actually imply.[^9]
@@ -21,6 +18,9 @@
 > >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following me in the first place.
 > 
 
+> [!sticky] Under Construction Overhaul
+> I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.
+
 ---
 ## QuantumStargazer
 
@@ -32,29 +32,252 @@
 
 ---
 # Quick Navigation
-## Muse Rosters
-- [[Muse Roster - Index\|Roster Index]]
-	- [[! Open Muses - Roster\|Open Muses]]
-	- [[By Request Only - Roster\|By Request Only Muses]]
-	- [[Invitation Only - Roster\|Invitation Only Muses]]
-	- [[Irregulars - Roster\|Irregular Muses]]
 ## Rules & Guidelines
-- [[Actual Rules\|Rules]]
+- [[Rulebook/! Rules\|Rules]]
 - [[Rulebook/Guidelines\|Guidelines]]
-- [[RP FAQ\|FAQ]]
+- [[Rulebook/RP FAQs\|FAQ]]
+
+---
+## Muse Rosters
+### Open Muses Roster
+
+> [!statsbox]+ Open Muses Roster
+>
+> **Priority Muses - Interest Assumed Unless Told Otherwise**
+> 
+> | | |
+> |---|---|
+> | Roster | [[! Open Muses - Roster\|Open Muses]] |
+> | Availability Restrictions | must fill out [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]] if not interested in a muse |
+> | Baldur's Gate | [[! Open Muses - Roster#Baldur's Gate\|Baldur's Gate - Open Muses]] |
+> | Dragon Age | [[! Open Muses - Roster#Dragon Age\|Dragon Age - Open Muses]] |
+> | Mass Effect | [[! Open Muses - Roster#Mass Effect\|Mass Effect - Open Muses]] |
+> | Other Fandoms | [[! Open Muses - Roster#Other Fandoms\|Other Fandoms - Open Muses]] |
+
+### By Request Only Roster
+
+> [!statsbox]+ By Request Only Roster
+>
+> **Secondary Muses - Available Only On Request**
+> 
+> | | |
+> |---|---|
+> | Roster | [[By Request Only - Roster\|By Request Only]] |
+> | Availability Restrictions | must specify muse in request to interact with them |
+> | Baldur's Gate | [[By Request Only - Roster#Baldur's Gate\|Baldur's Gate - By Request Only]] |
+> | Dragon Age | [[By Request Only - Roster#Dragon Age\|Dragon Age - By Request Only]] |
+> | Mass Effect | [[By Request Only - Roster#Mass Effect\|Mass Effect - By Request Only]] |
+> | Other Fandoms | [[By Request Only - Roster#Other Fandoms\|Other Fandoms - By Request Only]] |
+> 
+
+### Invitation Only Roster
+
+> [!statsbox]+ Invitation Only Roster
+>
+> **Invite Only Muses - Must Be Invited To Interact**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Invitation Only - Roster\|Invitation Only]] |
+> | Availability Restrictions | request invite via the [[Interactive Forms\|Permanent Interactions Call]] form |
+> | Baldur's Gate | [[Invitation Only - Roster#Baldur's Gate\|Baldur's Gate - Invitation Only]] |
+> | Dragon Age | [[Invitation Only - Roster#Dragon Age\|Dragon Age - Invitation Only]] |
+> | Mass Effect | [[Invitation Only - Roster#Mass Effect\|Mass Effect - Invitation Only]] |
+> | Other Fandoms | [[Invitation Only - Roster#Other Fandoms\|Other Fandoms - Invitation Only]] |
+> 
+
+### Irregulars Roster
+
+> [!statsbox]+ Irregulars Roster
+>
+> **Irregulars - For Mains & Permanent Interactions Call Only**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Irregulars - Roster\|Irregulars]] |
+> | Availability Restrictions | must fill out the [[Interactive Forms\|Permanent Interactions Call]] form |
+> | Baldur's Gate | [[Irregulars - Roster#Baldur's Gate\|Baldur's Gate - Irregulars]] |
+> | Dragon Age | [[Irregulars - Roster#Dragon Age\|Dragon Age - Irregulars]] |
+> | Mass Effect | [[Irregulars - Roster#Mass Effect\|Mass Effect - Irregulars]] |
+> | Other Fandoms | [[Irregulars - Roster#Other Fandoms\|Other Fandoms - Irregulars]] |
+> 
+
+### Muse Roster Index
+
+> [!statsbox]- Muse Roster - Index
+>
+> **Lists Names Only - Links To Muse Profiles On Their Appropriate Rosters**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Muse Roster - Index\|Roster Index]] |
+> |  | — |
+> | Baldur's Gate | [[Muse Roster - Index#Baldur's Gate\|Baldur's Gate - Roster Index]] |
+> | Dragon Age | [[Muse Roster - Index#Dragon Age\|Dragon Age - Roster Index]] |
+> | Mass Effect | [[Muse Roster - Index#Mass Effect\|Mass Effect - Roster Index]] |
+> | Other Fandoms | [[Muse Roster - Index#Other Fandoms\|Other Fandoms - Roster Index]] |
+> 
+
+---
 ## Prompts & Memes
-- [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) <small>(sideblog)</small>
-- Prompts Tag
+### Tumblr Tags
+
+> [!statsbox]+ Prompts & Memes
+> 
+> **Quick Inbox Guidelines**
+> 
+> | | |
+> |---|---|
+> | Rules & Guidelines | Don't Be A Dick |
+> |  | Specify Muse &/or Verse |
+> | Restrictions | "Open To Everyone" - Non-Mutuals May Send |
+> |  | Mutuals Only For "Spicy" - No Anonymous NSFW |
+> | Availability | Prompts Tag cleared out every month or so |
+> |  | All memes on sideblog can be sent at any time |
+> |  |  |
+> |  |  |
+> |  |  |
+> |  |  |
+> 
+> **Prompts Tags - Tags Are Cleared Out Each Month Or So**
+> 
+> | | |
+> |---|---|
+> | Prompts Tag - All Types | [Prompts Tag](https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%98%BE%E2%AD%92+The+Sight+Of+The+Stars+Makes+Me+Dream) |
+> | In Character Prompts | [IC Prompts](https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%80%94+IC+%E2%98%BE%E2%AD%92+The+Stars+Live+Within+Us) |
+> | Out of Character Prompts | [OOC Prompts](https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%80%94+OOC+%E2%98%BE%E2%AD%92+All+The+Gravities+Of+Terrestrial+Life) |
+> | Spicy Prompts - NSFW | [Spicy Prompts](https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%80%94+Spicy+%E2%98%BE%E2%AD%92+The+Stuff+Of+Exploded+Stars) |
+> 
+
+### Meme Archive Sideblog
+
+> [!statsbox]+ Quantum Star RP Memes Archive (sideblog)
+> 
+> **RP Memes Archive - Send To Either Inbox**
+> 
+> | | |
+> |---|---|
+> | RP Memes Archive | [quantumstar-rpmemes](https://quantumstar-rpmemes.tumblr.com/) |
+> | Restrictions | RP Blog's Inbox Rules & Guidelines Apply |
+> |  | Mutuals Only For "Spicy" - No Anonymous NSFW |
+> |  | Send to either inbox - will answer on [quantumstargazer](https://quantumstargazer.tumblr.com/) |
+> | Availability | All memes on sideblog can be sent at any time |
+> 
+> **Navigation Tags**
+> 
+> > [!statsbox]- Prompts Tags - Quantum Star RP Memes Archive
+> > 
+> > **Prompts Tags  - Send At Any Time**
+> > 
+> > | | |
+> > |---|---|
+> > | RP Prompts - All Types | [**rp prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/rp%20prompts) |
+> > | In Character Prompts | [**ic prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/ic%20prompts) |
+> > | — IC Starter Prompts | **[starter prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/starter%20prompts)** |
+> > | — IC Sentence Starters | [**sentence starters**](https://www.tumblr.com/quantumstar-rpmemes/tagged/sentence%20starters) |
+> > | Headcanon Prompts - IC & OOC | [**headcanon prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/headcanon%20prompts) |
+> > | Spicy Prompts - NSFW IC & OOC | **[spicy prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/spicy%20prompts)** |
+> > | Out of Character Prompts | **[ooc prompts](https://www.tumblr.com/quantumstar-rpmemes/tagged/ooc%20prompts)** |
+> > | — OOC Mun Prompts | [**mun prompts**](https://www.tumblr.com/quantumstar-rpmemes/tagged/mun%20prompts) |
+> > | Shipping | [**shipping**](https://www.tumblr.com/quantumstar-rpmemes/tagged/shipping) |
+> > | Dynamics | [**dynamics**](https://www.tumblr.com/quantumstar-rpmemes/tagged/dynamics) |
+> 
+> > [!statsbox]- Fandom Specific Prompts Tags - Quantum Star RP Memes Archive
+> > 
+> > **Fandom Specific Prompts - Ziggy's Primary Fandoms**
+> > 
+> > | | |
+> > |---|---|
+> > | Baldur's Gate | **[baldur's gate](https://www.tumblr.com/quantumstar-rpmemes/tagged/baldur's%20gate)** |
+> > | Dragon Age | **[dragon age](https://www.tumblr.com/quantumstar-rpmemes/tagged/dragon%20age)** |
+> > | Mass Effect | **[mass effect](https://www.tumblr.com/quantumstar-rpmemes/tagged/mass%20effect)** |
+> > | Other Fandoms | — |
+> > 
+> 
+
+---
 ## Interactive Forms
+
+> [!abstract] All-In-One Location
+> 
+> For your convenience, *all* of the forms are embedded onto [[Interactive Forms\|Interactive Forms]], so you can simply fill out whichever one(s) you want/need to without leaving this site. Links to the individual forms themselves are also provided on that page, if you prefer to fill them out on the service's site.
+> 
+
+### Disinterest Tracker
+
+> [!statsbox]+ Disinterest Tracker Form
+>
+> **Not Interested In Specific Muses &/or Verses?**
+> 
+> | | |
+> |---|---|
+> | Fill Out Form | [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]] |
+> | Required If Not Interested | [[! Open Muses - Roster\|Open Muses]] are assumed "**Interested**" if not filled out. |
+> 
+> **All Crossovers Are Fandom Matched Unless Requested**
+> 
+> All Fandom Specific AUs & Trapped In Another World AUs are ***fandom matched***, meaning I *won't* send any variant of my muses your way for fandoms that you yourself do not write unless we've explicitly plotted it &/or you've otherwise given me permission to do so.
+>
+
+### RP Preferences Tracker
+
+> [!statsbox]+ RP Preferences Tracker Form
+>
+> **RP Preferences Tracker**
+> 
+> | | |
+> |---|---|
+> | Fill Out The Form | [[Interactive Forms#RP Preference Tracker\|RP Preferences Tracker]] |
+> | Restrictions | Mutuals Only |
+> | What It Covers | General RP Preferences |
+> |  | Interaction Preferences |
+> |  | Plot Preferences |
+> |  | Ships & Dynamics Preferences |> 
+>
+
+### Multi-Muses Interest Tracker
+
+> [!statsbox]+ Multi-Muses Interest Tracker Form
+>
+> **Multiple Muses Random Roulette Reducer**
+> 
+> | | |
+> |---|---|
+> | Fill Out The Form | [[Interactive Forms#Multi-Muses Interest Tracker\|Multi-Muse Interest Tracker]] |
+> | Restrictions | Only fill out if you have multiple muses yourself, whether as multimuse blog(s) or multiple blogs. |
+>
+
+### Permanent Interaction Call
+
+> [!statsbox]+ Permanent Interactions Call Form
+>
+> **Quick Info**
+> 
+> | | |
+> |---|---|
+> | Restrictions | Mutuals Only |
+> | Members | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] |
+> 
+> **Permanent Interactions Call**
+> 
+> | | |
+> |---|---|
+> | More Information | Guidelines |
+> |  | Terms Of Use |
+> | Join The Cosmos | [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] |
+> 
+
 ### Interaction Calls
-- [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]]
-- [[Interactive Forms#Starter Call\|Starter Call]]
-- [[Interactive Forms#Inbox Call\|Inbox Call]]
-### Interest Tracking
-- [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]]
-- [[Interactive Forms#RP Preference Tracker\|RP Preferences Tracker]]
-- [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]]
-- [[Interactive Forms#Multi-Muses Interest Tracker\|Multi-Muse Interest Tracker]]
+
+> [!statsbox]+ Interaction Call Forms
+>
+> **Interaction Calls — Explicitly Request I Initiate RP**
+> 
+> | | |
+> |---|---|
+> | Request That I Write Starters | [[Interactive Forms#Starter Call\|Starter Call]] |
+> | Request That I Send Inbox Prompts | [[Interactive Forms#Inbox Call\|Inbox Call]] |
+> 
 
 ---
 # Thread Tracking
