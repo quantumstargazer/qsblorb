@@ -4,16 +4,9 @@
 
 # Interactive Forms
 
-> [!coffeetime] This Page Is Currently Under Revision
-> 
-> I'm actively working on redesigning this page. Caution is advised if you intend on filling out the forms, as I will need to push periodic publishing updates to the page to ensure things are working as intended. This message will be deleted once I've finished.
-> 
-
----
-
 **Forms are responsive and built with conditional logic** — *meaning that the questions and/or options presented to you may change depending on how you answer other questions in the form. This is to try to keep the questions relevant to how you wish to interact.*
 
-> **Each form is collapsed under the "Form - Title >" bars** — just click on the colored bar and it will reveal the form. It's similar to the "Keep Reading/Read More" cuts on tumblr.
+> **Each form is collapsed under the "Form - Title >" bars** — just click on the bar and it will reveal the form. It's similar to the "Keep Reading/Read More" cuts on tumblr.
 
 ---
 # Disinterest Tracker
@@ -126,28 +119,55 @@
 ---
 # Interaction Call Forms
 
-> [!guideline]- Request Interaction At Any Time
+> [!guideline]+ Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
 ## Starter Call
-*For requesting that I write you starters.*
 
-> [!example]- Form - Starter Call
-> <iframe data-tally-src="https://tally.so/embed/eqrr8J?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="2573" frameborder="0" marginheight="0" marginwidth="0" title="Starter Call - QS"></iframe>
-> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
+> [!statsbox]+ Starter Call
+> 
+> **What This Form Is For**
+> 
+> For specifying the muse(s) and/or verse(s) while requesting that I write you starters. Includes space for sharing your requests for specific plots, themes, etc.
+>
+> **Should You Fill This Form Out?**
+> 
+> | | |
+> |---|---|
+> | Have Not Read Guidelines | No - *Read Those First!* |
+> | Are Not 21 or older | No |
+> | Are Not A Mutual | No |
+> | Want To Plot Starter(s) | Yes |
+> | Want To Receive Unplotted Starter(s) | Yes |
+> 
+> **Starter Call Form**
+> 
+> > [!example]- Form - Starter Call
+> > <iframe data-tally-src="https://tally.so/embed/eqrr8J?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="2573" frameborder="0" marginheight="0" marginwidth="0" title="Starter Call - QS"></iframe>
+> > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 ## Inbox Call
-*For requesting that I send you prompts/memes, with the option to specify IC and/or OOC.*
 
-> [!example]- Form - Inbox Call
-> <iframe data-tally-src="https://tally.so/embed/NpXXKl?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="1306" frameborder="0" marginheight="0" marginwidth="0" title="Inbox Call - QS"></iframe>
-> <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
-
-
-
-
-
-
-
+> [!statsbox]+ Inbox Call
+> 
+> **What This Form Is For**
+> 
+> For specifying the muse(s) and/or verse(s) while requesting that I send you prompts/memes. Includes options to specify whether you want in character and/or out of character prompts.
+>
+> **Should You Fill This Form Out?**
+> 
+> | | |
+> |---|---|
+> | Have Not Read Guidelines | No - *Read Those First!* |
+> | Are Not 21 or older | No |
+> | Are Not A Mutual | No |
+> | Want To Receive Prompts & Memes | Yes |
+> 
+> **Inbox Call Form**
+> 
+> > [!statsbox]- Form - Inbox Call
+> > 
+> > <iframe data-tally-src="https://tally.so/embed/NpXXKl?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="1306" frameborder="0" marginheight="0" marginwidth="0" title="Inbox Call - QS"></iframe>
+> > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 
 
