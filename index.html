@@ -26,7 +26,7 @@
 <link href="/styles/obsidian-base.css" rel="stylesheet">
 <link href="/styles/_theme.83ace87c.css" rel="stylesheet">
 <link href="/styles/digital-garden-base.css" rel="stylesheet">
-<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-17T02:00:39.416Z" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-17T06:56:26.342Z" rel="stylesheet">
 <link rel="icon" href="/favicon.ico" sizes="any">
 <link rel="icon" href="/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -289,18 +289,13 @@
 </div>
 </div>
 <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
-<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-17T02:00:39.416Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-17T06:56:26.342Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
 <main class="content cm-s-obsidian print">
 <header>
 <div class="header-meta">
 </div>
 </header>
 <h1 id="quantum-stargazer-wiki" tabindex="-1">Quantum Stargazer Wiki</h1>
-<div class="callout" data-callout="sticky"><div class="callout-title"><div class="callout-title-inner"> Under Construction Overhaul<br></div></div>
-<div class="callout-content">
-<p>
-I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.</p>
-</div></div>
 <div class="callout is-collapsible is-collapsed" data-callout="ziggy"><div class="callout-title"><div class="callout-title-inner"> A Quick Note from Ziggy</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
 <div class="callout-content">
 <p>
@@ -313,6 +308,11 @@ I'm currently working on overhauling the entire site, due to issues that were pr
 <p>Many of my closest friends are also neurodivergent, and find the extent to which I explain my rules and boundaries to be far more welcoming to them than most, as they know <em>exactly</em> what to expect, rather than trying to parse out things from vague assumptions that can leave too many questions, and an uncertainty of if they can even ask for clarification if needed (which if there's anything here that you need further clarification and/or information on, I will gladly provide it if you ask).</p>
 <p><strong>Their comfort (<em>and my own</em>) is priority over the comfort of any neurotypical individuals' who may wish to write with me.</strong> The entire world is made to be neurotypical friendly. This is <em>my space</em>, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following me in the first place.</p>
 </div></div>
+</div></div>
+<div class="callout" data-callout="sticky"><div class="callout-title"><div class="callout-title-inner"> Under Construction Overhaul<br></div></div>
+<div class="callout-content">
+<p>
+I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.</p>
 </div></div>
 <hr>
 <h2 id="quantum-stargazer" tabindex="-1">QuantumStargazer</h2>
@@ -328,42 +328,590 @@ I'm currently working on overhauling the entire site, due to issues that were pr
 </div></div>
 <hr>
 <h1 id="quick-navigation" tabindex="-1">Quick Navigation</h1>
-<h2 id="muse-rosters" tabindex="-1">Muse Rosters</h2>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/muse-roster-index/">Roster Index</a>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/">Open Muses</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/">By Request Only Muses</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/">Invitation Only Muses</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/">Irregular Muses</a></li>
-</ul>
-</li>
-</ul>
 <h2 id="rules-and-amp-guidelines" tabindex="-1">Rules &amp; Guidelines</h2>
 <ul>
 <li><a class="internal-link is-unresolved" href="/404" target="">Rules</a></li>
 <li><a class="internal-link is-unresolved" href="/404" target="">Guidelines</a></li>
 <li><a class="internal-link is-unresolved" href="/404" target="">FAQ</a></li>
 </ul>
+<hr>
+<h2 id="muse-rosters" tabindex="-1">Muse Rosters</h2>
+<h3 id="open-muses-roster" tabindex="-1">Open Muses Roster</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Open Muses Roster</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Priority Muses - Interest Assumed Unless Told Otherwise</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Roster</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/">Open Muses</a></td>
+</tr>
+<tr>
+<td>Availability Restrictions</td>
+<td>must fill out <a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#disinterest-tracker">Disinterest Tracker</a> if not interested in a muse</td>
+</tr>
+<tr>
+<td>Baldur's Gate</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#baldur-s-gate">Baldur's Gate - Open Muses</a></td>
+</tr>
+<tr>
+<td>Dragon Age</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#dragon-age">Dragon Age - Open Muses</a></td>
+</tr>
+<tr>
+<td>Mass Effect</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#mass-effect">Mass Effect - Open Muses</a></td>
+</tr>
+<tr>
+<td>Other Fandoms</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/#other-fandoms">Other Fandoms - Open Muses</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="by-request-only-roster" tabindex="-1">By Request Only Roster</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> By Request Only Roster</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Secondary Muses - Available Only On Request</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Roster</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/">By Request Only</a></td>
+</tr>
+<tr>
+<td>Availability Restrictions</td>
+<td>must specify muse in request to interact with them</td>
+</tr>
+<tr>
+<td>Baldur's Gate</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#baldur-s-gate">Baldur's Gate - By Request Only</a></td>
+</tr>
+<tr>
+<td>Dragon Age</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#dragon-age">Dragon Age - By Request Only</a></td>
+</tr>
+<tr>
+<td>Mass Effect</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#mass-effect">Mass Effect - By Request Only</a></td>
+</tr>
+<tr>
+<td>Other Fandoms</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/by-request-only-roster/#other-fandoms">Other Fandoms - By Request Only</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="invitation-only-roster" tabindex="-1">Invitation Only Roster</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Invitation Only Roster</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Invite Only Muses - Must Be Invited To Interact</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Roster</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/">Invitation Only</a></td>
+</tr>
+<tr>
+<td>Availability Restrictions</td>
+<td>request invite via the <a class="internal-link" target="" data-note-icon="" href="/interactive-forms/">Permanent Interactions Call</a> form</td>
+</tr>
+<tr>
+<td>Baldur's Gate</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#baldur-s-gate">Baldur's Gate - Invitation Only</a></td>
+</tr>
+<tr>
+<td>Dragon Age</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#dragon-age">Dragon Age - Invitation Only</a></td>
+</tr>
+<tr>
+<td>Mass Effect</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#mass-effect">Mass Effect - Invitation Only</a></td>
+</tr>
+<tr>
+<td>Other Fandoms</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/invitation-only-roster/#other-fandoms">Other Fandoms - Invitation Only</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="irregulars-roster" tabindex="-1">Irregulars Roster</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Irregulars Roster</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Irregulars - For Mains &amp; Permanent Interactions Call Only</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Roster</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/">Irregulars</a></td>
+</tr>
+<tr>
+<td>Availability Restrictions</td>
+<td>must fill out the <a class="internal-link" target="" data-note-icon="" href="/interactive-forms/">Permanent Interactions Call</a> form</td>
+</tr>
+<tr>
+<td>Baldur's Gate</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#baldur-s-gate">Baldur's Gate - Irregulars</a></td>
+</tr>
+<tr>
+<td>Dragon Age</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#dragon-age">Dragon Age - Irregulars</a></td>
+</tr>
+<tr>
+<td>Mass Effect</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#mass-effect">Mass Effect - Irregulars</a></td>
+</tr>
+<tr>
+<td>Other Fandoms</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/irregulars-roster/#other-fandoms">Other Fandoms - Irregulars</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="muse-roster-index" tabindex="-1">Muse Roster Index</h3>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Muse Roster - Index</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Lists Names Only - Links To Muse Profiles On Their Appropriate Rosters</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Roster</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muse-roster-index/">Roster Index</a></td>
+</tr>
+<tr>
+<td></td>
+<td>—</td>
+</tr>
+<tr>
+<td>Baldur's Gate</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muse-roster-index/#baldur-s-gate">Baldur's Gate - Roster Index</a></td>
+</tr>
+<tr>
+<td>Dragon Age</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muse-roster-index/#dragon-age">Dragon Age - Roster Index</a></td>
+</tr>
+<tr>
+<td>Mass Effect</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muse-roster-index/#mass-effect">Mass Effect - Roster Index</a></td>
+</tr>
+<tr>
+<td>Other Fandoms</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/muse-roster-index/#other-fandoms">Other Fandoms - Roster Index</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<hr>
 <h2 id="prompts-and-amp-memes" tabindex="-1">Prompts &amp; Memes</h2>
-<ul>
-<li><a href="https://quantumstar-rpmemes.tumblr.com/" target="_blank" class="external-link">quantumstar-rpmemes</a> <small>(sideblog)</small></li>
-<li>Prompts Tag</li>
-</ul>
+<h3 id="tumblr-tags" tabindex="-1">Tumblr Tags</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Prompts &amp; Memes</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Quick Inbox Guidelines</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Rules &amp; Guidelines</td>
+<td>Don't Be A Dick</td>
+</tr>
+<tr>
+<td></td>
+<td>Specify Muse &amp;/or Verse</td>
+</tr>
+<tr>
+<td>Restrictions</td>
+<td>&quot;Open To Everyone&quot; - Non-Mutuals May Send</td>
+</tr>
+<tr>
+<td></td>
+<td>Mutuals Only For &quot;Spicy&quot; - No Anonymous NSFW</td>
+</tr>
+<tr>
+<td>Availability</td>
+<td>Prompts Tag cleared out every month or so</td>
+</tr>
+<tr>
+<td></td>
+<td>All memes on sideblog can be sent at any time</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Prompts Tags - Tags Are Cleared Out Each Month Or So</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Prompts Tag - All Types</td>
+<td><a href="https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%98%BE%E2%AD%92+The+Sight+Of+The+Stars+Makes+Me+Dream" target="_blank" class="external-link">Prompts Tag</a></td>
+</tr>
+<tr>
+<td>In Character Prompts</td>
+<td><a href="https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%80%94+IC+%E2%98%BE%E2%AD%92+The+Stars+Live+Within+Us" target="_blank" class="external-link">IC Prompts</a></td>
+</tr>
+<tr>
+<td>Out of Character Prompts</td>
+<td><a href="https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%80%94+OOC+%E2%98%BE%E2%AD%92+All+The+Gravities+Of+Terrestrial+Life" target="_blank" class="external-link">OOC Prompts</a></td>
+</tr>
+<tr>
+<td>Spicy Prompts - NSFW</td>
+<td><a href="https://quantumstargazer.tumblr.com/tagged/Prompts+%E2%80%94+Spicy+%E2%98%BE%E2%AD%92+The+Stuff+Of+Exploded+Stars" target="_blank" class="external-link">Spicy Prompts</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="meme-archive-sideblog" tabindex="-1">Meme Archive Sideblog</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Quantum Star RP Memes Archive (sideblog)</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>RP Memes Archive - Send To Either Inbox</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RP Memes Archive</td>
+<td><a href="https://quantumstar-rpmemes.tumblr.com/" target="_blank" class="external-link">quantumstar-rpmemes</a></td>
+</tr>
+<tr>
+<td>Restrictions</td>
+<td>RP Blog's Inbox Rules &amp; Guidelines Apply</td>
+</tr>
+<tr>
+<td></td>
+<td>Mutuals Only For &quot;Spicy&quot; - No Anonymous NSFW</td>
+</tr>
+<tr>
+<td></td>
+<td>Send to either inbox - will answer on <a href="https://quantumstargazer.tumblr.com/" target="_blank" class="external-link">quantumstargazer</a></td>
+</tr>
+<tr>
+<td>Availability</td>
+<td>All memes on sideblog can be sent at any time</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Navigation Tags</strong></p>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Prompts Tags - Quantum Star RP Memes Archive</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Prompts Tags - Send At Any Time</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>RP Prompts - All Types</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/rp%20prompts" target="_blank" class="external-link"><strong>rp prompts</strong></a></td>
+</tr>
+<tr>
+<td>In Character Prompts</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/ic%20prompts" target="_blank" class="external-link"><strong>ic prompts</strong></a></td>
+</tr>
+<tr>
+<td>— IC Starter Prompts</td>
+<td><strong><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/starter%20prompts" target="_blank" class="external-link">starter prompts</a></strong></td>
+</tr>
+<tr>
+<td>— IC Sentence Starters</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/sentence%20starters" target="_blank" class="external-link"><strong>sentence starters</strong></a></td>
+</tr>
+<tr>
+<td>Headcanon Prompts - IC &amp; OOC</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/headcanon%20prompts" target="_blank" class="external-link"><strong>headcanon prompts</strong></a></td>
+</tr>
+<tr>
+<td>Spicy Prompts - NSFW IC &amp; OOC</td>
+<td><strong><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/spicy%20prompts" target="_blank" class="external-link">spicy prompts</a></strong></td>
+</tr>
+<tr>
+<td>Out of Character Prompts</td>
+<td><strong><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/ooc%20prompts" target="_blank" class="external-link">ooc prompts</a></strong></td>
+</tr>
+<tr>
+<td>— OOC Mun Prompts</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/mun%20prompts" target="_blank" class="external-link"><strong>mun prompts</strong></a></td>
+</tr>
+<tr>
+<td>Shipping</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/shipping" target="_blank" class="external-link"><strong>shipping</strong></a></td>
+</tr>
+<tr>
+<td>Dynamics</td>
+<td><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/dynamics" target="_blank" class="external-link"><strong>dynamics</strong></a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<div class="callout is-collapsible is-collapsed" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Fandom Specific Prompts Tags - Quantum Star RP Memes Archive</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Fandom Specific Prompts - Ziggy's Primary Fandoms</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Baldur's Gate</td>
+<td><strong><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/baldur's%20gate" target="_blank" class="external-link">baldur's gate</a></strong></td>
+</tr>
+<tr>
+<td>Dragon Age</td>
+<td><strong><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/dragon%20age" target="_blank" class="external-link">dragon age</a></strong></td>
+</tr>
+<tr>
+<td>Mass Effect</td>
+<td><strong><a href="https://www.tumblr.com/quantumstar-rpmemes/tagged/mass%20effect" target="_blank" class="external-link">mass effect</a></strong></td>
+</tr>
+<tr>
+<td>Other Fandoms</td>
+<td>—</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+</div></div>
+<hr>
 <h2 id="interactive-forms" tabindex="-1">Interactive Forms</h2>
+<div class="callout" data-callout="abstract"><div class="callout-title"><div class="callout-title-inner"> All-In-One Location</div></div>
+<div class="callout-content">
+<p>
+</p><p>For your convenience, <em>all</em> of the forms are embedded onto <a class="internal-link" target="" data-note-icon="" href="/interactive-forms/">Interactive Forms</a>, so you can simply fill out whichever one(s) you want/need to without leaving this site. Links to the individual forms themselves are also provided on that page, if you prefer to fill them out on the service's site.</p>
+</div></div>
+<h3 id="disinterest-tracker" tabindex="-1">Disinterest Tracker</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Disinterest Tracker Form</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Not Interested In Specific Muses &amp;/or Verses?</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fill Out Form</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#disinterest-tracker">Disinterest Tracker</a></td>
+</tr>
+<tr>
+<td>Required If Not Interested</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/">Open Muses</a> are assumed &quot;<strong>Interested</strong>&quot; if not filled out.</td>
+</tr>
+</tbody>
+</table>
+<p><strong>All Crossovers Are Fandom Matched Unless Requested</strong></p>
+<p>All Fandom Specific AUs &amp; Trapped In Another World AUs are <em><strong>fandom matched</strong></em>, meaning I <em>won't</em> send any variant of my muses your way for fandoms that you yourself do not write unless we've explicitly plotted it &amp;/or you've otherwise given me permission to do so.</p>
+</div></div>
+<h3 id="rp-preferences-tracker" tabindex="-1">RP Preferences Tracker</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> RP Preferences Tracker Form</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>RP Preferences Tracker</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fill Out The Form</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#rp-preference-tracker">RP Preferences Tracker</a></td>
+</tr>
+<tr>
+<td>Restrictions</td>
+<td>Mutuals Only</td>
+</tr>
+<tr>
+<td>What It Covers</td>
+<td>General RP Preferences</td>
+</tr>
+<tr>
+<td></td>
+<td>Interaction Preferences</td>
+</tr>
+<tr>
+<td></td>
+<td>Plot Preferences</td>
+</tr>
+<tr>
+<td></td>
+<td>Ships &amp; Dynamics Preferences</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="multi-muses-interest-tracker" tabindex="-1">Multi-Muses Interest Tracker</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Multi-Muses Interest Tracker Form</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Multiple Muses Random Roulette Reducer</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fill Out The Form</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#multi-muses-interest-tracker">Multi-Muse Interest Tracker</a></td>
+</tr>
+<tr>
+<td>Restrictions</td>
+<td>Only fill out if you have multiple muses yourself, whether as multimuse blog(s) or multiple blogs.</td>
+</tr>
+</tbody>
+</table>
+</div></div>
+<h3 id="permanent-interaction-call" tabindex="-1">Permanent Interaction Call</h3>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Permanent Interactions Call Form</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Quick Info</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Restrictions</td>
+<td>Mutuals Only</td>
+</tr>
+<tr>
+<td>Members</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/shining-stars-stargazers/">Shining Stars + Stargazers</a></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Permanent Interactions Call</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>More Information</td>
+<td>Guidelines</td>
+</tr>
+<tr>
+<td></td>
+<td>Terms Of Use</td>
+</tr>
+<tr>
+<td>Join The Cosmos</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#permanent-interactions-call">Permanent Interactions Call</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
 <h3 id="interaction-calls" tabindex="-1">Interaction Calls</h3>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#permanent-interactions-call">Permanent Interactions Call</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#starter-call">Starter Call</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#inbox-call">Inbox Call</a></li>
-</ul>
-<h3 id="interest-tracking" tabindex="-1">Interest Tracking</h3>
-<ul>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#disinterest-tracker">Disinterest Tracker</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#rp-preference-tracker">RP Preferences Tracker</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#permanent-interactions-call">Permanent Interactions Call</a></li>
-<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#multi-muses-interest-tracker">Multi-Muse Interest Tracker</a></li>
-</ul>
+<div class="callout is-collapsible" data-callout="statsbox"><div class="callout-title"><div class="callout-title-inner"> Interaction Call Forms</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>Interaction Calls — Explicitly Request I Initiate RP</strong></p>
+<table>
+<thead>
+<tr>
+<th></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Request That I Write Starters</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#starter-call">Starter Call</a></td>
+</tr>
+<tr>
+<td>Request That I Send Inbox Prompts</td>
+<td><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#inbox-call">Inbox Call</a></td>
+</tr>
+</tbody>
+</table>
+</div></div>
 <hr>
 <h1 id="thread-tracking" tabindex="-1">Thread Tracking</h1>
 <div class="callout is-collapsible is-collapsed" data-callout="tracker"><div class="callout-title"><div class="callout-title-inner"> Important Note About Thread Tracking<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
@@ -612,17 +1160,41 @@ Home - QS Wiki
 </li>
 <li><a href="#quick-navigation">Quick Navigation</a>
 <ol>
-<li><a href="#muse-rosters">Muse Rosters</a>
-</li>
 <li><a href="#rules-and-amp-guidelines">Rules & Guidelines</a>
 </li>
+<li><a href="#muse-rosters">Muse Rosters</a>
+<ol>
+<li><a href="#open-muses-roster">Open Muses Roster</a>
+</li>
+<li><a href="#by-request-only-roster">By Request Only Roster</a>
+</li>
+<li><a href="#invitation-only-roster">Invitation Only Roster</a>
+</li>
+<li><a href="#irregulars-roster">Irregulars Roster</a>
+</li>
+<li><a href="#muse-roster-index">Muse Roster Index</a>
+</li>
+</ol>
+</li>
 <li><a href="#prompts-and-amp-memes">Prompts & Memes</a>
+<ol>
+<li><a href="#tumblr-tags">Tumblr Tags</a>
+</li>
+<li><a href="#meme-archive-sideblog">Meme Archive Sideblog</a>
+</li>
+</ol>
 </li>
 <li><a href="#interactive-forms">Interactive Forms</a>
 <ol>
-<li><a href="#interaction-calls">Interaction Calls</a>
+<li><a href="#disinterest-tracker">Disinterest Tracker</a>
 </li>
-<li><a href="#interest-tracking">Interest Tracking</a>
+<li><a href="#rp-preferences-tracker">RP Preferences Tracker</a>
+</li>
+<li><a href="#multi-muses-interest-tracker">Multi-Muses Interest Tracker</a>
+</li>
+<li><a href="#permanent-interaction-call">Permanent Interaction Call</a>
+</li>
+<li><a href="#interaction-calls">Interaction Calls</a>
 </li>
 </ol>
 </li>
