@@ -39,10 +39,11 @@
 
 ---
 # Quick Navigation
-## Rules & Guidelines
-- [[Rulebook/Rules\|Rules]]
-- [[Rulebook/Guidelines\|Guidelines]]
-- [[Rulebook/RP FAQs\|FAQ]]
+## Rulebook (Old)
+> *These are the original rules from the older version of my site — nothing's changed, but I am working on restructuring things and streamlining the information, so these pages are only temporary for now.*
+- [[Rulebook (Old)/Actual Rules\|Actual Rules]]
+- [[Rulebook (Old)/Guidelines\|Guidelines]]
+- [[Rulebook (Old)/RP FAQ\|RP FAQ]]
 
 ---
 ## Muse Rosters
