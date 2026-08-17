@@ -1,0 +1,700 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Inbox - Guidelines</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script type="importmap">
+{
+  "imports": {
+    "d3-force": "https://cdn.jsdelivr.net/npm/d3-force@3.0.0/+esm",
+    "d3-selection": "https://cdn.jsdelivr.net/npm/d3-selection@3.0.0/+esm",
+    "d3-zoom": "https://cdn.jsdelivr.net/npm/d3-zoom@3.0.0/+esm",
+    "d3-drag": "https://cdn.jsdelivr.net/npm/d3-drag@3.0.0/+esm"
+  }
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/pixi.js@7.4.2/dist/pixi.min.js"></script>
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";mermaid.initialize({startOnLoad:!0})</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("data-lucide",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script defer="defer" src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script defer="defer" src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="/styles/_theme.83ace87c.css" rel="stylesheet">
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<style></style>
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header is-maximized enhanced-canvas-enabled mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-replace mk-flow-minimal css-settings-manager ic-hr-margins ic-title-align-center ic-title-bg-margins ic-arrow-style-infoboxes ic-section-background-toggle ic-section-bg-margins ic-label-bg-margins ic-image-margins ic-table-pattern-infoboxes ic-table-margins ic-revert-nested-callouts ic-property-separation-none iconic-clickable-icons iconic-markdown-tab-icons">
+<div x-init="isDesktop = (window.innerWidth>=1000) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1000) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i data-lucide="menu"></i></span>
+<a href="/" style="text-decoration:none;text-align:center">
+<h1 style="margin:15px!important">QS Wiki</h1>
+</a>
+</div>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i data-lucide="search"></i>
+</span>
+<span class="search-text">Search</span>
+<span class="search-keys"><code>Ctrl</code>&nbsp;+&nbsp;<code>K</code></span>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<div class="filetree-wrapper" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<nav class="filetree-sidebar">
+<a href="/" style="text-decoration:none;text-align:center">
+<h1 style="text-align:center">QS Wiki</h1>
+</a>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i data-lucide="search"></i>
+</span>
+<span class="search-text">Search</span>
+<span class="search-keys"><code>Ctrl</code>&nbsp;+&nbsp;<code>K</code></span>
+</div>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home - QS Wiki </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/open-muses-roster/">! Open Muses - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/by-request-only-roster/">By Request Only - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/invitation-only-roster/">Invitation Only - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/irregulars-roster/">Irregulars - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/muse-roster-index/">Muse Roster - Index </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Muses</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses/Dragon Age&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Dragon Age</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses/Dragon Age/Ashina Tabris&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Ashina Tabris</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/muses/dragon-age/ashina-tabris/summary-ashina/">Summary - Ashina </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses/Dragon Age/Ashina Tabris/0 Canon Typical&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">0 Canon Typical</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Wiki</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Fandom Info</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info/Baldur&#39;s Gate&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Baldur&#39;s Gate</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/wiki/fandom-info/baldur-s-gate/glossary-baldur-s-gate/">Glossary - Baldur&#39;s Gate </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info/Dragon Age&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Dragon Age</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/wiki/fandom-info/dragon-age/glossary-dragon-age/">Glossary - Dragon Age </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info/Mass Effect&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Mass Effect</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/wiki/fandom-info/mass-effect/glossary-mass-effect/">Glossary - Mass Effect </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">! Tags</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags/Muse Tags&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Muse Tags</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags/Muse Tags/Dragon Age&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Dragon Age</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags/Muse Tags/Dragon Age/Ashina Tabris&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Ashina Tabris</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/tags/muse-tags/dragon-age/ashina-tabris/tags-ashina/">Tags - Ashina </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/shining-stars-stargazers/">Shining Stars + Stargazers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/interactive-forms/">Interactive Forms </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Rulebook (Old)</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/FAQ Details&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">FAQ Details</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/accessibility-faq/">Accessibility - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/answered-fa-qs-faq/">Answered FAQs - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/blocking-following-faq/">Blocking + Following - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/do-s-don-ts-faq/">Do&#39;s + Don&#39;ts - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/mature-audiences-only-faq/">Mature Audiences Only - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/muses-faq/">Muses - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/non-roleplayers-faq/">Non-Roleplayers - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/post-formatting-faq/">Post Formatting - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/starting-interactions-faq/">Starting Interactions - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/tropes-themes-faq/">Tropes + Themes - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/verses-a-us-faq/">Verses + AUs - FAQ </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/Guidelines Details&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Guidelines Details</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/blanket-permissions-guidelines/">Blanket Permissions - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/communications-guidelines/">Communications - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/forms-interaction-guidelines/">Forms — Interaction - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/forms-interest-tracking-guidelines/">Forms — Interest Tracking - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/inbox-guidelines/">Inbox - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/interactions-guidelines/">Interactions - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/muses-guidelines/">Muses - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/ships-dynamics-guidelines/">Ships + Dynamics - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/starters-guidelines/">Starters - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/verses-a-us-guidelines/">Verses + AUs - Guidelines </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/Rules Details&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Rules Details</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/Rules Details/Fandom Specific Rules&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Fandom Specific Rules</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/fandom-specific-rules/baldur-s-gate-rules/">! Baldur&#39;s Gate - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/fandom-specific-rules/dragon-age-rules/">! Dragon Age - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/fandom-specific-rules/mass-effect-rules/">! Mass Effect - Rules </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/21-mutuals-only-rules/">21+ + Mutuals Only - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/banned-restricted-content-rules/">Banned + Restricted Content - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/blacklist-tags-rules/">Blacklist Tags - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/curate-your-own-dash-rules/">Curate Your Own Dash - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/don-t-be-a-dick-rules/">Don&#39;t Be A Dick - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/exclusivity-rules/">Exclusivity - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/not-ps-enough-t-ps-rules/">NOTPs + Enough-TPs - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/sexual-content-rules/">Sexual Content - Rules </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/actual-rules/">Actual Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines/">Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rp-faq/">RP FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rulebook-index/">Rulebook - Index </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+<div class="search-box" onclick="event.stopPropagation()">
+<div class="search-header">
+<input type="search" id="term" placeholder="Start typing...">
+</div>
+<div class="search-layout no-preview" id="search-layout">
+<div class="search-results-panel" id="search-results">
+<span><i>Enter your search text in the box above</i></span>
+</div>
+<div class="search-preview-panel" id="search-preview">
+<div class="preview-placeholder">
+<i data-lucide="file-text"></i>
+<p>Select a result to preview</p>
+</div>
+<div class="preview-content" id="preview-content"></div>
+</div>
+</div>
+<footer class="search-box-footer">
+<div class="navigation-hint">
+<span><code>Enter</code>&nbsp;to select</span>
+</div>
+<div class="navigation-hint">
+<span><code>⇅</code>&nbsp;to navigate</span>
+</div>
+<div class="navigation-hint">
+<span><code>ESC</code>&nbsp;to close</span>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-17T23:08:33.330Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<main class="content cm-s-obsidian print">
+<header>
+<div class="header-meta">
+</div>
+</header>
+<h1 id="inbox" tabindex="-1">Inbox</h1>
+<p><strong>You can send asks/prompts/memes/etc. to the inbox on the following blogs:</strong></p>
+<ul>
+<li><a href="https://quantumstargazer.tumblr.com/ask" target="_blank" class="external-link">quantumstargazer</a> — <em>primary roleplay blog</em></li>
+<li><a href="https://quantumstar-rpmemes.tumblr.com/ask" target="_blank" class="external-link">quantumstar-rpmemes</a> — <em>prompt/meme archive sideblog</em><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></li>
+</ul>
+<div class="callout is-collapsible" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Inbox Answered As Energy Allows<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<strong>I will almost always prioritize IC stuff over OOC asks</strong>, because I suffer from ME/CFS, and so have to be selective about what I spend my time and energy on at any given time. But just because it may take me a while to answer, does not mean that you cannot send all the things. I <em>will</em> try to get to everything eventually, and very rarely delete things from the inbox without answering them (as I answer most asks as text posts rather than as asks).</p>
+</div></div>
+<hr>
+<h1 id="include-full-prompt-when-sending" tabindex="-1">Include Full Prompt When Sending</h1>
+<p><strong>I almost never fill memes and/or prompts right away,</strong> so please be sure to include the <em>full prompt</em> when sending anything that isn't simply a sentence starter (and/or <em>include a link to the meme</em> itself on <a href="https://quantumstar-rpmemes.tumblr.com/ask" target="_blank" class="external-link">quantumstar-rpmemes</a>, as I regularly clear the prompts tag on my rp blog) so I can find it later for the necessary context — <em>regardless</em> of if it is ic or ooc.</p>
+<div class="callout" data-callout="guideline"><div class="callout-title"><div class="callout-title-inner"> Send Full Prompt For Anything NOT A Sentence Starter</div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>This includes but is not limited to, starter prompts, headcanon memes, mun memes, etc.</strong>, but is <em>especially</em> important for anything involving emojis, as these are often repeated throughout many memes and are <em>impossible</em> to track down after a certain point.</p>
+<p><strong>Examples of what should be sent in the inbox include:</strong></p>
+<ul>
+<li>&quot;Send '<em><strong>This is an example</strong></em>' for <em>whatever the prompt is</em>.&quot;</li>
+<li>&quot;Send ♥️ for <em>whatever the prompt is</em>.&quot;</li>
+<li>&quot;[example] for <em>whatever the prompt is</em>.&quot;</li>
+<li>&quot;1. <em>This is an example for whatever the prompt is</em>.&quot; <small>(number <em>not</em> necessary)</small></li>
+<li>&quot;<em>This is an example for whatever the prompt is</em>.&quot;</li>
+</ul>
+<p><strong>Anything that could be confused for another meme/prompt &amp;/or as a sentence starter should include the full prompt.</strong> You can <em>also</em> include a link to the meme itself (preferably from where I reblogged it from <a href="https://quantumstar-rpmemes.tumblr.com/" target="_blank" class="external-link">quantumstar-rpmemes</a> as I periodically clear the prompts tag on my roleplay blog while everything remains available on the archive.)</p>
+</div></div>
+<hr>
+<h1 id="specify-when-tagged" tabindex="-1">Specify When Tagged</h1>
+<div class="callout is-collapsible" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> If You Don't Specify Muse(s)/Verse(s)</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><ul>
+<li><strong>I may not answer at all if no muse is specified at all.</strong></li>
+<li>I will typically default to their mainverse if you don't specify an AU.</li>
+</ul>
+<p></p></div></div>
+<h2 id="expected-for-ooc-prompts-as-well" tabindex="-1">Expected For OOC Prompts As Well</h2>
+<p><strong>Unless the meme/prompt reblog specifically lacks the tags for specifying, it is <em>expected</em> that any prompt sent to the inbox should have at least one or more muses specified for any ooc prompts if the prompt is muse and/or verse/AU focused.</strong> I am far less likely to answer beyond a generic answer, if I answer at all, if there isn't a muse specified for ooc posts, including mun prompts that ask about things regarding the muses in <em>any</em> way, as the answer is rarely the same for every muse.</p>
+<hr>
+<h1 id="continue-as-threads-by-default" tabindex="-1">Continue As Threads By Default</h1>
+<p>You are <em>always</em> welcome to continue answered in character prompts/memes as threads. I answer most asks as new text posts, and will tag these as &quot;<strong>Closed Starter</strong>&quot;, along with a thread tracking tag<sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup>, if I anticipate it to potentially continued as a thread.</p>
+<div class="callout" data-callout="guideline"><div class="callout-title"><div class="callout-title-inner"> Answered As Text Posts<br></div></div>
+<div class="callout-content">
+<p>
+As I <em>always</em> turn text-based asks into text posts rather than publishing the original ask, if you mention you want any part of the ask kept private (do so <em>in the ask itself</em> so that it doesn't get lost in chats), I will simply not copy that part of the message into the text post when I actually publish it.</p>
+</div></div>
+<hr>
+<h1 id="reverse-prompts-memes" tabindex="-1">Reverse Prompts/Memes</h1>
+<p>You are <em>always</em> welcome to reverse any meme and/or prompts (<em>including sentence starters</em>), simply by stating that you want it <em>reversed</em>, whether the original meme/prompt mentions the option in it or not.</p>
+<p>We're here to have fun, so if something fits better if it's <em>my muse</em> doing or saying the thing instead of yours (or vise versa, depending on the meme/prompt), then I'm game for flipping the script regardless of what the original meme/prompt poster intended.</p>
+<hr>
+<h1 id="adding-context-to-memes-prompts" tabindex="-1">Adding Context To Memes/Prompts</h1>
+<p>You are <em>always</em> welcome to add context and/or expand on any meme and/or prompt (<em>including sentence starters</em>). In fact, it helps a great deal whenever someone <em>does</em> if they have something in particular in mind.</p>
+<p>This is <em>especially</em> true for things like indicating tone, where you might imagine them saying something one way, but I might interpret it another way, as I can't always locate the original prompt/meme for the original context, if any was given at all.</p>
+<hr>
+<h1 id="prompts-never-expire" tabindex="-1">Prompts Never Expire</h1>
+<p>There is no expiration date on <em>most</em> memes/prompts/etc. (I might side-eye you if you send a winter holiday meme in the July, though), and they can be found on both <a href="https://quantumstargazer.tumblr.com/" target="_blank" class="external-link">quantumstargazer</a> and <a href="https://quantumstar-rpmemes.tumblr.com/" target="_blank" class="external-link">quantumstar-rpmemes</a>, and can be sent to either inbox.</p>
+<h2 id="additional-memes-on-sideblog" tabindex="-1">Additional Memes On Sideblog</h2>
+<p><strong>The archive, <a href="https://quantumstar-rpmemes.tumblr.com/" target="_blank" class="external-link">quantumstar-rpmemes</a>, is a sideblog</strong> where I reblog memes/prompts/etc to in order to reblog a smaller selection to my roleplay blog.</p>
+<p><strong>If you can't find anything in my rp blog's prompts tag that strikes your fancy, try the sideblog instead</strong>, as there is a wider selection there, and is broken down even further by types of prompts/memes than simply IC or OOC like my roleplay blog's tags.</p>
+<div class="callout" data-callout="info"><div class="callout-title"><div class="callout-title-inner"> Same Rules Apply To Sideblog</div></div>
+<div class="callout-content">
+<p>
+</p><p>All of the rules pertaining to inbox prompts and memes apply to the archive sideblog as well, <em>especially</em> including sending the full prompt when sending anything that is not a sentence starter.</p>
+</div></div>
+<hr>
+<h1 id="send-any-time" tabindex="-1">Send Any Time</h1>
+<p><strong>You do not have to wait for me to be active on the dash to send things!</strong> My inbox is always open, unless I have <em>literally</em> turned it off.</p>
+<p>I end up spending a lot of time on mobile, and since I rely heavily on userscripts and stylesheets for tumblr rp, in addition to X-Kit Rewritten, you won't see me making many posts, even OOC ones, from mobile. But I can work on things from mobile and then transcribe them later on the desktop for posting, so please do send me as many things as you want.</p>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>Sideblog for archiving any and all of the memes, prompts lists, etc. for personal roleplaying purposes. All memes on the blog are considered &quot;active&quot; and may be sent in no matter how long ago I reblogged it. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>Tagged as <strong>; partnerurl / partnermuse &amp; mymuse / 000</strong> with the appropriate number for which thread the interaction is. <a href="#fnref2" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+</main>
+<aside>
+<div class="sidebar">
+<div class="sidebar-container">
+<script type="module">import{forceSimulation,forceManyBody,forceCenter,forceLink,forceCollide,forceRadial}from"d3-force";import{select}from"d3-selection";import{zoom as d3Zoom,zoomIdentity}from"d3-zoom";import{drag as d3Drag}from"d3-drag";const{Application:Application,Container:Container,Graphics:Graphics,Text:Text,Circle:Circle}=PIXI;async function fetchGraphData(){const e=await fetch("/graph.json").then((e=>e.json()));return{graphData:e,fullGraphData:filterFullGraphData(e)}}function filterFullGraphData(e){if(!e)return null;e=JSON.parse(JSON.stringify(e));const t=Object.values(e.nodes).filter((e=>e.hide)).map((e=>e.id));return{links:e.links.filter((e=>-1===t.indexOf(e.source)&&-1===t.indexOf(e.target))),nodes:Object.values(e.nodes).filter((e=>!e.hide))}}function filterLocalGraphData(e,t){if(!e)return null;t=t||1;const a=JSON.parse(JSON.stringify(e.nodes)),o=JSON.parse(JSON.stringify(e.links));let n=decodeURI(window.location.pathname),l=a[n];if(!l){const e=n.toLowerCase();l=Object.values(a).find((t=>t.url.toLowerCase()===e))}if(l||(l=Object.values(a).find((e=>e.home))),!l)return null;l.current=!0;const r=new Set(Object.values(a).filter((e=>e.hide)).map((e=>e.id))),c=e=>e===l.id||!r.has(e),i={};for(const e of o)c(e.source)&&c(e.target)&&((i[e.source]=i[e.source]||new Set).add(e.target),(i[e.target]=i[e.target]||new Set).add(e.source));const s=new Set([l.id]);let d=new Set([l.id]);for(let e=0;e<t&&d.size>0;e++){const e=new Set;for(const t of d)for(const a of i[t]||[])s.has(a)||(s.add(a),e.add(a));d=e}const u=Object.values(a).filter((e=>!e.hide&&s.has(e.id))),p=u.map((e=>e.id));return{nodes:u,links:o.filter((e=>p.indexOf(e.target)>-1&&p.indexOf(e.source)>-1))}}function getCssVar(e){return getComputedStyle(document.body).getPropertyValue(e).trim()}const _colorProbe=document.createElement("div");function resolveColor(e){_colorProbe.style.color=e;const t=getComputedStyle(_colorProbe).color.match(/(\d+),\s*(\d+),\s*(\d+)/);return t?(parseInt(t[1])<<16)+(parseInt(t[2])<<8)+parseInt(t[3]):6710886}_colorProbe.style.display="none",document.body.appendChild(_colorProbe);const _decodeEl=document.createElement("textarea");function htmlDecode(e){return _decodeEl.innerHTML=e,_decodeEl.value}function buildDegreeMap(e){const t={};for(const a of e){const e="object"==typeof a.source?a.source.id:a.source,o="object"==typeof a.target?a.target.id:a.target;t[e]=(t[e]||0)+1,t[o]=(t[o]||0)+1}return t}function nodeRadius(e,t){return 2+Math.sqrt(t[e]||0)}function renderGraph(e,t,a){if(!e||!e.nodes||0===e.nodes.length)return null;const o=document.getElementById(t);if(!o)return null;for(;o.firstChild;)o.removeChild(o.firstChild);const n=o.offsetWidth,l=o.offsetHeight||250;if(0===n)return null;const r=resolveColor(getCssVar("--dg-graph-node-color")||getCssVar("--graph-main")||"#666"),c=resolveColor(getCssVar("--dg-graph-node-color-muted")||getCssVar("--graph-muted")||"#ccc"),i=resolveColor(getCssVar("--dg-graph-label-color")||getCssVar("--text-normal")||"#eee"),s=getComputedStyle(document.body).fontFamily||"Sans-Serif",d=buildDegreeMap(e.links),u=e.nodes.map((e=>({...e,text:htmlDecode(e.title)}))),p=e.links.map((e=>({source:e.source,target:e.target}))),h=a?-300:-100,f=a?80:40,g=Math.min(n,l)/3,m=forceSimulation(u).force("charge",forceManyBody().strength(h)).force("center",forceCenter(n/2,l/2).strength(.5)).force("link",forceLink(p).id((e=>e.id)).distance(f)).force("collide",forceCollide((e=>nodeRadius(e.id,d)+1)).iterations(3)).force("radial",forceRadial(g,n/2,l/2).strength(.05)),y=new Application({width:n,height:l,antialias:!0,autoStart:!1,autoDensity:!0,backgroundAlpha:0,resolution:window.devicePixelRatio});o.appendChild(y.view);const C=y.stage;C.interactive=!0,C.hitArea=y.screen;const x=new Graphics,D=new Container,G=new Container;C.addChild(x,D,G);let b=null,v=new Set,w=!1,A=0,S=null,L=zoomIdentity;const k=[],M=[];function j(e){if(b=e,v.clear(),null===e){for(const e of k)e.active=!1;for(const e of M)e.active=!1}else{for(const t of M){const a=t.simulationData.source,o=t.simulationData.target,n="object"==typeof a?a.id:a,l="object"==typeof o?o.id:o;n!==e&&l!==e||(v.add(n),v.add(l)),t.active=n===e||l===e}for(const e of k)e.active=v.has(e.simulationData.id)}}for(const e of u){const t=nodeRadius(e.id,d),a=new Text(e.text,{fontSize:16,fill:i,fontFamily:s});a.resolution=2,a.anchor.set(.5,1),a.scale.set(1/3),a.alpha=0;const o=new Graphics;o.interactive=!0,o.cursor="pointer",o.hitArea=new Circle(0,0,t+2),o._nodeId=e.id;const n=e.current?r:c;o.beginFill(n),o.drawCircle(0,0,t),o.endFill(),e.current&&(o.lineStyle(.5,r),o.drawCircle(0,0,t+1.5));let l=0;o.on("pointerover",(()=>{j(o._nodeId),l=a.alpha,w||I()})),o.on("pointerleave",(()=>{j(null),a.alpha=l,w||I()})),D.addChild(o),G.addChild(a),k.push({simulationData:e,gfx:o,label:a,radius:t,active:!1,baseAlpha:1,targetAlpha:1,currentAlpha:1})}for(const e of p)M.push({simulationData:e,active:!1,baseAlpha:.4,targetAlpha:.4,currentAlpha:.4});function I(){for(const e of k)e.targetAlpha=null!==b?e.active?1:.1:e.baseAlpha;for(const e of M)e.targetAlpha=null!==b?e.active?.8:.05:e.baseAlpha}function O(e,t,a){return e+(t-e)*a}select(y.view).call(d3Drag().container((()=>y.view)).subject((()=>{if(!b)return null;const e=u.find((e=>e.id===b));return e?{x:e.x*L.k+L.x,y:e.y*L.k+L.y,node:e}:null})).on("start",(function(e){e.active||m.alphaTarget(1).restart();const t=e.subject.node;t.fx=t.x,t.fy=t.y,A=Date.now(),S={x:e.x,y:e.y},w=!0})).on("drag",(function(e){const t=e.subject.node;t.fx=(e.x-L.x)/L.k,t.fy=(e.y-L.y)/L.k})).on("end",(function(e){e.active||m.alphaTarget(0);const t=e.subject.node;t.fx=null,t.fy=null,w=!1;const a=Date.now()-A,o=e.x-S.x,n=e.y-S.y,l=Math.sqrt(o*o+n*n);a<500&&l<5&&t.url&&(window.location=t.url)})));const F=d3Zoom().extent([[0,0],[n,l]]).scaleExtent([.25,4]).on("zoom",(({transform:e})=>{L=e,C.scale.set(e.k,e.k),C.position.set(e.x,e.y);const t=Math.max((e.k-1)/3.75,0);for(const e of k)e.simulationData.id!==b&&(e.label.alpha=t)}));select(y.view).call(F);let E=!1;return requestAnimationFrame((function e(){if(!E){for(const e of k){const{x:t,y:a}=e.simulationData;null!=t&&null!=a&&(e.gfx.position.set(t,a),e.label.position.set(t,a-e.radius-2),e.currentAlpha=O(e.currentAlpha,e.targetAlpha,.15),e.gfx.alpha=e.currentAlpha,e.simulationData.id===b&&(e.label.alpha=1))}x.clear();for(const e of M){const t=e.simulationData.source,a=e.simulationData.target;null!=t.x&&null!=a.x&&(e.currentAlpha=O(e.currentAlpha,e.targetAlpha,.15),x.lineStyle(1,e.active?r:c,e.currentAlpha),x.moveTo(t.x,t.y),x.lineTo(a.x,a.y))}y.render(),requestAnimationFrame(e)}})),(a||e.nodes.length>4)&&setTimeout((()=>{let e=1/0,t=-1/0,a=1/0,o=-1/0;for(const n of u)null!=n.x&&null!=n.y&&(e=Math.min(e,n.x),t=Math.max(t,n.x),a=Math.min(a,n.y),o=Math.max(o,n.y));if(e===1/0)return;const r=t-e+100,c=o-a+100,i=Math.min(n/r,l/c,2),s=(e+t)/2,d=(a+o)/2,p=zoomIdentity.translate(n/2-s*i,l/2-d*i).scale(i);select(y.view).call(F.transform,p)}),500),function(){E=!0,m.stop(),select(y.view).on(".drag",null).on(".zoom",null),y.destroy(!0,{children:!0})}}let graphDataCache=null,fullGraphDataCache=null,localGraphCleanup=null,globalGraphCleanup=null,localGraphDepth=1;async function init(){const{graphData:e,fullGraphData:t}=await fetchGraphData();graphDataCache=e,fullGraphDataCache=t,renderLocal()}function renderLocal(){localGraphCleanup&&(localGraphCleanup(),localGraphCleanup=null);const e=renderGraph(filterLocalGraphData(graphDataCache,localGraphDepth),"link-graph",!1);localGraphCleanup=e}function setLocalGraphDepth(e){localGraphDepth=parseInt(e,10)||1,renderLocal()}function openModal(e){globalGraphCleanup&&(globalGraphCleanup(),globalGraphCleanup=null),document.getElementById("full-graph").style.display="",setTimeout((()=>{globalGraphCleanup=renderGraph(e,"full-graph-container",!0),lucide.createIcons({attrs:{class:["svg-icon"]}})}),50)}function openFullGraph(){openModal(fullGraphDataCache)}function openExpandedLocal(){openModal(filterLocalGraphData(graphDataCache,localGraphDepth))}function closeFullGraph(){document.getElementById("full-graph").style.display="none",globalGraphCleanup&&(globalGraphCleanup(),globalGraphCleanup=null)}window.__graph={openFullGraph:openFullGraph,closeFullGraph:closeFullGraph,openExpandedLocal:openExpandedLocal,rerenderLocal:renderLocal,setLocalGraphDepth:setLocalGraphDepth},document.addEventListener("forestry:css-changed",(function(){graphDataCache&&renderLocal()})),init()</script>
+<div id="graph-component" class="graph" x-data="{ showFullGraph: false, graphDepth: 1 }">
+<div class="graph-title-container">
+<div class="graph-title">Connected Pages</div>
+<div id="graph-controls">
+<div class="ctrl-left">
+<label id="graph-depth-label" for="graph-depth-slider">Depth <span x-text="graphDepth"></span></label>
+<input type="range" id="graph-depth-slider" min="1" max="3" step="1" x-model.number="graphDepth" x-on:input="window.__graph.setLocalGraphDepth(graphDepth)">
+</div>
+<div class="ctrl-right">
+<span id="global-graph-btn" x-on:click="showFullGraph = true; window.__graph.openFullGraph()"><i data-lucide="globe" aria-hidden="true"></i></span>
+<span id="graph-fs-btn" x-on:click="showFullGraph = true; window.__graph.openExpandedLocal()"><i data-lucide="expand" aria-hidden="true"></i></span>
+</div>
+</div>
+</div>
+<div id="link-graph"></div>
+<div x-show="showFullGraph" id="full-graph" class="show" style="display:none" x-on:click.self="window.__graph.closeFullGraph(); showFullGraph = false;">
+<span id="full-graph-close" x-on:click="window.__graph.closeFullGraph(); showFullGraph = false;"><i data-lucide="x" aria-hidden="true"></i></span>
+<div id="full-graph-container"></div>
+</div>
+</div>
+<div class="toc">
+<div class="toc-title-container">
+<div class="toc-title">
+Inbox - Guidelines
+</div>
+</div>
+<div class="toc-container">
+<nav class="toc">
+<ol>
+<li><a href="#inbox">Inbox</a>
+</li>
+<li><a href="#include-full-prompt-when-sending">Include Full Prompt When Sending</a>
+</li>
+<li><a href="#specify-when-tagged">Specify When Tagged</a>
+<ol>
+<li><a href="#expected-for-ooc-prompts-as-well">Expected For OOC Prompts As Well</a>
+</li>
+</ol>
+</li>
+<li><a href="#continue-as-threads-by-default">Continue As Threads By Default</a>
+</li>
+<li><a href="#reverse-prompts-memes">Reverse Prompts/Memes</a>
+</li>
+<li><a href="#adding-context-to-memes-prompts">Adding Context To Memes/Prompts</a>
+</li>
+<li><a href="#prompts-never-expire">Prompts Never Expire</a>
+<ol>
+<li><a href="#additional-memes-on-sideblog">Additional Memes On Sideblog</a>
+</li>
+</ol>
+</li>
+<li><a href="#send-any-time">Send Any Time</a>
+</li>
+</ol>
+</nav>
+</div>
+</div>
+<script>!function(){const t=document.querySelectorAll('.toc-container a[href^="#"]');if(!t.length)return;const e=Array.from(t).map((t=>{const e=decodeURIComponent(t.getAttribute("href").slice(1));return{link:t,target:document.getElementById(e)}})).filter((t=>t.target));function n(){let n=e[0];for(const t of e)t.target.getBoundingClientRect().top<=100&&(n=t);t.forEach((t=>t.classList.remove("toc-active"))),n&&n.link.classList.add("toc-active")}window.addEventListener("scroll",n,{passive:!0}),n()}()</script>
+<div class="backlinks">
+<div class="backlink-title">Pages mentioning this page</div>
+<div class="backlink-list"><div class="backlink-card"><i data-lucide="link"></i><a href="/rulebook-old/actual-rules/" data-note-icon="" class="backlink">Actual Rules</a>
+</div><div class="backlink-card"><i data-lucide="link"></i><a href="/rulebook-old/guidelines/" data-note-icon="" class="backlink">Guidelines</a>
+</div><div class="backlink-card"><i data-lucide="link"></i><a href="/rulebook-old/rulebook-index/" data-note-icon="" class="backlink">Rulebook - Index</a>
+</div></div>
+</div>
+</div>
+</div>
+</aside>
+<style>#tooltip-wrapper{background:var(--background-primary);padding:1em;border-radius:4px;overflow:hidden;position:fixed;width:80%;max-width:400px;height:auto;max-height:300px;font-size:.8em;box-shadow:0 5px 10px rgba(0,0,0,.1);opacity:0;transition:opacity .1s;unicode-bidi:plaintext;overflow-y:scroll;z-index:10}#tooltip-wrapper:after{content:"";position:absolute;z-index:1;bottom:0;left:0;pointer-events:none;width:100%;unicode-bidi:plaintext;height:75px}.tooltip-pdf{width:100%;height:260px;border:0}</style>
+<div style="opacity:0;display:none" id="tooltip-wrapper">
+<div id="tooltip-content">
+</div>
+</div>
+<iframe style="display:none;height:0;width:0" id="link-preview-iframe" src="">
+</iframe>
+<script>var opacityTimeout,contentTimeout,transitionDurationMs=100,iframe=document.getElementById("link-preview-iframe"),tooltipWrapper=document.getElementById("tooltip-wrapper"),tooltipContent=document.getElementById("tooltip-content"),linkHistories={};function hideTooltip(){opacityTimeout=setTimeout((function(){tooltipWrapper.style.opacity=0,contentTimeout=setTimeout((function(){tooltipContent.innerHTML="",tooltipWrapper.style.display="none"}),transitionDurationMs+1)}),transitionDurationMs)}function positionTooltip(t){var o=t.getClientRects()[t.getClientRects().length-1],e=document.documentElement.clientWidth,i=window.innerHeight,p=12,n=10,l=(o.top,i-(o.top+o.height)),r=(o.left,e-(o.left+o.width)),s=l>=tooltipWrapper.offsetHeight+p?"bottom":"top",a=r>=tooltipWrapper.offsetWidth+p?"right":"left";tooltipWrapper.style.top="bottom"===s?o.top+o.height+p+"px":o.top-tooltipWrapper.offsetHeight-p+"px",tooltipWrapper.style.left="right"===a?o.left+o.width+p+"px":o.left-tooltipWrapper.offsetWidth-p+"px";var c=parseFloat(tooltipWrapper.style.top),f=parseFloat(tooltipWrapper.style.left);c<n?tooltipWrapper.style.top="10px":c+tooltipWrapper.offsetHeight+n>i&&(tooltipWrapper.style.top=i-tooltipWrapper.offsetHeight-n+"px"),f<n?tooltipWrapper.style.left="10px":f+tooltipWrapper.offsetWidth+n>e&&(tooltipWrapper.style.left=e-tooltipWrapper.offsetWidth-n+"px")}function showTooltip(t){var o=t.currentTarget||t.target;if(o){var e=o.getAttribute("href");if(-1===e.indexOf("http")||-1!==e.indexOf(window.location.host)){tooltipWrapper.style.display="block",tooltipWrapper.style.opacity=0,positionTooltip(o);let t=e.split("#")[0];if(t.toLowerCase().endsWith(".pdf"))return tooltipContent.innerHTML='<iframe class="tooltip-pdf" src="'+t+'"></iframe>',tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1);if(/\.(png|jpg|jpeg|gif|webp|svg)$/i.test(t))return tooltipContent.innerHTML='<img src="'+t+'" style="max-width:100%;height:auto;" />',tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1);linkHistories[t]?(tooltipContent.innerHTML=linkHistories[t],setTimeout((function(){if(positionTooltip(o),tooltipWrapper.style.opacity=1,-1!=e.indexOf("#")){let t=e.split("#")[1];const o=tooltipWrapper.querySelector(`[id='${t}']`);o.classList.add("referred"),o.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)):(iframe.src=t,iframe.onload=function(){let i,p;try{i=iframe.contentWindow,p=i?i.document:null}catch(t){return tooltipContent.innerHTML="<div>Preview not available for this file.</div>",tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1)}if(!p)return;const n=p.querySelector("h1"),l=p.querySelector(".content");if(tooltipContentHtml="",n&&(tooltipContentHtml+='<div style="font-weight: bold; unicode-bidi: plaintext;">'+n.innerHTML+"</div>"),l)tooltipContentHtml+=l.innerHTML;else if(p.body)tooltipContentHtml+=p.body.innerHTML;else{if(!p.documentElement)return;tooltipContentHtml+=p.documentElement.innerHTML}tooltipContent.innerHTML=tooltipContentHtml,linkHistories[t]=tooltipContentHtml,tooltipWrapper.scrollTop=0,setTimeout((function(){if(positionTooltip(o),tooltipWrapper.style.opacity=1,-1!=e.indexOf("#")){let t=e.split("#")[1];const o=tooltipWrapper.querySelector(`[id='${t}']`);o.classList.add("referred"),console.log(o),o.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)}),positionTooltip(o)}}}function setupListeners(t){t.addEventListener("mouseleave",(function(t){hideTooltip()})),tooltipWrapper.addEventListener("mouseleave",(function(t){hideTooltip()})),t.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout),showTooltip(t)})),tooltipWrapper.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout)}))}window.addEventListener("load",(function(t){document.querySelectorAll(".internal-link").forEach(setupListeners),document.querySelectorAll(".backlink-card a").forEach(setupListeners)}))</script>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){try{date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTTP(date)),null==parsed_date.invalid&&(e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT))}catch(e){}}))</script>
+<aside id="floating-control">
+<a id="github" href="https://github.com/PipeItToDevNull" target="_blank" rel="noopener noreferrer"><i icon-name="github" title="Github" aria-hidden="true"></i></a>
+<span id="theme-switch">
+<i class="svg-icon light" icon-name="sun" title="Light mode" aria-hidden="true"></i>
+<i class="svg-icon dark" icon-name="moon" title="Dark mode" aria-hidden="true"></i>
+<i class="svg-icon auto" icon-name="sun-moon" title="Auto mode" aria-hidden="true"></i>
+</span>
+</aside>
+<script>function setThemeIcon(e){let t;switch(e){case"dark":toRemove=["auto","light"];break;case"light":t="fa-adjust",toRemove=["dark","auto"];break;default:toRemove=["light","dark"]}document.getElementById("theme-switch").classList.add(e),document.getElementById("theme-switch").classList.remove(...toRemove)}function setTheme(e,t){t&&setThemeIcon(e),"dark"==e?(document.body.classList.remove("theme-light"),document.body.classList.add("theme-dark")):"light"==e?(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")):setTheme(e=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light",!1)}let theme=window.localStorage.getItem("site-theme")||"light";setTheme(theme,!0),window.theme=theme,window.localStorage.setItem("site-theme",theme),window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",(function(e){const t=window.localStorage.getItem("site-theme");t&&"auto"!=t||(window.localStorage.setItem("site-theme","auto"),setTheme("auto",!0))})),document.getElementById("theme-switch").addEventListener("click",(function(){let e;e="auto"==window.theme?"dark":"dark"==window.theme?"light":"auto",setTheme(e,!0),window.localStorage.setItem("site-theme",e),window.theme=e}))</script>
+<script defer="defer" src="https://unpkg.com/lucide@latest"></script>
+<script defer="defer">document.addEventListener("DOMContentLoaded",(()=>{lucide.createIcons({attrs:{class:["svg-icon"]}})}))</script>
+<script>document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll(".obsidian-bases-views").forEach((function(e){var t=e.querySelector(".obsidian-bases-active-view"),a=e.querySelector(".obsidian-bases-dropdown"),i=e.querySelectorAll(".obsidian-bases-dropdown-item"),n=e.querySelectorAll(".obsidian-bases-view-panel"),o=e.querySelector(".obsidian-bases-active-view-name"),r=e.querySelector(".obsidian-bases-count-value");t&&a&&(t.addEventListener("click",(function(e){e.stopPropagation();var i="none"!==a.style.display;a.style.display=i?"none":"block",t.setAttribute("aria-expanded",!i)})),document.addEventListener("click",(function(){a.style.display="none",t.setAttribute("aria-expanded","false")})),i.forEach((function(s){s.addEventListener("click",(function(s){s.stopPropagation();var d=this.getAttribute("data-view-index");i.forEach((function(e){e.classList.remove("active")})),this.classList.add("active"),n.forEach((function(e){e.style.display="none"}));var l=e.querySelector('.obsidian-bases-view-panel[data-view-index="'+d+'"]');l&&(l.style.display="block");var c=this.querySelector(".obsidian-bases-view-icon"),u=t.querySelector(".obsidian-bases-view-icon");if(c&&u&&u.replaceWith(c.cloneNode(!0)),o&&(o.textContent=this.textContent.trim()),r&&l){var b=l.querySelectorAll("tbody tr:not(.obsidian-base-group-row), .obsidian-base-card, .obsidian-base-list li");r.textContent=b.length}a.style.display="none",t.setAttribute("aria-expanded","false")}))})))})),document.querySelectorAll(".bases-dynamic-date").forEach((function(e){var t=e.getAttribute("data-type"),a=new Date;if("today"===t){var i=a.getFullYear(),n=String(a.getMonth()+1).padStart(2,"0"),o=String(a.getDate()).padStart(2,"0");e.textContent=i+"-"+n+"-"+o}else if("now"===t){i=a.getFullYear(),n=String(a.getMonth()+1).padStart(2,"0"),o=String(a.getDate()).padStart(2,"0");var r=String(a.getHours()).padStart(2,"0"),s=String(a.getMinutes()).padStart(2,"0");e.textContent=i+"-"+n+"-"+o+" "+r+":"+s}}))}))</script>
+</body>
+</html>

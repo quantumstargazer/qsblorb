@@ -1,0 +1,1100 @@
+<!doctype html>
+<html lang="en">
+<head>
+<title>Actual Rules</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<script type="importmap">
+{
+  "imports": {
+    "d3-force": "https://cdn.jsdelivr.net/npm/d3-force@3.0.0/+esm",
+    "d3-selection": "https://cdn.jsdelivr.net/npm/d3-selection@3.0.0/+esm",
+    "d3-zoom": "https://cdn.jsdelivr.net/npm/d3-zoom@3.0.0/+esm",
+    "d3-drag": "https://cdn.jsdelivr.net/npm/d3-drag@3.0.0/+esm"
+  }
+}
+</script>
+<script src="https://cdn.jsdelivr.net/npm/pixi.js@7.4.2/dist/pixi.min.js"></script>
+<script async type="module">import mermaid from"https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";mermaid.initialize({startOnLoad:!0})</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/prism.min.js" integrity="sha512-hpZ5pDCF2bRCweL5WoA0/N1elet1KYL5mx3LP555Eg/0ZguaHawxNvEjF6O3rufAChs16HVNhEc6blF/rZoowQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/plugins/autoloader/prism-autoloader.min.js" integrity="sha512-sv0slik/5O0JIPdLBCR2A3XDg/1U3WuDEheZfI/DI5n8Yqc3h5kjrnr46FGBNiUAJF7rE4LHKwQ/SoSLRKAxEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script>window.addEventListener("load",(()=>{document.querySelectorAll(".callout").forEach((e=>{const t=getComputedStyle(e).getPropertyValue("--callout-icon"),l=t&&t.trim().replace(/^lucide-/,"");if(l){const t=e.querySelector(".callout-title");if(t){const e=document.createElement("div"),c=document.createElement("i");e.appendChild(c),c.setAttribute("data-lucide",l),e.setAttribute("class","callout-icon"),t.insertBefore(e,t.firstChild)}}})),lucide.createIcons(),Array.from(document.querySelectorAll(".callout.is-collapsible")).forEach((e=>{e.querySelector(".callout-title").addEventListener("click",(t=>{e.classList.contains("is-collapsed")?e.classList.remove("is-collapsed"):e.classList.add("is-collapsed")}))}))}))</script>
+<script defer="defer" src="https://fastly.jsdelivr.net/npm/@alpinejs/persist@3.11.1/dist/cdn.min.js"></script>
+<script defer="defer" src="https://fastly.jsdelivr.net/npm/alpinejs@3.11.1/dist/cdn.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.25.0/themes/prism-okaidia.min.css" integrity="sha512-mIs9kKbaw6JZFfSuo+MovjU+Ntggfoj8RwAmJbVXQ5mkAX5LlgETQEweFPI18humSPHymTb5iikEOKWF7I8ncQ==" crossorigin="anonymous" referrerpolicy="no-referrer" async>
+<script src="https://fastly.jsdelivr.net/npm/whatwg-fetch@3.6.2/dist/fetch.umd.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" async></script>
+<link href="/styles/obsidian-base.css" rel="stylesheet">
+<link href="/styles/_theme.83ace87c.css" rel="stylesheet">
+<link href="/styles/digital-garden-base.css" rel="stylesheet">
+<link href="/styles/custom-style.css" rel="stylesheet"><link href="/styles/user/bg-fix-celestial.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/callout-studio-custom.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/infoboxes-digital-garden.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/infoboxes-styles.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/profilebox-digital-garden.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/statsbox-digital-garden.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet"><link href="/styles/user/toggle-dark-light-mode.css?v=2026-08-17T23:08:33.330Z" rel="stylesheet">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+<link rel="manifest" href="/manifest.webmanifest">
+<style></style>
+<style></style>
+</head>
+<body class="theme-dark markdown-preview-view markdown-rendered markdown-preview-section css-settings-manager theme-dark mod-windows is-frameless is-hidden-frameless obsidian-app styled-scrollbars show-inline-title is-floating-nav auto-full-screen show-ribbon show-view-header is-maximized enhanced-canvas-enabled mk-readable-line mk-folder-lines mk-spaces-enabled mk-inline-context-enabled mk-flow-replace mk-flow-minimal css-settings-manager ic-hr-margins ic-title-align-center ic-title-bg-margins ic-arrow-style-infoboxes ic-section-background-toggle ic-section-bg-margins ic-label-bg-margins ic-image-margins ic-table-pattern-infoboxes ic-table-margins ic-revert-nested-callouts ic-property-separation-none iconic-clickable-icons iconic-markdown-tab-icons">
+<div x-init="isDesktop = (window.innerWidth>=1000) ? true: false;" x-on:resize.window="isDesktop = (window.innerWidth>=1000) ? true : false;" x-data="{isDesktop: true, showFilesMobile: false}">
+<div x-show.important="!isDesktop" style="display:none">
+<nav class="navbar">
+<div class="navbar-inner">
+<span style="font-size:1.5rem;margin-right:10px" @click="showFilesMobile=!showFilesMobile"><i data-lucide="menu"></i></span>
+<a href="/" style="text-decoration:none;text-align:center">
+<h1 style="margin:15px!important">QS Wiki</h1>
+</a>
+</div>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i data-lucide="search"></i>
+</span>
+<span class="search-text">Search</span>
+<span class="search-keys"><code>Ctrl</code>&nbsp;+&nbsp;<code>K</code></span>
+</div>
+</nav>
+</div>
+<div x-show="showFilesMobile && !isDesktop" @click="showFilesMobile = false" style="display:none" class="fullpage-overlay"></div>
+<div class="filetree-wrapper" x-show.important="isDesktop || showFilesMobile" style="display:none">
+<nav class="filetree-sidebar">
+<a href="/" style="text-decoration:none;text-align:center">
+<h1 style="text-align:center">QS Wiki</h1>
+</a>
+<div class="search-button align-icon" onclick="toggleSearch()">
+<span class="search-icon">
+<i data-lucide="search"></i>
+</span>
+<span class="search-text">Search</span>
+<span class="search-keys"><code>Ctrl</code>&nbsp;+&nbsp;<code>K</code></span>
+</div>
+<div class="folder" x-data="{isOpen: true}">
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/">Home - QS Wiki </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/open-muses-roster/">! Open Muses - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/by-request-only-roster/">By Request Only - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/invitation-only-roster/">Invitation Only - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/irregulars-roster/">Irregulars - Roster </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/muse-roster-index/">Muse Roster - Index </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Muses</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses/Dragon Age&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Dragon Age</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses/Dragon Age/Ashina Tabris&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Ashina Tabris</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/muses/dragon-age/ashina-tabris/summary-ashina/">Summary - Ashina </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Muses/Dragon Age/Ashina Tabris/0 Canon Typical&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">0 Canon Typical</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/muses/dragon-age/ashina-tabris/0-canon-typical/dragon-age-ashina/">Dragon Age - Ashina </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Wiki</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Fandom Info</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info/Baldur&#39;s Gate&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Baldur&#39;s Gate</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/wiki/fandom-info/baldur-s-gate/glossary-baldur-s-gate/">Glossary - Baldur&#39;s Gate </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info/Dragon Age&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Dragon Age</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/wiki/fandom-info/dragon-age/glossary-dragon-age/">Glossary - Dragon Age </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Wiki/Fandom Info/Mass Effect&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Mass Effect</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/wiki/fandom-info/mass-effect/glossary-mass-effect/">Glossary - Mass Effect </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">! Tags</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags/Muse Tags&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Muse Tags</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags/Muse Tags/Dragon Age&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Dragon Age</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;! Tags/Muse Tags/Dragon Age/Ashina Tabris&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Ashina Tabris</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/tags/muse-tags/dragon-age/ashina-tabris/tags-ashina/">Tags - Ashina </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/shining-stars-stargazers/">Shining Stars + Stargazers </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/interactive-forms/">Interactive Forms </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Rulebook (Old)</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/FAQ Details&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">FAQ Details</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/accessibility-faq/">Accessibility - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/answered-fa-qs-faq/">Answered FAQs - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/blocking-following-faq/">Blocking + Following - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/do-s-don-ts-faq/">Do&#39;s + Don&#39;ts - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/mature-audiences-only-faq/">Mature Audiences Only - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/muses-faq/">Muses - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/non-roleplayers-faq/">Non-Roleplayers - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/post-formatting-faq/">Post Formatting - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/starting-interactions-faq/">Starting Interactions - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/tropes-themes-faq/">Tropes + Themes - FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/faq-details/verses-a-us-faq/">Verses + AUs - FAQ </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/Guidelines Details&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Guidelines Details</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/blanket-permissions-guidelines/">Blanket Permissions - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/communications-guidelines/">Communications - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/forms-interaction-guidelines/">Forms — Interaction - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/forms-interest-tracking-guidelines/">Forms — Interest Tracking - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/inbox-guidelines/">Inbox - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/interactions-guidelines/">Interactions - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/muses-guidelines/">Muses - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/ships-dynamics-guidelines/">Ships + Dynamics - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/starters-guidelines/">Starters - Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines-details/verses-a-us-guidelines/">Verses + AUs - Guidelines </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/Rules Details&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Rules Details</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div class="folder inner-folder" x-data="{isOpen: $persist(false).as(&quot;Rulebook (Old)/Rules Details/Fandom Specific Rules&quot;)}" @click.stop="isOpen=!isOpen">
+<div class="foldername-wrapper align-icon">
+<i x-show="isOpen" style="display:none" data-lucide="chevron-down"></i>
+<i x-show="!isOpen" data-lucide="chevron-right"></i>
+<span class="foldername">Fandom Specific Rules</span>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/fandom-specific-rules/baldur-s-gate-rules/">! Baldur&#39;s Gate - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/fandom-specific-rules/dragon-age-rules/">! Dragon Age - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/fandom-specific-rules/mass-effect-rules/">! Mass Effect - Rules </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/21-mutuals-only-rules/">21+ + Mutuals Only - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/banned-restricted-content-rules/">Banned + Restricted Content - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/blacklist-tags-rules/">Blacklist Tags - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/curate-your-own-dash-rules/">Curate Your Own Dash - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/don-t-be-a-dick-rules/">Don&#39;t Be A Dick - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/exclusivity-rules/">Exclusivity - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/not-ps-enough-t-ps-rules/">NOTPs + Enough-TPs - Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rules-details/sexual-content-rules/">Sexual Content - Rules </a>
+</div>
+</div>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink active-note">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/actual-rules/">Actual Rules </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/guidelines/">Guidelines </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rp-faq/">RP FAQ </a>
+</div>
+</div>
+<div x-show="isOpen" style="display:none" class="filelist">
+<div @click.stop class="notelink">
+<a data-note-icon="" style="text-decoration:none" class="filename" href="/rulebook-old/rulebook-index/">Rulebook - Index </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<div class="search-container" id="globalsearch" onclick="toggleSearch()">
+<div class="search-box" onclick="event.stopPropagation()">
+<div class="search-header">
+<input type="search" id="term" placeholder="Start typing...">
+</div>
+<div class="search-layout no-preview" id="search-layout">
+<div class="search-results-panel" id="search-results">
+<span><i>Enter your search text in the box above</i></span>
+</div>
+<div class="search-preview-panel" id="search-preview">
+<div class="preview-placeholder">
+<i data-lucide="file-text"></i>
+<p>Select a result to preview</p>
+</div>
+<div class="preview-content" id="preview-content"></div>
+</div>
+</div>
+<footer class="search-box-footer">
+<div class="navigation-hint">
+<span><code>Enter</code>&nbsp;to select</span>
+</div>
+<div class="navigation-hint">
+<span><code>⇅</code>&nbsp;to navigate</span>
+</div>
+<div class="navigation-hint">
+<span><code>ESC</code>&nbsp;to close</span>
+</div>
+</footer>
+</div>
+</div>
+<script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.21/dist/flexsearch.bundle.js"></script>
+<script>document.addEventListener("DOMContentLoaded",init,!1),document.addEventListener("DOMContentLoaded",setCorrectShortcut,!1);const previewCache=new Map;window.toggleSearch=function(){const e=document.getElementById("globalsearch");e.classList.contains("active")?e.classList.remove("active"):(e.classList.add("active"),document.getElementById("term").focus())},window.toggleTagSearch=function(e){const t=e.textContent;t&&(document.getElementById("term").value=t.trim(),window.toggleSearch(),window.search())};const loadingSvg='\n    <div style="display: flex; justify-content: center; padding: 40px;">\n        <svg width="40" height="40" viewBox="0 0 45 45" xmlns="http://www.w3.org/2000/svg" stroke="currentColor">\n            <g fill="none" fill-rule="evenodd" transform="translate(1 1)" stroke-width="2">\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="1.5s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="1.5s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="1.5s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="6" stroke-opacity="0">\n                    <animate attributeName="r" begin="3s" dur="3s" values="6;22" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-opacity" begin="3s" dur="3s" values="1;0" calcMode="linear" repeatCount="indefinite" />\n                    <animate attributeName="stroke-width" begin="3s" dur="3s" values="2;0" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n                <circle cx="22" cy="22" r="8">\n                    <animate attributeName="r" begin="0s" dur="1.5s" values="6;1;2;3;4;5;6" calcMode="linear" repeatCount="indefinite" />\n                </circle>\n            </g>\n        </svg>\n    </div>';function debounce(e,t,n){var r;return function(){var i=this,a=arguments,s=n&&!r;clearTimeout(r),r=setTimeout((function(){r=null,n||e.apply(i,a)}),t),s&&e.apply(i,a)}}function setCorrectShortcut(){navigator.platform.toUpperCase().indexOf("MAC")>=0&&document.querySelectorAll(".search-keys").forEach((e=>e.innerHTML="<code>⌘</code>&nbsp;+&nbsp;<code>K</code>"))}function tokenizeSearchTerms(e){const t=[],n=/"([^"]+)"|(\S+)/g;let r;for(;null!==(r=n.exec(e));){const e=(r[1]||r[2]).toLowerCase();e.length>1&&t.push(e)}return t.sort(((e,t)=>t.length-e.length))}function highlightTerms(e,t){if(!t||0===t.length||!e)return e;let n=e;return t.forEach((e=>{const t=e.replace(/[.*+?^${}()|[\]\\]/g,"\\$&"),r=new RegExp(`(${t})`,"gi");n=n.replace(r,'<span class="search-highlight">$1</span>')})),n}function getContextualExcerpt(e,t,n=150){if(!e)return"";const r=e.replace(/<[^>]*>/g,"");if(!t||0===t.length)return truncateText(r,n);let i=r.length;if(t.forEach((e=>{const t=r.toLowerCase().indexOf(e.toLowerCase());-1!==t&&t<i&&(i=t)})),i===r.length)return truncateText(r,n);const a=Math.max(0,i-50),s=Math.min(r.length,a+n);let o=r.substring(a,s);return a>0&&(o="..."+o),s<r.length&&(o+="..."),o}function truncateText(e,t){return e?(e=e.replace(/<[^>]*>/g,"")).length<=t?e:e.substring(0,t-3)+"...":""}async function fetchPreviewContent(e){if(previewCache.has(e))return previewCache.get(e);try{const t=await fetch(e),n=await t.text(),r=new DOMParser,i=r.parseFromString(n,"text/html").querySelector(".content, .cm-s-obsidian, article, main"),a=i?i.innerHTML:"";return previewCache.set(e,a),a}catch(e){return console.error("Failed to fetch preview:",e),""}}function highlightTextNodes(e,t){if(!t||0===t.length)return;const n=document.createTreeWalker(e,NodeFilter.SHOW_TEXT,null,!1),r=[];for(;n.nextNode();)r.push(n.currentNode);r.forEach((e=>{const n=e.textContent;let r=!1;if(t.forEach((e=>{n.toLowerCase().includes(e.toLowerCase())&&(r=!0)})),r){const r=document.createElement("span");r.innerHTML=highlightTerms(n,t),e.parentNode.replaceChild(r,e)}}))}async function showPreview(e){const t=window.searchResults;if(!t||!t[e])return;const n=t[e],r=document.getElementById("search-preview"),i=document.getElementById("preview-content"),a=r.querySelector(".preview-placeholder");if(!r||!i)return;document.querySelectorAll(".searchresult").forEach((e=>e.classList.remove("active")));const s=document.querySelector(`.searchresult[data-index="${e}"]`);s&&s.classList.add("active"),i.innerHTML=loadingSvg,i.classList.add("has-content"),a.style.display="none";const o=await fetchPreviewContent(n.url),c=n.tags&&n.tags.length>0?`<div class="preview-tags">${n.tags.map((e=>`<a class="tag" href="javascript:void(0);" onclick="toggleTagSearch(this)">#${e}</a>`)).join("")}</div>`:"";i.innerHTML=`\n            <div class="preview-title">${highlightTerms(n.title,window.searchTerms)}</div>\n            ${c}\n            <div class="preview-body">${o}</div>\n        `;const l=i.querySelector(".preview-body");l&&window.searchTerms&&highlightTextNodes(l,window.searchTerms),window.currentPreviewIndex=e}function hidePreview(){const e=document.getElementById("search-preview"),t=document.getElementById("preview-content"),n=e?.querySelector(".preview-placeholder");n&&(n.style.display="flex"),t&&(t.classList.remove("has-content"),t.innerHTML=""),window.currentPreviewIndex=-1}function createIndex(e){const t=e=>(e=>e.toLowerCase().normalize("NFD").replace(/n\u0303/g,"ñ").replace(/[\u0300-\u036f]/g,"").normalize("NFC"))(e).split(/([^a-z]|[^\x00-\x7F])/),n=new FlexSearch.Document({cache:!0,charset:"latin:extra",optimize:!0,index:[{field:"content",tokenize:"reverse",encode:t},{field:"title",tokenize:"forward",encode:t},{field:"tags",tokenize:"forward",encode:t}]});return e.forEach(((e,t)=>{n.add({id:t,title:e.title,content:e.content,tags:e.tags})})),n}async function init(){const e=await fetch("/searchIndex.json?v=2026-08-17T23:08:33.330Z").then((e=>e.json())),t=createIndex(e);function n(e){const t=document.querySelectorAll(".searchresult");if(0===t.length)return;let n,r=-1;t.forEach(((e,t)=>{e.classList.contains("active")&&(r=t)})),-1===r?n=e>0?0:t.length-1:(n=r+e,n<0&&(n=t.length-1),n>=t.length&&(n=0)),t.forEach((e=>e.classList.remove("active"))),t[n].classList.add("active"),t[n].scrollIntoView({behavior:"smooth",block:"nearest"}),showPreview(parseInt(t[n].dataset.index))}window.docs=e,window.index=t,document.addEventListener("keydown",(e=>{if((e.ctrlKey||e.metaKey)&&"k"===e.key&&(e.preventDefault(),toggleSearch()),"Escape"===e.key&&document.getElementById("globalsearch").classList.remove("active"),document.getElementById("globalsearch").classList.contains("active")&&("ArrowDown"===e.key&&(e.preventDefault(),n(1)),"ArrowUp"===e.key&&(e.preventDefault(),n(-1)),"Enter"===e.key)){e.preventDefault();const t=document.querySelector(".searchresult.active");if(t){const e=t.dataset.url;e&&(window.location.href=e)}}}));const r=debounce(search,200,!1);window.field=document.querySelector("#term"),field.addEventListener("keydown",(e=>{"ArrowDown"!==e.key&&"ArrowUp"!==e.key&&"Enter"!==e.key&&r()})),window.resultsDiv=document.querySelector("#search-results");const i=new URL(location.href).searchParams;i.get("q")&&(field.setAttribute("value",i.get("q")),toggleSearch(),search())}async function search(){const e=field.value.trim(),t=document.getElementById("search-layout");if(!e)return resultsDiv.innerHTML="<span><i>Enter your search text in the box above</i></span>",hidePreview(),void(t&&t.classList.add("no-preview"));window.lastSearch=e,window.searchTerms=tokenizeSearchTerms(e),resultsDiv.innerHTML=loadingSvg,hidePreview();const n=offlineSearch(e);if(window.searchResults=n,!n.length)return t&&t.classList.add("no-preview"),void(resultsDiv.innerHTML=`\n                <div class="no-results">\n                    <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">\n                        <circle cx="11" cy="11" r="8"></circle>\n                        <line x1="21" y1="21" x2="16.65" y2="16.65"></line>\n                        <line x1="8" y1="11" x2="14" y2="11"></line>\n                    </svg>\n                    <p>No results for "${e}"</p>\n                </div>\n            `);t&&t.classList.remove("no-preview");let r="";n.forEach(((e,t)=>{const n=highlightTerms(getContextualExcerpt(e.content,window.searchTerms,120),window.searchTerms),i=highlightTerms(e.title,window.searchTerms),a=e.tags&&e.tags.length>0?`<div class="result-tags">${e.tags.map((e=>`<span class="tag">#${e}</span>`)).join("")}</div>`:"";r+=`\n                <div class="searchresult${0===t?" active":""}"\n                     data-index="${t}"\n                     data-url="${e.url}"\n                     onmouseenter="showPreview(${t})"\n                     onclick="window.location.href='${e.url}'">\n                    <span class="result-title">${i}</span>\n                    ${a}\n                    <div class="result-excerpt">${n}</div>\n                </div>\n            `})),resultsDiv.innerHTML=r,n.length>0&&showPreview(0),"undefined"!=typeof lucide&&lucide.createIcons()}function offlineSearch(e){const t=window.docs,n="#"===e[0]&&e.length>1?index.search(e.substring(1),[{field:"tags"}]):index.search(e,[{field:"title",limit:5},{field:"content",limit:10}]),r=e=>{const t=n.filter((t=>t.field===e));return 0===t.length?[]:[...t[0].result]};return[...new Set([...r("title"),...r("content"),...r("tags")])].map((e=>{const n={...t[e]};return n.tags=n.tags.filter((e=>"gardenEntry"!==e&&"note"!==e)),n}))}window.lastSearch="",window.searchResults=[],window.searchTerms=[],window.currentPreviewIndex=-1,window.search=search</script>
+<main class="content cm-s-obsidian print">
+<header>
+<div class="header-meta">
+</div>
+</header>
+<h1 id="the-actual-rules" tabindex="-1">The Actual Rules</h1>
+<h2 id="read-before-following" tabindex="-1">Read Before Following</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Read Rules Before Following<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+I <em>actively block</em> people who obviously did not read my rules before following me first — typically for their being under the age of 21, and/or their blog containing banned content such as fandoms, faceclaims, &amp;/or tropes &amp; themes.</p>
+<p>These are mostly written in the &quot;<em>customer service voice</em>&quot; to get the information across clearly, rather than my more casual way of <em>actually</em> talking. Each section is then explained in fuller detail in their respective <em>additional pages</em>, linked at the bottom of each section, so that if you're uncertain about anything on this page, you can get a deeper explanation there.</p>
+<p><strong>Only the <a class="internal-link is-unresolved" href="/404" target="">Actual Rules</a> is required to be read, along with any highly specific rules and guidelines that may only apply if you intend on interacting with certain things.</strong> For example, if you are interested in exploring sexual relationships between our muses, <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/sexual-content-rules/">Sexual Content</a> would be required as additional reading <em>for you</em>, but <em>not</em> for someone who <em>isn't</em> interested in writing such content.</p>
+</div></div>
+<h2 id="accommodations-required" tabindex="-1">Accommodations Required</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Some Accommodations Required</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/interactive-forms/">Interactive Forms</a> — I find &quot;<em>like this post for</em>&quot; style posts to be too unmanageable (such as for Starter Calls, (Reverse) Inbox Calls, Permanent Starter/Interaction Calls, etc.), especially given my severe memory issues, so some forms may be required, as they are the only method by which I accept the information where I can easily reference the responses later. (For more details, see: <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/forms-interaction-guidelines/">Interaction Forms</a>)</li>
+</ul>
+<p></p><p><em>Currently incomplete FAQ:</em></p>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/faq-details/accessibility-faq/">Accessibility</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/faq-details/post-formatting-faq/">Post Formatting</a></li>
+</ul>
+</div></div>
+<h2 id="hard-block-if-not-interested" tabindex="-1">Hard Block If Not Interested</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Hard Block If You're Not Interested<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+If you're not interested in writing with me, please <strong>just hard block me — do <em>not</em> soft block</strong>. I have severe memory issues (<em>medical issues</em>), and I honestly will not be able to remember if you simply soft block. This <em>includes</em> if we are already mutuals and you've decided you have changed your mind about us being mutuals. Just hard block me and move on — it's really no big deal, unless you actively try to make it one yourself.</p>
+</div></div>
+<hr>
+<h1 id="don-t-be-a-dick" tabindex="-1">Don't Be A Dick</h1>
+<p>This <em>should</em> got without saying, <em>and yet...</em><sup class="footnote-ref"><a href="#fn1" id="fnref1">[1]</a></sup></p>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/don-t-be-a-dick-rules/">Don't Be A Dick</a></p>
+</blockquote>
+<hr>
+<h1 id="21-and-amp-mutuals-only" tabindex="-1">21+ &amp; Mutuals Only</h1>
+<h2 id="18-only-to-follow" tabindex="-1">18+ Only To Follow</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Must Be 18+ To Follow<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+I <em>hard block</em> any minors — as well as any blogs who do not list an age at all — who follow me. I do <em>not</em> roleplay with anyone under the age of 21, however, so if you are 18 to 20, you are welcome to follow, but I will <em>not</em> be writing with you until you are at least 21.</p>
+</div></div>
+<h2 id="rated-for-mature-audiences" tabindex="-1">Rated For Mature Audiences</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="caution"><div class="callout-title"><div class="callout-title-inner"> Viewer Discretion Is Advised<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+Most of my fandoms are <em>literally</em> <strong>rated M for Mature Audiences</strong>, and as such my blogs and wiki should be considered the same. See <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/faq-details/mature-audiences-only-faq/">Content Warnings</a> for additional information, including a list of content that you may need to be aware of regarding squicks and triggers.</p>
+</div></div>
+<h2 id="only-interacts-with-21" tabindex="-1">Only Interacts With 21+</h2>
+<p>I <em>will not</em> follow and/or roleplay with you if:</p>
+<ul>
+<li>You don't have an age range listed on your blog &amp;/or in your rules.</li>
+<li>You are under the age of 21.</li>
+</ul>
+<h2 id="only-interacts-with-mutuals" tabindex="-1">Only Interacts With Mutuals</h2>
+<h3 id="if-you-follow-me-first" tabindex="-1">If You Follow Me First</h3>
+<p><strong>If you follow first</strong>, I <em>will not</em> interact with you except through inbox prompts/memes that are tagged was &quot;<em>Open For Everyone</em>&quot; until I have had a chance to read your rules, check your blog out, and establish mutual status by following you back.</p>
+<h3 id="if-i-follow-you-first" tabindex="-1">If I Follow You First</h3>
+<p><strong>If I follow first</strong>, I <em>will not</em> interact with your blog until you have followed back, as I am <em>mutuals only</em>, and only follow those who I have an interest in writing with.</p>
+<h2 id="independent" tabindex="-1">Independent</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="attention"><div class="callout-title"><div class="callout-title-inner"> No Groups &amp;/or Server Interactions &amp; Invitations<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+I am <em>only</em> interested in interacting with other independent roleplay blogs, <em>not</em> any form of roleplay groups, tumblr communities, discord servers, etc. Do not send invitations for such — you <em>will</em> be blocked, and potentially reported for spam if you do so.</p>
+</div></div>
+<h2 id="selective" tabindex="-1">Selective</h2>
+<div class="callout is-collapsible is-collapsed" data-callout="faq"><div class="callout-title"><div class="callout-title-inner"> Selective Following<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<strong>If I'm following you, I <em>want</em> to write with you.</strong> It's that simple — I don't follow for follow, nor do I follow anyone who I'm not interested in interacting with.</p>
+</div></div>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/21-mutuals-only-rules/">21+ &amp; Mutuals Only</a> &amp; <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/faq-details/mature-audiences-only-faq/">Content Warnings</a></p>
+</blockquote>
+<hr>
+<h1 id="curate-your-own-dash" tabindex="-1">Curate Your Own Dash</h1>
+<h2 id="don-t-like-don-t-follow" tabindex="-1">Don't Like? Don't Follow.</h2>
+<p>If you don't like me, my muses, my verses, my blog, etc., then <em>just don't follow me</em> — in fact, if you feel that strongly about any of these things, you should probably <em>hard block</em> me and <em>keep me blocked</em> <sup class="footnote-ref"><a href="#fn2" id="fnref2">[2]</a></sup> instead, so as to keep my content off your dash.</p>
+<h2 id="hard-block-only-no-soft-block" tabindex="-1">Hard Block Only - No Soft Block</h2>
+<p>If you feel the need to block me at all for any reason, <em>hard block</em> me, even if you typically only soft block. I am unable to reliably remember if someone has simply soft blocked me instead, and may refollow if I find your blog again in the future, being completely unable to remember that I had followed you in the past. <sup class="footnote-ref"><a href="#fn2" id="fnref2:1">[2:1]</a></sup></p>
+<h2 id="disinterest-tracker" tabindex="-1">Disinterest Tracker</h2>
+<p><strong>If you are disinterested in interacting with any muse(s) and/or verse(s), you <em>need</em> to fill out the <a class="internal-link" target="" data-note-icon="" href="/interactive-forms/#disinterest-tracker">Disinterest Tracker</a></strong> — all <a class="internal-link" target="" data-note-icon="" href="/open-muses-roster/">Open Muses</a> are considered fair game for me to send your way so long as we're mutuals <em>unless</em> you have explicitly told me otherwise by filling out the form. I do <em>not</em> accept this information through any other means, as the forms are a form of accessibility accommodations for myself, given my severe memory issues.</p>
+<h2 id="rules-passwords" tabindex="-1">Rules Passwords</h2>
+<h3 id="will-not-send-no-exceptions" tabindex="-1">Will Not Send - No Exceptions</h3>
+<div class="callout is-collapsible is-collapsed" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Will Not Send - No Exceptions<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<strong>As I do not follow first for anyone who even <em>has</em> them, I do not send rules passwords.</strong> I find them severely anxiety inducing, and thus tend to avoid blogs who require them to be sent. I never follow anyone without reading their rules, and then look over them again before actually interacting. I will often check back to them <em>frequently</em>, because my memory genuinely is shit, so it's for my own comfort that I revisit them regularly.</p>
+<p><strong>If you follow <em>me</em> first</strong>, I will take that as indication that you have read <em>my rules</em>, and thus have agreed to this condition, and have wilfully made an exception to your own rules. If you try to insist otherwise, I will break mutuals status and no longer interact with you.</p>
+</div></div>
+<h2 id="incompatible-rigidity" tabindex="-1">Incompatible Rigidity</h2>
+<p><strong>If you expect other people to change <em>their muses</em> to fit into your view of of your muses' canon, but are not willing to reciprocate in any way, then we are <em>not</em> compatible roleplaying partners.</strong> While I am flexible about <em>a lot</em> of things regarding my muses (I wouldn't have so many AUs for them if I wasn't), I will <em>not</em> be made to compromise <em>my portrayal</em> of who they are at the core of their character just to fit into someone else's view of canon, nor will I be made to feel like I need to walk on eggshells <em>on my own blog</em> for wanting to maintain <em>who my muse is</em> at their core.</p>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/curate-your-own-dash-rules/">Curate Your Own Dash</a> &amp; <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/forms-interest-tracking-guidelines/">Interest Tracking Forms</a></p>
+</blockquote>
+<hr>
+<h1 id="banned-and-amp-restricted-content" tabindex="-1">Banned &amp; Restricted Content</h1>
+<p>The following content is banned or restricted due to <em>personal reasons</em>. All banned content listed below are <em>hard limits</em> and non-negotiable — do not ask for and/or expect exceptions to be made.</p>
+<h2 id="ai-generated-content" tabindex="-1">AI Generated Content</h2>
+<div class="callout is-collapsible" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> DNI If You Use AI In Your Writing &amp;/or Graphics</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>If you use AI in your roleplaying, you <em>will</em> be blocked on sight.</strong> I am not interested in interacting with anyone who outsources their creativity to a machine, nor do I consent to any of my writing, artwork, graphics, etc. being fed into any LLM for content generation.</p>
+</div></div>
+<h2 id="tropes-and-amp-themes" tabindex="-1">Tropes &amp; Themes</h2>
+<div class="callout is-collapsible" data-callout="danger"><div class="callout-title"><div class="callout-title-inner"> Banned Tropes &amp; Themes — No Follow &amp;/or Interaction</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>I will not follow blogs (<em>including</em> multimuse blogs) and/or interact with muses from and/or with AUs for any of the following on tumblr:</strong></p>
+<ul>
+<li>sexual content with any muse &amp;/or faceclaim under the age of 18</li>
+<li>scenes involving explicit acts of rape/noncon, sexual assault, sexual violence, etc.</li>
+<li>scenes involving sexual abuse, up to and including incest, pedophilia, etc.</li>
+<li>anything involving Real Person Fiction (<em>RPF</em>) <sup class="footnote-ref"><a href="#fn3" id="fnref3">[3]</a></sup></li>
+<li>anything involving Alpha/Beta/Omega (<em>Omegaverse</em>) dynamics &amp;/or settings <sup class="footnote-ref"><a href="#fn4" id="fnref4">[4]</a></sup></li>
+</ul>
+</div></div>
+<div class="callout is-collapsible" data-callout="warning"><div class="callout-title"><div class="callout-title-inner"> Restricted Tropes &amp; Themes</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>While not outright banned, I have no interest in interacting with any of the following on tumblr:</strong></p>
+<ul>
+<li>magic anons of any kind</li>
+<li>scenes involving pregnancy complications, miscarriage, infant death, etc.</li>
+<li>scenes involving active labor and/or childbirth <sup class="footnote-ref"><a href="#fn5" id="fnref5">[5]</a></sup></li>
+<li><em><strong>Modern AUs</strong></em> set on modern everyday Earth for any sci-fi and/or fantasy fandoms</li>
+<li><em><strong>&quot;No Magic&quot;/&quot;All Human&quot;/etc. AUs</strong></em> for any sci-fi and/or fantasy fandoms</li>
+</ul>
+</div></div>
+<h2 id="fandoms" tabindex="-1">Fandoms</h2>
+<div class="callout is-collapsible" data-callout="danger"><div class="callout-title"><div class="callout-title-inner"> Banned Fandoms — No Follow &amp;/or Interaction</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>I will not follow blogs (<em>including</em> multimuse blogs) and/or interact with muses from and/or with AUs for any of the following:</strong></p>
+<ul>
+<li>Harry Potter &amp; Related Fandoms (<em>JK Rowling</em>) <sup class="footnote-ref"><a href="#fn6" id="fnref6">[6]</a></sup></li>
+<li>The Boys (<em>2019</em>)</li>
+<li>Heated Rivalry (<em>2026</em>)</li>
+</ul>
+</div></div>
+<div class="callout is-collapsible" data-callout="warning"><div class="callout-title"><div class="callout-title-inner"> Restricted Fandoms</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>While not outright banned, I have no interest in interacting with muses from and/or within AUs for any of the following:</strong></p>
+<ul>
+<li>KPop Demon Hunters (<em>2025</em>)</li>
+<li>Alien: Earth (<em>2025</em>) <sup class="footnote-ref"><a href="#fn7" id="fnref7">[7]</a></sup></li>
+<li>Hazbin Hotel (<em>2019</em>)</li>
+<li>Helluva Boss</li>
+<li>Hellaverse &amp; Related Fandoms</li>
+<li>The Freak Circus</li>
+</ul>
+<p><strong>NOTE:</strong> <em>If these are your primary and/or only fandoms, then I will not follow your blog. I genuinely have no interest in these fandoms, and no desire to see them on the dash, as I blacklist filter these to keep them off it.</em></p>
+</div></div>
+<h2 id="faceclaims" tabindex="-1">Faceclaims</h2>
+<div class="callout is-collapsible" data-callout="danger"><div class="callout-title"><div class="callout-title-inner"> Faceclaims — No Follow &amp;/or Interaction</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>I will not follow blogs (<em>including</em> multimuse blogs, <em>regardless</em> of their potential tagging system)<sup class="footnote-ref"><a href="#fn8" id="fnref8">[8]</a></sup> and/or interact with muses who use any of the following for faceclaims:</strong></p>
+<ul>
+<li>Alexandra Daddario</li>
+<li>Anna Speckhart</li>
+<li>Anya Taylor-Joy</li>
+<li>Kayla Scodelario</li>
+<li>Eline Powell</li>
+<li>Jessica Chastain</li>
+<li><em>Models</em></li>
+<li><em>Online Influencers and/or Content Creators</em></li>
+</ul>
+<p><strong>NOTE:</strong> <em>I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.</em></p>
+</div></div>
+<div class="callout is-collapsible" data-callout="warning"><div class="callout-title"><div class="callout-title-inner"> Restricted Faceclaims</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><strong>I am unlikely to follow blogs (<em>including</em> multimuse blogs, <em>regardless</em> of their potential tagging system) and/or interact with muses who use any of the following for faceclaims:</strong></p>
+<ul>
+<li><em>Musicians</em> <sup class="footnote-ref"><a href="#fn9" id="fnref9">[9]</a></sup></li>
+<li><em>Youtubers</em> <sup class="footnote-ref"><a href="#fn9" id="fnref9:1">[9:1]</a></sup></li>
+</ul>
+<p><strong>NOTE:</strong> <em>I have some mild facial blindness, so if you do not have your faceclaim(s)'s names listed somewhere on your blog/doc/site/etc., and they even resemble any of the above named actors, I may not be able to tell the difference, and will err on the side of caution and not follow.</em></p>
+</div></div>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/banned-restricted-content-rules/">Banned &amp; Restricted Content</a></p>
+</blockquote>
+<hr>
+<h1 id="interacting" tabindex="-1">Interacting</h1>
+<h2 id="rp-forms" tabindex="-1">RP Forms</h2>
+<p><strong>All of my forms are now embedded in the <a class="internal-link" target="" data-note-icon="" href="/interactive-forms/">Interactive Forms</a> page for your convenience.</strong> This allows you to see all of the forms in one go, and fill out the ones that are applicable.</p>
+<h3 id="interaction-calls" tabindex="-1">Interaction Calls</h3>
+<p>Rather than the typical &quot;<em>like this post for</em>&quot; style calls, I have <strong>always open forms</strong> to act as starter calls (for requesting that I write you one or more starters), inbox calls (for requesting that I send you prompts/memes, with the option to specify IC and/or OOC), etc.</p>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/forms-interaction-guidelines/">Interaction Forms</a></p>
+</blockquote>
+<h3 id="interest-tracking-forms" tabindex="-1">Interest Tracking Forms</h3>
+<p>While the interest tracking forms are <em>optional</em>, they are highly recommended — <em>especially</em> if you are uninterested in interacting with certain muses and/or verses, have specific preferences regarding interactions, have multiple muses of your own that you wish to interact with mine with, etc.</p>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/forms-interest-tracking-guidelines/">Interest Tracking Forms</a></p>
+</blockquote>
+<h2 id="inbox-prompts-and-amp-memes" tabindex="-1">Inbox Prompts &amp; Memes</h2>
+<p><strong>My inbox is always open, and the memes never expire.</strong> For the <em>full collection</em> of memes, be sure to check <a href="https://quantumstar-rpmemes.tumblr.com" target="_blank" class="external-link">quantumstar-rpmemes</a>, which is my sideblog for rp memes, musings, etc., and where I reblog all of the memes <em>from</em> for my rp blog — it can be used as a source blog to reblog from, as I have notifs turned off for everything but the inbox, and memes can be sent to either blog.</p>
+<h3 id="send-full-prompts-to-inbox" tabindex="-1">Send Full Prompts To Inbox</h3>
+<div class="callout is-collapsible" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Why This Is Necessary</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><ul>
+<li><strong>I usually don't fill prompts immediately after receiving them.</strong></li>
+<li>I <em>can't</em> fill them if I don't know what meme they're meant to be for.</li>
+<li>I delete all the memes I reblog on my rp blog on a regular basis — it's why the archive sideblog exists.</li>
+<li>Most of the memes reblogged are queued &amp;/or scheduled, so I'm not actively aware of what posts when once they're in the queue.</li>
+</ul>
+<p></p></div></div>
+<h2 id="specify-muse-and-amp-or-verse" tabindex="-1">Specify Muse &amp;/or Verse</h2>
+<div class="callout is-collapsible" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> If You Don't Specify Muse(s)/Verse(s)</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><ul>
+<li><strong>I may not answer at all if no muse is specified.</strong></li>
+<li>I will typically default to their mainverse if you don't specify an AU.
+<ul>
+<li>If in the <strong>same fandom</strong>, this will usually be their primary canon-typical verse.</li>
+<li>If they're <strong><em>not</em> in the same fandom</strong>, this will usually be the corresponding <em><strong>Trapped In Another Universe AU</strong></em> verse for that fandom, unless you <em>specifically</em> request for it to be the <em><strong>Fandom Specific AU</strong></em> verse instead.</li>
+</ul>
+</li>
+</ul>
+<p></p></div></div>
+<blockquote>
+<p><em>For Further Details (&amp; Examples), See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/inbox-guidelines/">Inbox</a>, &amp; <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/interactions-guidelines/">Interactions</a></p>
+</blockquote>
+<hr>
+<h1 id="additional-rules-may-apply" tabindex="-1">Additional Rules May Apply</h1>
+<div class="callout is-collapsible" data-callout="question"><div class="callout-title"><div class="callout-title-inner"> Further Detail May Be Required<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+<strong>The following rules are only covered minimally for what is required of <em>everyone</em>, while the further details expands the information as necessary.</strong></p>
+<p>For example, if you wish to write sexual content with me, then you should read the further details to understand what is and isn't acceptable. However, if you have no interest in writing sexual content, then the basics of what you need to know for how such content is handled in general, including the tags available for blocking such content, are covered here.</p>
+</div></div>
+<h2 id="blacklist-tags" tabindex="-1">Blacklist Tags</h2>
+<h3 id="preferred-formatting" tabindex="-1">Preferred Formatting</h3>
+<p>Please consider using the following formatting for your content watching tags:</p>
+<ul>
+<li><strong>content cw</strong></li>
+<li><strong>content</strong></li>
+</ul>
+<h3 id="warnings-requested" tabindex="-1">Warnings Requested</h3>
+<p>Please be sure to tag the following subjects:</p>
+<div class="callout is-collapsible is-collapsed" data-callout="rule"><div class="callout-title"><div class="callout-title-inner"> Blacklist Tags Requested</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><ul>
+<li><strong>TBA</strong> — Please see <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/blacklist-tags-rules/#content-warnings-needed">Content Warnings Needed</a> for the list for now.</li>
+</ul>
+<p></p></div></div>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/blacklist-tags-rules/">Blacklist Tags</a></p>
+</blockquote>
+<h2 id="exclusivity" tabindex="-1">Exclusivity</h2>
+<h3 id="no-exclusives-on-follow" tabindex="-1">No Exclusives On Follow</h3>
+<p><strong>I am not willing to be <em>anyone's</em> exclusive portrayal of any character based only on their choosing to follow me.</strong> There are <em>no exceptions</em> to be made regarding this, and I am not interested in following those who practice this level of exclusivity.</p>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/exclusivity-rules/">Exclusivity</a></p>
+</blockquote>
+<h2 id="sexual-content" tabindex="-1">Sexual Content</h2>
+<h3 id="marked-for-mature-content" tabindex="-1">Marked For Mature Content</h3>
+<p>All original posts containing sexual content are marked using tumblr's community warnings, and are marked as Mature Content and/or Sexual Content, in addition to the blacklist tagging.</p>
+<h4 id="sexually-explicit-may-be-under-cut" tabindex="-1">Sexually Explicit May Be Under Cut</h4>
+<p>Highly explicit sexual content, including things that venture into a number of kinks, may also be placed under a cut, in addition to being marked as Mature Content and/or Sexual Content, <em>and</em> tagged for NSFW with the appropriate tags.</p>
+<h3 id="tagged-for-nsfw" tabindex="-1">Tagged For NSFW</h3>
+<p>I use a rated citrus tagging system for those who wish to allow sexually suggestive content on their dash, while filtering out the sexually explicit content. These are the tags that are used:</p>
+<ul>
+<li><strong>usft cw</strong> — <em>catch-all for all sexual content, in addition to the rated citrus tag</em></li>
+<li><strong>lemons cw</strong> — <em>for sexually explicit content, including actual sex scenes</em></li>
+<li><strong>limes cw</strong> — <em>for sexually suggestive content, up to &amp; including fade-to-black</em></li>
+</ul>
+<h3 id="exploring-sexual-ships-and-amp-dynamics" tabindex="-1">Exploring Sexual Ships &amp; Dynamics</h3>
+<p>If you are interested in exploring sexual ships and/or dynamics between our muses, you must meet the following criteria:</p>
+<ul>
+<li><strong>Mun is a mutual who is 21 years or older</strong></li>
+<li><strong>Muse (<em>and their faceclaim</em>) is 18 years or older</strong></li>
+</ul>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/sexual-content-rules/">Sexual Content</a></p>
+</blockquote>
+<h2 id="fandom-specific-rules" tabindex="-1">Fandom-Specific Rules</h2>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/fandom-specific-rules/baldur-s-gate-rules/">Baldur's Gate</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/fandom-specific-rules/dragon-age-rules/">Dragon Age</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/fandom-specific-rules/mass-effect-rules/">Mass Effect</a></li>
+</ul>
+<div class="callout is-collapsible is-collapsed" data-callout="example"><div class="callout-title"><div class="callout-title-inner"> Other Fandoms - Rules</div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+</p><p><em>This is not a definitive list of fandoms that I am roleplay in and/or with. Fandoms may be added and/or removed at my digression as personal interest fluctuates.</em></p>
+<p><strong>Secondary Fandoms</strong></p>
+<ul>
+<li><a class="internal-link is-unresolved" href="/404" target="">Elder Scrolls</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Fallout</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Stardew Valley</a></li>
+</ul>
+<p><strong>Tertiary Fandoms</strong></p>
+<ul>
+<li><a class="internal-link is-unresolved" href="/404" target="">DC Comics</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Doctor Who</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Ghostbusters</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Star Trek</a></li>
+</ul>
+<p><strong>Irregular Fandoms</strong></p>
+<ul>
+<li><a class="internal-link is-unresolved" href="/404" target="">Detroit: Become Human</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Good Omens</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Marvel</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Our Flag Means Death</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Supernatural</a></li>
+</ul>
+</div></div>
+<h2 id="not-ps-enough-t-ps" tabindex="-1">NOTPs + Enough-TPs</h2>
+<p><strong>There are some ships I <em>won't write at all</em>, and some I will be <em>extremely selective</em> writing.</strong></p>
+<ul>
+<li><strong>NOTPs</strong> - Do not approach about shipping anything I have explicitly stated I will not write — doing so will likely get you blocked.</li>
+<li><strong>Enough-TPs</strong> - Ships that I am extremely selective about require a <em>lot</em> of in-character chemistry and plotting before I will even consider it.</li>
+</ul>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link" target="" data-note-icon="" href="/rulebook-old/rules-details/not-ps-enough-t-ps-rules/">NOTPs &amp; Enough-TPs</a></p>
+</blockquote>
+<hr>
+<h1 id="additional-guidelines-may-apply" tabindex="-1">Additional Guidelines May Apply</h1>
+<h2 id="guidelines" tabindex="-1">Guidelines</h2>
+<p>Because the <a class="internal-link is-unresolved" href="/404" target="">Guidelines</a> are not entirely universal, depending on which fandoms someone is or isn't interested in, how they may wish to interact (for example: whether or not they have any interest in shipping), etc., these are listed <em>separate</em> from the actual rules.</p>
+<h3 id="applied-as-rules-when-applicable" tabindex="-1">Applied As Rules When Applicable</h3>
+<div class="callout is-collapsible" data-callout="guideline"><div class="callout-title"><div class="callout-title-inner"> Applied As Rules When Applicable<br></div><div class="callout-fold"><i icon-name="chevron-down"></i></div></div>
+<div class="callout-content">
+<p>
+That said, when the guidelines <em>do</em> apply to you, they <em>are</em> considered rules <em>for you</em>, though I may be more willing to make exceptions on an individual basis, but this should not be considered the standard, nor should it be expected of me. It is extremely rare that I make exceptions for <em>anyone</em>, but it has been known to happen occasionally.</p>
+</div></div>
+<h3 id="guidelines-details" tabindex="-1">Guidelines Details</h3>
+<ul>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/blanket-permissions-guidelines/">Blanket Permissions</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/communications-guidelines/">Communications</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/inbox-guidelines/">Inbox</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/forms-interaction-guidelines/">Interaction Forms</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/interactions-guidelines/">Interactions</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/forms-interest-tracking-guidelines/">Interest Tracking Forms</a></li>
+<li><a class="internal-link is-unresolved" href="/404" target="">Mods &amp; Expanded Canon</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/muses-guidelines/">Muses</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/ships-dynamics-guidelines/">Ships &amp; Dynamics</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/starters-guidelines/">Starters</a></li>
+<li><a class="internal-link" target="" data-note-icon="" href="/rulebook-old/guidelines-details/verses-a-us-guidelines/">Verses &amp; AUs</a></li>
+</ul>
+<blockquote>
+<p><em>For Further Details, See:</em> <a class="internal-link is-unresolved" href="/404" target="">Guidelines</a></p>
+</blockquote>
+<hr class="footnotes-sep">
+<section class="footnotes">
+<ol class="footnotes-list">
+<li id="fn1" class="footnote-item"><p>Given that I only write with those who are 21 years or older, if you've reached <em>that point</em> of your life and <em>still</em> don't know how to be a decent human being, then I truly would rather you go elsewhere, because I don't have the time nor the energy to deal with that kind of bullshit. <a href="#fnref1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn2" class="footnote-item"><p>I have severe memory issues due to various comorbid medical conditions, including a traumatic brain injury, so I sincerely <em>cannot</em> be relied on to remember if you merely unfollowed &amp;/or soft blocked me. It is for the best that I simply <em>remain blocked</em>, and that if you move to a new blog in the future, <em>especially</em> if you change your username, that you continue to block me from the new blog(s) as well. <a href="#fnref2" class="footnote-backref">↩︎</a> <a href="#fnref2:1" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn3" class="footnote-item"><p>ie roleplaying as <em>actual people</em>, living or dead, <em>not</em> fictional versions of them from movies, television shows, games, fictional novels, etc. <a href="#fnref3" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn4" class="footnote-item"><p>This is an absolute hard limit of this I will not write at all, regardless of if the trope is being subverted, or if the focus is not on the sex aspects but rather the social aspects of the trope — it inherently is based around rape and the lack of choice due to hormones and animalistic instincts (that have also been proven scientifically incorrect). <a href="#fnref4" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn5" class="footnote-item"><p>If pregnancy becomes a part of any interaction, the active labor and childbirth will be time skipped to when the baby has arrived and has been cleaned up — <em>no exceptions</em>. <a href="#fnref5" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn6" class="footnote-item"><p>I don't care <em>how anti-JK Rowling</em> you are and/or claim to be — I will <em>not</em> follow or interact with you if you have any Harry Potter muses or verses/AUs on your blog. If we are mutuals, and you add such muses and/or verses/AUs in the future, I will break mutual status by hard blocking you. There will be <em>no exceptions</em> to this rule. <a href="#fnref6" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn7" class="footnote-item"><p>The original Alien and Aliens, and the video game tie-ins for them, are fine. <a href="#fnref7" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn8" class="footnote-item"><p>If you use any of these faceclaims and follow me first, I will immediately outright block you — not simply to keep these faceclaims off my dash, but because at that point it is quite obvious that you didn't even bother reading my rules at all. <a href="#fnref8" class="footnote-backref">↩︎</a></p>
+</li>
+<li id="fn9" class="footnote-item"><p>If they have <em>genuine face acting roles</em>, such as would be the case with someone like David Bowie in Labyrinth (1986), then they're fine. Cameos <em>do not count</em>, especially in the case of Youtubers. <a href="#fnref9" class="footnote-backref">↩︎</a> <a href="#fnref9:1" class="footnote-backref">↩︎</a></p>
+</li>
+</ol>
+</section>
+</main>
+<aside>
+<div class="sidebar">
+<div class="sidebar-container">
+<script type="module">import{forceSimulation,forceManyBody,forceCenter,forceLink,forceCollide,forceRadial}from"d3-force";import{select}from"d3-selection";import{zoom as d3Zoom,zoomIdentity}from"d3-zoom";import{drag as d3Drag}from"d3-drag";const{Application:Application,Container:Container,Graphics:Graphics,Text:Text,Circle:Circle}=PIXI;async function fetchGraphData(){const e=await fetch("/graph.json").then((e=>e.json()));return{graphData:e,fullGraphData:filterFullGraphData(e)}}function filterFullGraphData(e){if(!e)return null;e=JSON.parse(JSON.stringify(e));const t=Object.values(e.nodes).filter((e=>e.hide)).map((e=>e.id));return{links:e.links.filter((e=>-1===t.indexOf(e.source)&&-1===t.indexOf(e.target))),nodes:Object.values(e.nodes).filter((e=>!e.hide))}}function filterLocalGraphData(e,t){if(!e)return null;t=t||1;const a=JSON.parse(JSON.stringify(e.nodes)),o=JSON.parse(JSON.stringify(e.links));let n=decodeURI(window.location.pathname),l=a[n];if(!l){const e=n.toLowerCase();l=Object.values(a).find((t=>t.url.toLowerCase()===e))}if(l||(l=Object.values(a).find((e=>e.home))),!l)return null;l.current=!0;const r=new Set(Object.values(a).filter((e=>e.hide)).map((e=>e.id))),c=e=>e===l.id||!r.has(e),i={};for(const e of o)c(e.source)&&c(e.target)&&((i[e.source]=i[e.source]||new Set).add(e.target),(i[e.target]=i[e.target]||new Set).add(e.source));const s=new Set([l.id]);let d=new Set([l.id]);for(let e=0;e<t&&d.size>0;e++){const e=new Set;for(const t of d)for(const a of i[t]||[])s.has(a)||(s.add(a),e.add(a));d=e}const u=Object.values(a).filter((e=>!e.hide&&s.has(e.id))),p=u.map((e=>e.id));return{nodes:u,links:o.filter((e=>p.indexOf(e.target)>-1&&p.indexOf(e.source)>-1))}}function getCssVar(e){return getComputedStyle(document.body).getPropertyValue(e).trim()}const _colorProbe=document.createElement("div");function resolveColor(e){_colorProbe.style.color=e;const t=getComputedStyle(_colorProbe).color.match(/(\d+),\s*(\d+),\s*(\d+)/);return t?(parseInt(t[1])<<16)+(parseInt(t[2])<<8)+parseInt(t[3]):6710886}_colorProbe.style.display="none",document.body.appendChild(_colorProbe);const _decodeEl=document.createElement("textarea");function htmlDecode(e){return _decodeEl.innerHTML=e,_decodeEl.value}function buildDegreeMap(e){const t={};for(const a of e){const e="object"==typeof a.source?a.source.id:a.source,o="object"==typeof a.target?a.target.id:a.target;t[e]=(t[e]||0)+1,t[o]=(t[o]||0)+1}return t}function nodeRadius(e,t){return 2+Math.sqrt(t[e]||0)}function renderGraph(e,t,a){if(!e||!e.nodes||0===e.nodes.length)return null;const o=document.getElementById(t);if(!o)return null;for(;o.firstChild;)o.removeChild(o.firstChild);const n=o.offsetWidth,l=o.offsetHeight||250;if(0===n)return null;const r=resolveColor(getCssVar("--dg-graph-node-color")||getCssVar("--graph-main")||"#666"),c=resolveColor(getCssVar("--dg-graph-node-color-muted")||getCssVar("--graph-muted")||"#ccc"),i=resolveColor(getCssVar("--dg-graph-label-color")||getCssVar("--text-normal")||"#eee"),s=getComputedStyle(document.body).fontFamily||"Sans-Serif",d=buildDegreeMap(e.links),u=e.nodes.map((e=>({...e,text:htmlDecode(e.title)}))),p=e.links.map((e=>({source:e.source,target:e.target}))),h=a?-300:-100,f=a?80:40,g=Math.min(n,l)/3,m=forceSimulation(u).force("charge",forceManyBody().strength(h)).force("center",forceCenter(n/2,l/2).strength(.5)).force("link",forceLink(p).id((e=>e.id)).distance(f)).force("collide",forceCollide((e=>nodeRadius(e.id,d)+1)).iterations(3)).force("radial",forceRadial(g,n/2,l/2).strength(.05)),y=new Application({width:n,height:l,antialias:!0,autoStart:!1,autoDensity:!0,backgroundAlpha:0,resolution:window.devicePixelRatio});o.appendChild(y.view);const C=y.stage;C.interactive=!0,C.hitArea=y.screen;const x=new Graphics,D=new Container,G=new Container;C.addChild(x,D,G);let b=null,v=new Set,w=!1,A=0,S=null,L=zoomIdentity;const k=[],M=[];function j(e){if(b=e,v.clear(),null===e){for(const e of k)e.active=!1;for(const e of M)e.active=!1}else{for(const t of M){const a=t.simulationData.source,o=t.simulationData.target,n="object"==typeof a?a.id:a,l="object"==typeof o?o.id:o;n!==e&&l!==e||(v.add(n),v.add(l)),t.active=n===e||l===e}for(const e of k)e.active=v.has(e.simulationData.id)}}for(const e of u){const t=nodeRadius(e.id,d),a=new Text(e.text,{fontSize:16,fill:i,fontFamily:s});a.resolution=2,a.anchor.set(.5,1),a.scale.set(1/3),a.alpha=0;const o=new Graphics;o.interactive=!0,o.cursor="pointer",o.hitArea=new Circle(0,0,t+2),o._nodeId=e.id;const n=e.current?r:c;o.beginFill(n),o.drawCircle(0,0,t),o.endFill(),e.current&&(o.lineStyle(.5,r),o.drawCircle(0,0,t+1.5));let l=0;o.on("pointerover",(()=>{j(o._nodeId),l=a.alpha,w||I()})),o.on("pointerleave",(()=>{j(null),a.alpha=l,w||I()})),D.addChild(o),G.addChild(a),k.push({simulationData:e,gfx:o,label:a,radius:t,active:!1,baseAlpha:1,targetAlpha:1,currentAlpha:1})}for(const e of p)M.push({simulationData:e,active:!1,baseAlpha:.4,targetAlpha:.4,currentAlpha:.4});function I(){for(const e of k)e.targetAlpha=null!==b?e.active?1:.1:e.baseAlpha;for(const e of M)e.targetAlpha=null!==b?e.active?.8:.05:e.baseAlpha}function O(e,t,a){return e+(t-e)*a}select(y.view).call(d3Drag().container((()=>y.view)).subject((()=>{if(!b)return null;const e=u.find((e=>e.id===b));return e?{x:e.x*L.k+L.x,y:e.y*L.k+L.y,node:e}:null})).on("start",(function(e){e.active||m.alphaTarget(1).restart();const t=e.subject.node;t.fx=t.x,t.fy=t.y,A=Date.now(),S={x:e.x,y:e.y},w=!0})).on("drag",(function(e){const t=e.subject.node;t.fx=(e.x-L.x)/L.k,t.fy=(e.y-L.y)/L.k})).on("end",(function(e){e.active||m.alphaTarget(0);const t=e.subject.node;t.fx=null,t.fy=null,w=!1;const a=Date.now()-A,o=e.x-S.x,n=e.y-S.y,l=Math.sqrt(o*o+n*n);a<500&&l<5&&t.url&&(window.location=t.url)})));const F=d3Zoom().extent([[0,0],[n,l]]).scaleExtent([.25,4]).on("zoom",(({transform:e})=>{L=e,C.scale.set(e.k,e.k),C.position.set(e.x,e.y);const t=Math.max((e.k-1)/3.75,0);for(const e of k)e.simulationData.id!==b&&(e.label.alpha=t)}));select(y.view).call(F);let E=!1;return requestAnimationFrame((function e(){if(!E){for(const e of k){const{x:t,y:a}=e.simulationData;null!=t&&null!=a&&(e.gfx.position.set(t,a),e.label.position.set(t,a-e.radius-2),e.currentAlpha=O(e.currentAlpha,e.targetAlpha,.15),e.gfx.alpha=e.currentAlpha,e.simulationData.id===b&&(e.label.alpha=1))}x.clear();for(const e of M){const t=e.simulationData.source,a=e.simulationData.target;null!=t.x&&null!=a.x&&(e.currentAlpha=O(e.currentAlpha,e.targetAlpha,.15),x.lineStyle(1,e.active?r:c,e.currentAlpha),x.moveTo(t.x,t.y),x.lineTo(a.x,a.y))}y.render(),requestAnimationFrame(e)}})),(a||e.nodes.length>4)&&setTimeout((()=>{let e=1/0,t=-1/0,a=1/0,o=-1/0;for(const n of u)null!=n.x&&null!=n.y&&(e=Math.min(e,n.x),t=Math.max(t,n.x),a=Math.min(a,n.y),o=Math.max(o,n.y));if(e===1/0)return;const r=t-e+100,c=o-a+100,i=Math.min(n/r,l/c,2),s=(e+t)/2,d=(a+o)/2,p=zoomIdentity.translate(n/2-s*i,l/2-d*i).scale(i);select(y.view).call(F.transform,p)}),500),function(){E=!0,m.stop(),select(y.view).on(".drag",null).on(".zoom",null),y.destroy(!0,{children:!0})}}let graphDataCache=null,fullGraphDataCache=null,localGraphCleanup=null,globalGraphCleanup=null,localGraphDepth=1;async function init(){const{graphData:e,fullGraphData:t}=await fetchGraphData();graphDataCache=e,fullGraphDataCache=t,renderLocal()}function renderLocal(){localGraphCleanup&&(localGraphCleanup(),localGraphCleanup=null);const e=renderGraph(filterLocalGraphData(graphDataCache,localGraphDepth),"link-graph",!1);localGraphCleanup=e}function setLocalGraphDepth(e){localGraphDepth=parseInt(e,10)||1,renderLocal()}function openModal(e){globalGraphCleanup&&(globalGraphCleanup(),globalGraphCleanup=null),document.getElementById("full-graph").style.display="",setTimeout((()=>{globalGraphCleanup=renderGraph(e,"full-graph-container",!0),lucide.createIcons({attrs:{class:["svg-icon"]}})}),50)}function openFullGraph(){openModal(fullGraphDataCache)}function openExpandedLocal(){openModal(filterLocalGraphData(graphDataCache,localGraphDepth))}function closeFullGraph(){document.getElementById("full-graph").style.display="none",globalGraphCleanup&&(globalGraphCleanup(),globalGraphCleanup=null)}window.__graph={openFullGraph:openFullGraph,closeFullGraph:closeFullGraph,openExpandedLocal:openExpandedLocal,rerenderLocal:renderLocal,setLocalGraphDepth:setLocalGraphDepth},document.addEventListener("forestry:css-changed",(function(){graphDataCache&&renderLocal()})),init()</script>
+<div id="graph-component" class="graph" x-data="{ showFullGraph: false, graphDepth: 1 }">
+<div class="graph-title-container">
+<div class="graph-title">Connected Pages</div>
+<div id="graph-controls">
+<div class="ctrl-left">
+<label id="graph-depth-label" for="graph-depth-slider">Depth <span x-text="graphDepth"></span></label>
+<input type="range" id="graph-depth-slider" min="1" max="3" step="1" x-model.number="graphDepth" x-on:input="window.__graph.setLocalGraphDepth(graphDepth)">
+</div>
+<div class="ctrl-right">
+<span id="global-graph-btn" x-on:click="showFullGraph = true; window.__graph.openFullGraph()"><i data-lucide="globe" aria-hidden="true"></i></span>
+<span id="graph-fs-btn" x-on:click="showFullGraph = true; window.__graph.openExpandedLocal()"><i data-lucide="expand" aria-hidden="true"></i></span>
+</div>
+</div>
+</div>
+<div id="link-graph"></div>
+<div x-show="showFullGraph" id="full-graph" class="show" style="display:none" x-on:click.self="window.__graph.closeFullGraph(); showFullGraph = false;">
+<span id="full-graph-close" x-on:click="window.__graph.closeFullGraph(); showFullGraph = false;"><i data-lucide="x" aria-hidden="true"></i></span>
+<div id="full-graph-container"></div>
+</div>
+</div>
+<div class="toc">
+<div class="toc-title-container">
+<div class="toc-title">
+Actual Rules
+</div>
+</div>
+<div class="toc-container">
+<nav class="toc">
+<ol>
+<li><a href="#the-actual-rules">The Actual Rules</a>
+<ol>
+<li><a href="#read-before-following">Read Before Following</a>
+</li>
+<li><a href="#accommodations-required">Accommodations Required</a>
+</li>
+<li><a href="#hard-block-if-not-interested">Hard Block If Not Interested</a>
+</li>
+</ol>
+</li>
+<li><a href="#don-t-be-a-dick">Don't Be A Dick</a>
+</li>
+<li><a href="#21-and-amp-mutuals-only">21+ & Mutuals Only</a>
+<ol>
+<li><a href="#18-only-to-follow">18+ Only To Follow</a>
+</li>
+<li><a href="#rated-for-mature-audiences">Rated For Mature Audiences</a>
+</li>
+<li><a href="#only-interacts-with-21">Only Interacts With 21+</a>
+</li>
+<li><a href="#only-interacts-with-mutuals">Only Interacts With Mutuals</a>
+<ol>
+<li><a href="#if-you-follow-me-first">If You Follow Me First</a>
+</li>
+<li><a href="#if-i-follow-you-first">If I Follow You First</a>
+</li>
+</ol>
+</li>
+<li><a href="#independent">Independent</a>
+</li>
+<li><a href="#selective">Selective</a>
+</li>
+</ol>
+</li>
+<li><a href="#curate-your-own-dash">Curate Your Own Dash</a>
+<ol>
+<li><a href="#don-t-like-don-t-follow">Don't Like? Don't Follow.</a>
+</li>
+<li><a href="#hard-block-only-no-soft-block">Hard Block Only - No Soft Block</a>
+</li>
+<li><a href="#disinterest-tracker">Disinterest Tracker</a>
+</li>
+<li><a href="#rules-passwords">Rules Passwords</a>
+<ol>
+<li><a href="#will-not-send-no-exceptions">Will Not Send - No Exceptions</a>
+</li>
+</ol>
+</li>
+<li><a href="#incompatible-rigidity">Incompatible Rigidity</a>
+</li>
+</ol>
+</li>
+<li><a href="#banned-and-amp-restricted-content">Banned & Restricted Content</a>
+<ol>
+<li><a href="#ai-generated-content">AI Generated Content</a>
+</li>
+<li><a href="#tropes-and-amp-themes">Tropes & Themes</a>
+</li>
+<li><a href="#fandoms">Fandoms</a>
+</li>
+<li><a href="#faceclaims">Faceclaims</a>
+</li>
+</ol>
+</li>
+<li><a href="#interacting">Interacting</a>
+<ol>
+<li><a href="#rp-forms">RP Forms</a>
+<ol>
+<li><a href="#interaction-calls">Interaction Calls</a>
+</li>
+<li><a href="#interest-tracking-forms">Interest Tracking Forms</a>
+</li>
+</ol>
+</li>
+<li><a href="#inbox-prompts-and-amp-memes">Inbox Prompts & Memes</a>
+<ol>
+<li><a href="#send-full-prompts-to-inbox">Send Full Prompts To Inbox</a>
+</li>
+</ol>
+</li>
+<li><a href="#specify-muse-and-amp-or-verse">Specify Muse &/or Verse</a>
+</li>
+</ol>
+</li>
+<li><a href="#additional-rules-may-apply">Additional Rules May Apply</a>
+<ol>
+<li><a href="#blacklist-tags">Blacklist Tags</a>
+<ol>
+<li><a href="#preferred-formatting">Preferred Formatting</a>
+</li>
+<li><a href="#warnings-requested">Warnings Requested</a>
+</li>
+</ol>
+</li>
+<li><a href="#exclusivity">Exclusivity</a>
+<ol>
+<li><a href="#no-exclusives-on-follow">No Exclusives On Follow</a>
+</li>
+</ol>
+</li>
+<li><a href="#sexual-content">Sexual Content</a>
+<ol>
+<li><a href="#marked-for-mature-content">Marked For Mature Content</a>
+<ol>
+<li><a href="#sexually-explicit-may-be-under-cut">Sexually Explicit May Be Under Cut</a>
+</li>
+</ol>
+</li>
+<li><a href="#tagged-for-nsfw">Tagged For NSFW</a>
+</li>
+<li><a href="#exploring-sexual-ships-and-amp-dynamics">Exploring Sexual Ships & Dynamics</a>
+</li>
+</ol>
+</li>
+<li><a href="#fandom-specific-rules">Fandom-Specific Rules</a>
+</li>
+<li><a href="#not-ps-enough-t-ps">NOTPs + Enough-TPs</a>
+</li>
+</ol>
+</li>
+<li><a href="#additional-guidelines-may-apply">Additional Guidelines May Apply</a>
+<ol>
+<li><a href="#guidelines">Guidelines</a>
+<ol>
+<li><a href="#applied-as-rules-when-applicable">Applied As Rules When Applicable</a>
+</li>
+<li><a href="#guidelines-details">Guidelines Details</a>
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</nav>
+</div>
+</div>
+<script>!function(){const t=document.querySelectorAll('.toc-container a[href^="#"]');if(!t.length)return;const e=Array.from(t).map((t=>{const e=decodeURIComponent(t.getAttribute("href").slice(1));return{link:t,target:document.getElementById(e)}})).filter((t=>t.target));function n(){let n=e[0];for(const t of e)t.target.getBoundingClientRect().top<=100&&(n=t);t.forEach((t=>t.classList.remove("toc-active"))),n&&n.link.classList.add("toc-active")}window.addEventListener("scroll",n,{passive:!0}),n()}()</script>
+<div class="backlinks">
+<div class="backlink-title">Pages mentioning this page</div>
+<div class="backlink-list"><div class="backlink-card">
+<span class="no-backlinks-message">No other pages mentions this page</span>
+</div></div>
+</div>
+</div>
+</div>
+</aside>
+<style>#tooltip-wrapper{background:var(--background-primary);padding:1em;border-radius:4px;overflow:hidden;position:fixed;width:80%;max-width:400px;height:auto;max-height:300px;font-size:.8em;box-shadow:0 5px 10px rgba(0,0,0,.1);opacity:0;transition:opacity .1s;unicode-bidi:plaintext;overflow-y:scroll;z-index:10}#tooltip-wrapper:after{content:"";position:absolute;z-index:1;bottom:0;left:0;pointer-events:none;width:100%;unicode-bidi:plaintext;height:75px}.tooltip-pdf{width:100%;height:260px;border:0}</style>
+<div style="opacity:0;display:none" id="tooltip-wrapper">
+<div id="tooltip-content">
+</div>
+</div>
+<iframe style="display:none;height:0;width:0" id="link-preview-iframe" src="">
+</iframe>
+<script>var opacityTimeout,contentTimeout,transitionDurationMs=100,iframe=document.getElementById("link-preview-iframe"),tooltipWrapper=document.getElementById("tooltip-wrapper"),tooltipContent=document.getElementById("tooltip-content"),linkHistories={};function hideTooltip(){opacityTimeout=setTimeout((function(){tooltipWrapper.style.opacity=0,contentTimeout=setTimeout((function(){tooltipContent.innerHTML="",tooltipWrapper.style.display="none"}),transitionDurationMs+1)}),transitionDurationMs)}function positionTooltip(t){var o=t.getClientRects()[t.getClientRects().length-1],e=document.documentElement.clientWidth,i=window.innerHeight,p=12,n=10,l=(o.top,i-(o.top+o.height)),r=(o.left,e-(o.left+o.width)),s=l>=tooltipWrapper.offsetHeight+p?"bottom":"top",a=r>=tooltipWrapper.offsetWidth+p?"right":"left";tooltipWrapper.style.top="bottom"===s?o.top+o.height+p+"px":o.top-tooltipWrapper.offsetHeight-p+"px",tooltipWrapper.style.left="right"===a?o.left+o.width+p+"px":o.left-tooltipWrapper.offsetWidth-p+"px";var c=parseFloat(tooltipWrapper.style.top),f=parseFloat(tooltipWrapper.style.left);c<n?tooltipWrapper.style.top="10px":c+tooltipWrapper.offsetHeight+n>i&&(tooltipWrapper.style.top=i-tooltipWrapper.offsetHeight-n+"px"),f<n?tooltipWrapper.style.left="10px":f+tooltipWrapper.offsetWidth+n>e&&(tooltipWrapper.style.left=e-tooltipWrapper.offsetWidth-n+"px")}function showTooltip(t){var o=t.currentTarget||t.target;if(o){var e=o.getAttribute("href");if(-1===e.indexOf("http")||-1!==e.indexOf(window.location.host)){tooltipWrapper.style.display="block",tooltipWrapper.style.opacity=0,positionTooltip(o);let t=e.split("#")[0];if(t.toLowerCase().endsWith(".pdf"))return tooltipContent.innerHTML='<iframe class="tooltip-pdf" src="'+t+'"></iframe>',tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1);if(/\.(png|jpg|jpeg|gif|webp|svg)$/i.test(t))return tooltipContent.innerHTML='<img src="'+t+'" style="max-width:100%;height:auto;" />',tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1);linkHistories[t]?(tooltipContent.innerHTML=linkHistories[t],setTimeout((function(){if(positionTooltip(o),tooltipWrapper.style.opacity=1,-1!=e.indexOf("#")){let t=e.split("#")[1];const o=tooltipWrapper.querySelector(`[id='${t}']`);o.classList.add("referred"),o.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)):(iframe.src=t,iframe.onload=function(){let i,p;try{i=iframe.contentWindow,p=i?i.document:null}catch(t){return tooltipContent.innerHTML="<div>Preview not available for this file.</div>",tooltipWrapper.scrollTop=0,void setTimeout((function(){positionTooltip(o),tooltipWrapper.style.opacity=1}),1)}if(!p)return;const n=p.querySelector("h1"),l=p.querySelector(".content");if(tooltipContentHtml="",n&&(tooltipContentHtml+='<div style="font-weight: bold; unicode-bidi: plaintext;">'+n.innerHTML+"</div>"),l)tooltipContentHtml+=l.innerHTML;else if(p.body)tooltipContentHtml+=p.body.innerHTML;else{if(!p.documentElement)return;tooltipContentHtml+=p.documentElement.innerHTML}tooltipContent.innerHTML=tooltipContentHtml,linkHistories[t]=tooltipContentHtml,tooltipWrapper.scrollTop=0,setTimeout((function(){if(positionTooltip(o),tooltipWrapper.style.opacity=1,-1!=e.indexOf("#")){let t=e.split("#")[1];const o=tooltipWrapper.querySelector(`[id='${t}']`);o.classList.add("referred"),console.log(o),o.scrollIntoView({behavior:"smooth"},!0)}else tooltipWrapper.scroll(0,0)}),1)}),positionTooltip(o)}}}function setupListeners(t){t.addEventListener("mouseleave",(function(t){hideTooltip()})),tooltipWrapper.addEventListener("mouseleave",(function(t){hideTooltip()})),t.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout),showTooltip(t)})),tooltipWrapper.addEventListener("mouseenter",(function(t){clearTimeout(opacityTimeout),clearTimeout(contentTimeout)}))}window.addEventListener("load",(function(t){document.querySelectorAll(".internal-link").forEach(setupListeners),document.querySelectorAll(".backlink-card a").forEach(setupListeners)}))</script>
+<script>window.location.hash&&document.getElementById(window.location.hash.slice(1)).classList.add("referred"),window.addEventListener("hashchange",(e=>{const t=e.oldURL.split("#");t[1]&&document.getElementById(t[1]).classList.remove("referred");const n=e.newURL.split("#");n[1]&&document.getElementById(n[1]).classList.add("referred")}),!1);const url_parts=window.location.href.split("#"),url=url_parts[0],referrence=url_parts[1];document.querySelectorAll(".cm-s-obsidian > *[id]").forEach((function(e){e.ondblclick=function(e){const t=url+"#"+e.target.id;navigator.clipboard.writeText(t)}}))</script>
+<script src="https://fastly.jsdelivr.net/npm/luxon@3.2.1/build/global/luxon.min.js"></script>
+<script defer="defer">TIMESTAMP_FORMAT="MMM dd, yyyy h:mm a",document.querySelectorAll(".human-date").forEach((function(e){try{date=e.getAttribute("data-date")||e.innerText,parsed_date=luxon.DateTime.fromISO(date),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromSQL(date)),null!=parsed_date.invalid&&(parsed_date=luxon.DateTime.fromHTTP(date)),null==parsed_date.invalid&&(e.innerHTML=parsed_date.toFormat(TIMESTAMP_FORMAT))}catch(e){}}))</script>
+<aside id="floating-control">
+<a id="github" href="https://github.com/PipeItToDevNull" target="_blank" rel="noopener noreferrer"><i icon-name="github" title="Github" aria-hidden="true"></i></a>
+<span id="theme-switch">
+<i class="svg-icon light" icon-name="sun" title="Light mode" aria-hidden="true"></i>
+<i class="svg-icon dark" icon-name="moon" title="Dark mode" aria-hidden="true"></i>
+<i class="svg-icon auto" icon-name="sun-moon" title="Auto mode" aria-hidden="true"></i>
+</span>
+</aside>
+<script>function setThemeIcon(e){let t;switch(e){case"dark":toRemove=["auto","light"];break;case"light":t="fa-adjust",toRemove=["dark","auto"];break;default:toRemove=["light","dark"]}document.getElementById("theme-switch").classList.add(e),document.getElementById("theme-switch").classList.remove(...toRemove)}function setTheme(e,t){t&&setThemeIcon(e),"dark"==e?(document.body.classList.remove("theme-light"),document.body.classList.add("theme-dark")):"light"==e?(document.body.classList.add("theme-light"),document.body.classList.remove("theme-dark")):setTheme(e=window.matchMedia&&window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light",!1)}let theme=window.localStorage.getItem("site-theme")||"light";setTheme(theme,!0),window.theme=theme,window.localStorage.setItem("site-theme",theme),window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",(function(e){const t=window.localStorage.getItem("site-theme");t&&"auto"!=t||(window.localStorage.setItem("site-theme","auto"),setTheme("auto",!0))})),document.getElementById("theme-switch").addEventListener("click",(function(){let e;e="auto"==window.theme?"dark":"dark"==window.theme?"light":"auto",setTheme(e,!0),window.localStorage.setItem("site-theme",e),window.theme=e}))</script>
+<script defer="defer" src="https://unpkg.com/lucide@latest"></script>
+<script defer="defer">document.addEventListener("DOMContentLoaded",(()=>{lucide.createIcons({attrs:{class:["svg-icon"]}})}))</script>
+<script>document.addEventListener("DOMContentLoaded",(function(){document.querySelectorAll(".obsidian-bases-views").forEach((function(e){var t=e.querySelector(".obsidian-bases-active-view"),a=e.querySelector(".obsidian-bases-dropdown"),i=e.querySelectorAll(".obsidian-bases-dropdown-item"),n=e.querySelectorAll(".obsidian-bases-view-panel"),o=e.querySelector(".obsidian-bases-active-view-name"),r=e.querySelector(".obsidian-bases-count-value");t&&a&&(t.addEventListener("click",(function(e){e.stopPropagation();var i="none"!==a.style.display;a.style.display=i?"none":"block",t.setAttribute("aria-expanded",!i)})),document.addEventListener("click",(function(){a.style.display="none",t.setAttribute("aria-expanded","false")})),i.forEach((function(s){s.addEventListener("click",(function(s){s.stopPropagation();var d=this.getAttribute("data-view-index");i.forEach((function(e){e.classList.remove("active")})),this.classList.add("active"),n.forEach((function(e){e.style.display="none"}));var l=e.querySelector('.obsidian-bases-view-panel[data-view-index="'+d+'"]');l&&(l.style.display="block");var c=this.querySelector(".obsidian-bases-view-icon"),u=t.querySelector(".obsidian-bases-view-icon");if(c&&u&&u.replaceWith(c.cloneNode(!0)),o&&(o.textContent=this.textContent.trim()),r&&l){var b=l.querySelectorAll("tbody tr:not(.obsidian-base-group-row), .obsidian-base-card, .obsidian-base-list li");r.textContent=b.length}a.style.display="none",t.setAttribute("aria-expanded","false")}))})))})),document.querySelectorAll(".bases-dynamic-date").forEach((function(e){var t=e.getAttribute("data-type"),a=new Date;if("today"===t){var i=a.getFullYear(),n=String(a.getMonth()+1).padStart(2,"0"),o=String(a.getDate()).padStart(2,"0");e.textContent=i+"-"+n+"-"+o}else if("now"===t){i=a.getFullYear(),n=String(a.getMonth()+1).padStart(2,"0"),o=String(a.getDate()).padStart(2,"0");var r=String(a.getHours()).padStart(2,"0"),s=String(a.getMinutes()).padStart(2,"0");e.textContent=i+"-"+n+"-"+o+" "+r+":"+s}}))}))</script>
+</body>
+</html>
