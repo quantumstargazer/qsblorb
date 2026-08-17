@@ -33,7 +33,7 @@
 ---
 # Quick Navigation
 ## Rules & Guidelines
-- [[Rulebook/! Rules\|Rules]]
+- [[Rulebook/Rules\|Rules]]
 - [[Rulebook/Guidelines\|Guidelines]]
 - [[Rulebook/RP FAQs\|FAQ]]
 
