@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/muses/by-request-only-roster/","tags":["roster","directory","by-request-only"],"dg-note-properties":{"tags":["roster","directory","by-request-only"],"aliases":null}}
+{"dg-publish":true,"permalink":"/by-request-only-roster/","tags":["roster","directory","by-request-only"],"dg-note-properties":{"tags":["roster","directory","by-request-only"],"aliases":null}}
 ---
 
 # By Request Only Roster
 
 > [!tracker] Disinterest Tracker
 > 
->Fill out the [[Interactive Forms\|Disinterest Tracker]] if you have no interest in ever interacting with one or more of these muses. While they are currently available only on request, some may get rotated into the [[Muses/! Open Muses - Roster\|Open Muses]] if they become active enough.
+>Fill out the [[Interactive Forms\|Disinterest Tracker]] if you have no interest in ever interacting with one or more of these muses. While they are currently available only on request, some may get rotated into the [[! Open Muses - Roster\|Open Muses]] if they become active enough.
 > 
 
 ---
@@ -21,7 +21,7 @@
 > |---|---|
 > | Name | Faertorithrue |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/By Request Only - Roster#Faertorithrue\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Faertorithrue\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -54,7 +54,7 @@
 > |---|---|
 > | Name | Fenmaer Dawngazer |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/By Request Only - Roster#Fenmaer Dawngazer\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Fenmaer Dawngazer\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -87,7 +87,7 @@
 > |---|---|
 > | Name | Astarion Ancunín |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/By Request Only - Roster#Astarion Ancunín\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Astarion Ancunín\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -120,7 +120,7 @@
 > |---|---|
 > | Name | Jaheira |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/By Request Only - Roster#Jaheira\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Jaheira\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -153,7 +153,7 @@
 > |---|---|
 > | Name | Minthara Baenre |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/By Request Only - Roster#Minthara Baenre\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Minthara Baenre\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -186,7 +186,7 @@
 > |---|---|
 > | Name | Prince of Frost |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/By Request Only - Roster#Prince of Frost\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Prince of Frost\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -221,7 +221,7 @@
 > |---|---|
 > | Name | Zaehire de Riva |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Zaehire de Riva\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Zaehire de Riva\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -257,7 +257,7 @@
 > |---|---|
 > | Name | Bertrand Ingellvar |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Bertrand Ingellvar\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Bertrand Ingellvar\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -290,7 +290,7 @@
 > |---|---|
 > | Name | Garrett Hawke |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Garrett Hawke\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Garrett Hawke\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -323,7 +323,7 @@
 > |---|---|
 > | Name | Orabela Aeducan |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Orabela Aeducan\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Orabela Aeducan\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -356,7 +356,7 @@
 > |---|---|
 > | Name | Varric Tethras |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Varric Tethras\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Varric Tethras\|By Request Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Available Only On Request |
 >
@@ -389,7 +389,7 @@
 > |---|---|
 > | Name | Dorian Pavus |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Dorian Pavus\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Dorian Pavus\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -422,7 +422,7 @@
 > |---|---|
 > | Name | Viago de Riva |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Viago de Riva\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Viago de Riva\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -455,7 +455,7 @@
 > |---|---|
 > | Name | Andarateia Cantori |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Andarateia Cantori\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Andarateia Cantori\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -488,7 +488,7 @@
 > |---|---|
 > | Name | Lucanis Dellamorte |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Lucanis Dellamorte\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Lucanis Dellamorte\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -521,7 +521,7 @@
 > |---|---|
 > | Name | Spite |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Spite\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Spite\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -554,7 +554,7 @@
 > |---|---|
 > | Name | Emmrich Volkarin |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Emmrich Volkarin\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Emmrich Volkarin\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -587,7 +587,7 @@
 > |---|---|
 > | Name | Manfred |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Manfred\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Manfred\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -620,7 +620,7 @@
 > |---|---|
 > | Name | Vorgoth |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/By Request Only - Roster#Vorgoth\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Vorgoth\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -655,7 +655,7 @@
 > |---|---|
 > | Name | Sara Ryder |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/By Request Only - Roster#Sara Ryder\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Sara Ryder\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -688,7 +688,7 @@
 > |---|---|
 > | Name | Scott Ryder |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/By Request Only - Roster#Scott Ryder\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Scott Ryder\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -721,7 +721,7 @@
 > |---|---|
 > | Name | Evfra de Tershaav |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/By Request Only - Roster#Evfra de Tershaav\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Evfra de Tershaav\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -754,7 +754,7 @@
 > |---|---|
 > | Name | Jaal Ama Darav |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/By Request Only - Roster#Jaal Ama Darav\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Jaal Ama Darav\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >
@@ -787,7 +787,7 @@
 > |---|---|
 > | Name | Reyes Vidal |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/By Request Only - Roster#Reyes Vidal\|By Request Only]] |
+> | Roster | [[By Request Only - Roster#Reyes Vidal\|By Request Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Available Only On Request |
 >

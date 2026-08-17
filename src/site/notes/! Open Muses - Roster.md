@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muses/open-muses-roster/","tags":["roster","directory","open-muses"],"dg-note-properties":{"tags":["roster","directory","open-muses"],"aliases":["Open Muses"]}}
+{"dg-publish":true,"permalink":"/open-muses-roster/","tags":["roster","directory","open-muses"],"dg-note-properties":{"tags":["roster","directory","open-muses"],"aliases":["Open Muses"]}}
 ---
 
 # Open Muses Roster
@@ -23,7 +23,7 @@
 > |---|---|
 > | Name | Tavares Umbrafae |
 > | Fandom | Baldur's Gate ( *Forgotten Realms* ) |
-> | Roster | [[Muses/! Open Muses - Roster#Tavares Umbrafae\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Tavares Umbrafae\|Open Muses]] |
 > | Status | Canon Compliant |
 > | Restrictions | n/a |
 >
@@ -58,7 +58,7 @@
 > |---|---|
 > | Name | Faeynore Moonstar |
 > | Fandom | Baldur's Gate ( *Forgotten Realms* ) |
-> | Roster | [[Muses/! Open Muses - Roster#Faeynore Moonstar\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Faeynore Moonstar\|Open Muses]] |
 > | Status | Canon Compliant |
 > | Restrictions | n/a |
 >
@@ -96,7 +96,7 @@
 > |---|---|
 > | Name | Ashina de Riva née Tabris |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >
@@ -134,7 +134,7 @@
 > |---|---|
 > | Name | Ward Ingellvar |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Ward Ingellvar\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Ward Ingellvar\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >
@@ -170,7 +170,7 @@
 > |---|---|
 > | Name | Leonardo de Riva |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Leonardo de Riva\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Leonardo de Riva\|Open Muses]] |
 > | Status | Canon Compliant |
 > | Restrictions | n/a |
 >
@@ -205,7 +205,7 @@
 > |---|---|
 > | Name | Haleir Lavellan |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Haleir Lavellan\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Haleir Lavellan\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >
@@ -243,7 +243,7 @@
 > |---|---|
 > | Name | Marian Hawke |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Marian Hawke\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Marian Hawke\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >
@@ -282,7 +282,7 @@
 > |---|---|
 > | Name | Isenril Mahariel |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Isenril Mahariel\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Isenril Mahariel\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >
@@ -318,7 +318,7 @@
 > |---|---|
 > | Name | Zevran Arainai |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/! Open Muses - Roster#Zevran Arainai\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Zevran Arainai\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >
@@ -355,7 +355,7 @@
 > |---|---|
 > | Name | Isabela Shepard |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/! Open Muses - Roster#Isabela Shepard\|Open Muses]] |
+> | Roster | [[! Open Muses - Roster#Isabela Shepard\|Open Muses]] |
 > | Status | Canon Divergent |
 > | Restrictions | n/a |
 >

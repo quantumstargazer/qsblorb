@@ -35,7 +35,7 @@
 > 
 > // Availability
 > 
-> Roster -> [[Muses/! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]]
+> Roster -> [[! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]]
 > Status -> Active
 > Restrictions -> n/a
 > 
@@ -54,11 +54,8 @@
 TBA
 ## Quote
 
-```chatterbox
-Shianni < Are... Are they gone?
-
-Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
-```
+> [!quote] Ashina Tabris - *9:30 Dragon*
+> "I killed them like dogs, Shianni. Not just them. All the humans who hurt you."
 
 ---
 # Canon Typical
@@ -778,6 +775,69 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > 
 
 
+> **Timeline**
+> 
+> > [!statsbox]- Timeline of Events
+> >
+> > | | |
+> > |---|---|
+> > | 9:54 Dragon | Info |
+> > | 9:53 Dragon | Info |
+> > | 9:52 Dragon | Info |
+> > | 9:51 Dragon | Solas' ritual to tear down the Veil is interrupted. Sixth & Final Blights begin. |
+> > | 9:50 Dragon | Antaam invade Treviso. |
+> > | 9:49 Dragon | Info |
+> > | 9:48 Dragon | Info |
+> > | 9:47 Dragon | Info |
+> > | 9:46 Dragon | Info |
+> > | 9:45 Dragon | The Talons' Summit ends with half of the Talons dead. |
+> > | 9:44 Dragon | The Exalted Council brings an end to the Inquisition. |
+> > | 9:43 Dragon | Info |
+> > | 9:42 Dragon | Viago becomes Fifth Talon of the Crows. Ashina is appointed as his Second. |
+> > | 9:41 Dragon | Info |
+> > | 9:40 Dragon | The Breach opens over the Frostback Mountains. |
+> > | 9:39 Dragon | Info |
+> > | 9:38 Dragon | Info |
+> > | 9:37 Dragon | Info |
+> > | 9:36 Dragon | Info |
+> > | 9:35 Dragon | Info |
+> > | 9:34 Dragon | Info |
+> > | 9:33 Dragon | Ashina joins House de Riva as a fledgling. Viago is assigned as her trainer. |
+> > | 9:32 Dragon | Info |
+> > | 9:31 Dragon | "Tathas" is named Hero of Ferelden. |
+> > | 9:30 Dragon | Ashina is conscripted as a Warden. (*Ash - age 24*) |
+> > | 9:29 Dragon | Info |
+> > | 9:28 Dragon | Info |
+> > | 9:27 Dragon | Info |
+> > | 9:26 Dragon | Info |
+> > | 9:25 Dragon | Info |
+> > | 9:24 Dragon | Adaia is killed by the Crows. (*Ash - age 17*) |
+> > | 9:23 Dragon | Info |
+> > | 9:22 Dragon | Info |
+> > | 9:21 Dragon | Info |
+> > | 9:20 Dragon | Info |
+> > | 9:19 Dragon | Info |
+> > | 9:18 Dragon | Info |
+> > | 9:17 Dragon | Info |
+> > | 9:16 Dragon | Info |
+> > | 9:15 Dragon | Info |
+> > | 9:14 Dragon | Info |
+> > | 9:13 Dragon | Info |
+> > | 9:12 Dragon | Info |
+> > | 9:11 Dragon | Info |
+> > | 9:10 Dragon | Info |
+> > | 9:09 Dragon | Info |
+> > | 9:08 Dragon | Info |
+> > | 9:07 Dragon | Info |
+> > | 9:06 Dragon | Ashina is born on the 30th of Harvestmere in Denerim. |
+> > | 9:05 Dragon | Info |
+> > | 9:04 Dragon | Info |
+> > | 9:03 Dragon | Info |
+> > | 9:02 Dragon | Info |
+> > | 9:01 Dragon | Info |
+> > | 9:00 Dragon | Info |
+> > 
+>  
 ## corvusrookery - Viago de Riva
 ### Dragon Age
 
@@ -844,6 +904,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -906,6 +967,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -999,6 +1061,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1061,6 +1124,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -1154,6 +1218,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1216,6 +1281,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -1309,6 +1375,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1371,6 +1438,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -1464,6 +1532,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1526,6 +1595,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -1619,6 +1689,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1681,6 +1752,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -1774,6 +1846,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1836,6 +1909,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -1929,6 +2003,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -1991,6 +2066,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -2084,6 +2160,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -2146,6 +2223,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
@@ -2174,10 +2252,16 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > 
 > 
 
-### 3 Talons & Their Crow
-#### Dragon Age
+## corvusrookery - 3 Talons & Their Crow
 
-> [!statsbox]+ Dragon Age ( 3 Talons - corvusrookery )
+> [!ziggy] Polyamorous Verses & AUs
+> 
+> This set of verses is for Argent's portrayals of both Viago and Teia, who are in a polyamorous relationship with my portrayals of Zevran and Ashina (hence the title, with Ash being the only one among them who *isn't* a Talon).
+>  
+
+### Dragon Age
+
+> [!statsbox]+ Dragon Age ( 3 Talons & Their Crow - corvusrookery )
 >
 > **Basic Info**
 > 
@@ -2240,6 +2324,7 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > *TBA*
 > > 
 > 
+> %%
 > **Timeline**
 > 
 > > [!statsbox]- Timeline of Events
@@ -2302,32 +2387,38 @@ Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hur
 > > | 9:01 Dragon | Info |
 > > | 9:00 Dragon | Info |
 > > 
+>  %%
 >  
 > **Tumblr Tags**
 > 
 > | | |
 > |---|---|
-> | Verse | Ashina ☾⭒ Dragon Age ( 3 Talons — corvusrookery ) |
+> | Verse | Ashina ☾⭒ Dragon Age ( 3 Talons & Their Crow — corvusrookery ) |
 >  
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ 9:50 - 9:54 Dragon ( 3 Talons — corvusrookery ) |
-> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ 9:45 - 9:49 Dragon ( 3 Talons — corvusrookery ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ 9:40 - 9:44 Dragon ( 3 Talons — corvusrookery ) |
-> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ 9:35 - 9:39 Dragon ( 3 Talons — corvusrookery ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ 9:30 - 9:34 Dragon ( 3 Talons — corvusrookery ) |
+> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ 9:50 - 9:54 Dragon ( 3 Talons & Their Crow — corvusrookery ) |
+> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ 9:45 - 9:49 Dragon ( 3 Talons & Their Crow — corvusrookery ) |
+> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ 9:40 - 9:44 Dragon ( 3 Talons & Their Crow — corvusrookery ) |
+> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ 9:35 - 9:39 Dragon ( 3 Talons & Their Crow — corvusrookery ) |
+> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ 9:30 - 9:34 Dragon ( 3 Talons & Their Crow — corvusrookery ) |
 > > 
 > 
 > > [!statsbox]- Connection Tags
+> > 
+> > **3 Talons & Their Crow**
+> > > *These tags are shared by Zevran in this verse, as the overall connections are determined by the nature of the polyamorous dynamic in this case.*
 > >
 > > | | |
 > > |---|---|
-> > | Connection - Platonic Dynamic | Connection ☾⭒ Ashina & Viago ( corvusrookery ) |
-> > | Connection - Romantic/Sexual | Connection ☾⭒ Ashina x Viago ( corvusrookery ) |
-> > | Relationship | Ship ☾⭒ To Dance Along The Edge Of A Knife ( Ashina & Viago — corvusrookery )  |
+> > | Connection - Platonic Dynamic | Connection ☾⭒ 3 Talons & Their Crow ( corvusrookery ) |
+> > | Connection - Romantic/Sexual | Connection ☾⭒ 3 Talons x Their Crow ( corvusrookery ) |
+> > | Relationship | Ship ☾⭒ TBA ( 3 Talons & Their Crow — corvusrookery )  |
 > > 
+> > 
+> 
 > 
 
 

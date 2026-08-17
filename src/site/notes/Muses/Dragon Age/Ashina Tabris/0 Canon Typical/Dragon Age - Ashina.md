@@ -35,7 +35,7 @@
 > 
 > // Availability
 > 
-> Roster -> [[Muses/! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]]
+> Roster -> [[! Open Muses - Roster#Ashina de Riva née Tabris\|Open Muses]]
 > Status -> Active
 > Restrictions -> —
 > 
@@ -67,11 +67,8 @@ Ashina is conscripted against her will into the Grey Wardens at the start of the
 In 9:33 Dragon, Ashina enters negotiations with the Fifth Talon of House de Riva, seeking protection from the Grey Wardens in exchange for her service to the House and the Crows. She is now a Master Assassin of House de Riva, and may serve as the Fifth Talon's Second.
 ## Quote
 
-```chatterbox
-Shianni < Are... Are they gone?
-
-Ashina > I killed them like dogs, Shianni. Not just them. All the humans who hurt you.
-```
+> [!quote] Ashina Tabris - *9:30 Dragon*
+> "I killed them like dogs, Shianni. Not just them. All the humans who hurt you."
 
 ---
 # Background
@@ -422,7 +419,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Adaia Tabris née Arainai
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -478,7 +475,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Solas
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -534,7 +531,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -588,7 +585,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -648,7 +645,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -928,7 +925,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Adaia Arainai
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -980,7 +977,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Cyrion Tabris
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1037,7 +1034,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1089,7 +1086,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1141,7 +1138,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1193,7 +1190,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Sten
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1247,7 +1244,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Duncan
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1299,7 +1296,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Zevran Arainai
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1427,7 +1424,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- First Warden
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1481,7 +1478,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1535,7 +1532,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1663,7 +1660,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- Morrigan
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
@@ -1736,7 +1733,7 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 > 
 > **Connections**
 > 
-> > *The following connection details are based on NPC interaction only, and should be considered only as a baseline of intent for actual roleplay interactions. These details are always open to plotting to anyone portraying the characters listed below.*
+> > *TBA*
 > 
 > > [!profilebox]- NPC
 > > ![Exploring-the-Multiverse-255006320.jpg\|150x150](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)

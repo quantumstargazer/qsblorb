@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/muses/invitation-only-roster/","tags":["roster","directory","invitation-only"],"dg-note-properties":{"tags":["roster","directory","invitation-only"],"aliases":null}}
+{"dg-publish":true,"permalink":"/invitation-only-roster/","tags":["roster","directory","invitation-only"],"dg-note-properties":{"tags":["roster","directory","invitation-only"],"aliases":null}}
 ---
 
 # Invitation Only Roster
 
 > [!tracker] Disinterest Tracker
 > 
->Fill out the [[Interactive Forms\|Disinterest Tracker]] if you have no interest in ever interacting with one or more of these muses. While they are currently available only on request, some may get rotated into the [[Muses/! Open Muses - Roster\|Open Muses]] if they become active enough.
+>Fill out the [[Interactive Forms\|Disinterest Tracker]] if you have no interest in ever interacting with one or more of these muses. While they are currently available only on request, some may get rotated into the [[! Open Muses - Roster\|Open Muses]] if they become active enough.
 > 
 
 ---
@@ -22,7 +22,7 @@
 > |---|---|
 > | Name | Dirge |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/Invitation Only - Roster#Dirge\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Dirge\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -55,7 +55,7 @@
 > |---|---|
 > | Name | Fisk |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/Invitation Only - Roster#Fisk\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Fisk\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -89,7 +89,7 @@
 > |---|---|
 > | Name | Halima |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/Invitation Only - Roster#Halima\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Halima\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -122,7 +122,7 @@
 > |---|---|
 > | Name | Karlach Cliffgate |
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
-> | Roster | [[Muses/Invitation Only - Roster#Karlach Cliffgate\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Karlach Cliffgate\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | **lanternlit — Private Muse** |
 >
@@ -157,7 +157,7 @@
 > |---|---|
 > | Name | Felassan |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Felassan\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Felassan\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -190,7 +190,7 @@
 > |---|---|
 > | Name | Abelas |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Abelas\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Abelas\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -223,7 +223,7 @@
 > |---|---|
 > | Name | Banal'ras |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Banal'ras\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Banal'ras\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -256,7 +256,7 @@
 > |---|---|
 > | Name | Bellara Lutare |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Bellara Lutare\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Bellara Lutare\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -289,7 +289,7 @@
 > |---|---|
 > | Name | Heir |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Heir\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Heir\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -322,7 +322,7 @@
 > |---|---|
 > | Name | Merrill |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Merrill\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Merrill\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -355,7 +355,7 @@
 > |---|---|
 > | Name | Anders |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Anders\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Anders\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -388,7 +388,7 @@
 > |---|---|
 > | Name | Clark Kent |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Clark Kent\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Clark Kent\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -421,7 +421,7 @@
 > |---|---|
 > | Name | Bruce Wayne |
 > | Fandom | Dragon Age |
-> | Roster | [[Muses/Invitation Only - Roster#Bruce Wayne\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Bruce Wayne\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -456,7 +456,7 @@
 > |---|---|
 > | Name | Nihlus Kryik |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/Invitation Only - Roster#Nihlus Kryik\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Nihlus Kryik\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -490,7 +490,7 @@
 > |---|---|
 > | Name | Avitus Rix |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/Invitation Only - Roster#Avitus Rix\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Avitus Rix\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -523,7 +523,7 @@
 > |---|---|
 > | Name | Mordin Solus |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/Invitation Only - Roster#Mordin Solus\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Mordin Solus\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -556,7 +556,7 @@
 > |---|---|
 > | Name | Thane Krios |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/Invitation Only - Roster#Thane Krios\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Thane Krios\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -589,7 +589,7 @@
 > |---|---|
 > | Name | Javik |
 > | Fandom | Mass Effect |
-> | Roster | [[Muses/Invitation Only - Roster#Javik\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Javik\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | Not Available Without Invite |
 >
@@ -625,7 +625,7 @@
 > |---|---|
 > | Name | Razum-dar |
 > | Fandom | Elder Scrolls |
-> | Roster | [[Muses/Invitation Only - Roster#Razum-dar\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Razum-dar\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -658,7 +658,7 @@
 > |---|---|
 > | Name | Inigo |
 > | Fandom | Elder Scrolls |
-> | Roster | [[Muses/Invitation Only - Roster#Inigo\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Inigo\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -691,7 +691,7 @@
 > |---|---|
 > | Name | Courier |
 > | Fandom | Elder Scrolls |
-> | Roster | [[Muses/Invitation Only - Roster#Courier\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Courier\|Invitation Only]] |
 > | Status | Canon Divergent |
 > | Restrictions | *No One Expects The Courier* |
 >
@@ -725,7 +725,7 @@
 > |---|---|
 > | Name | Magnus Rasmodius |
 > | Fandom | Stardew Valley (*Expanded*) |
-> | Roster | [[Muses/Invitation Only - Roster#Magnus Rasmodius\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Magnus Rasmodius\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -758,7 +758,7 @@
 > |---|---|
 > | Name | Elliot |
 > | Fandom | Stardew Valley (*Expanded*) |
-> | Roster | [[Muses/Invitation Only - Roster#Elliot\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Elliot\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >
@@ -791,7 +791,7 @@
 > |---|---|
 > | Name | Gunter |
 > | Fandom | Stardew Valley (*Expanded*) |
-> | Roster | [[Muses/Invitation Only - Roster#Gunter\|Invitation Only]] |
+> | Roster | [[Invitation Only - Roster#Gunter\|Invitation Only]] |
 > | Status | Canon Compliant |
 > | Restrictions | Not Available Without Invite |
 >

@@ -1,28 +1,46 @@
 {
   "/": [
     "Home - QS Wiki",
+    "! Open Muses - Roster",
+    "By Request Only - Roster",
+    "Invitation Only - Roster",
+    "Irregulars - Roster",
     "Muse Roster - Index",
     "Muses",
+    "Wiki",
     "! Tags",
     "Shining Stars + Stargazers",
     "Interactive Forms"
   ],
   "/Muses": [
-    "! Open Muses - Roster",
-    "By Request Only - Roster",
-    "Invitation Only - Roster",
-    "Irregulars - Roster",
     "Dragon Age"
   ],
   "/Muses/Dragon Age": [
     "Ashina Tabris"
   ],
   "/Muses/Dragon Age/Ashina Tabris": [
-    "0 Canon Typical",
-    "Summary - Ashina"
+    "Summary - Ashina",
+    "0 Canon Typical"
   ],
   "/Muses/Dragon Age/Ashina Tabris/0 Canon Typical": [
     "Dragon Age - Ashina"
+  ],
+  "/Wiki": [
+    "Fandom Info"
+  ],
+  "/Wiki/Fandom Info": [
+    "Baldur's Gate",
+    "Dragon Age",
+    "Mass Effect"
+  ],
+  "/Wiki/Fandom Info/Baldur's Gate": [
+    "Glossary - Baldur's Gate"
+  ],
+  "/Wiki/Fandom Info/Dragon Age": [
+    "Glossary - Dragon Age"
+  ],
+  "/Wiki/Fandom Info/Mass Effect": [
+    "Glossary - Mass Effect"
   ],
   "/! Tags": [
     "Muse Tags"
