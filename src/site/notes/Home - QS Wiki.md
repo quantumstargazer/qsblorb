@@ -281,6 +281,49 @@
 
 ---
 # Thread Tracking
+## Where You Can See What's Tracked
+
+> [!statsbox]+ RP Thread Tracker
+> 
+> **Active Threads on Partners' Turns**
+> 
+> | | |
+> |---|---|
+> | Your (& Theirs) Turn | [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) |
+> 
+> **Active Threads On Ziggy's Turn**
+> 
+> | | |
+> |---|---|
+> | My Turn | [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) |
+> 
+> **All Currently Active Threads**
+> 
+> | | |
+> |---|---|
+> | All Active Threads | [Active Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads) |
+> 
+> **Looking For A Thread That's Not Listed?**
+> 
+> If it has been two months or longer, it has probably been sent to the Inactive Tracker instead — meaning I've marked it as "queued" if it was on my turn (I never put ic stuff in the actual tumblr queue, this is just the easiest way for me to manage it and get the desired result of moving it off the active list), or I've archived it for the moment so I can keep easier tabs on the number of active threads I currently have.
+> 
+> Archived threads are *not dropped* — it's just that my anxiety goes a bit haywire when so many of my threads sit inactive for months at a time (regardless of whose turn it is), so this is the easiest way I can manage it, while also helping make sure I don't lose things due to my really shitty memory.
+> 
+
+### Archived Inactive Threads
+
+> [!statsbox]+ Inactive Threads Archive
+>
+> **Inactive Threads Archive - Threads Inactive For 2+ Months**
+> 
+> | | |
+> |---|---|
+> | Archived Threads | [Inactive Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsarchived) |
+> 
+> **Archived Threads Are NOT Dropped**
+> 
+> I archive anything that has been inactive for 2+ months — and mark any on my turn as "queued", as I never actually add ic posts to the queue due to tumblr's tendency to eat posts or suddenly spam post the queue in bulk at times. These threads are not dropped insofar as I am concerned, unless specifically marked in such in their titles.
+>
 
 > [!tracker]- Important Note About Thread Tracking
 > ***I do not use the RP Thread Tracker quite as intended.*** Most notably where the Archive and Queue is concerned.
@@ -297,14 +340,6 @@
 > **Completed &/or Dropped Threads**
 > - Threads *are* able to reach a natural conclusion at the end of a scene, and rather than trying to force its continuation, I prefer to simply switch to a new thread itself and continue with a new plot point, while maintaining the development established in the prior thread. These threads will be marked as complete in the tracker by adding "**(Complete)**" at the end of the title, as that is the only functional way that the public view makes my marking them for anyone else to see.
 > - Threads that are outright dropped and/or otherwise ended will be marked as such in the tracker by similarly adding either "**(Dropped)**", "**(Ended)**", or another suitable descriptor for why the thread is no longer being continued to the end of the title.
-## Where You Can See What's Tracked
-- [Active Thread Tracker](https://www.rpthreadtracker.com/public/quantumstargazer/qsthreads) - *all threads, regardless of whose turn it is*
-- [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) - *only threads that are on someone else's turn*
-- [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) - *only threads that are on my turn*
-### Archived Inactive Threads
-*I archive anything that has been inactive for 2+ months — and mark any on my turn as "queued", as I never actually add ic posts to the queue due to tumblr's tendency to eat posts or suddenly spam post the queue in bulk at times. These threads are* **not dropped** *insofar as I am concerned, unless specifically marked in such in their titles.*
-
-- [Archived Inactive Threads](https://www.rpthreadtracker.com/public/quantumstargazer/qsarchived) -  *tracked threads inactive for 2+ months*
 
 > [!guideline]- Regarding Tracking & Dropped Threads
 > I *very rarely* drop threads myself simply due to a lack of interest, so this is *not* something you need to worry about, even if it takes me a long time to reply to a thing. I will get to it *eventually*, or I will reach out and let you know that I need to drop it because I'm unable to find a way to continue it.
