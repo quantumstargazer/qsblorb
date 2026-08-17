@@ -20,6 +20,13 @@
 
 > [!sticky] Under Construction Overhaul
 > I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.
+> 
+> Currently, some sections have limited information available while I am restructuring the site, while others are simply the old version that I've put in place for now until I can get the new pages put together (like everything in the Rulebook section). I'm trying to keep the old stuff to a minimum, but it's a bit difficult to have a rp blog without any rules up, y'know?
+
+> [!coffeetime] Prioritizing Muses' Info
+> 
+> **If there is a muse you would like me to prioritize information on, please let me know.** I am *only* working on those in the [[! Open Muses - Roster\|Open Muses]] right now, but beyond that, I'm willing to prioritize any muse that someone is actively wanting more info on, so just drop me a note on tumblr, in discord, or even on github and I'll get to it.
+> 
 
 ---
 ## QuantumStargazer
