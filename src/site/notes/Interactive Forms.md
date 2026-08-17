@@ -169,9 +169,24 @@
 > > <iframe data-tally-src="https://tally.so/embed/NpXXKl?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="1306" frameborder="0" marginheight="0" marginwidth="0" title="Inbox Call - QS"></iframe>
 > > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
+---
+# Direct Form Links
 
-
-
+> [!statsbox]+ Interactive Forms - Powered By Tally
+>
+> **Direct Form Links**
+> 
+> | | |
+> |---|---|
+> | Disinterest Tracker | [Form on Tally](https://tally.so/r/1Ax8RM) |
+> | RP Preferences Tracker | [Form on Tally](https://tally.so/r/rjOV7N) |
+> | Multi-Muses Interest Tracker | [Form on Tally](https://tally.so/r/gD7v7d) |
+> | Permanent Interactions Call | [Form on Tally](https://tally.so/r/eqraq0) |
+> | Starter Call | [Form on Tally](https://tally.so/r/eqrr8J) |
+> | Inbox Call | [Form on Tally](https://tally.so/r/NpXXKl) |
+> | — |  |
+> | Additional Forms Coming Soon |  |
+>
 
 
 
