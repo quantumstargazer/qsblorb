@@ -9,6 +9,7 @@
     "Muses",
     "Wiki",
     "! Tags",
+    "Rulebook (Old)",
     "Shining Stars + Stargazers",
     "Interactive Forms"
   ],
@@ -53,5 +54,55 @@
   ],
   "/! Tags/Muse Tags/Dragon Age/Ashina Tabris": [
     "Tags - Ashina"
+  ],
+  "/Rulebook (Old)": [
+    "FAQ Details",
+    "Guidelines Details",
+    "Rules Details",
+    "Actual Rules",
+    "Guidelines",
+    "RP FAQ",
+    "Rulebook - Index"
+  ],
+  "/Rulebook (Old)/FAQ Details": [
+    "Accessibility - FAQ",
+    "Answered FAQs - FAQ",
+    "Blocking + Following - FAQ",
+    "Do's + Don'ts - FAQ",
+    "Mature Audiences Only - FAQ",
+    "Muses - FAQ",
+    "Non-Roleplayers - FAQ",
+    "Post Formatting - FAQ",
+    "Starting Interactions - FAQ",
+    "Tropes + Themes - FAQ",
+    "Verses + AUs - FAQ"
+  ],
+  "/Rulebook (Old)/Guidelines Details": [
+    "Blanket Permissions - Guidelines",
+    "Communications - Guidelines",
+    "Forms — Interaction - Guidelines",
+    "Forms — Interest Tracking - Guidelines",
+    "Inbox - Guidelines",
+    "Interactions - Guidelines",
+    "Muses - Guidelines",
+    "Ships + Dynamics - Guidelines",
+    "Starters - Guidelines",
+    "Verses + AUs - Guidelines"
+  ],
+  "/Rulebook (Old)/Rules Details": [
+    "Fandom Specific Rules",
+    "21+ + Mutuals Only - Rules",
+    "Banned + Restricted Content - Rules",
+    "Blacklist Tags - Rules",
+    "Curate Your Own Dash - Rules",
+    "Don't Be A Dick - Rules",
+    "Exclusivity - Rules",
+    "NOTPs + Enough-TPs - Rules",
+    "Sexual Content - Rules"
+  ],
+  "/Rulebook (Old)/Rules Details/Fandom Specific Rules": [
+    "! Baldur's Gate - Rules",
+    "! Dragon Age - Rules",
+    "! Mass Effect - Rules"
   ]
 }
