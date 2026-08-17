@@ -8,6 +8,11 @@
 
 > **Each form is collapsed under the "Form - Title >" bars** — just click on the bar and it will reveal the form. It's similar to the "Keep Reading/Read More" cuts on tumblr.
 
+> [!warning] Direct Form Links Available
+> 
+> If you'd rather fill out the form directly on the service's site, [[Interactive Forms#Direct Form Links\|links are provided at the bottom of this page]].
+> 
+
 ---
 # Disinterest Tracker
 
