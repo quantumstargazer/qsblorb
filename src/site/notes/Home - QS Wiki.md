@@ -49,7 +49,7 @@
 ## Muse Rosters
 ### Open Muses Roster
 
-> [!statsbox]+ Open Muses Roster
+> [!statsbox]+ Open Muses Roster - Open to Everyone
 >
 > **Priority Muses - Interest Assumed Unless Told Otherwise**
 > 
@@ -64,7 +64,7 @@
 
 ### By Request Only Roster
 
-> [!statsbox]+ By Request Only Roster
+> [!statsbox]- By Request Only Roster - Specifying Requested Muse Required
 >
 > **Secondary Muses - Available Only On Request**
 > 
@@ -80,7 +80,7 @@
 
 ### Invitation Only Roster
 
-> [!statsbox]+ Invitation Only Roster
+> [!statsbox]- Invitation Only Roster - Requires Invite From Ziggy
 >
 > **Invite Only Muses - Must Be Invited To Interact**
 > 
@@ -96,7 +96,7 @@
 
 ### Irregulars Roster
 
-> [!statsbox]+ Irregulars Roster
+> [!statsbox]- Irregulars Roster - Requires Permanent Interactions Call &/or Invite
 >
 > **Irregulars - For Mains & Permanent Interactions Call Only**
 > 
@@ -112,7 +112,7 @@
 
 ### Muse Roster Index
 
-> [!statsbox]- Muse Roster - Index
+> [!statsbox]- Muse Roster - Index Of All Muses
 >
 > **Lists Names Only - Links To Muse Profiles On Their Appropriate Rosters**
 > 
@@ -444,37 +444,3 @@
 
 
 [^1]: Includes Forgotten Realms and expanded Dungeons & Dragons lore.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
