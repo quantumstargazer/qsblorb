@@ -6,6 +6,21 @@
 ## Summary
 
 
+## Fictional Languages
+> [!statsbox]+ Fictional Languages
+>
+> **Dictionaries**
+> 
+> | | |
+> |---|---|
+> | Common | [Common dictionary](https://forgottenrealms.fandom.com/wiki/Common_dictionary "Common dictionary") |
+> | Drow | [Drow dictionary](https://forgottenrealms.fandom.com/wiki/Drow_dictionary "Drow dictionary") |
+> | Dwarvish | [Dwarvish dictionary](https://forgottenrealms.fandom.com/wiki/Dwarvish_dictionary "Dwarvish dictionary") |
+> | Elvish | [Elven dictionary](https://forgottenrealms.fandom.com/wiki/Elven_dictionary "Elven dictionary") |
+> | Thieves' Cant | [Thieves' cant dictionary](https://forgottenrealms.fandom.com/wiki/Thieves%27_cant_dictionary "Thieves' cant dictionary") |
+> | Undercommon | [Undercommon dictionary](https://forgottenrealms.fandom.com/wiki/Undercommon_dictionary) |
+>
+
 ---
 # A
 - Aevendrow

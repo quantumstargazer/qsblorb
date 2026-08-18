@@ -387,4 +387,84 @@
 > [!attention] None Available At This Time
 > 
 
+---
+# Muse Rosters
+## Open Muses Roster
+
+> [!statsbox]+ Open Muses Roster - Open to Everyone
+>
+> **Priority Muses - Interest Assumed Unless Told Otherwise**
+> 
+> | | |
+> |---|---|
+> | Roster | [[! Open Muses - Roster\|Open Muses]] |
+> | Availability Restrictions | must fill out [[Interactive Forms#Disinterest Tracker\|Disinterest Tracker]] if not interested in a muse |
+> | Baldur's Gate | [[! Open Muses - Roster#Baldur's Gate\|Baldur's Gate - Open Muses]] |
+> | Dragon Age | [[! Open Muses - Roster#Dragon Age\|Dragon Age - Open Muses]] |
+> | Mass Effect | [[! Open Muses - Roster#Mass Effect\|Mass Effect - Open Muses]] |
+> | Other Fandoms | [[! Open Muses - Roster#Other Fandoms\|Other Fandoms - Open Muses]] |
+
+## By Request Only Roster
+
+> [!statsbox]- By Request Only Roster - Specifying Requested Muse Required
+>
+> **Secondary Muses - Available Only On Request**
+> 
+> | | |
+> |---|---|
+> | Roster | [[By Request Only - Roster\|By Request Only]] |
+> | Availability Restrictions | must specify muse in request to interact with them |
+> | Baldur's Gate | [[By Request Only - Roster#Baldur's Gate\|Baldur's Gate - By Request Only]] |
+> | Dragon Age | [[By Request Only - Roster#Dragon Age\|Dragon Age - By Request Only]] |
+> | Mass Effect | [[By Request Only - Roster#Mass Effect\|Mass Effect - By Request Only]] |
+> | Other Fandoms | [[By Request Only - Roster#Other Fandoms\|Other Fandoms - By Request Only]] |
+> 
+
+## Invitation Only Roster
+
+> [!statsbox]- Invitation Only Roster - Requires Invite From Ziggy
+>
+> **Invite Only Muses - Must Be Invited To Interact**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Invitation Only - Roster\|Invitation Only]] |
+> | Availability Restrictions | request invite via the [[Interactive Forms\|Permanent Interactions Call]] form |
+> | Baldur's Gate | [[Invitation Only - Roster#Baldur's Gate\|Baldur's Gate - Invitation Only]] |
+> | Dragon Age | [[Invitation Only - Roster#Dragon Age\|Dragon Age - Invitation Only]] |
+> | Mass Effect | [[Invitation Only - Roster#Mass Effect\|Mass Effect - Invitation Only]] |
+> | Other Fandoms | [[Invitation Only - Roster#Other Fandoms\|Other Fandoms - Invitation Only]] |
+> 
+
+## Irregulars Roster
+
+> [!statsbox]- Irregulars Roster - Requires Permanent Interactions Call &/or Invite
+>
+> **Irregulars - For Mains & Permanent Interactions Call Only**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Irregulars - Roster\|Irregulars]] |
+> | Availability Restrictions | must fill out the [[Interactive Forms\|Permanent Interactions Call]] form |
+> | Baldur's Gate | [[Irregulars - Roster#Baldur's Gate\|Baldur's Gate - Irregulars]] |
+> | Dragon Age | [[Irregulars - Roster#Dragon Age\|Dragon Age - Irregulars]] |
+> | Mass Effect | [[Irregulars - Roster#Mass Effect\|Mass Effect - Irregulars]] |
+> | Other Fandoms | [[Irregulars - Roster#Other Fandoms\|Other Fandoms - Irregulars]] |
+> 
+
+## Muse Roster Index
+
+> [!statsbox]- Muse Roster - Index Of All Muses
+>
+> **Lists Names Only - Links To Muse Profiles On Their Appropriate Rosters**
+> 
+> | | |
+> |---|---|
+> | Roster | [[Muse Roster - Index\|Roster Index]] |
+> |  | — |
+> | Baldur's Gate | [[Muse Roster - Index#Baldur's Gate\|Baldur's Gate - Roster Index]] |
+> | Dragon Age | [[Muse Roster - Index#Dragon Age\|Dragon Age - Roster Index]] |
+> | Mass Effect | [[Muse Roster - Index#Mass Effect\|Mass Effect - Roster Index]] |
+> | Other Fandoms | [[Muse Roster - Index#Other Fandoms\|Other Fandoms - Roster Index]] |
+> 
 
