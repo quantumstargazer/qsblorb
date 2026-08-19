@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms","Disinterest Tracker","RP Preference Tracker","Multi-Muses Interest Tracker","Permanent Interactions Call","Starter Call","Inbox Call"]}}
+{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms","Disinterest Tracker","RP Preference Tracker","Multi-Muses Interest Tracker","Permanent Interactions Call","Starter Call","Inbox Call","Interactions Call"]}}
 ---
 
 # Interactive Forms
