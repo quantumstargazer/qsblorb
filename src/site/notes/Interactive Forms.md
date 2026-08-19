@@ -122,7 +122,7 @@
 > > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 ---
-# Interaction Call Forms
+# Interaction Forms
 
 > [!guideline]+ Request Interaction At Any Time
 > These forms are here to let you request interaction at any time, whether I'm actively on the dash or not (I lurk way more than it appears, since I don't really post from mobile, but I do read and draft things while afk from my desktop).
@@ -155,8 +155,29 @@
 > > <iframe data-tally-src="https://tally.so/embed/1AQKxW?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="2573" frameborder="0" marginheight="0" marginwidth="0" title="Starter Call - QS"></iframe>
 > > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
+---
+# Drop Notification
 
-
+> [!statsbox]+ Drop Notification
+> 
+> **What This Form Is For**
+> 
+> For specifying the muse(s) and/or verse(s) as necessary when you want to drop interactions, as well as making sure I actually know that you're dropping things so I won't be spending months waiting for replies that will never come.
+>
+> **Should You Fill This Form Out?**
+> 
+> | | |
+> |---|---|
+> | Have Not Read Guidelines | No - *Read Those First!* |
+> | Are Not A Mutual | No |
+> | Want To Drop Interactions | Yes |
+> 
+> **Drop Notification Form**
+> 
+> > [!statsbox]- Form - Drop Notification
+> > 
+> > <iframe data-tally-src="https://tally.so/embed/81beyO?alignLeft=1&hideTitle=1&dynamicHeight=1" loading="lazy" width="100%" height="1306" frameborder="0" marginheight="0" marginwidth="0" title="Inbox Call - QS"></iframe>
+> > <script>var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}</script>
 
 ---
 # Direct Form Links
@@ -172,10 +193,9 @@
 > | Multi-Muses Interest Tracker | [Form on Tally](https://tally.so/r/gD7v7d) |
 > | Permanent Interactions Call | [Form on Tally](https://tally.so/r/eqraq0) |
 > | Interactions Call (All-In-One) | [Form on Tally](https://tally.so/r/1AQKxW) |
+> | Drop Notification | [Form On Tally](https://tally.so/r/81beyO) |
 > | — |  |
 > | Additional Forms Coming Soon |  |
 >
-
-
 
 
