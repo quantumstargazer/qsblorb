@@ -6,6 +6,27 @@
 ## Summary
 
 
+## Fictional Languages
+
+> [!statsbox]+ Fictional Languages
+>
+> **Dictionaries**
+> 
+> | | |
+> |---|---|
+> | Galactic Trade Tongue | — |
+> | Angaran | — |
+> | Asari | — |
+> | Batarian | — |
+> | Drell | — |
+> | Elcor | — |
+> | Krogan | — |
+> | Quarian | [Khelish](https://mass-effect-continuation.fandom.com/wiki/Khelish "Khelish") |
+> | Salarian | — |
+> | Turian | — |
+> | Volus | — |
+>
+
 ---
 # A
 - Andromeda
