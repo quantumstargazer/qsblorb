@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms","Disinterest Tracker","RP Preference Tracker","Multi-Muses Interest Tracker","Permanent Interactions Call","Starter Call","Inbox Call","Interactions Call"]}}
+{"dg-publish":true,"permalink":"/interactive-forms/","tags":["forms"],"dg-note-properties":{"tags":["forms"],"aliases":["Forms","RP Forms","Disinterest Tracker","RP Preference Tracker","Multi-Muses Interest Tracker","Permanent Interactions Call","Starter Call","Inbox Call","Interactions Call","Drop Notification"]}}
 ---
 
 # Interactive Forms
@@ -100,7 +100,7 @@
 > 
 > **What This Form Is For**
 > 
-> For a permanent starter call with benefits — including permanent inbox, plotting, shipping, etc. calls, all-in-one. Allows for requesting an invite to Invitation Only muses, as gaining full access to the Irregulars roster. Those on this list are also where I choose my Mains from.
+> For a permanent starter call with benefits — including permanent inbox, plotting, shipping, etc. calls, all-in-one. Allows for requesting an invite to Invitation Only muses, as gaining full access to the Irregulars roster. Those on [[Shining Stars + Stargazers#Permanent Interactions Call\|this list]] are also where I choose my Mains from.
 >
 > **Should You Fill This Form Out?**
 > 
