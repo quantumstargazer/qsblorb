@@ -15,6 +15,26 @@
 
 > [!main] lanternlit — *Multifandom Multimuse*
 > > *blog:* [lanternlit](https://lanternlit.tumblr.com/)
+> 
+> > [!statsbox]- Muse Selection(s)
+> >
+> > **Permanent Interactions Call**
+> > 
+> > | | |
+> > |---|---|
+> > | Baldur's Gate | *ALL MUSES* |
+> > |  | *ALL VERSES* |
+> > |  | — |
+> > | Dragon Age | *ALL MUSES* |
+> > |  | *ALL VERSES* |
+> > |  | — |
+> > | Mass Effect | *ALL MUSES* |
+> > |  | *ALL VERSES* |
+> > |  | — |
+> > | Other Fandoms | *ALL MUSES* |
+> > |  | *ALL VERSES* |
+> > |  | — |
+> >
 
 ---
 # Ships & Dynamics
@@ -47,6 +67,9 @@
 
 > [!bfc] codenamearchangel - *Garrus Vakarian (Mass Effect)*
 > > *blog:* [codenamearchangel](https://codenamearchangel.tumblr.com/)
+> 
+> > [!coffeetime] *Needs Updated — New Form Since Originally Requested*
+> 
 
 ## reigningmuses
 
