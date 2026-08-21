@@ -340,43 +340,43 @@ Ashina ☾⭒ QuickID — 9:55 - 9:59 Dragon ( Dragon Age )
 ### Baldur's Gate
 #### 2 BG.1 Scion of the Outer Planes
 ```
-Ashina ☾⭒ Scion Of The Outer Planes — Crossover ( Baldur's Gate )
+Ashina ☾⭒ Scion Of The Outer Planes — Alt Universe ( Baldur's Gate )
 ```
 
 #### 2 BG.2 Astral Drifter
 ```
-Ashina ☾⭒ Astral Drifter — Crossover ( Baldur's Gate )
+Ashina ☾⭒ Astral Drifter — Alt Universe ( Baldur's Gate )
 ```
 
 ### Dragon Age
 #### 2 DA.1 Verse
 ```
-Ashina ☾⭒ QuickID — Crossover ( Dragon Age )
+Ashina ☾⭒ QuickID — Alt Universe ( Dragon Age )
 ```
 
 ### Mass Effect
 #### 2 ME.1 Verse
 ```
-Ashina ☾⭒ QuickID — Crossover ( Mass Effect )
+Ashina ☾⭒ QuickID — Alt Universe ( Mass Effect )
 ```
 
 ### Other Fandoms
 #### Doctor Who
 ##### 2 DW.1 One Big Continuity Error
 ```
-Ashina ☾⭒ One Big Continuity Error — Crossover ( Doctor Who )
+Ashina ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who )
 ```
 
 #### Elder Scrolls
 ##### 2 ES.1 Verse
 ```
-Ashina ☾⭒ QuickID — Crossover ( Elder Scrolls )
+Ashina ☾⭒ QuickID — Alt Universe ( Elder Scrolls )
 ```
 
 #### Stardew Valley
 ##### 2 SV.1 Verse
 ```
-Ashina ☾⭒ QuickID — Crossover ( Stardew Valley )
+Ashina ☾⭒ QuickID — Alt Universe ( Stardew Valley )
 ```
 
 ---

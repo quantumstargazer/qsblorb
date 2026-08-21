@@ -299,13 +299,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Mahariel\|Isenril Mahariel]] |
-> | Mainverses | [[Summary - Mahariel#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Mahariel#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Mahariel#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Mahariel#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel\|Isenril Mahariel]] |
+> | Mainverses | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Isenril Mahariel/Summary - Mahariel#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Zevran Arainai
 

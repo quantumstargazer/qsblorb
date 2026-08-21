@@ -12,7 +12,7 @@ IC ☾⭒ A Quantum Leap From Imagining, IC ☾⭒ Ward Ingellvar,
 # Codex
 
 ```
-Codex ☾⭒ TAGLINE, Codex ☾⭒ Ward Ingellvar
+Codex ☾⭒ Ward Ingellvar
 ```
 
 ## Headcanon
@@ -340,43 +340,43 @@ Playlist ☾⭒ Starman Waiting In The Sky, Playlist ☾⭒ Ward Ingellvar
 ### Baldur's Gate
 #### 2 BG.1 Scion of the Outer Planes
 ```
-Ward ☾⭒ Scion Of The Outer Planes — Crossover ( Baldur's Gate )
+Ward ☾⭒ Scion Of The Outer Planes — Alt Universe ( Baldur's Gate )
 ```
 
 #### 2 BG.2 Astral Drifter
 ```
-Ward ☾⭒ Astral Drifter — Crossover ( Baldur's Gate )
+Ward ☾⭒ Astral Drifter — Alt Universe ( Baldur's Gate )
 ```
 
 ### Dragon Age
 #### 2 DA.1 Verse
 ```
-Ward ☾⭒ QuickID — Crossover ( Dragon Age )
+Ward ☾⭒ QuickID — Alt Universe ( Dragon Age )
 ```
 
 ### Mass Effect
 #### 2 ME.1 Verse
 ```
-Ward ☾⭒ QuickID — Crossover ( Mass Effect )
+Ward ☾⭒ QuickID — Alt Universe ( Mass Effect )
 ```
 
 ### Other Fandoms
 #### Doctor Who
 ##### 2 DW.1 One Big Continuity Error
 ```
-Ward ☾⭒ One Big Continuity Error — Crossover ( Doctor Who )
+Ward ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who )
 ```
 
 #### Elder Scrolls
 ##### 2 ES.1 Verse
 ```
-Ward ☾⭒ QuickID — Crossover ( Elder Scrolls )
+Ward ☾⭒ QuickID — Alt Universe ( Elder Scrolls )
 ```
 
 #### Stardew Valley
 ##### 2 SV.1 Verse
 ```
-Ward ☾⭒ QuickID — Crossover ( Stardew Valley )
+Ward ☾⭒ QuickID — Alt Universe ( Stardew Valley )
 ```
 
 ---
