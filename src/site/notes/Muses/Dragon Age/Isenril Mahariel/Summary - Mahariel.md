@@ -104,7 +104,7 @@
 # Canon Divergent AUs
 ## Blighted Exile
 
-> [!statsbox]+ VerseID ( Dragon Age )
+> [!statsbox]+ Blighted Exile ( Dragon Age )
 >
 > **Basic Info**
 > 
