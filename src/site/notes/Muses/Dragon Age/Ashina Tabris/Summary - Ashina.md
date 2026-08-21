@@ -68,7 +68,7 @@ TBA
 > 
 > | | |
 > |---|---|
-> | Verse/AU Details | Dragon Age |
+> | Verse/AU Details | [[Muses/Dragon Age/Ashina Tabris/0 Canon Typical/Dragon Age - Ashina\|Dragon Age - Ashina]] |
 > | Verse/AU Type | Mainverse - Canon Typical |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
