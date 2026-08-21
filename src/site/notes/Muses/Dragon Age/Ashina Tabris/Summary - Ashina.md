@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary","muse-ashina"],"dg-note-properties":{"tags":["directory","summary","muse-ashina"],"aliases":["Dossiers & Verses"]}}
+{"dg-publish":true,"permalink":"/muses/dragon-age/ashina-tabris/summary-ashina/","tags":["directory","summary","open-muses","dragon-age","muse-ashina"],"dg-note-properties":{"tags":["directory","summary","open-muses","dragon-age","muse-ashina"],"aliases":["Dossiers & Verses","Ashina Tabris","Ashina de Riva","Ashina de Riva née Tabris"]}}
 ---
 
 # Dossiers & Verses
@@ -56,6 +56,7 @@ TBA
 
 > [!quote] Ashina Tabris - *9:30 Dragon*
 > "I killed them like dogs, Shianni. Not just them. All the humans who hurt you."
+> 
 
 ---
 # Canon Typical
@@ -475,7 +476,7 @@ TBA
 ## Mass Effect AUs
 ### Mercenary Assassin
 
-> [!statsbox]+ Mercenary Assassin ( Mass Effect )
+> [!statsbox]+ Mercenary Assassin — Alt Universe ( Mass Effect )
 >
 > **Basic Info**
 > 
@@ -500,15 +501,15 @@ TBA
 > 
 > | | |
 > |---|---|
-> | Verse | Ashina ☾⭒ Mercenary Assassin ( Mass Effect ) |
+> | Verse | Ashina ☾⭒ Mercenary Assassin — Alt Universe ( Mass Effect ) |
 > 
 > > [!statsbox]- Timeline Tags
 > >
 > > | | |
 > > |---|---|
-> > | 2186 - 2188 CE | Ashina ☾⭒ Mercenary Assassin — 2186 CE ( Mass Effect ) |
-> > | 2185 - 2186 CE (*Default*) | Ashina ☾⭒ Mercenary Assassin — 2185 CE ( Mass Effect ) |
-> > | 2183 - 2184 CE | Ashina ☾⭒ Mercenary Assassin — 2183 CE ( Mass Effect ) |
+> > | 2186 - 2188 CE | Ashina ☾⭒ Mercenary Assassin — 2186 CE — Alt Universe ( Mass Effect ) |
+> > | 2185 - 2186 CE (*Default*) | Ashina ☾⭒ Mercenary Assassin — 2185 CE — Alt Universe ( Mass Effect ) |
+> > | 2183 - 2184 CE | Ashina ☾⭒ Mercenary Assassin — 2183 CE — Alt Universe ( Mass Effect ) |
 > > 
 > 
 > 
@@ -529,17 +530,17 @@ TBA
 > | Verse/AU Type | Alt Universe - Fandom Specific AU |
 > | Setting | Doctor Who |
 > | Timeline | *Varies* |
-> | Condition | — |
+> | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Plotted |
-> | Availability | Intended For Doctor Who & Other Time Travellers |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
-> > *Ashina encounters a strange person with a stranger ability to travel through time.*
+> > *TBA*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -547,6 +548,8 @@ TBA
 > | Verse | Ashina ☾⭒ One Big Continuity Error — Alt Universe ( Doctor Who ) |
 > 
 > 
+
+
 
 ### Elder Scrolls AUs
 
@@ -576,11 +579,11 @@ TBA
 > | Verse/AU Details | Absolute Crisis |
 > | Verse/AU Type | Crossover - Trapped In Another World AU |
 > | Setting | Baldur's Gate ( *Forgotten Realms* ) |
-> | Timeline | Info |
-> | Condition | — |
+> | Timeline | — |
+> | Condition | Default for Baldur's Gate ( *Forgotten Realms* ) Muses |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Default for Baldur's Gate ( *Forgotten Realms* ) Muses |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
@@ -621,7 +624,7 @@ TBA
 > > *This is not the Thedas that Ashina knows...*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -632,11 +635,11 @@ TBA
 > >
 > > | | |
 > > |---|---|
-> > | 9:50 - 9:54 Dragon (*Default*) | Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon ( Dragon Age ) |
-> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:45 - 9:49 Dragon ( Dragon Age ) |
-> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:40 - 9:44 Dragon ( Dragon Age ) |
-> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:35 - 9:39 Dragon ( Dragon Age ) |
-> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:30 - 9:34 Dragon ( Dragon Age ) |
+> > | 9:50 - 9:54 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:50 - 9:54 Dragon — Another World ( Dragon Age ) |
+> > | 9:45 - 9:49 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:45 - 9:49 Dragon — Another World ( Dragon Age ) |
+> > | 9:40 - 9:44 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:40 - 9:44 Dragon — Another World ( Dragon Age ) |
+> > | 9:35 - 9:39 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:35 - 9:39 Dragon — Another World ( Dragon Age ) |
+> > | 9:30 - 9:34 Dragon | Ashina ☾⭒ This Shit Is Weird — 9:30 - 9:34 Dragon — Another World ( Dragon Age ) |
 > > 
 > 
 > 
@@ -657,14 +660,14 @@ TBA
 > | Condition | — |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Default for Mass Effect muses |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *Ashina finds herself on a different world far from her own...*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -675,13 +678,12 @@ TBA
 > >
 > > | | |
 > > |---|---|
-> > | 2186 - 2188 CE | Ashina ☾⭒ Anomaly Detected — 2186 CE ( Mass Effect ) |
-> > | 2184 - 2186 CE | Ashina ☾⭒ Anomaly Detected — 2185 CE ( Mass Effect ) |
-> > | 2183 - 2184 CE | Ashina ☾⭒ Anomaly Detected — 2183 CE ( Mass Effect ) |
+> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR — Another World ( Mass Effect ) |
+> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR — Another World ( Mass Effect ) |
+> > | YEAR | Ashina ☾⭒ Anomaly Detected — YEAR — Another World ( Mass Effect ) |
 > > 
 > 
 > 
-
 ## Other Fandoms AWs
 ### Doctor Who AWs
 #### Previously—Next Time
@@ -696,17 +698,17 @@ TBA
 > | Verse/AU Type | Crossover - Trapped In Another World AU |
 > | Setting | Doctor Who |
 > | Timeline | *Varies* |
-> | Condition | — |
+> | Condition | Intended For Doctor Who & Other Time Travellers |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
-> | Availability | Intended For Doctor Who & Other Time Travellers |
+> | Availability | Specify To Request Verse |
 >
 > **Summary**
 > 
 > > *TBA*
 > 
 > TBA
-> 
+>  
 > **Tumblr Tags**
 > 
 > | | |
@@ -768,11 +770,9 @@ TBA
 
 
 
+
 ---
 # Private Verses & AUs
-
-> [!attention] Not Currently Available
-> 
 
 
 ## corvusrookery - Viago de Riva
@@ -841,8 +841,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -935,8 +933,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1029,8 +1025,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1123,8 +1117,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1217,8 +1209,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1311,8 +1301,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1405,8 +1393,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1499,8 +1485,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1593,8 +1577,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
@@ -1694,8 +1676,6 @@ TBA
 > > *TBA*
 > > 
 > 
-> 
->  
 > **Tumblr Tags**
 > 
 > | | |
