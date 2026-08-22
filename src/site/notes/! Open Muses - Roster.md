@@ -65,7 +65,7 @@
 > **Summary**
 > 
 > > *Moon Elf — Private Investigator & Spirit Medium — College of Glamour Bard*
-> > ***Pre-Established Connection*** — *Knew Astarian Ancunín as a Magistrate in Baldur's Gate*
+> > ***Pre-Established Connection*** — *Knew Astarion Ancunín as a Magistrate in Baldur's Gate*
 > 
 > Faeynore Moonstar is a private investigator out of Baldur's Gate, where she has often aided defendants in proving their innocence before the magistrates - *including* Magistrate Astarion Ancunín before his death some two centuries prior. 
 > 
