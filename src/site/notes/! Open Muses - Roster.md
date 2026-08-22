@@ -39,13 +39,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Tavares\|Tavares Umbrafae]] |
-> | Mainverses | [[Summary - Tavares#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Tavares#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Tavares#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Tavares#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares\|Tavares Umbrafae]] |
+> | Mainverses | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Baldur's Gate/Tavares Umbrafae/Summary - Tavares#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Faeynore Moonstar
 
@@ -75,13 +75,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Faeynore\|Faeynore Moonstar]] |
-> | Mainverses | [[Summary - Faeynore#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Faeynore#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Faeynore#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Faeynore#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore\|Faeynore Moonstar]] |
+> | Mainverses | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Baldur's Gate/Faeynore Moonstar/Summary - Faeynore#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Dragon Age
