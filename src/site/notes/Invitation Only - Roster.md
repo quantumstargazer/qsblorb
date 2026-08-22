@@ -36,13 +36,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Dirge\|Dirge]] |
-> | Mainverses | [[! Summary - Dirge#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Dirge#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Dirge#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Dirge#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Dirge#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Dirge#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Dirge\|Dirge]] |
+> | Mainverses | [[Summary - Dirge#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Dirge#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Dirge#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Dirge#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Dirge#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Dirge#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Fisk ( The Enigma )
 
@@ -70,13 +70,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Fisk\|Fisk]] |
-> | Mainverses | [[! Summary - Fisk#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Fisk#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Fisk#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Fisk#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Fisk#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Fisk#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Fisk\|Fisk]] |
+> | Mainverses | [[Summary - Fisk#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Fisk#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Fisk#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Fisk#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Fisk#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Fisk#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Halima
 
@@ -103,13 +103,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Halima\|Halima]] |
-> | Mainverses | [[! Summary - Halima#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Halima#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Halima#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Halima#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Halima#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Halima#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Halima\|Halima]] |
+> | Mainverses | [[Summary - Halima#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Halima#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Halima#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Halima#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Halima#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Halima#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Karlach Cliffgate
 
@@ -136,13 +136,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Karlach\|Karlach Cliffgate]] |
-> | Mainverses | [[! Summary - Karlach#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Karlach#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Karlach#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Karlach#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Karlach#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Karlach#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Karlach\|Karlach Cliffgate]] |
+> | Mainverses | [[Summary - Karlach#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Karlach#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Karlach#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Karlach#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Karlach#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Karlach#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Dragon Age
@@ -171,13 +171,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Felassan\|Felassan]] |
-> | Mainverses | [[! Summary - Felassan#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Felassan#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Felassan#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Felassan#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Felassan#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Felassan#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Felassan\|Felassan]] |
+> | Mainverses | [[Summary - Felassan#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Felassan#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Felassan#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Felassan#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Felassan#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Felassan#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Abelas
 
@@ -204,13 +204,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Abelas\|Abelas]] |
-> | Mainverses | [[! Summary - Abelas#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Abelas#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Abelas#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Abelas#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Abelas#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Abelas#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Abelas\|Abelas]] |
+> | Mainverses | [[Summary - Abelas#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Abelas#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Abelas#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Abelas#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Abelas#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Abelas#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Banal'ras
 
@@ -237,13 +237,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Banal'ras\|Banal'ras]] |
-> | Mainverses | [[! Summary - Banal'ras#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Banal'ras#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Banal'ras#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Banal'ras#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Banal'ras#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Banal'ras#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Banal'ras\|Banal'ras]] |
+> | Mainverses | [[Summary - Banal'ras#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Banal'ras#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Banal'ras#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Banal'ras#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Banal'ras#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Banal'ras#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Bellara Lutare
 
@@ -270,13 +270,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Bellara\|Bellara Lutare]] |
-> | Mainverses | [[! Summary - Bellara#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Bellara#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Bellara#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Bellara#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Bellara#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Bellara#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Bellara\|Bellara Lutare]] |
+> | Mainverses | [[Summary - Bellara#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Bellara#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Bellara#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Bellara#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Bellara#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Bellara#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Heir
 
@@ -303,13 +303,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Heir\|Heir]] |
-> | Mainverses | [[! Summary - Heir#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Heir#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Heir#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Heir#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Heir#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Heir#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Heir\|Heir]] |
+> | Mainverses | [[Summary - Heir#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Heir#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Heir#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Heir#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Heir#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Heir#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Merrill
 
@@ -336,13 +336,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Merrill\|Merrill]] |
-> | Mainverses | [[! Summary - Merrill#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Merrill#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Merrill#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Merrill#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Merrill#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Merrill#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Merrill\|Merrill]] |
+> | Mainverses | [[Summary - Merrill#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Merrill#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Merrill#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Merrill#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Merrill#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Merrill#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Anders
 
@@ -369,13 +369,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Anders\|Anders]] |
-> | Mainverses | [[! Summary - Anders#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Anders#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Anders#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Anders#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Anders#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Anders#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Anders\|Anders]] |
+> | Mainverses | [[Summary - Anders#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Anders#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Anders#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Anders#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Anders#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Anders#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Clark Kent
 
@@ -402,13 +402,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Clark\|Clark Kent]] |
-> | Mainverses | [[! Summary - Clark#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Clark#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Clark#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Clark#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Clark#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Clark#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Clark\|Clark Kent]] |
+> | Mainverses | [[Summary - Clark#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Clark#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Clark#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Clark#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Clark#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Clark#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Bruce Wayne
 
@@ -435,13 +435,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Bruce\|Bruce Wayne]] |
-> | Mainverses | [[! Summary - Bruce#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Bruce#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Bruce#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Bruce#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Bruce#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Bruce#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Bruce\|Bruce Wayne]] |
+> | Mainverses | [[Summary - Bruce#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Bruce#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Bruce#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Bruce#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Bruce#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Bruce#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Mass Effect
@@ -471,13 +471,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Nihlus\|Nihlus Kryik]] |
-> | Mainverses | [[! Summary - Nihlus#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Nihlus#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Nihlus#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Nihlus#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Nihlus#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Nihlus#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Nihlus\|Nihlus Kryik]] |
+> | Mainverses | [[Summary - Nihlus#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Nihlus#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Nihlus#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Nihlus#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Nihlus#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Nihlus#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Avitus Rix
 
@@ -504,13 +504,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Avitus\|Avitus Rix]] |
-> | Mainverses | [[! Summary - Avitus#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Avitus#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Avitus#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Avitus#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Avitus#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Avitus#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Avitus\|Avitus Rix]] |
+> | Mainverses | [[Summary - Avitus#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Avitus#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Avitus#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Avitus#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Avitus#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Avitus#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Mordin Solus
 
@@ -537,13 +537,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Mordin\|Mordin Solus]] |
-> | Mainverses | [[! Summary - Mordin#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Mordin#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Mordin#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Mordin#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Mordin#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Mordin#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Mordin\|Mordin Solus]] |
+> | Mainverses | [[Summary - Mordin#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Mordin#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Mordin#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Mordin#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Mordin#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Mordin#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Thane Krios
 
@@ -570,13 +570,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Thane\|Thane Krios]] |
-> | Mainverses | [[! Summary - Thane#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Thane#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Thane#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Thane#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Thane#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Thane#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Thane\|Thane Krios]] |
+> | Mainverses | [[Summary - Thane#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Thane#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Thane#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Thane#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Thane#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Thane#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Javik
 
@@ -603,13 +603,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Javik\|Javik]] |
-> | Mainverses | [[! Summary - Javik#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Javik#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Javik#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Javik#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Javik#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Javik#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Javik\|Javik]] |
+> | Mainverses | [[Summary - Javik#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Javik#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Javik#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Javik#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Javik#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Javik#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Other Fandoms
@@ -639,13 +639,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Raz\|Razum-dar]] |
-> | Mainverses | [[! Summary - Raz#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Raz#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Raz#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Raz#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Raz#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Raz#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Raz\|Razum-dar]] |
+> | Mainverses | [[Summary - Raz#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Raz#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Raz#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Raz#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Raz#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Raz#Private Verses & AUs\|Private Verses & AUs]] |
 
 ### Inigo
 
@@ -672,13 +672,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Inigo\|Inigo]] |
-> | Mainverses | [[! Summary - Inigo#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Inigo#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Inigo#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Inigo#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Inigo#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Inigo#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Inigo\|Inigo]] |
+> | Mainverses | [[Summary - Inigo#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Inigo#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Inigo#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Inigo#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Inigo#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Inigo#Private Verses & AUs\|Private Verses & AUs]] |
 
 ### Courier
 
@@ -705,13 +705,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Courier\|Courier]] |
-> | Mainverses | [[! Summary - Courier#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Courier#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Courier#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Courier#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Courier#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Courier#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Courier\|Courier]] |
+> | Mainverses | [[Summary - Courier#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Courier#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Courier#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Courier#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Courier#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Courier#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Stardew Valley
 ### Magnus Rasmodius
@@ -739,13 +739,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Wizard\|Magnus Rasmodius]] |
-> | Mainverses | [[! Summary - Wizard#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Wizard#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Wizard#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Wizard#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Wizard#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Wizard#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Wizard\|Magnus Rasmodius]] |
+> | Mainverses | [[Summary - Wizard#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Wizard#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Wizard#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Wizard#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Wizard#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Wizard#Private Verses & AUs\|Private Verses & AUs]] |
 
 ### Elliot
 
@@ -772,13 +772,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Elliot\|Elliot]] |
-> | Mainverses | [[! Summary - Elliot#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Elliot#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Elliot#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Elliot#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Elliot#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Elliot#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Elliot\|Elliot]] |
+> | Mainverses | [[Summary - Elliot#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Elliot#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Elliot#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Elliot#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Elliot#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Elliot#Private Verses & AUs\|Private Verses & AUs]] |
 
 ### Gunter
 
@@ -805,13 +805,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[! Summary - Gunter\|Gunter]] |
-> | Mainverses | [[! Summary - Gunter#Canon Typical\|Canon Typical]] |
-> | Altverses | [[! Summary - Gunter#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[! Summary - Gunter#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[! Summary - Gunter#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[! Summary - Gunter#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[! Summary - Gunter#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Summary - Gunter\|Gunter]] |
+> | Mainverses | [[Summary - Gunter#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Summary - Gunter#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Summary - Gunter#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Summary - Gunter#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Summary - Gunter#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Summary - Gunter#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 
