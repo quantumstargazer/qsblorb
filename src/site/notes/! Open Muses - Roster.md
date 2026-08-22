@@ -227,13 +227,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Haleir\|Haleir Lavellan]] |
-> | Mainverses | [[Summary - Haleir#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Haleir#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Haleir#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Haleir#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir\|Haleir Lavellan]] |
+> | Mainverses | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Haleir Lavellan/Summary - Haleir#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Marian Hawke
 

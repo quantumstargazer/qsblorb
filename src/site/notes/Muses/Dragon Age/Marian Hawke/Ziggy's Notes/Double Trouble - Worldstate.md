@@ -59,7 +59,6 @@
 
 ---
 # Quick Info
-
 ## Summary
 
 
