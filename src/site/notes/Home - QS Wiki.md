@@ -224,7 +224,7 @@
 > 
 > **All Crossovers Are Fandom Matched Unless Requested**
 > 
-> All Fandom Specific AUs & Trapped In Another World AUs are ***fandom matched***, meaning I *won't* send any variant of my muses your way for fandoms that you yourself do not write unless we've explicitly plotted it &/or you've otherwise given me permission to do so.
+> All Fandom Specific AUs & Trapped In Another World AUs are ***fandom matched*** by default — meaning I *won't* send any variant of my muses your way for fandoms that you yourself do not write unless we've explicitly plotted it &/or you've otherwise given me permission to do so.
 >
 
 ### RP Preferences Tracker
@@ -283,8 +283,9 @@
 > 
 > | | |
 > |---|---|
-> | Request That I Write Starters | [[Interactive Forms#Starter Call\|Starter Call]] |
-> | Request That I Send Inbox Prompts | [[Interactive Forms#Inbox Call\|Inbox Call]] |
+> | Request That I Write Starters | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Request That I Send Inbox Prompts | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Request That We Get Together To Plot | [[Interactive Forms#Interactions Call\|Interactions Call]] |
 > 
 
 ---
@@ -297,13 +298,13 @@
 > 
 > | | |
 > |---|---|
-> | Your (& Theirs) Turn | [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) |
+> | Your (*& Theirs*) Turn | [Their Turn](https://www.rpthreadtracker.com/public/quantumstargazer/qstheirturn) |
 > 
 > **Active Threads On Ziggy's Turn**
 > 
 > | | |
 > |---|---|
-> | My Turn | [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) |
+> | My (*Ziggy's*) Turn | [Ziggy’s Turn](https://www.rpthreadtracker.com/public/quantumstargazer/ziggysturn) |
 > 
 > **All Currently Active Threads**
 > 
@@ -314,6 +315,8 @@
 > **Looking For A Thread That's Not Listed?**
 > 
 > If it has been two months or longer, it has probably been sent to the Inactive Tracker instead — meaning I've marked it as "queued" if it was on my turn (I never put ic stuff in the actual tumblr queue, this is just the easiest way for me to manage it and get the desired result of moving it off the active list), or I've archived it for the moment so I can keep easier tabs on the number of active threads I currently have.
+> 
+> **Not Dropped Just Because They're Archived**
 > 
 > Archived threads are *not dropped* — it's just that my anxiety goes a bit haywire when so many of my threads sit inactive for months at a time (regardless of whose turn it is), so this is the easiest way I can manage it, while also helping make sure I don't lose things due to my really shitty memory.
 > 
@@ -361,15 +364,6 @@
 > - Threads that are outright dropped and/or otherwise ended will be marked as such in the tracker by similarly adding either "**(Dropped)**", "**(Ended)**", or another suitable descriptor for why the thread is no longer being continued to the end of the title.
 
 ---
-
-
-
-
-
-
-
-
----
 # About Mun
 
 > [!profilebox] QuantumStargazer
@@ -397,7 +391,7 @@
 > 
 > | | |
 > |---|---|
-> | Gaming | Extremely Eclectic Genres - Favorite: Choice-Based RPGs |
+> | Gaming | Extremely Eclectic Genres - *Favorite:* Choice-Based RPGs |
 > | Writing | Fan Fiction & Original Works of Fiction |
 > | Art | Digital Art & Photography |
 > | Music | Multi-Instrumentalist - Flute, French Horn, Violin, etc. |
@@ -409,11 +403,11 @@
 > > 
 > > | | |
 > > |---|---|
-> > | Video Games | Baldur's Gate 3, Dragon Age (series), Mass Effect (series), Stardew Valley, Slime Rancher, The Elder Scrolls V: Skyrim |
+> > | Video Games | Baldur's Gate 3, Dragon Age (series), Mass Effect (series), Stardew Valley, Slime Rancher (series), The Elder Scrolls V: Skyrim, The Elder Scrolls Online |
 > > | TV Shows | Doctor Who (1963), The *Real* Ghostbusters (1986), Meerkat Manor |
 > > | Movies | Doctor Who (1996), Ghostbusters (1984) |
 > > | Books | Discworld Series (Terry Pratchett), Hitchhiker's Guide Series (Douglas Adams) |
-> > | Music | David Bowie, Nightwish, lots of 80s & 90s music, lots of heavy metal |
+> > | Music | "Weird Al" Yankovic, David Bowie, Nightwish, lots of 80s & 90s music, most heavy metal, New Orleans Jazz, most classical |
 > 
 
 > [!ziggy]+ Wordy AF - Unapologetically Neurodivergent
@@ -442,5 +436,6 @@
 
 
 
-
+---
+# Footnotes
 [^1]: Includes Forgotten Realms and expanded Dungeons & Dragons lore.
