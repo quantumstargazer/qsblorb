@@ -104,6 +104,7 @@
 > **Summary**
 > 
 > > *City Elf — ~~Grey Wardens (defected)~~ Antivan Crows — Master Assassin*
+> > **Pre-Established Connection** — *Likely serves as Viago's Second after he takes over as Talon*
 > > **Heavy Canon Divergence** *after the events in Origins - Awakening*
 > 
 > Ashina de Riva is the child of an Antivan Crow of House Arainai, who later becomes a Crow herself in order to gain protection from the Order of the Grey Wardens and escape a life she never wanted thanks to being conscripted by the Warden-Commander of Ferelden, only to end up the *de facto* Commander herself during the course of the Fifth Blight.
@@ -214,7 +215,7 @@
 > **Summary**
 > 
 > > *~~Dalish Exile~~ Elf — ~~Inquisition~~ Followers of Fen'Harel — ~~Inquisitor~~ Agent of Fen'Harel*
-> > **Heavy Canon Divergence** *after the events in Inquisition*
+> > **Heavy Canon Divergence** *after the events in Inquisition & Trespasser*
 > 
 > Born in Arlathan Forest amidst the ancient elvhen ruins, Haleir has long since been fascinated by Fen'Harel, spending her time playing around the wolf statues. When her magic awakens when she is only four years old, she is one mage too many for her clan to handle. With the next Arlathvhen being only two years away, the Keeper decides to start her magical training, but reaches out to the other clans to see who might be in need of a First, and she is traded to Clan Lavellan for that very purpose during the gathering of the clans.
 > 
@@ -252,7 +253,7 @@
 > **Summary**
 > 
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
-> > **Heavy Canon Divergence** — *"Double Trouble" Twin of [[By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]*
+> > **Heavy Canon Divergence** — *"Double Trouble" Worldstate — Twin of [[By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]*
 > 
 > The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven. 
 > 

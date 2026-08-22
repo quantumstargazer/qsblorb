@@ -160,7 +160,8 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Human ~~Commoner~~ Noble — ~~City of Kirkwall~~ — Heir to Maevaris Tilani*
+> > **Heavy Canon Divergence** — *Defaults to "Double Trouble" Worldstate for [[Muses/Dragon Age/Marian Hawke/Summary - Marian\|Marian Hawke]]
 > 
 > TBA
 > 
@@ -193,7 +194,8 @@
 >
 > **Summary**
 > 
-> > *TBA*
+> > *Human ~~Commoner~~ Noble — City of Kirkwall — Kirkwall Guard Administrative Assistant*
+> > **Heavy Canon Divergence** — *Defaults to "Double Trouble" Worldstate for [[Muses/Dragon Age/Marian Hawke/Summary - Marian\|Marian Hawke]]*
 > 
 > TBA
 > 
