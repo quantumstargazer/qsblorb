@@ -337,13 +337,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Zevran\|Zevran Arainai]] |
-> | Mainverses | [[Summary - Zevran#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Zevran#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Zevran#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Zevran#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran\|Zevran Arainai]] |
+> | Mainverses | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Zevran Arainai/Summary - Zevran#Private Verses & AUs\|Private Verses & AUs]] |
 
 ---
 # Mass Effect
@@ -376,13 +376,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Isabela\|Isabela Shepard]] |
-> | Mainverses | [[Summary - Isabela#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Isabela#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Isabela#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Isabela#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela\|Isabela Shepard]] |
+> | Mainverses | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Mass Effect/Isabela Shepard/Summary - Isabela#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 ---
