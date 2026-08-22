@@ -275,17 +275,25 @@
 > | Join The Cosmos | [[Interactive Forms#Permanent Interactions Call\|Permanent Interactions Call]] |
 > 
 
-### Interaction Calls
+### Interactions Call
 
-> [!statsbox]+ Interaction Call Forms
+> [!statsbox]+ Interactions Call Form
 >
-> **Interaction Calls — Explicitly Request I Initiate RP**
+> **Interactions Call — Explicitly Request I Initiate RP**
 > 
 > | | |
 > |---|---|
-> | Request That I Write Starters | [[Interactive Forms#Interactions Call\|Interactions Call]] |
-> | Request That I Send Inbox Prompts | [[Interactive Forms#Interactions Call\|Interactions Call]] |
-> | Request That We Get Together To Plot | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Request Starters | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Request Inbox Prompts | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> 
+> **Interactions Call — Plotting & Shipping/Dynamics**
+> 
+> | | |
+> |---|---|
+> | Getting Together To Plot | [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> | Discuss Ships/Dynamics| [[Interactive Forms#Interactions Call\|Interactions Call]] |
+> 
+> This is intended for if we're not yet friends on discord, *so that you can share your discord handle with me and we'll have a place to start without awkward ice breakers in chat (again, I'm extremely socially anxious due to a disorder, and this can help some with that if we have a point to discuss rather than being expected to make small talk)*.
 > 
 
 ---
