@@ -142,6 +142,7 @@
 > **Summary**
 > 
 > > *~~Spirit of Learning~~ Elf — Mourn Watch — Mortalitasi Death Caller*
+> > **Pre-Established Connection** — *Was one of Solas' students when they were both still spirits*
 > > **Heavy Canon Divergence** *in background origin & during the events in Veilguard*
 > 
 > Ward Ingellvar is a foundling of the Necropolis, discovered deep within the lower levels of the Grand Necropolis as an infant by benevolent undead. As Vorgoth's ward, the elven child is raised within the Necropolis and the Mourn Watch. Their magic is awakened by the instability rippling through the Fade when the Breach opens in the south in 9:41 Dragon.
@@ -290,7 +291,7 @@
 > **Summary**
 > 
 > *~~Dalish Exile~~ Elf — ~~Grey Wardens~~ — Ranger — ~~Hero of Ferelden~~ \[Redacted]*
-> > **Heavy Canon Divergence**
+> > **Heavy Canon Divergence** — *Marethari's pact with Flemeth to secure her place as Keeper*
 > 
 > Mahariel is the last of a long, proud lineage of Keepers descended from the Emerald Knights dating back to the formation of Clan Sabrae — and though he never manifested magic himself, he is unusually sensitive to the Fade. He and Tamlen both bear Dirthamen's vallaslin, and become the clan's hunters of secrets and lost knowledge, often delving into ruins near wherever the clan sets up camp, bringing back any relics that they uncover in their search.
 > 
@@ -325,8 +326,9 @@
 >
 > **Summary**
 > 
-> > *City Elf — Antivan Crows — Master Assassin — Eighth Talon*
-> > **Heavy Canon Divergence** — *Eighth Talon of the Crows as of 9:45 Dragon*
+> > *City Elf — Antivan Crows — Master Assassin — ~~Black Shadow~~ Eighth Talon*
+> > **Heavy Canon Divergence** — *Operates as the Black Shadow from 9:31 to 9:45 Dragon 
+> > — Eighth Talon of the Crows & Head of House Arainai as of 9:45 Dragon*
 > 
 > In 9:45 Dragon, Zevran takes advantage of the chaos among the Houses with half of their Talons dead — including the Eighth Talon of House Arainai — and thus he claims the House and the position for himself, deciding that the only way the House is ever truly going to change is if they are destroyed completely, or he takes control of them himself.
 > 
@@ -363,7 +365,7 @@
 > **Summary**
 > 
 > > *Human ~~Biotic~~ — Paragade — Council Spectre — Infiltration Saboteur Engineer*
-> > **Heavy Canon Divergence** 
+> > **Heavy Canon Divergence** — *Pre-enlistment history & attitude towards the Alliance*
 > 
 > Isabela Shepard is an engineer, elite N7 operative, and the first human to be accepted as a Council Spectre. She is a registered biotic, but only possesses limited yet powerful biotic skill in combat.
 > 
