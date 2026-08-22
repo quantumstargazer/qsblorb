@@ -15,11 +15,45 @@
 
 > [!main] corvusrookery — *Dragon Age Multimuse*
 > > *blog:* [corvusrookery](https://corvusrookery.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Ashina & Viago |
+> > |  | Ashina & Alissa |
+> > |  | Ward & Solas |
+> > |  | Ward & Viago |
+> > |  | Ward & Vilma |
+> > |  | Haleir & Solas |
+> > |  | Mahariel & Solas |
+> > |  | Marian & Viago |
+> > |  | Varric & Solas |
+> > |  | — |
+> >
+> 
 ### lanternlit
 
 > [!main] lanternlit — *Multifandom Multimuse*
 > > *blog:* [lanternlit](https://lanternlit.tumblr.com/)
 > 
+> > [!statsbox]- Ships & Dynamics
+> > > *This is not a definitive list.*
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Tavares & Astarion |
+> > |  | Faeynore & Astarion |
+> > |  | Isabela & Astarion |
+> > |  | Karlach & Wren |
+> > |  | — |
+> >
+>  
 
 ---
 ## Ships & Dynamics
@@ -30,6 +64,17 @@
 
 > [!shipdyn] luctumvigilanties — *Atris (Dragon Age OC)*
 > > *blog:* [luctumvigilanties](https://luctumvigilanties.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Ward & Atris |
+> > |  | — |
+> >
+> 
 
 
 
@@ -46,12 +91,34 @@
 
 > [!bfc] aetatedraconis - *Dragon Age Multimuse*
 > > *blog:* [aetatedraconis](https://aetatedraconis.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Marian & Varric |
+> > |  | — |
+> >
+> 
 
 ### codenamearchangel
 
 > [!bfc] codenamearchangel - *Garrus Vakarian (Mass Effect)*
 > > *blog:* [codenamearchangel](https://codenamearchangel.tumblr.com/)
 > 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Isabela & Garrus |
+> > |  | Nihlus & Garrus |
+> > |  | — |
+> >
+>  
 > > [!coffeetime] *Needs Updated — New Form Since Originally Requested*
 > 
 
@@ -59,11 +126,34 @@
 
 > [!bfc] reigningmuses - *Multifandom Multimuse*
 > > *blog:* [reigningmuses](https://reigningmuses.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | Ashina & Morrigan |
+> > |  | Ashina & Keiran |
+> > |  | — |
+> >
+> 
 
 ### soldraconis
 
 > [!bfc] soldraconis — *Baldur's Gate/D&D Multimuse*
 > > *blog:* [soldraconis](https://soldraconis.tumblr.com/)
+> 
+> > [!statsbox]- Ships & Dynamics
+> >
+> > **Established Relationships**
+> > 
+> > | | |
+> > |---|---|
+> > | Private Verses & AUs | — |
+> > |  | — |
+> >
+> 
 
 
 
