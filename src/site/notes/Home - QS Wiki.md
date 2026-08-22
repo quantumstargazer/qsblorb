@@ -18,15 +18,10 @@
 > >  **Their comfort (*and my own*) is priority over the comfort of any neurotypical individuals' who may wish to write with me.** The entire world is made to be neurotypical friendly. This is *my space*, and I will make it neurodivergent friendly at the expense of potentially losing interest from neurotypical individuals who I may not even feel comfortable following me in the first place.
 > 
 
-> [!sticky] Under Construction Overhaul
+> [!sticky]- Under Construction Overhaul
 > I'm currently working on overhauling the entire site, due to issues that were preventing updates from publishing. Please be patient while I'm reestablishing the basics in order to have a functional site available.
 > 
 > Currently, some sections have limited information available while I am restructuring the site, while others are simply the old version that I've put in place for now until I can get the new pages put together (like everything in the Rulebook section). I'm trying to keep the old stuff to a minimum, but it's a bit difficult to have a rp blog without any rules up, y'know?
-
-> [!coffeetime] Prioritizing Muses' Info
-> 
-> **If there is a muse you would like me to prioritize information on, please let me know.** I am *only* working on those in the [[! Open Muses - Roster\|Open Muses]] right now, but beyond that, I'm willing to prioritize any muse that someone is actively wanting more info on, so just drop me a note on tumblr, in discord, or even on github by [filing an issue report](https://github.com/quantumstargazer/quantumstargazer.github.io/issues) and I'll get to it as soon as I am able.
-> 
 
 ---
 ## QuantumStargazer
@@ -47,6 +42,12 @@
 
 ---
 ## Muse Rosters
+
+> [!coffeetime]+ Prioritizing Muses' Info
+> 
+> **If there is a muse you would like me to prioritize information on, please let me know.** I am *only* working on those in the [[! Open Muses - Roster\|Open Muses]] right now, but beyond that, I'm willing to prioritize any muse that someone is actively wanting more info on, so just drop me a note on tumblr, in discord, or even on github by [filing an issue report](https://github.com/quantumstargazer/quantumstargazer.github.io/issues) and I'll get to it as soon as I am able.
+> 
+
 ### Open Muses Roster
 
 > [!statsbox]+ Open Muses Roster - Open to Everyone
@@ -208,7 +209,7 @@
 
 > [!abstract] All-In-One Location
 > 
-> For your convenience, *all* of the forms are embedded onto [[Interactive Forms\|Interactive Forms]], so you can simply fill out whichever one(s) you want/need to without leaving this site. Links to the individual forms themselves are also provided on that page, if you prefer to fill them out on the service's site.
+> For your convenience, *all* of the forms are embedded onto [[Interactive Forms\|Interactive Forms]], so you can simply fill out whichever one(s) you want/need to without leaving this site. Links to the individual forms themselves are also [[Interactive Forms#Direct Form Links\|provided on that page]], if you prefer to fill them out on the form service's site.
 > 
 
 ### Disinterest Tracker
@@ -299,6 +300,7 @@
 ---
 # Thread Tracking
 ## Where You Can See What's Tracked
+### Active Threads
 
 > [!statsbox]+ RP Thread Tracker
 > 
