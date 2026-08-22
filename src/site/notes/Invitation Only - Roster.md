@@ -28,7 +28,7 @@
 >
 > **Summary**
 > 
-> > *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk*
+> > *Gold Dwarf — College of Spirits Bard — Way of the Long Death Monk — Grim Surgeon Rogue*
 > 
 > Unable to recall their life from *before* the nautiloid, they only know their name is The Dark Urge, that they are a bardic monk, and that everyone would look *so much better* as a pretty corpse...
 > 
@@ -61,8 +61,8 @@
 >
 > **Summary**
 > 
-> > *Mods-Inspired Alternative Dark Urge*
-> > **Heavy Canon Divergence**
+> > *Changeling — TBA*
+> > **Heavy Canon Divergence** — *Mods-Inspired Alternative Dark Urge*
 > 
 > TBA
 > 
@@ -95,7 +95,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *TBA*
 > 
 > TBA
 > 
@@ -128,7 +128,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *TBA*
 > 
 > TBA
 > 
@@ -163,7 +163,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Ancient Elvhen — Followers of Fen'Harel — Rebellion General*
 > 
 > TBA
 > 
@@ -196,7 +196,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Ancient Elvhen — Followers of Mythal — Sentinel of Mythal*
 > 
 > TBA
 > 
@@ -229,7 +229,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Ancient Elvhen — Followers of Dirthamen — Sentinel of Dirthamen*
 > 
 > TBA
 > 
@@ -262,7 +262,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Dalish Elf — Veil Jumpers — TBA*
 > 
 > TBA
 > 
@@ -295,7 +295,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *~~Dalish~~ Elf — Antivan Crows — Heir for House de Riva*
 > 
 > TBA
 > 
@@ -328,7 +328,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *~~Dalish Exile~~ Elf — ~~First of Clan Sabrae~~ — Keeper of Kirkwall Alienage*
 > 
 > TBA
 > 
@@ -361,7 +361,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human Mage — ~~Grey Wardens~~ Mage Underground of Kirkwall — Spirit Healer*
 > 
 > TBA
 > 
@@ -394,7 +394,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > **Heavy Canon Divergence** — *Inspired by Easter Egg in DAO*
 > 
 > TBA
 > 
@@ -427,7 +427,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > **Heavy Canon Divergence** — *Inspired by Easter Egg in DAO for Clark Kent*
 > 
 > TBA
 > 
@@ -496,7 +496,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Turian — ~~Council Spectre~~ Andromeda Initiative — Turian Pathfinder*
 > 
 > TBA
 > 
@@ -529,7 +529,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Salarian — Special Tasks Group (retired) — Salarian Scientist*
 > 
 > TBA
 > 
@@ -562,7 +562,8 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Drell — The Compact — Drell Assassin*
+> > **Heavy Canon Divergence** — *Cured of Kepral's Syndrome in 2186 CE*
 > 
 > TBA
 > 
@@ -595,7 +596,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Prothean — Sole Survivor — Vengeful Ancient*
 > 
 > TBA
 > 
@@ -631,7 +632,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Khajiit — Aldmeri Dominion — Eyes of the Queen*
 > 
 > TBA
 > 
@@ -664,7 +665,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Khajiit — Companion of the Dragonborn*
 > 
 > TBA
 > 
@@ -697,7 +698,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human (probably) — Mail Courier of Skyrim*
 > 
 > TBA
 > 
@@ -731,7 +732,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human — Wizard*
 > 
 > TBA
 > 
@@ -764,7 +765,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human — Author*
 > 
 > TBA
 > 
@@ -797,7 +798,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human - Librarian & Museum Curator*
 > 
 > TBA
 > 

@@ -27,7 +27,7 @@
 >
 > **Summary**
 > 
-> > *Fey'ri Tiefling — Witchlight Carnival Hand*
+> > *Fey'ri Tiefling — Fey Wanderer & Wild Magic Sorcerer — Witchlight Carnival Hand*
 > 
 > TBA
 > 
@@ -60,7 +60,7 @@
 >
 > **Summary**
 > 
-> > *Sun Elf — Cleric of Corellon*
+> > *Sun Elf — Arcana Domain Cleric of Corellon*
 > 
 > TBA
 > 
@@ -93,7 +93,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *TBA*
 > 
 > TBA
 > 
@@ -126,7 +126,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *TBA*
 > 
 > TBA
 > 
@@ -159,7 +159,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *TBA*
 > 
 > TBA
 > 
@@ -192,7 +192,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *TBA*
 > 
 > TBA
 > 
@@ -222,13 +222,13 @@
 > | Name | Zaehire de Riva |
 > | Fandom | Dragon Age |
 > | Roster | [[By Request Only - Roster#Zaehire de Riva\|By Request Only]] |
-> | Status | Canon Compliant |
+> | Status | Canon Divergent |
 > | Restrictions | Available Only On Request |
 >
 > **Summary**
 > 
 > > *~~Casteless Royal Bastard~~ Dwarf — Antivan Crows — Assassin Duelist*
-> > **Heavy Canon Divergence**
+> > **Heavy Canon Divergence** — *Bastard Child of Crown Prince Trian Aeducan*
 > 
 > Purchased by a House Arainai from her noble hunter mother in Orzammar mere days after her birth, Zaehire is raised from infancy to be a Crow. She is later freed from House Arainai by the Black Shadow, who aids her in getting as far as Salle, where she is taken in by House de Riva.
 > 
@@ -325,12 +325,13 @@
 > | Name | Orabela Aeducan |
 > | Fandom | Dragon Age |
 > | Roster | [[By Request Only - Roster#Orabela Aeducan\|By Request Only]] |
-> | Status | Canon Compliant |
+> | Status | Canon Divergent |
 > | Restrictions | Available Only On Request |
 >
 > **Summary**
 > 
-> >TBA
+> > *Dwarf ~~Exile~~ Noble — House Aeducan Royal Family — King of Orzammar*
+> > **Heavy Canon Divergence** — *Returns to Orzammar as the Paragon's choice for King*
 > 
 > TBA
 > 
@@ -363,7 +364,8 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Surface Dwarf — City of Kirkwall — Viscount of Kirkwall*
+> > **Heavy Canon Divergence** — *Allegedly survives stopping Solas' ritual*
 > 
 > TBA
 > 
@@ -396,7 +398,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human Noble — Shadow Dragons — Tevinter Magister*
 > 
 > TBA
 > 
@@ -429,7 +431,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human ~~Noble Bastard~~ — Antivan Crows — Master Assassin — Fifth Talon of the Crows*
 > 
 > TBA
 > 
@@ -462,7 +464,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *City Elf — Antivan Crows — Master Assassin — Seventh Talon of the Crows*
 > 
 > TBA
 > 
@@ -495,7 +497,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human Noble — Antivan Crows — Master Assassin — First Talon of the Crows*
 > 
 > TBA
 > 
@@ -528,7 +530,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Spirit of ~~Determination~~ Spite — Antivan Crows — Master Assassin*
 > 
 > TBA
 > 
@@ -561,7 +563,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human — Mourn Watch — Senior Watcher & Fade Expert*
 > 
 > TBA
 > 
@@ -594,7 +596,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Spirit of Curiosity — Mourn Watch — Apprentice Watcher*
 > 
 > TBA
 > 
@@ -627,7 +629,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Unknown Entity — Mourn Watch — Senior Watcher & \[Redacted]*
 > 
 > TBA
 > 
@@ -662,7 +664,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human — Andromeda Initiative — Pathfinder Mission Team — Human Pathfinder*
 > 
 > TBA
 > 
@@ -695,7 +697,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human — Andromeda Initiative — Pathfinder Mission Team — Recon Specialist*
 > 
 > TBA
 > 
@@ -728,7 +730,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Angara — Angaran Resistance — Resistance Leader*
 > 
 > TBA
 > 
@@ -761,7 +763,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Angara — Angaran Resistance — Resistance Fighter*
 > 
 > TBA
 > 
@@ -794,7 +796,7 @@
 >
 > **Summary**
 > 
-> >TBA
+> > *Human — ~~Andromeda Initiative~~ The Collective — Smuggler & Leader of the Collective*
 > 
 > TBA
 > 
