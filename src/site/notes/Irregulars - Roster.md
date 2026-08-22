@@ -24,7 +24,7 @@
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
 > | Roster | [[Irregulars - Roster#Gale Dekarios\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -57,7 +57,7 @@
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
 > | Roster | [[Irregulars - Roster#Minsc\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -90,7 +90,7 @@
 > | Fandom | Baldur's Gate (*Forgotten Realms*) |
 > | Roster | [[Irregulars - Roster#Hope\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -123,7 +123,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Sten\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -156,7 +156,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Bethany Hawke\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -190,7 +190,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Carver Hawke\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -224,7 +224,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Fenris\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -257,7 +257,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Tamlen\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -290,7 +290,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Evka Ivo\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -323,7 +323,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Antoine\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -356,7 +356,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Shale\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -389,7 +389,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Sigrun\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -422,7 +422,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Aileas Cousland\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -455,7 +455,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Bran Cousland\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -488,7 +488,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Lailani Sabrae\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -521,7 +521,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Satu Surana\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -554,7 +554,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Selena Amell\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -587,7 +587,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Kiran Brosca\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -620,7 +620,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Rowan Hawke\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -653,7 +653,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Quincy Hawke\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -686,7 +686,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Garahel Ithalanas Lavellan\|Irregulars]] |
 > | Status | Canon Divergent |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -719,7 +719,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Rubi Cadash\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -752,7 +752,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Tamik Adaar\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -785,7 +785,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Darcy Mercer\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -818,7 +818,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Esha Laidir\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -851,7 +851,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Gertrude Ingellvar\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -884,7 +884,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Hakiem Aldwir\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -917,7 +917,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Iven Thorne\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -950,7 +950,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Nikolas Mercer\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -983,7 +983,7 @@
 > | Fandom | Dragon Age |
 > | Roster | [[Irregulars - Roster#Redmond Thorne\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1018,7 +1018,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Urdnot Wrex\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1051,7 +1051,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Garrus Vakarian\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1084,7 +1084,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Tali'Zorah\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1117,7 +1117,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Jeff ''Joker'' Moreau\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1150,7 +1150,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Karin Chakwas\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1183,7 +1183,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Aria T'Loak\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
@@ -1216,7 +1216,7 @@
 > | Fandom | Mass Effect |
 > | Roster | [[Irregulars - Roster#Aethyta\|Irregulars]] |
 > | Status | Canon Compliant |
-> | Restrictions | [[Shining Stars + Stargazers\|Mains]] & [[Shining Stars + Stargazers\|Permanent Interactions Call]] Only |
+> | Restrictions | [[Shining Stars + Stargazers\|Shining Stars + Stargazers]] Only |
 >
 > **Summary**
 > 
