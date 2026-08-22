@@ -25,7 +25,7 @@
 
 > [!coffeetime] Prioritizing Muses' Info
 > 
-> **If there is a muse you would like me to prioritize information on, please let me know.** I am *only* working on those in the [[! Open Muses - Roster\|Open Muses]] right now, but beyond that, I'm willing to prioritize any muse that someone is actively wanting more info on, so just drop me a note on tumblr, in discord, or even on github and I'll get to it.
+> **If there is a muse you would like me to prioritize information on, please let me know.** I am *only* working on those in the [[! Open Muses - Roster\|Open Muses]] right now, but beyond that, I'm willing to prioritize any muse that someone is actively wanting more info on, so just drop me a note on tumblr, in discord, or even on github by [filing an issue report](https://github.com/quantumstargazer/quantumstargazer.github.io/issues) and I'll get to it as soon as I am able.
 > 
 
 ---
