@@ -253,7 +253,7 @@
 > **Summary**
 > 
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Champion of Kirkwall*
-> > **Heavy Canon Divergence** — *"Double Trouble" Worldstate — Twin of [[By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]*
+> > **Heavy Canon Divergence** — *[[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] — Twin of [[By Request Only - Roster#Garrett Hawke\|Garrett Hawke]]*
 > 
 > The eldest of the Hawke siblings, Marian is pushed into a role of responsibility from a young age, helping take care of the younger twins when they are born when she and her own twin, Garrett, are only four, and then having to help protect Garrett from being found out as a mage when his magic manifests when they are both only seven. 
 > 

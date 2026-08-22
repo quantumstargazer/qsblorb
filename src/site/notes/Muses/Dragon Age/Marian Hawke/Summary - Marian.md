@@ -72,7 +72,7 @@
 > | Verse/AU Type | Mainverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:30 - 9:54 Dragon |
-> | Condition | "Double Trouble" Worldstate |
+> | Condition | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
 > | Availability | Open To Everyone ( *Default Verse* ) |
@@ -116,7 +116,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | 9:40 - 9:54 Dragon |
-> | Condition | "Double Trouble" Worldstate |
+> | Condition | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
 > | Crossovers | Yes |
 > | Availability | Specify To Request Verse |
@@ -158,7 +158,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | — |
-> | Condition | "Double Trouble" Worldstate |
+> | Condition | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Plotted |
 > | Availability | Specify To Request Verse |
@@ -200,7 +200,7 @@
 > | Verse/AU Type | Altverse - Canon Divergent AU |
 > | Setting | Dragon Age |
 > | Timeline | — |
-> | Condition | "Double Trouble" Worldstate |
+> | Condition | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Open To Plotting | Yes |
 > | Crossovers | Fandom Matched Unless Otherwise Plotted |
 > | Availability | Specify To Request Verse |

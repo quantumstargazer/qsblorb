@@ -297,7 +297,7 @@
 > **Summary**
 > 
 > > *Human ~~Commoner~~ Noble — City of Kirkwall — Grey Warden*
-> > **Heavy Canon Divergence** — *"Double Trouble" Worldstate — Twin of [[! Open Muses - Roster#Marian Hawke\|Marian Hawke]]*
+> > **Heavy Canon Divergence** — *[[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] — Twin of [[! Open Muses - Roster#Marian Hawke\|Marian Hawke]]*
 > 
 > TBA
 > 

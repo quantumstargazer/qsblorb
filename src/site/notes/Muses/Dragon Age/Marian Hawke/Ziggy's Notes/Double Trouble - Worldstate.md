@@ -312,7 +312,7 @@
 > 
 > | | |
 > |---|---|
-> | Verse | "Double Trouble" Worldstate |
+> | Verse | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Setting | Dragon Age |
 > | Timeline | — |
 > | Condition | — |
@@ -368,7 +368,7 @@
 > 
 > | | |
 > |---|---|
-> | Verse | "Double Trouble" Worldstate |
+> | Verse | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Setting | Dragon Age |
 > | Timeline | — |
 > | Condition | — |
@@ -424,7 +424,7 @@
 > 
 > | | |
 > |---|---|
-> | Verse | "Double Trouble" Worldstate |
+> | Verse | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Setting | Dragon Age |
 > | Timeline | — |
 > | Condition | — |
@@ -478,7 +478,7 @@
 > 
 > | | |
 > |---|---|
-> | Verse | "Double Trouble" Worldstate |
+> | Verse | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Setting | Dragon Age |
 > | Timeline | — |
 > | Condition | — |
@@ -532,7 +532,7 @@
 > 
 > | | |
 > |---|---|
-> | Verse | "Double Trouble" Worldstate |
+> | Verse | [[Muses/Dragon Age/Marian Hawke/Ziggy's Notes/Double Trouble - Worldstate\|"Double Trouble" Worldstate]] |
 > | Setting | Dragon Age |
 > | Timeline | — |
 > | Condition | — |
