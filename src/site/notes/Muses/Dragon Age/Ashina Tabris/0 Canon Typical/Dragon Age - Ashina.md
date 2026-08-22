@@ -10,11 +10,13 @@
 > 
 > Name -> Ashina de Riva
 > Nickname -> Ash
-> Alias -> Tabris Arainai (*Warden Only*)
-> Gender -> Female
+> Alias -> Tabris Arainai [^1]
+>  -> Dark Wolf of Denerim
+>  -> Grey Raven (*Crows Only*)
+> Gender -> Female (*GNC*)
 > Pronouns -> She/Her/Herself
 > Orientation -> Biromantic Bisexual
-> Approx. Age -> 45 +/- years (*9:50 Dragon*)
+> Approx. Age -> 45 +/- years (*9:51*)
 > 
 > // Tumblr Tags
 > 
@@ -1803,7 +1805,6 @@ In 9:30 Dragon, at the age of 24, Ashina is faced with an arranged marriage that
 
 
 
-
-
-
-
+---
+# Footnotes
+[^1]: Conditional: Must have been conscripted into the Grey Wardens — Only goes by this name from 9:30 to 9:33 Dragon prior to joining House de Riva and the Antivan Crows; no one who didn't know her prior to her Joining should know her name is Ashina Tabris, as she only uses "Tathas Arainai" as a Grey Warden, and then Ashina de Riva as an Antivan Crow.

@@ -262,13 +262,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Marian\|Marian Hawke]] |
-> | Mainverses | [[Summary - Marian#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Marian#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Marian#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Marian#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Marian Hawke/Summary - Marian\|Marian Hawke]] |
+> | Mainverses | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Marian Hawke/Summary - Marian#Private Verses & AUs\|Private Verses & AUs]] |
 
 
 ## Isenril Mahariel
