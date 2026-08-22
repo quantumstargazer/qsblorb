@@ -189,13 +189,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Leonardo\|Leonardo de Riva]] |
-> | Mainverses | [[Summary - Leonardo#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Leonardo#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Leonardo#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Leonardo#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo\|Leonardo de Riva]] |
+> | Mainverses | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Leonardo de Riva/Summary - Leonardo#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Haleir Lavellan
 

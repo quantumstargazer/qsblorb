@@ -4,7 +4,7 @@
 
 # Dossiers & Verses
 > [!infobox] Haleir Lavellan
-> ![Exploring-the-Multiverse-255006320.jpg\|272x272](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> ![Haleir Lavellan (fullsize).png\|272x272](/img/user/z%20Assets/Attachments/Haleir%20Lavellan%20(fullsize).png)
 > 
 > // Basic Info
 > 

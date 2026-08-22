@@ -4,17 +4,17 @@
 
 # Dossiers & Verses
 > [!infobox] Ward Ingellvar
-> ![Exploring-the-Multiverse-255006320.jpg\|272x272](/img/user/z%20Assets/Attachments/Exploring-the-Multiverse-255006320.jpg)
+> ![Ward temp02.png\|272x272](/img/user/z%20Assets/Attachments/Ward%20temp02.png)
 > 
 > // Basic Info
 > 
 > Name -> Ward Ingellvar
-> Nickname -> Ward
+> Nickname -> Ghost
 > Alias -> —
-> Gender -> —
-> Pronouns -> —
-> Orientation -> —
-> Approx. Age -> XX +/- years (*YEAR*)
+> Gender -> Agender
+> Pronouns -> They/Them/Themself
+> Orientation -> Panromantic Demisexual
+> Approx. Age -> 21 +/- years (*9:51*)
 > 
 > // Tumblr Tags
 > 
