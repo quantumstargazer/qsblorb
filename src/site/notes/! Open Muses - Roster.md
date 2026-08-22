@@ -154,13 +154,13 @@
 > 
 > | | |
 > |---|---|
-> | Muse Info | [[Summary - Ward\|Ward Ingellvar]] |
-> | Mainverses | [[Summary - Ward#Canon Typical\|Canon Typical]] |
-> | Altverses | [[Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
-> | Alt Universes | [[Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
-> | Crossovers | [[Summary - Ward#Another World AUs\|Another World AUs]] |
-> | Multiverse | [[Summary - Ward#Other Verses & AUs\|Other Verses & AUs]] |
-> | Private | [[Summary - Ward#Private Verses & AUs\|Private Verses & AUs]] |
+> | Muse Info | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward\|Ward Ingellvar]] |
+> | Mainverses | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Canon Typical\|Canon Typical]] |
+> | Altverses | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Canon Divergent AUs\|Canon Divergent AUs]] |
+> | Alt Universes | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Fandom Specific AUs\|Fandom Specific AUs]] |
+> | Crossovers | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Another World AUs\|Another World AUs]] |
+> | Multiverse | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Other Verses & AUs\|Other Verses & AUs]] |
+> | Private | [[Muses/Dragon Age/Ward Ingellvar/Summary - Ward#Private Verses & AUs\|Private Verses & AUs]] |
 
 ## Leonardo de Riva
 
