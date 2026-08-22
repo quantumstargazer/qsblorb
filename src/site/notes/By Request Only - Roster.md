@@ -291,12 +291,13 @@
 > | Name | Garrett Hawke |
 > | Fandom | Dragon Age |
 > | Roster | [[By Request Only - Roster#Garrett Hawke\|By Request Only]] |
-> | Status | Canon Compliant |
+> | Status | Canon Divergent |
 > | Restrictions | Available Only On Request |
 >
 > **Summary**
 > 
-> >TBA
+> > *Human ~~Commoner~~ Noble — City of Kirkwall — Grey Warden*
+> > **Heavy Canon Divergence** — *"Double Trouble" Twin of [[! Open Muses - Roster#Marian Hawke\|Marian Hawke]]*
 > 
 > TBA
 > 
